@@ -81,11 +81,11 @@
  },
 	{"key": "T4","name": "T4爬虫阿里搜索用","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=a28786d30be44cfaa81c2a32828fd99b&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
 	
-	{"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "9f908347b43c46888c97a8630050d252",
+	{"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "28801b1dbaf4418fb7bc221a575703dd",
 	"jar":"http://dlj.bz/6PQmZB"},
-{"key":"Zhaozy","name":"😺找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "9f908347b43c46888c97a8630050d252",
+{"key":"Zhaozy","name":"😺找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "28801b1dbaf4418fb7bc221a575703dd",
 "jar":"http://dlj.bz/EaaZAQ"},
-{"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "9f908347b43c46888c97a8630050d252",
+{"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext": "28801b1dbaf4418fb7bc221a575703dd",
 "jar":"http://dlj.bz/EaaZAQ"},
 {"key": "bdys","name": "🔍哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://dlj.bz/uqcLKK","jar":"http://dlj.bz/EaaZAQ"},
 {
