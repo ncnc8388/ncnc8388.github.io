@@ -1,7 +1,7 @@
 // 配置地址 --> clan://localhost/TVBox/ts.json
 
 {
-"spider":"https://ncnc8388.github.io/0919.jar",
+"spider":"https://ncnc8388.github.io/ali.jar",
   "lives": [
     {
       "group": "redirect",
