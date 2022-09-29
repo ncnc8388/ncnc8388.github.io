@@ -244,6 +244,16 @@
             "ext": "https://ncnc8388.github.io/XYQ/UM影院.json"
         },
         {
+            "key": "csp_xBPQ_pipipao",
+            "name": "皮皮泡(XBPQ)",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ncnc8388.github.io/XYQ/皮皮泡.json"
+        },
+        {
             "key": "csp_xBPQ_爱酷",
             "name": "爱酷影视(XBPQ)",
             "type": 3,
