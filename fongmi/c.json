@@ -562,6 +562,11 @@
             "url": "https://play.fositv.com/?url="
         },
         {
+            "name":"云you",
+            "type":1,
+            "url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+        },
+        {
             "name": "OKjx嗅探",
             "type": 0,
             "url": "https://okjx.cc/?url="
