@@ -342,7 +342,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ncnc8388.github.io/fongmi/bili.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
     {
       "key": "AList",
@@ -353,7 +353,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ncnc8388.github.io/fongmi/alist.json",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
     {
           "key": "泥巴",
@@ -362,7 +362,7 @@
       "api": "csp_Nbys",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
     {
       "key": "快播",
@@ -388,7 +388,7 @@
         "纪录片",
         "综艺"
       ],
-     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
     {
       "key": "百度",
@@ -412,7 +412,7 @@
         "剧情片",
         "战争片"
       ],
-     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+     "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
     {
       "key": "櫻花",
@@ -421,7 +421,7 @@
       "api": "csp_Ying",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
     {
       "key": "巴士",
@@ -430,7 +430,7 @@
       "api": "csp_Dm84",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
     {
       "key": "異界",
@@ -439,7 +439,7 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
     },
         {
             "key": "Gitcafe",
@@ -451,7 +451,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "f6fcd2d1c0e54601805413721d89e0ca",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
         },
         {
             "key": "zhaozy",
@@ -461,7 +461,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "f6fcd2d1c0e54601805413721d89e0ca",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
         },
         {
             "key": "AliPS",
@@ -472,7 +472,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "f6fcd2d1c0e54601805413721d89e0ca",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
         },
         {
             "key": "Upyunso",
@@ -494,7 +494,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "f6fcd2d1c0e54601805413721d89e0ca",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
         },
         {
             "key": "在线直播",
@@ -514,7 +514,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "3865f0ab8f124688ad786a262af9b940",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;012fedf8372acec517e0d3f2cfdc4d6b"
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;1d0b9871d95075f2b2ccaf08b62ac64b"
         }
     ],
     "lives": [
