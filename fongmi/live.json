@@ -1,0 +1,31 @@
+{
+   "lives":[
+      {
+         "group":"redirect",
+         "channels":[
+            {
+               "name":"云星",
+               "urls":[
+                  "proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="
+               ]
+            }
+         ]
+      },
+      {
+         "name":"jundie",
+         "type":0,
+         "url":"http://home.jundie.top:81/Cat/tv/live.txt",
+         "logo":"",
+         "epg":"http://epg.51zmt.top:8000/api/diyp/",
+         "ua":""
+      },
+      {
+         "name":"253iptv",
+         "type":0,
+         "url":"http://253iptv.gq/jeikou/1667030627.m3u",
+         "logo":"",
+         "epg":"",
+         "ua":""
+      }
+   ]
+}
