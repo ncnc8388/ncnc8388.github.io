@@ -518,8 +518,8 @@
     ],
     "lives": [
         {
-            "name": "MQITV",
-            "api": "csp_MQITV",
+            "name": "MQiTV",
+            "api": "csp_MQiTV",
             "jar": "./custom_spider.jar",
             "ext": "https://59.125.210.231:4433"
         }
