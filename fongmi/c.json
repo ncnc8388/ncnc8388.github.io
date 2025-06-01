@@ -518,15 +518,10 @@
     ],
     "lives": [
         {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="
-                    ]
-                }
-            ]
+            "name": "MQITV",
+            "api": "csp_MQITV",
+            "jar": "./custom_spider.jar",
+            "ext": "https://59.125.210.231:4433"
         }
     ],
     "parses": [
