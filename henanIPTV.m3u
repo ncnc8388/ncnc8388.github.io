@@ -115,6 +115,12 @@ http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/860/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南", 调节剧场
 http://219.150.217.47:6610/PLTV1/920/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="冰茶港台",凤凰中文
+https://migu.188766.xyz/?migutoken=00be87f58cdb860da32afac181c1b4f1&id=fhzw&pp=1
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="冰茶港台",凤凰资讯
+https://migu.188766.xyz/?migutoken=b1dc88bf9f8e710bed3f0e2b2fe0bdd0&id=fhzx&pp=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="冰茶港台",凤凰香港
+https://migu.188766.xyz/?migutoken=2bb0626d0adec530e103036f0ac8a3ca&id=fhhk&pp=1
 #EXTINF:-1 group-title="数字台" tvg-id="null" tvg-name="咪咕直播4K Ⅰ「IPV4」" tvg-logo="https://epg.iill.top/logo/咪咕.png" t-time="815" v-w="0" v-h="0", 咪咕直播4K ⅠIPV4
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="数字台" tvg-id="null" tvg-name="咪咕直播4K Ⅱ「IPV4」" tvg-logo="https://epg.iill.top/logo/咪咕.png" t-time="250" v-w="0" v-h="0", 咪咕直播4K ⅡIPV4
