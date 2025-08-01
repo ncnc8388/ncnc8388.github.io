@@ -116,11 +116,25 @@ http://219.150.217.47:6610/PLTV1/860/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="河南", 调节剧场
 http://219.150.217.47:6610/PLTV1/920/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="冰茶港台",凤凰中文
-https://migu.188766.xyz/?migutoken=00be87f58cdb860da32afac181c1b4f1&id=fhzw&pp=1
+https://migu.188766.xyz/?migutoken=58208bee20a334d937e4d3e7e635fd69&id=fhzw&pp=1
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="冰茶港台",凤凰资讯
-https://migu.188766.xyz/?migutoken=b1dc88bf9f8e710bed3f0e2b2fe0bdd0&id=fhzx&pp=1
+https://migu.188766.xyz/?migutoken=685be1ad413ce864950c623f131be12f&id=fhzx&pp=1
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="冰茶港台",凤凰香港
-https://migu.188766.xyz/?migutoken=2bb0626d0adec530e103036f0ac8a3ca&id=fhhk&pp=1
+https://migu.188766.xyz/?migutoken=c2533482ef71d6941497012819d29dbb&id=fhhk&pp=1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="冰茶港台",翡翠台
+https://migu.188766.xyz/?migutoken=c298a90999ebd1fc11b73be58492da03&id=fct&type=dy
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="冰茶港台",翡翠台
+https://migu.188766.xyz/?migutoken=9a3a905a983180db0e44e9581a390728&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="冰茶港台",明珠台
+https://migu.188766.xyz/?migutoken=9c4a3071741dccb1587ac1dc25037481&id=mzt&type=dy
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="冰茶港台",无线新闻
+https://migu.188766.xyz/?migutoken=03f77464f8fe3bb7fa67bc436064d1db&id=wxxw&type=dy
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="冰茶港台",HOY77
+https://migu.188766.xyz/?migutoken=8ec2049faba2faa58bca8a949804c943&id=hoy&type=dy
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png" group-title="冰茶港台",八度空间
+https://migu.188766.xyz/?migutoken=38c862b5d2001e4ce7ac668e87291e06&id=8tv&type=dy
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://fy.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="冰茶港台",CH8
+https://migu.188766.xyz/?migutoken=7f8bdcb22056f4c87a46461529763bce&id=ch8&type=dy
 #EXTINF:-1 group-title="数字台" tvg-id="null" tvg-name="咪咕直播4K Ⅰ「IPV4」" tvg-logo="https://epg.iill.top/logo/咪咕.png" t-time="815" v-w="0" v-h="0", 咪咕直播4K ⅠIPV4
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="数字台" tvg-id="null" tvg-name="咪咕直播4K Ⅱ「IPV4」" tvg-logo="https://epg.iill.top/logo/咪咕.png" t-time="250" v-w="0" v-h="0", 咪咕直播4K ⅡIPV4
