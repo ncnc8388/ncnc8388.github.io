@@ -33,9 +33,7 @@ jobs:
         git config --local user.name "github-actions[bot]"
         git checkout --orphan latest_branch
         git add -A
-        git commit -am "${{ steps.date.outputs.date }}"
-        git branch -D main
-        git branch -m main
+       
 
     - name: Push
       run: git push -f origin main
