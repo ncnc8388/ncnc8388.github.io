@@ -5,7 +5,7 @@ name: UpdateIPTV
 on:
 #  workflow_dispatch
   schedule:
-  - cron: "0,30 * * * *"
+  - cron: "30 */8 * * *"
     
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -31,7 +31,7 @@ jobs:
       run: |
         # 获取直播源
         rm -f Fanmingming.m3u
-        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O Fanmingming.m3u
+        wget https://raw.githubusercontent.com/ncnc8388/zhiyongm3u/refs/heads/main/best_sorted.m3u -O hndx.m3u
 
      
 
