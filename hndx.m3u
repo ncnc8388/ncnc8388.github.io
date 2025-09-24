@@ -34,39 +34,39 @@ http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name=" CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/ CCTV-5+体育赛事.png" group-title="央视频道", CCTV-5+体育赛事
 http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://live.fanmingming.cn/tv/CCTV-1综合.png" group-title="央视频道",CCTV-1综合
-http://1.195.221.93:8822/rtp/239.16.20.1:10010
+http://1.195.229.21:8822/rtp/239.16.20.1:10010
 #EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://live.fanmingming.cn/tv/CCTV-2财经.png" group-title="央视频道",CCTV-2财经
-http://1.195.221.93:8822/rtp/239.16.20.2:10020
+http://1.195.229.21:8822/rtp/239.16.20.2:10020
 #EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://live.fanmingming.cn/tv/CCTV-3综艺.png" group-title="央视频道",CCTV-3综艺
-http://1.195.221.93:8822/rtp/239.16.20.3:10030
+http://1.195.229.21:8822/rtp/239.16.20.3:10030
 #EXTINF:-1 tvg-name="CCTV-4中文国际" tvg-logo="https://live.fanmingming.cn/tv/CCTV-4中文国际.png" group-title="央视频道",CCTV-4中文国际
-http://1.195.221.93:8822/rtp/239.16.20.4:10040
+http://1.195.229.21:8822/rtp/239.16.20.4:10040
 #EXTINF:-1 tvg-name="CCTV-5体育" tvg-logo="https://live.fanmingming.cn/tv/CCTV-5体育.png" group-title="央视频道",CCTV-5体育
-http://1.195.221.93:8822/rtp/239.16.20.53:10530
+http://1.195.229.21:8822/rtp/239.16.20.53:10530
 #EXTINF:-1 tvg-name="CCTV-5+体育赛事" tvg-logo="https://live.fanmingming.cn/tv/CCTV-5+体育赛事.png" group-title="央视频道",CCTV-5+体育赛事
-http://1.195.221.93:8822/rtp/239.16.20.5:10050
+http://1.195.229.21:8822/rtp/239.16.20.5:10050
 #EXTINF:-1 tvg-name="CCTV-6电影" tvg-logo="https://live.fanmingming.cn/tv/CCTV-6电影.png" group-title="央视频道",CCTV-6电影
-http://1.195.221.93:8822/rtp/239.16.20.6:10060
+http://1.195.229.21:8822/rtp/239.16.20.6:10060
 #EXTINF:-1 tvg-name="CCTV-7国防军事" tvg-logo="https://live.fanmingming.cn/tv/CCTV-7国防军事.png" group-title="央视频道",CCTV-7国防军事
-http://1.195.221.93:8822/rtp/239.16.20.51:10510
+http://1.195.229.21:8822/rtp/239.16.20.51:10510
 #EXTINF:-1 tvg-name="CCTV-8电视剧" tvg-logo="https://live.fanmingming.cn/tv/CCTV-8电视剧.png" group-title="央视频道",CCTV-8电视剧
-http://1.195.221.93:8822/rtp/239.16.20.8:10080
+http://1.195.229.21:8822/rtp/239.16.20.8:10080
 #EXTINF:-1 tvg-name="CCTV-9纪录" tvg-logo="https://live.fanmingming.cn/tv/CCTV-9纪录.png" group-title="央视频道",CCTV-9纪录
-http://1.195.221.93:8822/rtp/239.16.20.9:10090
+http://1.195.229.21:8822/rtp/239.16.20.9:10090
 #EXTINF:-1 tvg-name="CCTV-10科教" tvg-logo="https://live.fanmingming.cn/tv/CCTV-10科教.png" group-title="央视频道",CCTV-10科教
-http://1.195.221.93:8822/rtp/239.16.20.10:10100
+http://1.195.229.21:8822/rtp/239.16.20.10:10100
 #EXTINF:-1 tvg-name="CCTV-11戏曲" tvg-logo="https://live.fanmingming.cn/tv/CCTV-11戏曲.png" group-title="央视频道",CCTV-11戏曲
-http://1.195.221.93:8822/rtp/239.16.20.11:10110
+http://1.195.229.21:8822/rtp/239.16.20.11:10110
 #EXTINF:-1 tvg-name="CCTV-12社会与法" tvg-logo="https://live.fanmingming.cn/tv/CCTV-12社会与法.png" group-title="央视频道",CCTV-12社会与法
-http://1.195.221.93:8822/rtp/239.16.20.12:10120
+http://1.195.229.21:8822/rtp/239.16.20.12:10120
 #EXTINF:-1 tvg-name="CCTV-13新闻" tvg-logo="https://live.fanmingming.cn/tv/CCTV-13新闻.png" group-title="央视频道",CCTV-13新闻
-http://1.195.221.93:8822/rtp/239.16.20.13:10130
+http://1.195.229.21:8822/rtp/239.16.20.13:10130
 #EXTINF:-1 tvg-name="CCTV-14少儿" tvg-logo="https://live.fanmingming.cn/tv/CCTV-14少儿.png" group-title="央视频道",CCTV-14少儿
-http://1.195.221.93:8822/rtp/239.16.20.14:10140
+http://1.195.229.21:8822/rtp/239.16.20.14:10140
 #EXTINF:-1 tvg-name="CCTV-15音乐" tvg-logo="https://live.fanmingming.cn/tv/CCTV-15音乐.png" group-title="央视频道",CCTV-15音乐
-http://1.195.221.93:8822/rtp/239.16.20.15:10150
+http://1.195.229.21:8822/rtp/239.16.20.15:10150
 #EXTINF:-1 tvg-name="CCTV-17农业农村" tvg-logo="https://live.fanmingming.cn/tv/CCTV-17农业农村.png" group-title="央视频道",CCTV-17农业农村
-http://1.195.221.93:8822/rtp/239.16.20.7:10070
+http://1.195.229.21:8822/rtp/239.16.20.7:10070
 #EXTINF:-1 tvg-name=" 东南卫视" tvg-logo="https://live.fanmingming.cn/tv/ 东南卫视.png" group-title="卫视频道", 东南卫视
 http://219.150.217.47:6610/PLTV1/1400/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name=" 东方卫视" tvg-logo="https://live.fanmingming.cn/tv/ 东方卫视.png" group-title="卫视频道", 东方卫视
@@ -120,37 +120,31 @@ http://219.150.217.47:6610/PLTV1/1140/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name=" 黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/ 黑龙江卫视.png" group-title="卫视频道", 黑龙江卫视
 http://219.150.217.47:6610/PLTV1/1060/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
-http://1.195.221.93:8822/rtp/239.16.20.82:10820
+http://1.195.229.21:8822/rtp/239.16.20.82:10820
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://1.195.221.93:8822/rtp/239.16.20.73:10730
+http://1.195.229.21:8822/rtp/239.16.20.73:10730
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
-http://1.195.221.93:8822/rtp/239.16.20.85:10850
+http://1.195.229.21:8822/rtp/239.16.20.85:10850
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 https://migu.188766.xyz/?migutoken=6b27073858b60bfe20c30292371f2df9&id=fhzw&pp=1
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.134.193:8188/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.147.145:8188/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.149.222:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.153.169:8188/udp/239.93.0.162:2192
+http://171.213.151.84:8188/udp/239.93.0.162:2192
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+http://171.213.153.11:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.153.201:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.155.131:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.155.235:8188/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.208.171:4022/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.211.194:8818/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.222.50:4022/udp/239.93.0.162:2192
+http://171.213.238.59:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.238.103:8188/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.242.2:8188/udp/239.93.0.162:2192
+http://171.213.241.157:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.243.62:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -158,11 +152,11 @@ http://220.190.54.26:8188/udp/233.50.200.191:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://220.190.76.201:8888/udp/233.50.200.191:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://42.92.195.76:10000/udp/239.255.30.50:8231
+http://42.92.195.203:10000/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://175.15.58.233:4022/udp/239.76.253.134:9000
+http://175.15.57.141:4022/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://175.15.58.233:4022/udp/239.76.246.134:1234
+http://175.15.57.141:4022/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://175.8.180.138:7878/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -174,45 +168,41 @@ http://58.46.29.107:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
 http://123.174.106.183:8888/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://106.116.243.172:9999/rtp/239.254.201.2:5226
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://27.184.64.66:58888/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://120.40.58.244:1000/rtp/239.61.2.184:9092
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://120.40.58.46:1000/rtp/239.61.2.184:9092
+http://120.40.57.7:1000/rtp/239.61.2.184:9092
+#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
+http://106.116.243.172:9999/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://27.184.64.66:58888/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://106.116.243.172:9999/rtp/239.254.201.3:5227
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://27.184.64.66:58888/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://120.40.58.244:1000/rtp/239.61.2.183:9086
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://120.40.58.46:1000/rtp/239.61.2.183:9086
+http://120.40.57.7:1000/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://migu.188766.xyz/?migutoken=b1eadcfa67a00f48a041960933d7de75&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.134.193:8188/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.147.145:8188/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.149.222:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.153.169:8188/udp/239.93.0.118:2191
+http://171.213.151.84:8188/udp/239.93.0.118:2191
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+http://171.213.153.11:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.153.201:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.155.131:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.155.235:8188/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.208.171:4022/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.211.194:8818/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.222.50:4022/udp/239.93.0.118:2191
+http://171.213.238.59:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.238.103:8188/udp/239.93.0.118:2191
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.242.2:8188/udp/239.93.0.118:2191
+http://171.213.241.157:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.243.62:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -222,11 +212,11 @@ http://220.190.76.201:8888/udp/233.50.200.192:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://123.174.106.183:8888/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://42.92.195.76:10000/udp/239.255.30.70:8231
+http://42.92.195.203:10000/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://175.15.58.233:4022/udp/239.76.253.135:9000
+http://175.15.57.141:4022/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://175.15.58.233:4022/udp/239.76.246.135:1234
+http://175.15.57.141:4022/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://175.8.180.138:7878/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -238,55 +228,213 @@ http://58.46.29.107:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
 https://migu.188766.xyz/?migutoken=9ab4956a2bfb625af3c530daa0874378&id=fhhk&pp=1
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
-http://42.92.195.76:10000/udp/239.255.30.123:8231
+http://42.92.195.203:10000/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://1.195.221.93:8822/rtp/239.16.20.76:10760
+http://1.195.229.21:8822/rtp/239.16.20.76:10760
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
-http://1.195.221.93:8822/rtp/239.16.20.94:10940
+http://1.195.229.21:8822/rtp/239.16.20.94:10940
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
-http://1.195.221.93:8822/rtp/239.16.20.86:10860
+http://1.195.229.21:8822/rtp/239.16.20.86:10860
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
-http://1.195.221.93:8822/rtp/239.16.20.96:10960
+http://1.195.229.21:8822/rtp/239.16.20.96:10960
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
-http://1.195.221.93:8822/rtp/239.16.20.75:10750
+http://1.195.229.21:8822/rtp/239.16.20.75:10750
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
-http://1.195.221.93:8822/rtp/239.16.20.80:10800
+http://1.195.229.21:8822/rtp/239.16.20.80:10800
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
-http://1.195.221.93:8822/rtp/239.16.20.98:10980
+http://1.195.229.21:8822/rtp/239.16.20.98:10980
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
-http://1.195.221.93:8822/rtp/239.16.20.84:10840
+http://1.195.229.21:8822/rtp/239.16.20.84:10840
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://1.195.221.93:8822/rtp/239.16.20.74:10740
+http://1.195.229.21:8822/rtp/239.16.20.74:10740
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
-http://1.195.221.93:8822/rtp/239.16.20.89:10890
+http://1.195.229.21:8822/rtp/239.16.20.89:10890
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
-http://1.195.221.93:8822/rtp/239.16.20.88:10880
+http://1.195.229.21:8822/rtp/239.16.20.88:10880
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://1.195.221.93:8822/rtp/239.16.20.21:10210
+http://1.195.229.21:8822/rtp/239.16.20.21:10210
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://1.195.221.93:8822/rtp/239.16.20.71:10710
+http://1.195.229.21:8822/rtp/239.16.20.71:10710
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
-http://1.195.221.93:8822/rtp/239.16.20.97:10970
+http://1.195.229.21:8822/rtp/239.16.20.97:10970
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
-http://1.195.221.93:8822/rtp/239.16.20.77:10770
+http://1.195.229.21:8822/rtp/239.16.20.77:10770
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
-http://1.195.221.93:8822/rtp/239.16.20.87:10870
+http://1.195.229.21:8822/rtp/239.16.20.87:10870
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://1.195.221.93:8822/rtp/239.16.20.72:10720
+http://1.195.229.21:8822/rtp/239.16.20.72:10720
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
-http://1.195.221.93:8822/rtp/239.16.20.102:11020
+http://1.195.229.21:8822/rtp/239.16.20.102:11020
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
-http://1.195.221.93:8822/rtp/239.16.20.81:10810
+http://1.195.229.21:8822/rtp/239.16.20.81:10810
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-http://1.195.221.93:8822/rtp/239.16.20.95:10950
+http://1.195.229.21:8822/rtp/239.16.20.95:10950
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
-http://1.195.221.93:8822/rtp/239.16.20.79:10790
+http://1.195.229.21:8822/rtp/239.16.20.79:10790
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
-http://1.195.221.93:8822/rtp/239.16.20.83:10830
+http://1.195.229.21:8822/rtp/239.16.20.83:10830
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
-http://1.195.221.93:8822/rtp/239.16.20.101:11010
+http://1.195.229.21:8822/rtp/239.16.20.101:11010
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
-http://1.195.221.93:8822/rtp/239.16.20.99:10990
+http://1.195.229.21:8822/rtp/239.16.20.99:10990
+#EXTINF:-1 tvg-name="9月22日00:00_无畏契约全球冠军赛败者组决赛_GXvsXLG" tvg-logo="https://live.fanmingming.cn/tv/9月22日00:00_无畏契约全球冠军赛败者组决赛_GXvsXLG.png" group-title="冰茶体育",9月22日00:00_无畏契约全球冠军赛败者组决赛_GXvsXLG
+https://migu.188766.xyz/play?migutoken=a104662e25e2e19590bce196cf25a638&id=ZtBT1D%2ByTTXDy%2F46pEq82g92nhbpFs8tq6YCKTFsXjqJ63Ld37h1Z8NKa2S0TPsuz2BhZm7dVbM3yS8QG7LBdjygfWO2xEccunsQXK4AaZAgjYErx54AFGWUZPuRhZDBV2utq7V5DQzoRCu%2Bo%2BuyeLHAsy1PTra7mVrZtAYzQrD51oXfGgdIzgKERNct89lwp3kxgA0kwQhSPPjIamAXnOiMDKcQCbI5bRMYS1H2c1oTosB0Lit8h%2Fx%2BJOEmErLWknA%2F%2Fj7dxRC7wWoOErcUUHWrftxLXuMij6YdBmenBHc%3D&name=g5DDXTwBrnYoeivCMGP1lWIfg%2FZdu66w0xWF9D2GjFy4OCevnpVNNjccKYRdziHi7U2DtsdrYtOPKHoJ6ysHcc5iq%2BGXYCPQQjoaJg78EAhAg1XurXsilJLmk2qCvYR5
+#EXTINF:-1 tvg-name="9月22日00:25西甲_埃尔切vs皇家奥维耶多" tvg-logo="https://live.fanmingming.cn/tv/9月22日00:25西甲_埃尔切vs皇家奥维耶多.png" group-title="冰茶体育",9月22日00:25西甲_埃尔切vs皇家奥维耶多
+https://migu.188766.xyz/play?migutoken=e6f1b1494c56e2c115cd3883baea44d1&id=glRhssONzTJRkr4K%2BLNPcfWlNpHDvS1tmpYF%2B15NlqUA9D575gtWr9ekLqxpHHYZB72sCTq8lA0ymmewIXbVYw8IHy2Ee%2BgsnaeG3XTxa92Y9kKfZp4cpBjqqER9pjkRXFbo9oubYKY2jtnDzLEs6fcH%2BM3JPDoI1D3AT7NC%2Bw%2BL6O%2BuH%2FpgpETbZk94%2B9ru9f2xz32I0MUKInomf20pfUW7gpvsQx6fSooyI37%2BvHqffEt4TCXSmhfEzud0mfqUZgn2opJiIKZw8wWrI7O52dgi4pnVTStTWp6OnAeNhUJcS0Gw%2FHagdfo0wN96TKtWLphLBb0u2SR7MalNz4q7i56W5%2B%2By8GSwD7ImmZji7fNkXQrMyuOIGmiYb%2FqoCxH020t0B%2BxK6ToEd46lfT0shg%3D%3D&name=Wb9KHbYO2dNMM3tKVHQJWwXFDXbR%2B%2B52xolrj7Uuy38%2BECkr8nf06uvMEljViUEMqIYUK6ZJug9iEg71O4y8HUCVzqVVjR%2FpybI%2BYNiUabQ%3D
+#EXTINF:-1 tvg-name="9月22日01:00_NFL常规赛_NFL常规赛第三周redzone达阵区" tvg-logo="https://live.fanmingming.cn/tv/9月22日01:00_NFL常规赛_NFL常规赛第三周redzone达阵区.png" group-title="冰茶体育",9月22日01:00_NFL常规赛_NFL常规赛第三周redzone达阵区
+https://migu.188766.xyz/play?migutoken=07ccd9b54b5eb19fa39160ae707fab20&id=nX8UGBenCsqDclh6%2FgtvwzVJfiQzDqzZxtE1CHzWjYBV1ZuvLHSTQQ172DI3bOph4c1H6TuV5WOv3ygDtyMGSqcY5R5%2Bjf%2FjfLfY4j62hi7tNlJzTUDQnkYmUYmBNG7gz9Fm6YQSLGqrNw%2Fiv3tvLvt6AHke0Ypzs%2FF60aIy2eV1NJLlwixEuDE1R4xunmBrWIeZF2N97szGQG0AQGSsRTjCSGEKXlxbNTKwkVRt9AcFKBfeyWDuz10EpjWL4UanzmwXzw78YtHdC3yqIJjJ4%2FNaAiE6W5TM%2BhDH25bFfWg%3D&name=Ls%2BkDJkrVsnifG1DOd5dsfBETOM8xUp3%2FTpwQXwSLhXExV4hviGNKiMl1rndSTtFfHcvn%2BHAEcNQaWQA6t%2BVp%2FjCASZjlFSIqRYqzmF%2FEqwK0mUT%2FLKEkv5wOLyfACeh
+#EXTINF:-1 tvg-name="9月22日01:00_NFL常规赛_公羊vs老鹰 杨照铭" tvg-logo="https://live.fanmingming.cn/tv/9月22日01:00_NFL常规赛_公羊vs老鹰 杨照铭.png" group-title="冰茶体育",9月22日01:00_NFL常规赛_公羊vs老鹰 杨照铭
+https://migu.188766.xyz/play?migutoken=f909c2c7dcbaeed221a0668da19f6b8b&id=gq8%2B56t6nYNDWTuHKnaQU5HAuXQ%2FAGm7rG3Dtra8Ew%2BevM7dWIN3eB5DPfevZy7VQyG27HZj1CbpbBmsbj0M53TMhbivrrg6EefvM%2FvG5WY2pjR4rSeBu5AmLmG44HkJTrziDwR6NdnKSExUCw7Qw05xY7fg20WEeqoNre6dsLrAefuaRB4q3sB0yyqdHmsze3pGhgjoJjF0zaIz58zZ4dLvc02vAxd2otKsnysTEa3%2FoaZkZ1CsrR40oAM%2BL1TXHJMvgomrLoA1uDKIg1m6oI5rpIk2mkVJOgKvBCyk3%2Bw%3D&name=a7qoB3IOqLYbicJgCibXjOW9CkutJzIuObvEnFHO7QQ0YX5m0PwgshWx67Tm%2B%2FpRb5tYigYvqIRGffLvWI4zY2ZxkvAXTadalMetpbjNLZ4%3D
+#EXTINF:-1 tvg-name="9月22日01:00_NFL常规赛_公羊vs老鹰 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日01:00_NFL常规赛_公羊vs老鹰 英文解说.png" group-title="冰茶体育",9月22日01:00_NFL常规赛_公羊vs老鹰 英文解说
+https://migu.188766.xyz/play?migutoken=853c2fad956e280bc28f175dfafa8df8&id=JDvEHe%2B9jAeGIOfjPaj%2F3Aqj9cMkS11xb%2Fh3U8crA1NVjQ3HZsyeFY0Q9BrFLAd8UOGe1o8ruLiVPlasX22K3P3NUPpwtK5qskJACEqccU1GHh9GdvUOD3vrehA8AfMIbyq0eGluBRMt5Cmje%2FMQGQVhyruxIHr9i9BNiKV8XgLXU0uHPnoxYqGcKZmqhY3cg5z8XSTfYqrpYaHUvVKXouhjE8jX9ri63bdQXGGExTvuN%2FVZQ1EV55P8NmUCqA%2FG7Q7kCwZSxhwjA9s0vQRcMshZJLr5cKY8DzMb%2B8CNlZE%3D&name=Ipx6TRh%2BP90%2BZ1Ddjyn3Tp7ox7%2F%2BkT3b1VO06ovmmqltF%2Ba0ss4yf3z2URhpiNlurmIu%2BCLKdKLuSvk9GGk0WhXIW0kFb%2F9s59hQtn06sng%3D
+#EXTINF:-1 tvg-name="9月22日01:00_NFL常规赛_猛虎vs维京人 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日01:00_NFL常规赛_猛虎vs维京人 英文解说.png" group-title="冰茶体育",9月22日01:00_NFL常规赛_猛虎vs维京人 英文解说
+https://migu.188766.xyz/play?migutoken=fe6a88a05f16a7fecc0cedfe33503bb2&id=u%2Bi4l5YY%2Fnm3zVr%2B1NNLXeKRHkL6K4bZpm0Iozlwo0C%2Fi%2B9YNx%2F6cUzlXH887oZNqN498kVnwQ%2F%2BrlZz2kCxcFUj%2BUuuB7KtM71fiV81P28%2FPbEEtg%2FdnsSpad6ExxJkSQMEIDSygGK03iebL08Y0hXXNdWyl7qvpuRz0IwvCiU9wJ8f46iddp9%2FSrPQ0RbEk3IYeYbWMtsA9MCFUybOzGEO8MQT5%2BUjszIMtJ%2FjKbK6ZDozjVaoMDvmJPE2uvKKfrlGk%2Bcv%2FiOHnFTz8vRaIIQcFuHaekd7HNeZz2gAMag%3D&name=J0DUxhoPlx4rohOWYTlUJ3veZ0i2U7FVX12Fvth2UyRumXWJ6vKGkDgmG78Z%2FR6N7Iu32dao09tgskCkD22WQEkaPEK1RdsJphURAcQoJTU%3D
+#EXTINF:-1 tvg-name="9月22日01:00_NFL常规赛_猛虎vs维京人 马修" tvg-logo="https://live.fanmingming.cn/tv/9月22日01:00_NFL常规赛_猛虎vs维京人 马修.png" group-title="冰茶体育",9月22日01:00_NFL常规赛_猛虎vs维京人 马修
+https://migu.188766.xyz/play?migutoken=5b57de2b91883c0fe006a99077bafc49&id=rbYZqct903nWbsPAkrL6qRRF70g5kC4WjfdLCwtkp7S0j%2BDkI%2FyGpnQOWgrkWksdYrLRJjf5FtPnpSp%2FSp5ASUHGoDs2CU%2BcWyi7lUKlgTIG05O3zhK9tATUIjU0SADuI9EdciYfe4a%2FSriPbdRdaNJMstm8rb3LukQS2FQa2mdJ%2FgFHYj3h0s8cvd5nG9fCjVCzuoTJVxtJdvI4lkkVAyZsmG5Iso7StbtsZoDkshI0usWwBiOPZEaBwv75N8Nht%2BKNOlKygA6qsojRh2lolXEY%2FplMDTDdAUslMGF0Du4%3D&name=BqEBwJXg4sT9LX%2FjkIFsORgAKwP9nY0ndehigrv3RgqQSg4Qo4bBeF%2Bw1GumJ1gf0%2FHETmdGIZpszJWq%2F9NKPgfKlHpCxQ4s9mXiVBhesBo%3D
+#EXTINF:-1 tvg-name="9月22日02:00赛车_2025纳斯卡赛车系列赛_新罕布什尔站" tvg-logo="https://live.fanmingming.cn/tv/9月22日02:00赛车_2025纳斯卡赛车系列赛_新罕布什尔站.png" group-title="冰茶体育",9月22日02:00赛车_2025纳斯卡赛车系列赛_新罕布什尔站
+https://migu.188766.xyz/play?migutoken=11714234bac48b100ccbcbcd4cb92ad6&id=L95A%2FMQhkCw0uFPHg1WfDn2B3jkj2QJ%2FnGQ156zyNLrizHeOQWPpyCLe1hbDZweSjgYOyz5%2BybWrgjZ39Ilf1hXAFAKAf6TYscZ6w%2BxGxE0SZ%2BoOc62cE9OrU%2B2hVGPlrg80Y%2Flk9lADELrCMqQkDyMBYdDKyUOeKA9ilGvPHeOP6J%2BDjMcxRROMi2NBwLqjA7ZicZw%2FUljISK5dmRw9yiO%2BC2BSNWt4sYIo5i5rKlF%2FtEOsxn3PVx1piJ8078Qa44h8Yf%2Fgkk1vA0XD00ThTz6gYX8VvXabc720W1N849e6d8UwKR5EG6IpPpKRgVXNx4tIUyYM2TITnbHWBErB0jjn7qIiTV2vcbY9acrYK2Ai%2BxwL3QCG1HKVbC5qFvX6DGsxcq1lun67A6d5XBKdEA%3D%3D&name=UXyO9V9sgQbr99QKOppOwG5gJ3E1%2Bp%2FMzRSFF82pMBl5wSzEo%2BdYKH58tJvrVWKoFRaIsQLjncjecVa8qzFa3TpuFp9r1MzqFGxOxqaEBOnh33QJII50JRcuznfZdDmq
+#EXTINF:-1 tvg-name="9月22日02:50西甲_巴萨vs赫塔菲" tvg-logo="https://live.fanmingming.cn/tv/9月22日02:50西甲_巴萨vs赫塔菲.png" group-title="冰茶体育",9月22日02:50西甲_巴萨vs赫塔菲
+https://migu.188766.xyz/play?migutoken=203c86a522e0f42614d78af5639b9a3a&id=%2Bq9U5NO%2BHsZ4lxOgEUyJReMi7eW3aZ%2BpQKZ4i%2BOuK11CmYx%2FoOd%2FGxLZOo7c47gi2GFukA62eKKS4EIo3HKfJ1BhyhHDaekxCj3atWoum4jwqrMsdQNeyd%2FUVYZYVhrPa4tq9cq%2BPqZroMtWoFPj5Po45M1APgKJa0tJ8qhReqRIOrxH8ZekeeXw5lZGjNTt6R7ZUQnnVBwajzdaLj1JwmlVotf7s3FoCAqk4JTwgltrBqU3TV7w%2FNbWIu6kgfFQNq%2Fi7rUl%2BbNGJfm2jS64H5WJ3km8j%2BVm8FeNGKC2EWxli7X1aTynEi094rYJK6pY2%2BRqb%2FlYSlP%2FXypdBSXpFeu5yOuOHqooaaYsKVpKogj2VI%2BGKyuQvcLCxnoSHlk5mfh5PSkxn1XVHwsEEB39qw%3D%3D&name=AlHUEoL2C4U%2B9CrfZpv%2FtbQCB3COrs5HPFTxeMvtnl0Gbo4mPoupuXHpo7zZPXaTkXP1qOFxuX2U3r13%2B8vSNw%3D%3D
+#EXTINF:-1 tvg-name="9月22日03:00_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌" tvg-logo="https://live.fanmingming.cn/tv/9月22日03:00_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌.png" group-title="冰茶体育",9月22日03:00_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌
+https://migu.188766.xyz/play?migutoken=bfe5dff81faf96b64e3397be24309572&id=iTOZBGEnS7ZQhlX%2B7o0kZ2pQtjoW0jn%2BqdFIqMARlZqgCKbt9LNg%2BmqBJQ4DWXJfTRdpq87EmH3ww5X1Uzfbtwvv9oRhtH5Ds8MumrrHhbDbfFkyLHupaQ6huHUwm2Nn8fz9ovViKRJPH59%2FBPV4TeGcJxYbWs3%2B4XJLiYIedVBqBfJ2%2BCC5qnC67t6%2FmF3Xh8F4kPhSOAusNowvfJEts8g1LOAhoiQn6hjqVtZBsdvTL8LAxdNwnMpfwGDhKRjX%2F1WzM3SLzHocYYKHgvFkiYxvVgVEIKA1eLbR1GtJ4Io%3D&name=W9WWekr9XRQZHKOyF%2FTywhbBRRt94kiuZ8Sgz8w8J37lyYpJV02K6pXVsnOrRirEx5bIXJw9K2L8Btq8P4SXNCda%2FRhcpbSS3BHitSt7knPMSrmX%2FW3sUUPCS%2FmnmATS
+#EXTINF:-1 tvg-name="9月22日03:00拉沃尔杯_拉沃尔杯第3日_阿尔卡拉斯/鲁德vs米克尔森/奥佩尔卡（中文）" tvg-logo="https://live.fanmingming.cn/tv/9月22日03:00拉沃尔杯_拉沃尔杯第3日_阿尔卡拉斯/鲁德vs米克尔森/奥佩尔卡（中文）.png" group-title="冰茶体育",9月22日03:00拉沃尔杯_拉沃尔杯第3日_阿尔卡拉斯/鲁德vs米克尔森/奥佩尔卡（中文）
+https://migu.188766.xyz/play?migutoken=e65188b5774a90b12417429c7a9094ee&id=l2%2F0Mjh%2BrRvDxa%2BUwQx82f%2BJaO%2FA%2BLC8gndYorwe9Fv1U6L6efYH30WIc21llAlPaZXkMRAVlNgE9OZ8PQq16ZD7UDBYjqGH6v2H%2Br%2B3BornTueyrnVOMHjQZ3U%2FW%2Fp4pp45YrLVffwUBdZPF8RWErYk5ELGB1H9O5eF%2B99r9Sk7AOvQlcFYrhlzopKQRlbrMU5WGiTZvQQL5mOa2KGxzFpj0zfb9fJ%2FaUpUVlGY2xKNQmz%2FWLYcus4OetVKh3gvWssLOmCSIcLRJ5ilJOd9xh%2F%2BbfzJR5P4nr2SsP8dlREji0bd%2F7fqntBRF%2B9zRHqUnn0d66vqHVp7BDLMzKBa%2FVhgcUhaJmrE3h%2FaPjXS6mKC185xY4EZaDarn2Yiqd2oz28rfqrlVjS7nLlRSXe5LA%3D%3D&name=6pfOmD5WsIVP6oKyYM1P1XEyzmaUFJHRBO20XsEhZVxZaTNDy3boc18B61pQcafD3GLspao1WOFTVcD9d8MNhJi%2BrKTtE5omtqysdFBdlT3YLnLZTeNWBDrC47ntJCvhtGcl%2B%2BEQBZYN4l2OScG2VFBppBhBnRcgJBGNsdFBvkg%3D
+#EXTINF:-1 tvg-name="9月22日04:25_NFL常规赛_牛仔vs熊 杨木" tvg-logo="https://live.fanmingming.cn/tv/9月22日04:25_NFL常规赛_牛仔vs熊 杨木.png" group-title="冰茶体育",9月22日04:25_NFL常规赛_牛仔vs熊 杨木
+https://migu.188766.xyz/play?migutoken=43ece207760d47ebd20916568ecf220a&id=NrX3DeehMY%2BaCVbR2DmLQ4krgOxVaw3nsIRkQuSkd0G%2FtV%2BDwn08b0gTgIJp1UvSUOKdV1vfzAH5JxDIP9plN%2FTUfjVpSQripAPwJYHe%2FLWRtmBuCCUTiur1c7RH45pD6XfgjfXra9%2BuqpT1ENUrix8shVCATROJq9deKIMpkC02vW34B0JHPQ%2F%2Bqn%2BeP3niW9r38QlDx6wkOHy%2FmiqOq%2FuyA12tG1%2BELFAONOx0Fa8D9nCKpkJxbjtroz7%2BekK7hXG1DNx1bQKTGDyGgcrO7A1A7uw5Kvqj6JTC%2BMjTGEw%3D&name=anEeLK8AP1ekXr%2FYizPL8GPHSioEqxfchasrxvpPHeQVF2epwYd9OvBR26oBFK6Fjt8pAPmT7AY0fbxFROfb%2Fw%3D%3D
+#EXTINF:-1 tvg-name="9月22日04:25_NFL常规赛_牛仔vs熊 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日04:25_NFL常规赛_牛仔vs熊 英文解说.png" group-title="冰茶体育",9月22日04:25_NFL常规赛_牛仔vs熊 英文解说
+https://migu.188766.xyz/play?migutoken=c03f4426227db5206aeeec1403f9e15c&id=6QpNojs9RaaG5%2BE5xITShUGPfu4b58cuviF9hr1F4aBln%2FMgSM7h2fEma4zMCPpFLOZlf2ASU96YOtJpeBfev4KEU336VqSaGzj49rUoEx3Mbd2vhGQ%2Fc%2FaHYmoT33CrnLzmLlIzjfO2%2ByboMlgbSB5Avu1CwSFQ1KONkVzZGkcNIhUvsGecEMiM1ElDCk2bkP4ya51ZsZDwPsRO7%2B3uV6arXX%2FCQoWC%2FDQai7Qg3xZGzRlUT8nCTXWi%2Bx%2BLJnocQ1xujygRdFpLC42n4TkhH35YfGitLjeTOqGdVA%2FjNHE%3D&name=0MvBBVop7dWZc5DKGrEK9NrCiY76KleJnCBvbCtKQxuetWGkziW1rKIQxF7Jzl9Wgurmj6zLHv8Gp6wYIRj3nk5Fbh1f0pyySHPmiQh5bwY%3D
+#EXTINF:-1 tvg-name="9月22日04:25_NFL常规赛_红雀vs49人 傅皓南" tvg-logo="https://live.fanmingming.cn/tv/9月22日04:25_NFL常规赛_红雀vs49人 傅皓南.png" group-title="冰茶体育",9月22日04:25_NFL常规赛_红雀vs49人 傅皓南
+https://migu.188766.xyz/play?migutoken=5add16f9f8c92afd07df924812970746&id=5hUSh3DICSx6lVDzlhWDHju6SRS9BBDjNF5VRKJBoiBRNPPKMx%2BUJowpYtA0SeDyeH8Ab2Zd6XItM9B1HQmfUIiRquzMaNIGuC9AaTBdD%2FGKaRCjVrdWuWheBUMXmPJnYkPXoL%2By%2FevuhquxM0RB6jK3vvJn8n6uP2t91V2vVdecVu624DSmFMsC%2F6V%2BEUilO%2BU%2B1OxJ40BIilBcdY0AJ2aLnr%2BNpp2wXJczkUrrZto8inh4uNtxT0GyecSLfc4Nb1wqUXi1KjxoL%2BPfmC1T1PfmjS15Zz8qIW4Elfc3Gj0%3D&name=HeXFKWUUTBmuAlZ%2Brgz%2B9QQ0asjHtSEncsR2XnY0k%2Bt6NhdnqIQtKOuQGr0DCPRMr5ogvyNPYdtkEZf7FlSzifKqcjpb6QGjmvWRAl6U0hk%3D
+#EXTINF:-1 tvg-name="9月22日04:25_NFL常规赛_红雀vs49人 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日04:25_NFL常规赛_红雀vs49人 英文解说.png" group-title="冰茶体育",9月22日04:25_NFL常规赛_红雀vs49人 英文解说
+https://migu.188766.xyz/play?migutoken=4634ab191558455d3abf8e0509df6467&id=8LLLUm1mewOTw%2BpyoNCI4XQWY4UcZcOpK6pYZtsBAuvnmnX%2FOWX8x9QSHtXgmuUJMOfOZqMztriJ6R44Z%2FL0YVDGitnOW%2BCVQZKR6P0FtT1a0doY9UCySGlgbUdV2pWMPZ7fmSjYAsbmESNOQFmuwZAI%2FEuQazmZIrLCeer%2FHQ%2Bi8FFJP1vYh6Nz2B00MjDVFfFEVvoQry6X4j3Q7ElJfumCXOp8dVVcEMioSOhetb3z8H4B9CwcnBs5iI6s2AOBZZYO3hqG9sZ%2FTFToCkGz7Nfie4U0y%2BJRRGjdmHm81G0%3D&name=B7ltF%2Bh0%2FkCOI5i46Kc%2FwGHYAw2SLbOzucJMiL%2FtYX3qnCJRu9DlEu7BlUXv%2FZDUiK2gBA8%2FJrLUlYrNy8efDF%2BfHFAmLHNuma%2F0rdKV8Ks%3D
+#EXTINF:-1 tvg-name="9月22日05:00_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫" tvg-logo="https://live.fanmingming.cn/tv/9月22日05:00_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫.png" group-title="冰茶体育",9月22日05:00_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫
+https://migu.188766.xyz/play?migutoken=371d0239990e411ac9a9fc386bea1293&id=9Ad79fk2YT6ACb9ELze8gFMxnRDW3sWFX4SEzkcHzFhNPu95uL1O%2F%2BW7XqQkZuBuUUY55n5n2M4cECd9u8i%2FhzuUQfvmjxsBDTv2wynRLZv5QzH7fBZL3Obe5ORfBcW8A%2BvQHYZzy9cg6lnc9GtQXSlKCIgXu2ncG%2FBW4E0Tr4oChw8oREg4sMq%2FJJgdyEcAAPzh5V4TAYoOOHPXVBNRXEs40B7v9iZ3AKkITKK0hhPsy%2FQdqXc9OTrDqg1hdhW5WRGkH6kFjDzmpCuu6Gdq8i6qiGwggjALliVH696fFSc%3D&name=eAVaiS%2F%2FDnuzIe7IiQxsv%2BRnoeXwwbOT8hLHPhrxO1xAPDELDNO0wDZLNBQopIpRpzKgNEZcOohkKKIB6YBYVNplhndooX497ABaFwGIMT77MUe63ibhIohwVfA8NlLP
+#EXTINF:-1 tvg-name="9月22日05:20拉沃尔杯_拉沃尔杯第3日_门希克vs德米纳尔（中文）" tvg-logo="https://live.fanmingming.cn/tv/9月22日05:20拉沃尔杯_拉沃尔杯第3日_门希克vs德米纳尔（中文）.png" group-title="冰茶体育",9月22日05:20拉沃尔杯_拉沃尔杯第3日_门希克vs德米纳尔（中文）
+https://migu.188766.xyz/play?migutoken=9196a23c521cf9bc7901e94b75880ce0&id=iER%2FpcvywyPON%2FFIfUDo%2FxiwLpI5o2WlSanBkRNngFmauOyugsFoxyPTuB%2BNyV40ZrlejrBRTgE5BehxtX9L44uNkQtHEBD2%2B%2BinkRRnxFNOe7MuO9%2FTSfbRvjnPXM1%2Fg90CyNTEYwmchuQU1e0MjwNnZmnA737P9NSwU%2BinJBo3ipjskK%2FdSEEwv9fRdkK7oTps%2BMbpCSoBBJpJa5Z0%2B%2Fvn0%2BjIJVT969lPV%2BwezljAvxrXtcfsZ0BMz7uCc38oCN9GDL4yck%2Bddf7ltZrEvHg3r5bcY0JnZoLOz121MhCXFNwxrZ%2Fp5%2Bbrb5LmR0SxCuLoxO4f%2Bc6GFRBLbZIDCKZKGa122%2FpsAxndIflEHdufQwTDiyELamhh9r2mqNpr7NNrtv3NKiQvvfCMrehNRQ%3D%3D&name=4d8%2FWxddCYWsVcBMzSn31R%2BOyWg6ryr8fUBGb1l93h9Rw6SnSKO2A1V7drsb2zM%2B0%2BaNfMLr5JQfhlFqtvYAN13gKOAbBD5omtIvrJCTCzDIdhQztaxYwiulNRakDBvzlTRIBhWWVxUzumUjlTQ%2B3w%3D%3D
+#EXTINF:-1 tvg-name="9月22日07:11拉沃尔杯_拉沃尔杯第3日_阿尔卡拉斯vs塞伦多洛（中文）" tvg-logo="https://live.fanmingming.cn/tv/9月22日07:11拉沃尔杯_拉沃尔杯第3日_阿尔卡拉斯vs塞伦多洛（中文）.png" group-title="冰茶体育",9月22日07:11拉沃尔杯_拉沃尔杯第3日_阿尔卡拉斯vs塞伦多洛（中文）
+https://migu.188766.xyz/play?migutoken=f16fec0057931183abfad100cdfd132b&id=%2FnNlX%2Bheol9QroDVFUKn%2ByJNJIKR%2BBMRuEd3bS0sqt5A9es4IisiRoVPfuXHwy6woKEX8hm%2FLt9ab4oDaGUu5Qc%2ByxUgThVnsUzEh5I3907sRRNgebRNBFyTyALD9I0dXfI3oPvA7Z6%2B6VPPvlBe55Yw2Frv0dZLuJ02h1%2FWA0UFGOBEHNt%2B9901U9OTXSlVRTNMm7j2YRQmsQmaN0xxxQDWtxQCPDcsRCq0H1AD3rQZIJwsjDLiUGEbgqtrUHWNNtZMqT1mQm%2FDuQR%2FUGV1cmImQZwQl2zHGXOHydWmULofBqPbk%2BiUeHzdtrby10zjjfE1NzLEvewkKciwBpgBssS%2F9YhmYjQzHOOl%2BSH927QpARQox6nO8vT3iWhfIelPuJ%2FdX7tQDONw4PQQdwYLYw%3D%3D&name=gH48ljA1SQsf75HmNRC9qjHsnPsA2e0s0yYH5Z5i6AttjhBa2hdN%2FG8vC5KEtp4Ra2%2BhiL78oFPjwOPg8X%2BrWL3ylpYPXahEqeDQaU8wA7sLQw0oITLtqr0Oq7nyeYl11V6FAcos6BrjtvlStFrBjQ%3D%3D
+#EXTINF:-1 tvg-name="9月22日08:20_NFL常规赛_酋长vs巨人 傅皓南" tvg-logo="https://live.fanmingming.cn/tv/9月22日08:20_NFL常规赛_酋长vs巨人 傅皓南.png" group-title="冰茶体育",9月22日08:20_NFL常规赛_酋长vs巨人 傅皓南
+https://migu.188766.xyz/play?migutoken=81fa02c956a3e209f0790ae6cabfe1fa&id=OJ7SX%2BS0uN8fC5pv%2F3MWMJ3eHdp7ySrLjUvOLSYBVpOsLPTXsXEpwwZcDfkEcoqDMg1a0qmYREB7I3imGAFuZf24aGiMPAPfMoNImpmnSFkQfP6gQPgFbini5fhi3vKwEPF6mXW0Bm5mClBpgCqzYFxo%2Bs4DMrIzyWLerw9LMasePw2xFs8D463g7drDF6HJ3qSmJmos%2BViTPUu3E5cXDKSzmGerCuCswgyyb7N1NL7xPDEjuO7Vkkgtk7ZIzrHM6yoJ3T5tpEvK6CAnhTC6z1EyEX7Fp5HBm4zLiqpkLCM%3D&name=FCfUeNe6onCWJJbrF5%2F1lvicf3PRRQ6Wd%2FxpReoRlXPYN0kmCx17tzXyuPiZtl8FrvenUOjDoF4U8kuNaJYyYgZrgJUFOflJs8Elko0fOSA%3D
+#EXTINF:-1 tvg-name="9月22日08:20_NFL常规赛_酋长vs巨人 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日08:20_NFL常规赛_酋长vs巨人 英文解说.png" group-title="冰茶体育",9月22日08:20_NFL常规赛_酋长vs巨人 英文解说
+https://migu.188766.xyz/play?migutoken=ebed9127b4b8d34bace309f9988c05c4&id=xqozY%2F41tHoTa1WIFWNkrszKZEa6xbvXPh8IMOV8Xb%2Bn2PxddH9%2BHrh%2FnHjdLpGTtGPhXXuUxD%2BKqhEDyE3JVrWZMmIftBVbp0K7EXzgT2QG0JIhWD02dCiRV6kj58P660Q0EN2AIdYc7PdOoUgkDw1DU%2Bjv4uM6NEAqBGvUKAS0xpjw%2FY3m6feGeSEE7hz58r7lNzBOqNHJ%2FvrEf3%2BV%2F9SmylFO3%2Bu4R738qwirxIFfr3KuEhppPQUKhLiws0NJdDHev6Nwl7IDt0fqt900dKDjbaZdcTmAnLVNhFp2%2FyY%3D&name=NZzj6Fq4T0tMVIzjhit5cpImfb93BbTK4wRRe2DOxwsfKqGYPK1b%2Bt6NFvDzepL8Y0UP9tuJUScuUrUqUUFY%2FPLL%2BdKpB1wHKKNePmLKm3A%3D
+#EXTINF:-1 tvg-name="9月22日08:50拉沃尔杯_拉沃尔杯第3日_兹维列夫vs弗里茨（中文）" tvg-logo="https://live.fanmingming.cn/tv/9月22日08:50拉沃尔杯_拉沃尔杯第3日_兹维列夫vs弗里茨（中文）.png" group-title="冰茶体育",9月22日08:50拉沃尔杯_拉沃尔杯第3日_兹维列夫vs弗里茨（中文）
+https://migu.188766.xyz/play?migutoken=6d05bef67db240f18c41179e0aadb54b&id=fiwAHlYcJCVje%2B3vccA4z1WO39CSBx96Y%2FRVcMcIsaiBBwcvgKaiLGwIUHCvTzl8Eq3joWQPuuj42Mx4UoIzBqIRpJ1EmeoCn2nVvUlgk0PJyqHu1WDQp345%2B97HUsF231y8kkpEKtcKGrfS%2BqUU8OETKYWA3oIpEz8wNcXuezZTMrxk8vKQnBbMv%2Fgj%2FKPMZTGVTsio%2FEfsjuO7tr7CfXvoW3SIt%2Byt5My3V%2FAlLiPMcYIvNdK7BicR1pI2CPG7T%2BpyrU%2BITe8bHbXnOuVUGRRzNg%2BpaopYlOCa7tkbrR4HVuMiy12C3j9s1F96xCH9%2FkshC1MypsAQkO%2FTxBAovndaUpYbZ%2BDMJixVAIu5YpeU2z0b0QKzZPU%2Fh91Zob%2BAJ8ncIoLFXFi9hFUVcn3m6g%3D%3D&name=X%2BBXXGaEC%2B8cmoioEThUHWY%2FOSUuiYk%2BLVAIwr%2BX04UVwU67b6P8BteOEoTER3zFDskQ0u6lEc5QAbf2bEwn0IWRb2EnZZ%2B%2B2cpCiUafCF3aKB%2BAmzFll7aSAoPc6suJ%2BD%2FvcTlMd7nQPn7M%2BJJpqQ%3D%3D
+#EXTINF:-1 tvg-name="9月22日10:00_2025京山网球公开赛_WTA125京山站 第1日" tvg-logo="https://live.fanmingming.cn/tv/9月22日10:00_2025京山网球公开赛_WTA125京山站 第1日.png" group-title="冰茶体育",9月22日10:00_2025京山网球公开赛_WTA125京山站 第1日
+https://migu.188766.xyz/play?migutoken=70dd8f748503ac5249785cce877d9f1d&id=DQLkw%2BOxV8WyQ%2F5xsutL2iQOqzB8HmKZADqEZ3ATT0jUM2aFuEQmZfnNgzf9YBc3l%2F7uJDH6olwKnSoSfejKwx3SBZXB%2BvMTFe2rbvYcxiUUqjjic2QQNFO9KbU1QH1xR29w%2BsNgXpZkAssnaMAPGBn4%2FS6G8SkDThHKBkWX6RXBAVW3LHmzuNImxUn95FuxMFX0dwiQbZCQZ2256iokDaSwTBmhBS9bEEcC5u%2BRJDuU%2Bazn6Kru9wW7Lp%2FHxMfNb%2FkgEpSiSFBjlPe5pr5wf8GFI8dltqDj%2BYERPNqsw00%3D&name=R1DkCQxQDhLPV56rh6j9j4B5SqNHH8d9%2FzdHnbuOSzjKt0gxVZQnkcl7rTKzybAUU%2Bi%2BWxZzg0oBYNNgLT0o93NofBRnyuGLWNzxHUuMyo8m7eV7I8n7S9qbLRMs%2FfK8
+#EXTINF:-1 tvg-name="9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 英文解说.png" group-title="冰茶体育",9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 英文解说
+https://migu.188766.xyz/play?migutoken=81bb8ba603c4c8f8a825f0fd8f23ae08&id=PkyXLa%2BJH3u3o%2BurICKWHYbJyhZDFtOGIpjDL4FL3BicKjpn1DiQlKHQGXsPHe162eZ72EV9jkr5PYTqmBYvcniVpeTP6L3Sd9VDrt2I2tACVtwzAjQIwzE7BNMZiuIv2PVr8TggXiSRsW3FdKzgZt0D%2FrS2gueIVVqui50wTRBVkHbQfOjb5f03z3xgORD6UeASFzLlC36NbjuMzQ2fXe%2BMKGG0vOctyiEwH13mUkt3pOZ4ZDEQDyzDiOtfz9JHP9RcVf1XQip3vI8TBw0VrrrfvRRSBV6sfqsV1tVRGkE%3D&name=xHdzBQxiqV%2Fbmc6rfBJpIb8zSeQGCJs3toq7wcBU3rbPrMuUspxkPwWoqQ8wiAKro7MkV3FzLbtc0EAXy0Tt%2BNpIV8TpZGQwxvBDbbt1GiasB%2F9JSysh%2B3GA3vQWOoYs
+#EXTINF:-1 tvg-name="9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 赛场原声.png" group-title="冰茶体育",9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 赛场原声
+https://migu.188766.xyz/play?migutoken=39d632ec7572d31668d8c0743cd1d582&id=jBFb6Yr2ao6wRu6rDBMyI8rigyV7hlFGQcsR16f6kAXUi3pDixtFlGWJ00KGI8BLaSh2m3qbY3zXF2W8833wEELjdFYDMywo2rK5J4hjEHeJRgGHgZcjgdYUxFAq5xpGyFlPL0f%2BTf3VPhMyQj1DlmQ7%2BqAAH7PKh6FdrT%2BSNLZZiIewfkhCch9gq%2FMXqm%2F9bt6IWLLCLRe%2BFPMdjUECCP60xWRr8cdJHbl7%2BqOybHWNNt2Y8yiXIfKVU2rfCEgTjXP2EPMNJTJXeM9FQhpEwSbvCjWOkDbOLNC5t%2FfljQ8%3D&name=1hzrNGq7AWC6iZhzNvo0eKqnBfV0pNl%2FyA%2FoN0zLVgPi5HZvz8gBjUJQrisGeBxMXltAsI%2F5Qy1aECy1taBFr09kWvQfqetpVqbKYd%2F3FEZrRhIBpfOCrJzzEpCgVAJm
+#EXTINF:-1 tvg-name="9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 邱超" tvg-logo="https://live.fanmingming.cn/tv/9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 邱超.png" group-title="冰茶体育",9月22日17:10_ATP250成都站半决赛_中岛布兰登vs塔比洛 邱超
+https://migu.188766.xyz/play?migutoken=c2bc2663c3ff8aaeb551c90f13ff35aa&id=tdpNh5%2BVjOSTZtSOWdFi4WUNwWerNjEf%2FGw2r4OMGtGFNfZXH3dAXM7hrlZ8QrJtK6hOwPYcXaHgjiGBuul2JiPLOV7stmZQzeDLRj03KwitkNEOBaUMijs00IXcqB9fgU7%2FYmMz65HYDWiAH5iqLrdTuVa5R4ZJ6xfBpUpLttYk4K3Z5SZ53MU%2BgiNy7xYkoXmGLn%2BY3g4jGRavCsQt9TgS87gFjbVoGshX0x6pM1xMlAZ0OG9y3Gy%2B53RtjlZ2eZIEgyqZAsENvNdSNEzg%2BGdgSJaEGhu%2BMu78Bs4l8ao%3D&name=EULXWi5VGdEK4PMhGdQv0fPHkzIyvOgJEc3sT6smc1ML9TSan63brHiBVK77tTos1mzSNLJ9YV4psQL6EhB%2FlxXGf7wkcXS9ZMt6drNfAqKEgnyuWxKZra2MrOtbdIlg
+#EXTINF:-1 tvg-name="9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 英文解说.png" group-title="冰茶体育",9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 英文解说
+https://migu.188766.xyz/play?migutoken=788a1a93d75a84557693f34e3e691bb8&id=cOKNegMpsjg143loawl4abPq3hmdKUrwCqM589SPCFzYtBb8MfO7NXmm6JSH1usxQxRCt6mtzesTZahbTAPXOW1GijVmaVbk16ovskODx6BIBzCVLm6H5wp9J1wx9vlO32t7DsDKjG40EsP1pAZEuBCjwxR4xIsN%2FkGk2nAmGRPB5CJxSt5gHQ3wpQd77dlDw7QqCCOXBc9U1ONcTAFIaX5gTKdC87LYefkyJ9oeTcgUSzdPKotQsG37fp26tXYyFUkVr9NW2mfMebtItdibrzKKPMojTCOIYnw16b36EuA%3D&name=sKPQAqh91U8qnmgrDCFblx2fTGwCCXN9XYcPINwfqBnUCcxZb4ejHOVV3RpQMNhNoKQ46Cn1yXqZrWelulEf3A9X8TsCi817P7IKgIqvM2paH%2FV7%2FO0WIneNAEkCPQ5c
+#EXTINF:-1 tvg-name="9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 赛场原声.png" group-title="冰茶体育",9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 赛场原声
+https://migu.188766.xyz/play?migutoken=8052f13c424502c17123902d49ff340e&id=pJ8KZtPObeQIsdZ7%2Fiv9Z4XnDHkx7r0rth%2FW%2FQ4frEeleL4CTRCTVLetjXBLC0X5JZuJnN7WzuUNfsBOpcIRmQm%2BE4RDxRAlXenAx1V4LpjlkqBtVavj3YsB2c%2BSn1TXWEwFoVdJ15jYvi0LeO6qor8Oc1sCSyCo312rMJfkYPK85x4o9PKYjEcRGA3Ri33UBjDI4ZBaS0rXRGo%2Bmd5c0UUg7qflpdMMycU%2BYPmCpnazKRnMOF0ZYRUSHcwg0A2Y52qw3NhgIlhl%2BrtZ0GLHDyuOGxEvxvEfJ7J2hmMgC6o%3D&name=rgDrICBnOnujefXj6b09svVcNkZfDGh6sq8w4ROQ8plDI1muweviIO7sZ08jr%2F9IUK6cDjyknlBTt5JyO2gJS2D%2FlJd73z0N2niHsMuxt4iN5zIdnV%2F30S92VTdNX9Hq
+#EXTINF:-1 tvg-name="9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 陈驰" tvg-logo="https://live.fanmingming.cn/tv/9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 陈驰.png" group-title="冰茶体育",9月22日17:40_ATP250杭州站半决赛_鲁瓦耶vs穆泰 陈驰
+https://migu.188766.xyz/play?migutoken=49f32351824ee44dee28c9be3983e152&id=2mj7jX8VmbHfsdXpxgx4qXV3uz44s3hADxCFR%2B0LaOYBx0gwaREg%2B6GoUCgopoIs0IChT86N5RoaiJa%2Bd9MavvLJiFCqOzTeREAE%2Bu4Z8CW%2FRFIg4RC%2FO7AhftAtKzDI1agyC%2BHmBMEkq2cnvp847aX3NvLqwIFbd9%2B%2FPxXhETvNYv8ytHgmW7hlYETmPs2nDW6Dz7VXIqSK1YekA6rYtBf5JAkOHMK9sKMuwvYbGBRV0vfAuFm5a%2B6HVXMnGKH%2FbOxq6N8YMzWG%2BxbfskoDXQkvEu6%2BaNK6pXBJqdAoQ1A%3D&name=28s20yk1VCXSIN6ykrhKNyBiuf4vJYZaiWBS%2FiaE7c4gZ%2Fi3jwJNBfnb2e3KgJnVIq7GbzMxpTb9Blq92RIAPUPp9wIOwn8%2FQzLyao3DOGIggu%2FP2YXWHmLfBZiCsw4B
+#EXTINF:-1 tvg-name="9月22日18:00赛车_2025MXGP世界摩托车越野赛·澳大利亚站" tvg-logo="https://live.fanmingming.cn/tv/9月22日18:00赛车_2025MXGP世界摩托车越野赛·澳大利亚站.png" group-title="冰茶体育",9月22日18:00赛车_2025MXGP世界摩托车越野赛·澳大利亚站
+https://migu.188766.xyz/play?migutoken=28936fbff52efe3c14976e2af761fe91&id=9zaLzWVmUu9QkUOws8sippwxCdGxEQjFWniRYqN8SegV1OTlxPDZKvAk1LiL%2BcLDFcZHU1MEherL%2Bq5forwN%2BkaLqz6uMki2l2F0imHv9u7E%2Bx6HwsXkB0BAm4lztbRpGPoWy1UPE1kNKenr9%2BUXYu%2BCLtZ6b4rNluZldW4BqjnySyKLgl7LrT%2B%2FI3RfaUiGQzgsNCgwB5oGf2VebxyINaaLema2z4%2BSF9cXCfDWsfLRM0rzrM849rsKiT0YWteJXDytqo7OkKotbTVtY4Lm8Cpfz9EWULyXPvRDWxgBA6HZlhxS37trGB5iPHC8vyr9W%2BoY%2BeOAOV4GjPhoRYdq2Gvqz2csZBAZjCSTtJzgdc2vMfZnOUDYz4oh6AjpgrlgFswpJMiJlAj5CZ8SrK812w%3D%3D&name=0oCPach6KVksPUGZ4191%2Be4cOBRwvlTRW62siRA8859X88sYhzv3khtXckshKWv0PdlGuEMHnPLtIQGD8FEtOkOPyrapWgyrtBRt35qPgAfmFnHbXhzQZFugdE38Ka7Y
+#EXTINF:-1 tvg-name="9月22日18:30_2025年U21与CUBAL对抗赛_浙江稠州银行 VS 上海交通大学" tvg-logo="https://live.fanmingming.cn/tv/9月22日18:30_2025年U21与CUBAL对抗赛_浙江稠州银行 VS 上海交通大学.png" group-title="冰茶体育",9月22日18:30_2025年U21与CUBAL对抗赛_浙江稠州银行 VS 上海交通大学
+https://migu.188766.xyz/play?migutoken=8f7e0b05332fa4cca0706e2b6cd0c1e1&id=HhNrR7ym96Rm4HWksaSSWI1Q4%2BBzBWiUhIao3UO8WWJWdQyshWMq1LcZXglC1XQ30GjB8rcCnsmwo60L1yOY7eENGpnXT1jFoCDunCN%2BvQsfXvm13YNfVjn%2FYFIdLxtrowsEwWvKPsINMd9bhiLt2NX%2B6pAEzYHyM8X2dUAvAmoIgAAHnFylDMrRaY%2F4a0XrHb7nHx1dTmEK5BRl8tWZc44GulhZJ5vdE5F2G6fk4cUwij1z7%2FP9DG7cn7xHBYUv%2B3LJwxYAwW1Jv8clPjTTtQnhre2%2FMJTtosRzx7ppkZs%3D&name=MioLV1sBmo1mau2tBSfRQjxmi50q1jORA2xFVVn7yy6wriHOihrVs1ozsn0vr%2F%2B1J%2BOhG4FeU3Fh6djcrFdzHM5XpNgLhLMhz5bWKH1VzkQOBku1auAShzRnhKc9eXHOuKhPSLCK3hVQ%2Birn6YREtA%3D%3D
+#EXTINF:-1 tvg-name="9月22日18:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs巴基斯坦" tvg-logo="https://live.fanmingming.cn/tv/9月22日18:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs巴基斯坦.png" group-title="冰茶体育",9月22日18:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs巴基斯坦
+https://migu.188766.xyz/play?migutoken=a2f36fff9b1c718d620c4ab834d849e3&id=ehAqwXqGBnzdWqOohyfKk0wTykRY3qaIZmr8le64MHR3EFEbKCUKTVSXlN%2B%2F4qk0E7cxXQ1CooR2qzqRESk0Q%2BSZvbsIXYu17%2Fza2rcovxgAQ0K7inLrMmmqBLLWdPccWvUaxY7eQ85Q9QoCD0uolH9%2FcjNXvkVVr2pH2DjSXJvXZOnLlB3DrZ9%2BxXUvKuk7To70kGzV92FzTKhM9k6Zk7wK8vldTePeiBAq2shq0MlFuUQclWt%2FOTh81myJDNTJnpw8ScZfUvfVJyi0Tevsb5vc12vJzbttZXpemSA7OCo%3D&name=RNq1c5Z%2Fv4pTE0XNMvJuXvVaGXOnyd%2BQO7Rx8b1oNto7LZ37S7l1JKUiRmCn4WompabHt3EikhViN6TjnftHYnppteGKCGkRdiJ6cpqj5gS2f5%2F2hheIaUzWFQMcAeKY59dM1vmNsKBczTDbKpwEQQ%3D%3D
+#EXTINF:-1 tvg-name="9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 英文解说.png" group-title="冰茶体育",9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 英文解说
+https://migu.188766.xyz/play?migutoken=829ad77c9b8e2addfc9ce0544c79d3e3&id=WG9ULhGdl7RGj2OkfZfAuWvx5zzfVDkNpVd%2B6q086ZIxw25qlYWlS6ygIL4YGhU5f08UmQvxpYIIzZ%2FovhsB885OdK8QEg1Shw8APQIZFYr7pKc6G1L3QXkYFCkIENffhPzwQsOW4U2unKjIIJsw%2FAcQGxm1frWue7ymN5XIgqjxv1ljvsYyxxnD5mKO5PaPKUL%2BkBfZXMb4NPaAquK8ST0Wbxq1UAueJqA%2FVxlNnT7fqLGgGAJY5gBnR%2Fjco6DvnYbH6O8%2FjkYPFjzsVFBUg5GBjQCAlfTM7dEtyURMKJo%3D&name=k%2BhnYVYJWW3B1b5p1qMnNUyZrM4wc2Mx9fuNuyglXq1jVMoocx3nMJuXgPB2xzZfnuEKbFm83IUrPPacp0Pe3lm1MBPKCLENVMMEcUWk9PIFoDzX3pG3C4gQa9LBfQj7
+#EXTINF:-1 tvg-name="9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 赛场原声.png" group-title="冰茶体育",9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 赛场原声
+https://migu.188766.xyz/play?migutoken=4b7a9d89d67206e1d80aa975b2d09e8a&id=5LqcDMunPkHbe82WzkUyH5sp78JLsUPHe5AgOk%2B%2BA9I0T8S%2FCH1iu%2FMRunOkkehVAQS6InLazz7S8ci0v%2BEm%2FRiqWrUTT5fjJvgOpItV8dvHpikYJpoXhtmZTTmrT69TS0Zk%2BLNgzSeN33uZ611Gk62dZFPUVW86sicZs5RZjzHbYQ%2BhJjh0mg4M01K%2F6QgKIdklXtZ4RhI%2Fpo7T%2B7IWs%2B%2F%2FUHnGNYrx13ABVlgwkxppfOwj%2BGAmlRnPjPj88PgmboMjQrw98C93VPZOloabt9vMa2m2lwBSEZWF9i%2Bodv4%3D&name=kHN3DqNURYsC%2BHa2f6yrXoWjC3hOHb%2FqsR%2BjsMmn1PpseSn%2BYlXi5he4TGeE1VevaGt1rro%2F6ncm%2FfWsGXmwC%2BK%2BLm0R7TMBQff00dBPadrcjI%2BACYr0oLQDpco7F%2FWS
+#EXTINF:-1 tvg-name="9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 邱超" tvg-logo="https://live.fanmingming.cn/tv/9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 邱超.png" group-title="冰茶体育",9月22日19:05_ATP250成都站半决赛_穆塞蒂vs舍甫琴科 邱超
+https://migu.188766.xyz/play?migutoken=2c3600fb7102865289d8d7b5298e54b8&id=UMyv5ZmwthzmYk%2FKm9WQjPjdVLK%2F4ZnfrmU3uliKijKkyLZUNlJK1uNj1g7F9gPMoGacXjTQ4XDXfYABYREj7AXQdH8WH7aNh8k9gguF%2FabfAYLYA1y%2B35VhD1iVQx8MdX%2FuSMWxtGa%2BAoAKGfMzIwommANA%2BpVEdsNtEmEqWyiE%2FU0OuW%2BDScjt4NGOPmQ4d3oCo%2FPR3re65kuSmbpmr%2B%2FFgiB1bMOZfbN0wZZb3AN0ZlGCGg7DnjfVMlbGbZNw92FhPwo5be9dOSmw97NM5q2y5Mt4u%2FGwmiWeqQJKggE%3D&name=0tLGwkF3ewNMklQgWw3w%2BuyXLEoI5sLN3KI2Shozhwk34wRGss2Y1cWNwAAxspcI0NC43eC2qNASArpV9IlD5A8u5qqh9oUVqj5QecBmVyd0SswQVxilVjzSmZHEiV8k
+#EXTINF:-1 tvg-name="9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 英文解说.png" group-title="冰茶体育",9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 英文解说
+https://migu.188766.xyz/play?migutoken=02968d2c3782b566252eb9b03110110b&id=DB229VM%2BsjbOYcA9%2BpKJ2rRbH7cxrEpH2ToNN4fTrVMuJxX2%2Fq59BLAnQFqh07eJnFlrqaL%2Ft%2FkiIPkQ99T1ZkDOKMVOPcrNVkO8CiNwn7YBou8yWYUHRwEmW%2BzNRjvPxNQ2cN0X7FX09qjWfS7Hr7vUSjPuLKQeV6sMu%2Fu6G%2Fd1NP9FAIcSNohm35ejSRCUe6KmpNyiovaZx3RulCAHKH5gKhv5Eaq5CYQ0ow2WjFRtnx1KIMi1%2FZ%2FIA%2FDG7ht3LNMDPqun49j4s40wxr46kzOopCEWXIhkpbhYIWrVfMU%3D&name=PU87b31Z1oSUuQxJ5XtwsXtXC8PtIb8DUFyxl5F0XcwBDJL8I3Bb6%2BqHfWTOhVidy%2FgqW6YgNvhVR4gnFkFz7HDdJeXj30bV1SHl5%2F21odma9xEtprNVho9Tf5sj5Hx8
+#EXTINF:-1 tvg-name="9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 赛场原声.png" group-title="冰茶体育",9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 赛场原声
+https://migu.188766.xyz/play?migutoken=2109607045f88d5a25cfb5b919804a8a&id=KnBUA1vdGY4uMB1RghvYrKhMO9bBD84PlRhqvHqjpk990Ot8Stnr9IzUHgLzQRll2sy2UApa1YkbaUVNT1%2FB6lUjnsjv6pkInikS9AAbbek%2FDD5fPybrLKT8IMXkI31Y%2F%2B03i%2B6xos8R%2BvvuVJPlZbmRXgXLJlhHzM%2FU6EOV0zX%2FAiBDw74snkk8KEJ10g7Dr0Ne4HpGKG5J3OY06XEmv9kgNZADmnZwsgkWRY0G1IJ997D%2B%2B4VXp3PknZ9MgsYTzxw1%2Bz5zBUPFRX6mfwsPvDKStlAMp7tfcSmoOsRyNpc%3D&name=ioY8oT1Y09hqSm71AJxrbSFSi8e%2FrX1jkleVGjTkB7iuatcTTTvbQC1GT0gGRfcil%2B4B15M5nLNk1QQ2EH4anragMltdTAUC6fyLYKbo3EUdE%2BfocrJWUzVJtYsUJ2Ue
+#EXTINF:-1 tvg-name="9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 陈驰" tvg-logo="https://live.fanmingming.cn/tv/9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 陈驰.png" group-title="冰茶体育",9月22日19:30_ATP250杭州站半决赛_布勃利克vs吴易昺 陈驰
+https://migu.188766.xyz/play?migutoken=fa12d0c24af8fa13104a5b6965b47274&id=uEgwRFma%2BOuusPCd6FIOw2VXbOfTfedJfdYzqKqg2HzlTwMis2XNSssf7YqPS8nE8UEkqMO4YjVD3ojl3W7p9Q3MAyLBR7Z4G9u7KVEeTuUFUYv9%2BhY3xq9jm8Kj%2Fbx0HYEwdp2guYgiIlqSmqKznu8RrTGCbsQrMApbKvdED1qGuKOWazZKGizzraVaeX3TAHkoExEG77qn4sNDWl7JRK159xjPtUTBM2UmwrR7PPYi4732rNZ1FHWYD7n7B04VGtrnyIQgH8vCakmtkQWJDWoe74IcVRFu4lojvLV67GE%3D&name=P6%2BqUjxSL99%2BOtV3NBm%2B8AJlJwk2fhjteOrzWQmwOdkSStM1kMqDEfWKzRo3HKrOupMxGsMtPINHbrKWPv1Lj2tyjVJFnvgySzlJcgURk1XbRWFsmIxArMQwcvp2f%2BCH
+#EXTINF:-1 tvg-name="9月22日19:30_NBL总决赛G4_长沙电信勇胜vs香港金牛" tvg-logo="https://live.fanmingming.cn/tv/9月22日19:30_NBL总决赛G4_长沙电信勇胜vs香港金牛.png" group-title="冰茶体育",9月22日19:30_NBL总决赛G4_长沙电信勇胜vs香港金牛
+https://migu.188766.xyz/play?migutoken=54697f08c3d2a95a41dbf3c95a93902d&id=HJdN6Or5wrLiCcjWovu6WOPswLNLpouJ24SUuQAT2jB6Dc3IEhqwcJQlYYXalDw%2FkxZAuFWUK1zpKEvb9fU919BNk3Oh%2BDuaCq4Nm%2FMjZHT3N5mOVe2SdbIR6apS6eY%2FybwEVN9H2NCI6MXW4YVBVayx0Xc8ZUc8S5nb0PmxBa%2F%2BkhbIj2E9lR4u2W%2FUDo3hjDfSvBuXG70tDwUfq1Kj0mmyJz7m8mAEg9xUjMGtOUZUZtJsgT5DYLHhDU7F0nMV9xZAjE6G9XNg0hNAm4sU0%2BXZGGMINUqwLomoXUZkDJE%3D&name=BuIHBXr8kq1TkkPKkTuX%2BlR2wyx%2BYCJfNvw0m6QZGecsXJN7EIhvui9d4c704LVHA%2BgauodR%2BJUUzHq78wEI8QIUfit2f1XnpgAWpEzzVI0%3D
+#EXTINF:-1 tvg-name="9月22日20:30_2025年U21与CUBAL对抗赛_新疆广汇 VS 湖南工业大学" tvg-logo="https://live.fanmingming.cn/tv/9月22日20:30_2025年U21与CUBAL对抗赛_新疆广汇 VS 湖南工业大学.png" group-title="冰茶体育",9月22日20:30_2025年U21与CUBAL对抗赛_新疆广汇 VS 湖南工业大学
+https://migu.188766.xyz/play?migutoken=792b66bf97e0883324bfe8a37de1601b&id=KvgEcdty6hI9gZUNRdK5H9ociSpaZLiZi37WyEcksQXIy%2FVs3%2Br85c6%2FQdcT68SUyM1%2FUp0shbrp4ELMwuZWe6XnLRJKMDlVnnW0ln3dk0G%2FBqx7OhMXbVPVsNVMgkHhVAoKE%2Fcm6JOYxlLEBr64sKKtqKQyuFdI%2BaiBVnGmVOX%2BRfwDH2EbvHvbKL3%2FI8FTRpnhLaKvRu%2BQO9heNk%2F4srXmc3Ni38Gcp95J%2FuQqzcvkH9IqYvpOEUFa0eHO5khd56I96P1LTl9vPQ6APWX8%2F%2FMrzqrrzuhtDIvnYEBRnCc%3D&name=ay8YRkJuTA7ttrMqHUSJ%2BNkquQS0FhqGrpqYqwNHbLHzGeI7vrHjehTZPrIb7ur3K0jxVyYgL191dMTfTySYdXATfiK%2BOgQ3OJu%2Fv%2BkFpmTB%2FQWwknER958etC6VfQ%2Fs
+#EXTINF:-1 tvg-name="9月22日21:00_无畏契约全球冠军赛败者组决赛_T1vsG2" tvg-logo="https://live.fanmingming.cn/tv/9月22日21:00_无畏契约全球冠军赛败者组决赛_T1vsG2.png" group-title="冰茶体育",9月22日21:00_无畏契约全球冠军赛败者组决赛_T1vsG2
+https://migu.188766.xyz/play?migutoken=15140915a2e9d79b6a389241a53bbaa7&id=NeaKFN40kDBxueHj8N2xuA%2FYVyaIRyzl6J7N8sp3xM9vE7bafQXwgEMxRrMgrBEIWgYeV787Ooofh%2FOZA%2BiRdxNQ1bZwTEWM%2Fejh2WoRbgE8l3VVhwcN0IJKhgAt9Yc6eWtE21XnJih%2F2zlm7LQSfufHPILS7QaVNG0AYkwUX%2BxpT12BayaR%2Fff0KPBWgZHjCURA25%2BXLbBZ%2FPlidV7Mgsbw7vkFMZoqDJfa98WgeC2RpE9lWDa4pX4uydBMLQD8kH4w9C1%2FUayagxI4mhh3j8x3eXkpbkMEzIAGQUBuJ4c%3D&name=MlJr0viOuJpft3K5mNkmK6Q4gjsndE5jh2hfYRVT%2FDThkBKkhLDCewJxWp2%2FBkevgJnyeZwGMIIp5KFuPJvFOI4IAhHJPTj7odQVSxNx%2FoeC2NJYP7hWZkj63CR%2FzO4G
+#EXTINF:-1 tvg-name="9月23日00:00_无畏契约全球冠军赛败者组决赛_MIBRvsRRQ" tvg-logo="https://live.fanmingming.cn/tv/9月23日00:00_无畏契约全球冠军赛败者组决赛_MIBRvsRRQ.png" group-title="冰茶体育",9月23日00:00_无畏契约全球冠军赛败者组决赛_MIBRvsRRQ
+https://migu.188766.xyz/play?migutoken=f8e365f4895e9eba826b0c443707d9bf&id=vAZwZGAYkUJSBV2azkk4m6VtMCuE7vSzkxiKtKzFL8FXnbw3pE3XjWQVBKWJoqVgEYJmkDLYUFOtEvd8Y3k9Eb5A%2FgOpcFGqNwGipMOkkGMEENbi%2FpSG8pDqw6z4%2B%2FsOhAm2ofIQ4LD4eQac89mO7GxB2MD6pM%2BUcBHsRQWVWs9dJ0MfFe2rdstGCf2ghRiBSt9SEx6oWs6yEGJ3a6R732XtWpURfB1evxBuI6%2BIZwFPpN%2BGwBsxEV90Hi%2BwGP4q2eGIaiGo8Vpo6LUgMEfIpzesNaDhCM6%2Bm4FipzhCpig%3D&name=NZvqoqfamOx2zqNXzW0lx7Wv1Mcc%2FWpExiIhvFP46pXPxfr%2Bgl6wvaJasIPTne52FsNA%2BEjH4X5CHRgHkSqXpBjPtAVvUy51B9n006ozETiRzFjGoX5GZ8i1DFEmxCgx
+#EXTINF:-1 tvg-name="9月23日08:15_NFL常规赛_雄狮vs乌鸦 王子星 罗森" tvg-logo="https://live.fanmingming.cn/tv/9月23日08:15_NFL常规赛_雄狮vs乌鸦 王子星 罗森.png" group-title="冰茶体育",9月23日08:15_NFL常规赛_雄狮vs乌鸦 王子星 罗森
+https://migu.188766.xyz/play?migutoken=9d980159c5e0003d12af30d17819cb8c&id=NafrT05r5mLH8IQdsvU5226g%2BieQgrpzg9EiZJFiyVLeqNi%2FEoX%2B8wW2kLoiJruZS5yLlMj2QApC673dxVSO%2FGrqMds01nS%2B10FUIgtqHPLAS7ZlWNS16ThfhX0OX3%2FD%2BictsNBDopeNrghhOaenjTvkoirxO9G64NLpVj8tEh7gksNv7aStJpFQp515nxVXOEHtoG2FiMYyUdazZXVBsjxMgEr2w%2BnpzRDnap53OhLshC31NNlXONdpH3YWPHLrzmDL4XQrbp9V9X5lFmWqqhbbTwdzEG4vBbutG3VER48%3D&name=DclS90zcMca25ojGDbGsMocXemh95rXKvLlaSw81lxUgf27S0dM12RIMtszK4wyZrpaESFHKg6WGDpjAcbY09WAP1zp8PdGRFrBnN26%2B0Jo%3D
+#EXTINF:-1 tvg-name="9月23日08:15_NFL常规赛_雄狮vs乌鸦 英文解说" tvg-logo="https://live.fanmingming.cn/tv/9月23日08:15_NFL常规赛_雄狮vs乌鸦 英文解说.png" group-title="冰茶体育",9月23日08:15_NFL常规赛_雄狮vs乌鸦 英文解说
+https://migu.188766.xyz/play?migutoken=0fc7cab45f16283b8e4525244065d87b&id=K7RLQpRs%2F3s4yy8Gj96XsHFHYbyRkBYbmnU0QZOVygKFtvbLnjxYbbrXWMahU7nYMZgHgUbbo0AgvQBE6HcQtm7b4RCFpIk8aHPUsqztpOpZ9HPa0FUKXLz3k23ujHl4WCeWJfbYP22AIX9Xeypn%2FhvccvYgNTnDn2qpJiTJ25v7uYMDylsLwHvMY59JbDHNLHpL46WGJs8cEu60Z3XfRsk3KaenPlxPQzzOjZwc1mFgQmeO3aqlmVGTNqYa7oPvktkU9r2B%2FsevXrEOhO%2BqM%2BFhl9OkYjHOrW1RkHx2GR4%3D&name=SwpX9Pmwwhat3AwM9AhOfwlWsiYzKqOhp98fxaGwJS43TdTovs7xh25MW%2FltiCbRCeu%2Bp16KjBMHkFFy%2Bxic1qebZpyiNtgrh6AWd5To30U%3D
+#EXTINF:-1 tvg-name="9月23日11:00_2025京山网球公开赛_WTA125京山站 第2日" tvg-logo="https://live.fanmingming.cn/tv/9月23日11:00_2025京山网球公开赛_WTA125京山站 第2日.png" group-title="冰茶体育",9月23日11:00_2025京山网球公开赛_WTA125京山站 第2日
+https://migu.188766.xyz/play?migutoken=aacb1d99fd42a54171208d6c89c06aeb&id=MeKQFi8AWElzZaFsYqMswi8O4MLV8QDhGeB7JH1nxQ8tym9Jjt5PyR%2BgkGVqDzfqoIbFKNXx7c%2FBiua1UApSBNQYegPHaU2aXOKDsqCgsilTFfXZfAnZuYFWBoLeCaDihy%2BCl94pLQHSeLIJcyNGAMn9XxhOpj%2FSSgelnfllFPhSHZoexvX1Iv%2FXyTBaJovCCWrPKzer49u4iuDErfbeICxYlo2Hq9MFJZuFKWdqFVTLy3TCZ2KK%2Bqh9rsf98EmR5a2zURpmuvY%2F0fcJadRWhLnfSx9vNki%2BeIp%2FS3TdS5M%3D&name=itT1kNHL3Nu%2FblRJSVVvJ02nS47Ptv9NBhmQUTpEdukfmACZ3AkgownmhRi%2B%2FCJnmJTlr94IudL%2FOjHKWETxZeldL1vNYnUVRjehCqqY69SLo9asDHnpc5Djay4%2BBFFZ
+#EXTINF:-1 tvg-name="9月23日11:05_WTA125京山站1/16决赛_马烨欣vs伯雷奇" tvg-logo="https://live.fanmingming.cn/tv/9月23日11:05_WTA125京山站1/16决赛_马烨欣vs伯雷奇.png" group-title="冰茶体育",9月23日11:05_WTA125京山站1/16决赛_马烨欣vs伯雷奇
+https://migu.188766.xyz/play?migutoken=f4b8f26415f5838c34a2d552a22e14d0&id=wgOnIlUqgfD9auvIEyvJHd8NqtKgRtFdL4HjqNJ7UsdIqUz4C841qfJMp0Cgx5hrAzhsZ%2Bo8%2FxflLeFh5GSlR8%2BLlN0NyYcmWEdbc%2B3L5x5s%2FVL01fhi3lql9U%2BMcRCxMftbfYNLTEMjoHBi9mOKXUAlla2x8vql%2Bmbh4FFeVfyjG3EhIJlHb6%2BO2dLw0n%2BNnAolCqpExTiCM6bZtkbhisp50ifVxRl70yENynXfDrWcdF0OCAqZRjfvtYjgfOR3oXkhmv3rpmLeko9ZbNWHXOlmf9SHu4OUZb4eossWrlQ%3D&name=C0R%2B33os3bIzExPn6J4jKJrH9rPweh%2BIRBfxx0bKttc9TS%2BNbbq0hr5kVbhkJblhQn964fhI%2F3KzRod49o2TZBce5NR2I18iOhkKuKVmXqM%3D
+#EXTINF:-1 tvg-name="9月23日12:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs菲律宾" tvg-logo="https://live.fanmingming.cn/tv/9月23日12:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs菲律宾.png" group-title="冰茶体育",9月23日12:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs菲律宾
+https://migu.188766.xyz/play?migutoken=a2913092f1613aa439320cfcd2c5fe4c&id=R1AmSqi84qlYeAEdut%2Bt4g5u2d2EUfFVcSY6OqwZivj5UaruZPJWpKEKsl3iiiWzq1KnEi6WzWTzO4fSlG2StI4QCNovMsxrduk3bahcpcrUjPcAwKrBN4Qe4lk9hLWbmtfdoKfh7VTzipyk0X5NtkM%2BZXzYxB7zdr7T8BZ0Gdhtkhw4oPWxt%2BUXKT7CYvHLjvLmFFIpYNd%2BQkmEbI6LPm3QSDvx0h4GpCSlES%2FmIZOcgQQvx1TXQlbS2MNsXD8rbCVMIGNmAdTy0BIFpqMZlFE3Fnu52Fh1Djq6X19dxg8%3D&name=MZvOrtaI2mrKNODg%2B1JX%2BDEZIja2ll5lotXgZf7nQF8YKwEHHqnea5l9vTzAjqdQylorbQm6%2FCNRj%2B%2Bwcm9ZjTJoyh7%2BUmJ6TceEtOvHJx%2F8Jc2j8i7MUTHEHhYOTKkC4%2Fp4nNk9kqw4aqu4%2FAMVdA%3D%3D
+#EXTINF:-1 tvg-name="9月23日18:30_2025年U21与CUBAL对抗赛_湖南工业大学 VS 上海久事" tvg-logo="https://live.fanmingming.cn/tv/9月23日18:30_2025年U21与CUBAL对抗赛_湖南工业大学 VS 上海久事.png" group-title="冰茶体育",9月23日18:30_2025年U21与CUBAL对抗赛_湖南工业大学 VS 上海久事
+https://migu.188766.xyz/play?migutoken=13853edeacd6dc1a4f1aa28943d9d873&id=HFYU%2FSx8kNcu86DvCpTqpINFCfUlygLw2NyYn2bOd5JCuSzr7Ay%2BZADoGq0aZ6Gu2axz4bx%2BvNS4x3uPmew7N1bxMVYYllCcdgJsWai602mPprqOPZUwYfZEKNXBBGYZNuABUXuPddxFhMTz7HGJAW2EP980X3hwonX%2FdSnJMigUd36vEabEDbzRfaD78CleZ91MXYPbS29ZrjgFPOInWXubDA%2FT%2BdGDVsvBIcJ%2BcS1l3bHhcDfS86PDy0rS4oR8SneJ8ITcjqEcLrit9x6F1rzWbSHAV4mgqQQQcP6gP1s%3D&name=ElOmAWjjYz9WZyw0MsdKq9pGoNvfjcozHcWlkRGcA3aDEOanfw%2F%2FAUqfcoo21tSvD1GwaFzJ%2Bdde7bR5P82I%2F5mNept9a9gLFh8Yez4I71JHac8PA9nCwzL9P0N87Au5
+#EXTINF:-1 tvg-name="9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 英文解说AI翻译" tvg-logo="https://live.fanmingming.cn/tv/9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 英文解说AI翻译.png" group-title="冰茶体育",9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 英文解说AI翻译
+https://migu.188766.xyz/play?migutoken=6b34c5ada55c270e8c5742ef32ca307b&id=DsIE91IkSHASwR%2FNN%2B13AQL2sUCVjov%2BBHq8CN2X6mRm00TRU32HHCaePepNc2bvyY2V9xoXHdnwruhTw2zD74AT9JBcLeY63r5NNmlg%2BAo3lEzzPwFyDxwo3GV%2FDGdFPAoYu%2FkeMbu0iOx0CaBjxhEJenMP30HcZ6y05c%2FbuYcCVuxn6kJArYgfZDBm%2Bre9NvHef67tbwN4dMPGlGKF4MVkZqJQfxOTL4GQG74LZGIl6cr21oit3j6uyh4spmjua%2B8I8UHS2QWALzC%2FfqwULvmVl5vJmJ9VOBnIaZkJTr8%3D&name=iF%2F%2BH5iKKvPgTxmf5DFgEnEztVC%2Fuyh1RLbOQacdq7lheUDRHO4cbzpIeiyqN%2BY7Tgq8Ozo%2BQu7Ivcoo5B6fNhm6y2U7ce24Nx18QygX4iLbrgmf%2FPz8FwcYbas17QcR
+#EXTINF:-1 tvg-name="9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 赛场原声.png" group-title="冰茶体育",9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 赛场原声
+https://migu.188766.xyz/play?migutoken=7cafe306e0045fcda935cd0854e2c228&id=65jgWskY9V%2FNYx2knTzKRluyKmMN%2BgWwfrvUa4%2F2UhjljuBkYofdwQI9MD0cPFUEH0CxcYtIKxtHJvM6N402je2MZLNVAqYZvscGsjOarDQF%2BdJUCBSaCvVVSilQmH65BMphW2rK27cBYDfkhQU1MpP9NV9xae3Xu95leAefK1uB3b7r3y7nH4qU1TY9W8jwKAMfM7zSyxF2Er34G2fWKT2WIm0g3MSVsRjvW7qkHONOTS4L%2BY%2BleDyXDLqPatoZ6Ql3mcD%2FfMx007cb0yEjx%2BL23sXnggMY29Vui3vb3lQ%3D&name=NTexDAQhj3D12%2F86u7L7Vp%2FA3EncSTEq%2FJ5Tko4he0bti6%2BoOy3ARYpPV1OtfeJKOQCRZu1RUTFOXrPgMJjDrXFQOXrWHSdAsx%2FafkbHDnBDAYv6AJ8x28MgUrlehjWT
+#EXTINF:-1 tvg-name="9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 邱超" tvg-logo="https://live.fanmingming.cn/tv/9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 邱超.png" group-title="冰茶体育",9月23日19:10_ATP250成都站决赛_穆塞蒂vs塔比洛 邱超
+https://migu.188766.xyz/play?migutoken=0a113bc078eef4516cccfaa2066ec5f4&id=2FGt7yTLANjt%2FkTPE3haXznIkHRQYTPQz%2F2ghyhwVZvwpk0XWFjFkJgWjaIGSWfomJiQ8J%2FfTdy0TX4RB7ZhIJa4%2Furz5lXsS7%2FmVSng0XEj3qReQG2T6TscAcV%2FIMSbXGNPY4ZP%2Ftw6y3Bsl5swK6yYuF44tEeP8iCg7mlLl26zzcErBjWtum2wvKz6bonrdisdGiX%2BiVfWvtq9X7aS1mjdjbpcuJIQIicShtMS3DMDxuck2Moih0ZDjBnIQ9oFsFdQz9AbJ6e%2FqMFk6RmYTZu5FUztR5sU1I21sq6sOlU%3D&name=RVnpjzlWEvnclwabwmk2TKBuIWumnyphbNtcHP4u2w0GY6TyXv%2Bhxct6FxdseoyYuQ4ZZaa%2Fa52KCXdYtSf6krGnDqxYSXsPhZG%2BpkhFzr40aKBFzBUGHmPTGLYxNW4Y
+#EXTINF:-1 tvg-name="9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 刘钟鸣" tvg-logo="https://live.fanmingming.cn/tv/9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 刘钟鸣.png" group-title="冰茶体育",9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 刘钟鸣
+https://migu.188766.xyz/play?migutoken=d49dd41a70a3e5373e5ff21a9be68d3d&id=wvLFHCUqb1QIp7bgFp9dYz3i%2FHIXD9BOMOeLeWvg3r9vWkXHxo7zPLnN8zpLW42bKFhJZX5AeAQ1mwnGSdBRtsYIUpgSOmH8fux1DxrP9%2B8tYGsaGuRLFbYv1RkJywxTHl%2F8nxhL1jKHnt20RXaqC4uyU33ntBY54oiqcYcp4vCN%2Fuzkied5XMDSRxL4plVzgJvVtwUOGBTxXzo1Ettpq6pz6qLG28IleOCuv8JJPC5%2B4S6U7x809tZaz9v45MYgJTnFAP37Rd3ViQLF2ZArtPljTfuYBQs3yG74xSDnets%3D&name=ec9MzxxrY6wMefZ9kkhQ8n6h00y6%2F3zth6tYF%2BZbmBV%2FMaLJroFUwRuQkB08eevHo1imyN5TQs78RgIkGOeCctawk1WvUzJE8oxyYYnjBL0LpHyrcGXHnYJCTs7xUquW
+#EXTINF:-1 tvg-name="9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 英文解说AI翻译" tvg-logo="https://live.fanmingming.cn/tv/9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 英文解说AI翻译.png" group-title="冰茶体育",9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 英文解说AI翻译
+https://migu.188766.xyz/play?migutoken=25b0e731c0ef62a9b7696d023b33dc20&id=HgALrylUd70HoRERzKOiwVuHJWkvCaz%2B8XYCBk2g%2BPWI9jHCPQv%2B0EyeMagTe%2FJ8oOXfh1wclWdxppDpu45xX4t3TPcefRtWkN7khDU3aOGycBdka8XUKKpEbABMyO0b4i36fdN8yR8Jp%2FbKlA9CFwTxaRKfueBL8fvrGp4PtObLjwtxt%2FKFhZ6Ju7Oatg4vcWKzQyC49%2B7d2bmXkX0CIHIdTmEvNcqkeX5LKBlPY6%2FaESLf4E1VF1N%2B%2FFz5bA4uKUMxPb4pCal27Bjkw77KFNLkaEeU1rstrfgI2rdo3ho%3D&name=W71WJnczqMuMYc26ZTk8kIyWCLkfglu1BcZ%2F30kVftCgtQwOlY9RESVtC07EZCb7sJz4PczlknxC4obxSv6kpxJ%2FGH3TjSOrCjfrO%2FiT6hOK%2BxHcImGkoAERem0Ee%2FoLQsLV4uf2xpcVQgOMeuGDEA%3D%3D
+#EXTINF:-1 tvg-name="9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 赛场原声.png" group-title="冰茶体育",9月23日19:40_ATP250杭州站决赛_鲁瓦耶vs布勃利克 赛场原声
+https://migu.188766.xyz/play?migutoken=a6b196123f639722d115fd20e1d5fb28&id=XGBdDmMSF4cfivNt%2FLlZMuIfrfHSyVbVqk%2BQ9EwCihSMgQzPsovmYCA8c2vH8sFXf%2BBUCI42GSuy2Rs7cHbqc8%2Fw%2F%2BnPF2qdvTJUmEZ1iBnAyDJkud%2FyU%2FzxjtNslF6tZQHjRoykGJ9rgGa27vlKME0OlkkMsl4g2QWuJDjsOsZZ6jDKxEcSKRGCdSJs%2BhMUF%2FocJpBdg4mkTlZBaVK2hJaxFsuVnW8lsRYBIB1zSNQF%2Fh9SQzxAX5NiWQkwXQ27FKOnK7e90xnQFDH6L6M%2FWYJqMP6zfxxHmkmCAoJqSAc%3D&name=wOSKRIdpDZghGpxtKxncyTeRul4snt6KHSnINQpuj94qbI4ba5GM%2F6FAa9v4Qqmky05zMVDu4jdXk3qUrEuUlXr0AsJo%2F6pNygaE2UzC%2FbtsldgRT5Yx46i6ZP3%2Bq6uK
+#EXTINF:-1 tvg-name="9月23日20:30_2025年U21与CUBAL对抗赛_上海交通大学 VS 浙江广厦" tvg-logo="https://live.fanmingming.cn/tv/9月23日20:30_2025年U21与CUBAL对抗赛_上海交通大学 VS 浙江广厦.png" group-title="冰茶体育",9月23日20:30_2025年U21与CUBAL对抗赛_上海交通大学 VS 浙江广厦
+https://migu.188766.xyz/play?migutoken=c9db1ecefe50f94808cd901cc0e06465&id=9%2B1VmXpIl8mzxos2Uw%2B8mav7DoCuuJF4qvW%2FEcUW4XKqjsfbq47YAD%2BIRcCK%2BrNd7rDLfL7aiVMjthD8BBgCwiWfW7fR6Xh1lkTrKWaGKm7VgbMF%2B6ot%2Fs%2FwNEV0ki%2BobnTNr8vEY%2BoS4qFijKSFwaf5RYTwoADxUBMjUbHwj4qSpOEt3GqkPu2cxeBa6GITBktgG0YzDT1MuSKnsc7Mh40smuQQfxJBelcBtVpQkWVsBgAWjYswPVq6W5AmzCFrh7rnDlrcQO5kYntwYCkFp9hMRGKTUIyPVrlSCjx1Kvo%3D&name=uVgsgOBZ9lyQyFJ5%2B0BCygStqIGdIowNg28F7BLFLArAPfg%2FQXyorAA5%2BFW0AumiWc5h%2B54gz9giA2oAmDO4sp0%2FX8MKjmN9uZA3fDEGgTCmnvB5N6i2ve%2Bbuxykx06j
+#EXTINF:-1 tvg-name="9月24日00:55西甲_毕尔巴鄂vs吉罗纳" tvg-logo="https://live.fanmingming.cn/tv/9月24日00:55西甲_毕尔巴鄂vs吉罗纳.png" group-title="冰茶体育",9月24日00:55西甲_毕尔巴鄂vs吉罗纳
+https://migu.188766.xyz/play?migutoken=ea726d8eaa969dadefe32c3b5fb29cd4&id=40E042T8SlKXHnOog5MQ4WfW2WC361avzaxlb2TyWm66KfnZJnWbDr80jXcUuaT4OS%2FZPLh0DwX7eygjWTBU%2BX%2FtEYEkVeGLKuBjBM5gcibX8SMwyhAL%2BIFLgQM07D46dJxO3C524de6Suc9xgL88TsleH05Y6devGQdUl%2B4jnyGCrSapzVgHYd%2FVBbFudChZaYtUWwkV4zabHgZNuUZ9T48sqflCyvCwBgF3rNsAyNXQ0TTEHCltDUE%2FikKZiCGz%2BT4ZwjESs2H7ZeTebHRaqwUWw6YLxli%2BVzFCFTLzfrbyMcfgbcFquWgyWTcB2ZHvlb689mMau%2BurRuO%2FoDtciHs6s9AmFkZkSS8c9MRSaIF6C0TIQf3LWoYAJti3VFl9Gng7288JVoS6WS4Tdm7Bg%3D%3D&name=4YBZD9r0NxN4B9fwKrFqxsZFMkZyahsCRj%2B3UNBmvQeedv30tG3esFvPiiFEs%2FmkYul6tImDNQQR7uv%2FIDjLNg%3D%3D
+#EXTINF:-1 tvg-name="9月24日00:55西甲_西班牙人vs瓦伦西亚" tvg-logo="https://live.fanmingming.cn/tv/9月24日00:55西甲_西班牙人vs瓦伦西亚.png" group-title="冰茶体育",9月24日00:55西甲_西班牙人vs瓦伦西亚
+https://migu.188766.xyz/play?migutoken=4649f3d9cbfebd4dd63c0dd49727a799&id=Jo9BT4WBCg0eU67NyP51swPIHsubCapGRfteZI8SbWHXj74LH2W07W3BEAe3Vainoe5J0TMAwqEhHP2oDg3ox%2F6g2wj0WNVqGzWoanK8%2BEWUizGHgUJf0kq0Xp8lDVcT5lsL4WTNuIF197ONRprfEsBTGKaV1KZnYU4DvP7tEL0K8YnZKUBx8shRD4sNjn3Q51d%2FbLpV8VgKuYI926Bltv2tUhUJ5kvVO8MwvRbgN6E%2BqwFRQ5whJEOQ0bGCDjX3%2FDeqOvCH4j8joT2O1GL08Snn2mn5rA1K0N0ioHWszDghtjbJtrfNpTnL%2BcnoyulBnwTq9KoPvW6WW8iIjEjAfFsNiWQsqh8nb7hjgdfVU5ItiGkztbb%2FIFMdqvA4Ngc2A3%2BwVWqgKd%2BY9Rp%2FW%2FkHcw%3D%3D&name=os2x4i9dqJt2rHCi3YfiKJNcFhnnHkh4dRDUQGZzYH%2BeX%2B5ovOBeo4aNokT0w0Lpk0xUfozTaq9KJsj4qnDMgQ%3D%3D
+#EXTINF:-1 tvg-name="9月24日03:00_意大利杯第二轮_AC米兰 vs 莱切_全场回放（石庆圣）" tvg-logo="https://live.fanmingming.cn/tv/9月24日03:00_意大利杯第二轮_AC米兰 vs 莱切_全场回放（石庆圣）.png" group-title="冰茶体育",9月24日03:00_意大利杯第二轮_AC米兰 vs 莱切_全场回放（石庆圣）
+https://migu.188766.xyz/play?migutoken=ad7a379b0df87387ab9382281d09f8d0&id=%2FT7gnWixAHszYI8GQ9jKJZw7E6L1HCq0A5sXRBTMVMSu%2Bc5a9LLssZHcgAtjMS8NAX7D%2FrAWUO9UsYcqTNRmUv5xBoCEK07aIU4EJ0JSSeXq%2Fa%2BAJPqFhtRRRcNRnUXttr2eu0AhJtfMudfHkhgOENkNDkr%2B44kECAtCo7SRnYceSUW0pNeIepZf1POF222wPikjRM8PJxCuf%2BTV%2FEfy8w%3D%3D&name=3Zf6p%2Fj22SQ9PRWFQDbJaGf8pM%2FqqMCwXnH%2Bs1j3q1gDV1q%2F2JmKmCpjo%2BYhk2eObmi7IGEk%2BqZLJcu2sOjQxKARXtxZnMuAPB4rA5ntWB090foOhYCT491Aq4E1Ot79tuxwi6TbZ4dsg6sXn41sKQ%3D%3D
+#EXTINF:-1 tvg-name="9月24日03:15西甲_莱万特vs皇马" tvg-logo="https://live.fanmingming.cn/tv/9月24日03:15西甲_莱万特vs皇马.png" group-title="冰茶体育",9月24日03:15西甲_莱万特vs皇马
+https://migu.188766.xyz/play?migutoken=40f602874f55f010cf0ba69122575f38&id=PuYMmVzd8vsD4jJ%2FEz9fvkvJx30Le7mVpyBteAaBCWD2ICCGM1n10ScaFRmsn1LxWz4ZfBODFuKC%2BDCrVH%2F%2FwjzMb5krCId4Iv7bp5uSm1jJbNjNhZ6%2FRqpa3fV86wm4eK3TrOdbfnjA7mHMgiSVUcY7prwB0ZXFVCF1sZwYBMZtB5AAkejTwqbyV5dVeWz06%2B%2B%2BzaIV9qszCrw6kpZ4Lk5l02OiL66j%2BLtrod2ogzztnJB8sioKDvpeayaNjKn7zIg4V3bS7xgErp2E1va8rmNRbjJ%2B3WzWKnBDEhc8btQU2OuXfeqUFVm1GlBzTMAw5IZuSOKTIDCbXRY3dzXkvwiyPT85BVN9%2BXwZrZhQWLuImCuBEQHr%2BrcgcSjgaa8pMvxOyyHm%2BisChcX5cKXXWg%3D%3D&name=MHMW26nhLgS8b7nftCBRjNs56ZP0%2B9YlAd%2BjNHSJZLtThkv6uHMCCIdDsbGE4G%2FZWcaQvl7nAXdzPGEp01Z6Wg%3D%3D
+#EXTINF:-1 tvg-name="9月24日03:25西甲_塞维利亚vs比利亚雷亚尔" tvg-logo="https://live.fanmingming.cn/tv/9月24日03:25西甲_塞维利亚vs比利亚雷亚尔.png" group-title="冰茶体育",9月24日03:25西甲_塞维利亚vs比利亚雷亚尔
+https://migu.188766.xyz/play?migutoken=0eac653e1e8d40bb6893dd8f5178c165&id=CsP9KNd0EECbqjKI5QYlHVUugRh%2BgMG6QC79ykGBMtixEK%2B9dEiTjAAQtBw9maWJFvq%2FyNrJGb42cI3C3Ai1EkClJP%2BbpOyZ6k%2BRToisc4n2GLbhXyOakeHLGpDLAdJ5MQERDbBB2Sfs7DBJIxSiU57opJXslX0gNN8KJK6YSLW8SuPXZQF9dyIhKBMqq4KijFZYf1yVXZtscWHXIq6wi979nxlrG1pGsSWzoqCc4GGoJv8415FrB844DJEax0r%2B5fO6kUq%2FcBGw%2FGKcigGZ%2FN5UNk77I1d5H19aSjPKAVqUA%2BKxaBJFbApy4zBeiY39wnuJdSo%2FF8UFGwsHdWn4ki%2BSBC89ifm%2BzKDbpfeDTUW%2BELE8ck817zgGP6xbKebDONphU9zPjcQLgzwMDMELoA%3D%3D&name=RpSQxo9QFhBTOlmVNVd%2B%2BrneeURRFpBensgwBHskWsiNV2Ra%2B6pNSCfo7nw6UHKy0XmqOay5CCUmYFrgwqaIWhqJCom1D22jplEBTY2AsIQ%3D
+#EXTINF:-1 tvg-name="9月24日03:30_西甲联赛_莱万特 vs 皇家马德里_全场回放 (刘畅、孙雷)" tvg-logo="https://live.fanmingming.cn/tv/9月24日03:30_西甲联赛_莱万特 vs 皇家马德里_全场回放 (刘畅、孙雷).png" group-title="冰茶体育",9月24日03:30_西甲联赛_莱万特 vs 皇家马德里_全场回放 (刘畅、孙雷)
+https://migu.188766.xyz/play?migutoken=362f484bfdc3242d49e94df8bb2f84c8&id=t0hlZODFBa8EQakjTzo7tHmkN%2FmcJxH4sb89NWs0vmYWRCfAJ1ePS6lxSepBnAtKmw33ZMxVsRULS4S1QPNll%2F77En1mn%2FXJaZIuh0h0CAXAgUP10sjMbFPa3r%2FdRwxUyMu8QS22fA6DtbI3jDfZVUALJXo2oFzmTxSCXDrXtL0nipY%2FFxixStIssgSRE97vDz9YqOcouaBmbg82DYFxmQ%3D%3D&name=S8mG6HrV17%2FOY4nTq6r%2FX%2Bb3ujqKfqMivhGciRLzOcrEIauqCH%2FH0cNJG6Fk2lluFLQfIp%2F2ktgnTXgibaYJwwRNlbcuUOSeNfMXEr3f1Ns%2FddERRjKNcdSjkCY%2BJcUiVHG9oNy4MABKzGYAnbeEow%3D%3D
+#EXTINF:-1 tvg-name="9月24日07:30_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫" tvg-logo="https://live.fanmingming.cn/tv/9月24日07:30_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫.png" group-title="冰茶体育",9月24日07:30_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫
+https://migu.188766.xyz/play?migutoken=71dd463a1f85dc184c2e53da5417e915&id=vgVsTX5ANJYhcFRQoiuYbQwduvIZ09MtBD9kyHT2FV8G4ExP0zWk5qyR8AKCbIDZAgtjhTe5b1zmIKwr9pRGpnXEJqXBt4tJ%2FkgLwC8pG3jHYIsJAsBRvHDlaCeLEFX56ZDAf9Q5Q5ef972wNPFXIXJb05x0cVvdMesmPLU6fbQDOJ5RuDA4qI0c5G9hn4aCO0bJSX33qokPZtz87flks71Qd1R2I2U%2FSegMRtMIrF3j3YuIHrt%2B%2F5f5MNtxo8wGoi9JynJmagzSsAuhOgcIXG2wlnjP3tbx1x6En7mcGcA%3D&name=wQlsGW2xjG5J0Bu%2B9G%2B%2FC3tAEOpcDdzHXFkT4SbYjB60F7pji7bZXhv%2F%2BGwVT6ZzznLkqFRNUSvIXltKq2b8%2B2TZ1ZgjhwK%2BgkAVjjQSWO1SqPLP2Ub7j2YCogBmuAjf
+#EXTINF:-1 tvg-name="9月24日07:30_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫 英文原声" tvg-logo="https://live.fanmingming.cn/tv/9月24日07:30_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫 英文原声.png" group-title="冰茶体育",9月24日07:30_WNBA季后赛_菲尼克斯水星vs明尼苏达山猫 英文原声
+https://migu.188766.xyz/play?migutoken=0558ddd73b92b369267bebcb9b76d960&id=WsyqHYqVb3klHYPY5VFdr88nCpqoLEiVlOCwt1WAwE619htEwfHSTH87Q6QdOpfZJwk7aJnZ6VAvkQsxYkuBpa8FDQBJ%2FFUM3cjptQ7TVizljbq9YWBhjkBTYjnI17KLZVuFXyGkHbixf7oLl6Wmaf2kV9Qvs3n0yzQDvKU8uh0JpYSv2WHjR4oU%2FneLz44MzqeOPU8XWEKdre3niwFrSgBNV0ATpcdOuCyu80ffkFHw1MvXH8iXbyyWT9cZ4Y9wKJDjLUhiA%2BltNAv3PyGj4ACzTJpk18tsBVDr44ZDrws%3D&name=V01BkfaJASsGScirFElnPlU6ZpErjYETOqSJAhG1FvAbso0PESLGdF5JS%2BS2tyRGkxm0qxdRnRvtBWCsucN2YoJoCqI%2FLaW%2BOjO%2FaGaeniavP3OPYlp2BOOku%2BLVii38Q5Iy3iamk4SJ%2BQFOS5q1ow%3D%3D
+#EXTINF:-1 tvg-name="9月24日09:30_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌" tvg-logo="https://live.fanmingming.cn/tv/9月24日09:30_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌.png" group-title="冰茶体育",9月24日09:30_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌
+https://migu.188766.xyz/play?migutoken=17295ac941c17ba3d177291fd77bb4c2&id=XcSiWoEODskUvxd3M33JV%2BgYen%2FxAyyOKnH5RVQh41HALqKaSapDYr4uZfE0h7gbNhNc9GVZ28ejiY4bVrsklCQRlP2Dnnreif%2FZDWMXHCRfm6DWVfzcQy7NVny4gXZCdMMDn9jCAkHD7djz92XfEGOPFQyntWpxLQF5RiiI0rQ00sg9Gjcyxt8OKRelVfGKlg7DxE9sohz9K%2BaKD8OmfzvsijHH284aEcSqfAMpME3ZPYTriaPcGyMizj0Xjn4I6GIuU%2FwG%2FUPnzxp4Ze2ft2uLeR%2BrojcaVaJm%2FJokEFk%3D&name=cglCPPTXMD0512StYtsLee3YPNmX0XAb%2FWzwagf3O%2FXE20lb7PWlC9YvRDyexBbqEnGF%2FRwLtdJzdAJ7xJfYo2Hog6TBVuWpKl7t297sob2ZjAfQC3c94tyB0KU3ZPoM
+#EXTINF:-1 tvg-name="9月24日09:30_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌 英文原声" tvg-logo="https://live.fanmingming.cn/tv/9月24日09:30_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌 英文原声.png" group-title="冰茶体育",9月24日09:30_WNBA季后赛_印第安纳狂热vs拉斯维加斯王牌 英文原声
+https://migu.188766.xyz/play?migutoken=680cad46e287d8a7c1b73e018c41aab2&id=Ria4PY8sCpzwnQl%2FmN3z7osS5HILwKZeYMpLDjflXjt%2B4lQe6BlrQ64ESfjSdQNz6DRLv0IOpXli6rd9FtMktfDecSA51m4Rwal%2BUW2KT1x5axCCucAZQNDpLWiWu7BodV6yI%2BcjR7iVL1rGP2GAlmcZZwgbdb%2FZKan1D%2BpGGldiL5Pd%2BpBlN1syQLaiSzmfTnF5wZVUQNIZ6E2dGvs03KVsnAn0QYd24xaYFu4i3raJYxUEzE3OhHir%2Fje5vlCCAqqGi9U1ZdzeSZywdYWAaDBKYq5w37%2B8Ne1AfKOrEds%3D&name=iLe77lV72pwe7SL37wdRsp%2BKYAo4rR0HwFd45Bk9W6HoexAaU8PzJtY9rtqAb6xC0TH%2BPIXa%2FBn4oUdp6KWsfUGoGOuTc3cBFHPw3gjfR3fCpz%2BcZW7XF3l4SwF1jxfZL5b3bLTNQOziWRtrUuKxlg%3D%3D
+#EXTINF:-1 tvg-name="9月24日10:30_2025京山网球公开赛_WTA125京山站 第3日" tvg-logo="https://live.fanmingming.cn/tv/9月24日10:30_2025京山网球公开赛_WTA125京山站 第3日.png" group-title="冰茶体育",9月24日10:30_2025京山网球公开赛_WTA125京山站 第3日
+https://migu.188766.xyz/play?migutoken=e765d12cd7e84de76cb33edb7cd395dc&id=jXdJjPn94j%2FgNQqnah%2BWqTdqNwuP%2F5kcvi6ctbb%2F3xeZFN2Tn4xwtV6UjTJ%2BrRakDP%2FBShKWEm%2FicHEePDNcMD8RY9x4r597Av4eCYusEPTAgtJFPlwELTyfvaSnX%2BRwwPcTeqjTjOTkwhqKbEoqSr6a6kBAWU%2ByUdzb5zvwlRVuRruSXQK0e%2F3YhUC64jqxC%2FM%2FoQeAyOvzXF82Ex%2B%2BF1RTsApVQwL8cpp5OtA0gzA8fgUVbohL8rS5xhKz4JJ84sdR6%2FBHSCdejBjyITvI%2FVQM0oCpmNAuAPxUdzqxm9dQ1HsMVVBH4MfaxVSdTSrp&name=sofgAPujkvrB%2B1Zx9cWeKjLZCfno81e7f0T%2BD4plCNLHokLsQYghIZIXxipul8povzXyvwxLW5DYnlFlDgcQVK32eJu0gLwiPewS8%2BdC7otI4dEIn6rCR0%2Bip2jwrTvc
+#EXTINF:-1 tvg-name="9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_单文强" tvg-logo="https://live.fanmingming.cn/tv/9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_单文强.png" group-title="冰茶体育",9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_单文强
+https://migu.188766.xyz/play?migutoken=76f1b984cf15107942a91e0291e5abf1&id=wBtRk32Y6D3fxi3WTUg99r%2B6imHS%2BuQzqwGeSmNWm3OpLtDCuwutJoYJoglh1Iaq5ln8FSvFe3pWHQecdtIoTON5BF4D5Z0aC6Qo5%2Fp%2Be%2Bl099AzmCDoBfYaY9JDTTVGBNZPEAKRNUQp0ojs84rErjE1tPoPhLfWdVjh2cfRE%2Ba%2B8sFekxiKRCFit1moQJNQrn%2BpDQyiENwoCHP3P0Ehkg%3D%3D&name=zhHUlE646MdOO2W5LFnEPje9ngfbmLDuDTytU6XNUv1sZhCa5jwHAemi7C%2FtJ9yHIhflNERr%2BYQ%2BuTsJFedvaLM3L%2FSQKHZ8lIb38XVTnY1qNi273U%2FDOo8RIWlCBfCmuAyps1TZDvWVaTkyGj7sMdp0rgyhDjNg%2BehVV17xtvUaRp4kdLguc5%2FeLRJqVGrG%2F7VLdfU4d7LKcZQ7lehJ91dAezdpovwaFx2ThbQnWFw%3D
+#EXTINF:-1 tvg-name="9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_布拉德球场（清流）" tvg-logo="https://live.fanmingming.cn/tv/9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_布拉德球场（清流）.png" group-title="冰茶体育",9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_布拉德球场（清流）
+https://migu.188766.xyz/play?migutoken=06a988248eeeec05c4aa45a7757f3306&id=gKuyuQ4OElGCQuRCUdqny2MC5j%2FRiEL903Ko%2FLsnsNEzXDEZ7O5NfSZC4kUXswZgaJ5e7qGuz1ND%2FTZBXzOriZYzNoZG0YYtJRdfT2QM7MfVbhs74BHh35d0l7bvhkKX1k4cMZZtTHu88bLazHx5HELCjN7sFlX%2FJ0DHHA0sYHCwqw34kD85iS6lJkMXxfoEmSQuoI6wz8%2FAdfeBt15aYQ%3D%3D&name=%2B%2BI6fwL6ktlA5dsUYkuy1d4%2FRd53W8UkN3Njz1BpFDPc%2BFon1On26rILbgxW%2BF9kjvPrcgzz6bBYEzAIziWf%2By43x2nc4JZKo0y%2FIcWQxWshdkPObHyTYq0uzlE6zIIJ0FBxwepyxCe9qwBQBXIMmasL5n3w5Yt1Vhg4GB0HYBRlJL1tzIQdDuBuAHjutAOXpczu2C%2FFl%2B%2FgsjDG8kR1jmj52Lz85GbRzVe5HJV1N7Kbg4cyxYUvTqbSqcECSPdD
+#EXTINF:-1 tvg-name="9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_映月球场（清流）" tvg-logo="https://live.fanmingming.cn/tv/9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_映月球场（清流）.png" group-title="冰茶体育",9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_映月球场（清流）
+https://migu.188766.xyz/play?migutoken=a9de9e432b189b477b10035212d6604c&id=Nc0DSbwPatJAqFlundVS2cngBGDvFSO3ZliyMQUpT7A5G9ZeCWb7QFmxEqfZ4R8UeafMl1UdFHTNU8kUDVnf%2FQDMs16l1aJUr4xeExeKLqz7BXzBcgd0huefGMQO6SJLCE0P3aTKjT1rKI%2BfaAhSoptvD8tzmb1jLzkNaotCo4zrIak4ijsb9A9wLqSvcmmSILcFRxxTCXHNFMAYjUWOGA%3D%3D&name=5uWOeGGy1kQ43bO3MdsjgThHQj3vu2gqO6yyv54OdcDNyFaE92Gwsd%2FnzZ3FsmF8G05HEsVay%2Bng3l8EB61lPQ2zo8jMRFaGSG7J58GiKyXDuyz2KIhS5IMVHHx855KcNtCPqzSaWYNRGul4EaYyx%2FWfvNMl1IcZIxT%2F5WDlCNc51pcD8o32BnjS6Uou4eI1Tnu5pbQe4jx3dzh6OoXJ7OIlbnpo1kS3AVA249AhyDDrf42FxqPvDVEmVR0dKmbj
+#EXTINF:-1 tvg-name="9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（4K清流）" tvg-logo="https://live.fanmingming.cn/tv/9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（4K清流）.png" group-title="冰茶体育",9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（4K清流）
+https://migu.188766.xyz/play?migutoken=0ccfe2819b936ada8c1547c202c48250&id=uzIRd4NSVmjWUd%2FE3H7Nn6YCt9WvwuT8Pnw2aWfGbvSVrGDI97FqXWLmO%2FDYN11IN5opRnK69cPIiRGNgpwD5E5dOeIiLEgGoc8bw56Qvot21zhd8W1P%2FBrwU8avN3EAV20SKPm99cKgmvSfaw3B%2BUnzFhQOJjGli76d2X9ZnQ77mhTSlnjFVE6rObF1yfD%2B27hcg1KljSd4CVYnMpLodg%3D%3D&name=IkqF7Gwz5ZRSBmJhBlofqXG3ROlnYbxrZHW6MKLqhQELZKQVMyr1A2Qk8fgdBCTuQlV3AObdOssdatssvAUGWgCMUAHthGTr3ZQWGVXmodKxPMPezuERVTYiPdXZ1Mb1AMJ4hI1%2Fua5NPb4oMlOwIqtDi3iyrA4gIoaAtFbnM4AbamC7%2B%2Fsw3cXugDLaTpxaKVVBJ4DdBymwNk0vhAE7KvKPw5bVOjgcuw4hDSwsnj2N9f%2BvvBvZ2clt6vFYJW6M
+#EXTINF:-1 tvg-name="9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（清流）" tvg-logo="https://live.fanmingming.cn/tv/9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（清流）.png" group-title="冰茶体育",9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_莲花球场（清流）
+https://migu.188766.xyz/play?migutoken=d1535813987c4dcb0a70352537e92f79&id=uG%2BEnHmTPpcgXCaX5XVtO2swd4Bku8I6SW1gKiJ2du2u2rCiRFUw4iqNOKfIAjNv0diT6xdaTFvsS5gCG7gE0g2%2FAeA8VYRPVAbvTY%2FtAwBUSA5xpbJll8MkirHPBo2AR9dvJqXhHa%2FT1dQz5bDhVgpXq%2FMI4SosqGM3XrBs4ZwQfMMBXHdGbJ79D2AkNMIM%2F19pm3ZJMGVQR2wblWKSig%3D%3D&name=mJKMLsnb2n2eno%2BNmSCt6OE0T8tI4rbFGxnJ%2Btm4YkWJ9UbnMgH76bs1Si1iUW6FslIGwNmCFWc29JxrrRbF4j93QGLhmt4C4N89FFuvnWUXSr5SFHB%2B5uqX0%2FpG6EjqRXxpmmbP1LWomk8j1C%2B5m2rwceMMHKpxWSBQEXA859HTV193dlpEEh0Kd6HbxqIda58PaIxkjF%2FxXMkRn4wsdulJnqpyh37LIU0SeO3mUM6U8KOfxY5%2BNXBPxflgw0Fn
+#EXTINF:-1 tvg-name="9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（4K清流）" tvg-logo="https://live.fanmingming.cn/tv/9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（4K清流）.png" group-title="冰茶体育",9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（4K清流）
+https://migu.188766.xyz/play?migutoken=b07f6e8fc6ad6a415eb8d4e49d3db020&id=CMY7H86Q9d5EF9y0%2FfG%2F5rsmgACgMUQr6UPsnL2reEVGRh9s05YYhg4EBQBv42gLtA1B2tNhVzI2PoGM6jxU6ZSu1jb8yO6fxt5F9Stk0CVuyRF7rzy9h2xYYN9l57zFXVh0MmHf37wEZuMZ%2FgvPEEmeY88wNfwG8gT%2FFISSdfE5dztPy6vF7uhHDDnEdkocm2y0Cvwe3CkrhQ0xRoWErg%3D%3D&name=roBzNmvU9jTSFkfzQs0y2pp8VCxoRoquPP0lonVwVJkfKOmzOXR1tLrrMZ72ufrvcybL1NzUB73nZMTKsQtzv2XxMgWtEGOnzGwW4WfMHfOK%2FutJ%2ByQs8Rj9Bcvkmu8rYkeIhHCPHo%2FWwVC8sidbUvdueWB%2Fs3in%2FzDcGVJrDPQ8ZVS%2FRLg%2FnvjIPDbYvITCWqlNG%2FBLhQ1e5TJYR7lV1qHGoKzAoCpJE1XCLkBCokkgdUUalP07N0lBt8XiJzTm
+#EXTINF:-1 tvg-name="9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（清流）" tvg-logo="https://live.fanmingming.cn/tv/9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（清流）.png" group-title="冰茶体育",9月24日11:00_中国网球公开赛女单第一轮：张帅、施晗、张瑞恩领衔中国军团_张帅、施晗、张瑞恩领衔中国军团_钻石球场（清流）
+https://migu.188766.xyz/play?migutoken=e18dab121d61bc45b1618fa6bcea57e6&id=T%2Fg1M5%2Bq0RRrfvr8Rgsz%2FZAMK18PuF4RYSb8Iv5%2FetV4TXDqlwogng%2F5MBtD6s80GAYgu%2FqpaNti3%2FILT6gr%2BxtifCBHtrXOq2SGRjbg0HjGeZym2FawK41uVDcIPV90WmsL1n5ZX6A%2FM9S7wkANyvFhAgRWUxokqlZK%2BPsJB8Ow8ST5MellOlP95UPv%2F2OVTwMaozboJ%2F7PdHFBWlTgXg%3D%3D&name=7lRea9QBSXEWT%2FSZ16xxqp7rRodwa5%2FA8d8nDXwXQhI6Cmrark8pIqm7ROSfdhn2CujdjKCaT05KAMFckPf%2Br3ein3rH7vDTu%2B9YH5%2FgZhx0gp4MB8qZk09S7LVxdDaX%2FdCAD%2FPyQJYWbnBuITrAyB1liK9pVkKzsmWjT3LaS6KcxXtA9RJE0DB5sInsh8g3PGf1AAgezvzvQSIH%2FLh2Dn%2Bi4lQJSuixdrGey23czer8pzi7RtqDlze%2BWFJ1uIhY
+#EXTINF:-1 tvg-name="9月24日14:00_NBA经典赛_NBA历史精彩回顾：库里50分刷新抢七大战得分新高" tvg-logo="https://live.fanmingming.cn/tv/9月24日14:00_NBA经典赛_NBA历史精彩回顾：库里50分刷新抢七大战得分新高.png" group-title="冰茶体育",9月24日14:00_NBA经典赛_NBA历史精彩回顾：库里50分刷新抢七大战得分新高
+https://migu.188766.xyz/play?migutoken=3cf126314cd7678d479af9642ffdc4c1&id=tfj95%2Frf9zUFgfPhc2BAfZnf2PpLkszkZGAAbHnnlq32YrLmknE8adF7uiktRgmiIr0Gcf0lii1JghSFh%2Bg%2BCtdhqMOOgfn6xsG1sl1h0loXd3gG1yqHb7EJsA%2BXUxD6xM9eC%2Bm%2FRT0R%2BE93yiAUW8Mzx1nCxQCtmm7mkBYTNHHPkLb5eO2gMoraVs58X%2BSnjgHTImCcFPLHGx35Co5rAxua8ugpNZ1pmJKCeCWpEVdlc%2FURpcojJgm3Wxv4057R%2B4khcZRAFMzxDshpJl4ZE97fpxtclJ6EE%2FP%2BUBTaFT%2FhorgaT6iTnd%2FIcEvvMTvU&name=MoKwx7sHB9lYN3SBDJ5REBKxTvLo9r6jkKAU4pfo4XnZF43hrUeOSLhiiwHDYfB90WK%2F6z2r9LFguVNgvFx5ElmJAHleN5SjzI4uCid03kCxivmdpsduuhgb%2FEtfzlu8XJEzxoC99%2FxOgUx0Xefd7g%3D%3D
+#EXTINF:-1 tvg-name="9月24日16:00_NBA经典赛_NBA历史精彩回顾：库里50分刷新抢七大战得分新高" tvg-logo="https://live.fanmingming.cn/tv/9月24日16:00_NBA经典赛_NBA历史精彩回顾：库里50分刷新抢七大战得分新高.png" group-title="冰茶体育",9月24日16:00_NBA经典赛_NBA历史精彩回顾：库里50分刷新抢七大战得分新高
+https://migu.188766.xyz/play?migutoken=cc2a3c0a8ed3255b49dd084d265dd815&id=MFE9tMf3xiNtkCXneHWmP6QMXZTh3aJGOyLp8%2Fpxs87JVMRraJn%2B1tERWmnJU40nKhnIDCfbSLab1QJdpaT6zfdPrKoq7fxYzQkAzi7XbPPC5Ne67nnqFxKYWdESQctO1oxtdj2ApWwrtnPsuPilLryFYMlQPJZJNUAjRaEAY2YD%2BxPHIcq9yhQbo%2B9vW0sc3IWePtVG0p8eHGHS4Vp4nRmasC5AS5K8eWC8twZp1cBs46n1s3nJbQOeI7d8QGjs5h7AcVYGTioGGuT1B9r3mbDUCrYcRG1qNzxBJ3QLzLGgw0k8JJpk0kPwTg5sw25P&name=T8V0pRNy%2FyyboyBff1ypJjBCXF%2BQk9jAXM30os7rTQlZztuhaNKD7lJ8l%2Fw%2BLNcK38V4SM0CNypoAuClqn3zRpPNcI7qOM2h0C0PCyTulmFRhPucc9GFHhKCQAyv%2Bp8tBuA%2F4TyuyFeMCFPLd1Znpg%3D%3D
+#EXTINF:-1 tvg-name="9月24日18:00_NBA经典赛_NBA历史精彩回顾：艾顿拿下25+20大号两双双杀太阳" tvg-logo="https://live.fanmingming.cn/tv/9月24日18:00_NBA经典赛_NBA历史精彩回顾：艾顿拿下25+20大号两双双杀太阳.png" group-title="冰茶体育",9月24日18:00_NBA经典赛_NBA历史精彩回顾：艾顿拿下25+20大号两双双杀太阳
+https://migu.188766.xyz/play?migutoken=fae8d0b750c3668914bcbf9fd986b6f2&id=Wc2LML%2FqeCdVCErqffmhOFgiLZy7SkNS07jyVdmrbCvVwVkcx%2FgdOKJM2QeLaLrfEPVSAKivoiJDsu4qqARkyfcGBsoJlpGm8R1NhD4%2B6KLdbGNYY3zyCi2jBdd7NX7Kf1HpIet5XUZ57VkLkfkmzq7fLge%2BQzcEWKtcNWnJ0y96ZxC7JbdNB2BK%2BdGuhLadbzf5QNyPgN24DSNxx7JAIAuYkhB45iiU5CiOa4JcVoIL1SHd9wNjmj1jlAWegf3KTfe1Y3r%2FLNxXkP%2BqaTlmjb7J0i6ZU6Sx5hvUIB7UUWn7Kw8jpUX%2BPqrX%2FiAIYzr9&name=QQ1fGdm9Hjd4ApRJZyhNdT6H%2FynPdHnnjbE37GBPhrR4L%2B2BIcwETPPs52Qo6clWTK2Yh82R5deDeuJcrA8hG1qSaXRhIdcuzy8FEDc8RzukB3Q41InnbtZWSV8yl0TUo2%2BoDV2vGMKaq6xIJgk0sA%3D%3D
+#EXTINF:-1 tvg-name="9月24日18:30_2025年U21与CUBAL对抗赛_浙江广厦 VS 华侨大学" tvg-logo="https://live.fanmingming.cn/tv/9月24日18:30_2025年U21与CUBAL对抗赛_浙江广厦 VS 华侨大学.png" group-title="冰茶体育",9月24日18:30_2025年U21与CUBAL对抗赛_浙江广厦 VS 华侨大学
+https://migu.188766.xyz/play?migutoken=cd7bb7522f7ee3177eba9b8d03bd6811&id=Kwc1dhAFsTMhHJhAWsmyPLcyrwRcZIgPhx3g%2FiOBBUmwPRb%2Feglwkn04d5VbRLXSVVKXX1CkV7j5wK3V17MW3FEpocbMz43uRLrFtuUHKfOGJHgY6x5ShQs0g610V3WjRhpN%2BgwZCe%2FfUwYVgGGpM8QreNtMwYaiCGfCrM4ATbM1n02Waw2XcMSPXwEx8q0USnvmZw4OwtC8sqkMcNBDGMlc3bUP92bV9B7zqBK5C4rrCvih2hxKeAmer8T6GPB47KirF%2BR6wdHnseiDnXpXcQmFHE04zj959kDIS2saB4XfuByWTJ2UE2L0pzqLeegs&name=cnfBGXdoq1yJLjYzTaXP0YRRXdG3CH7eEy%2FRVPgiQF8bmDozn%2FSXaiG%2FNO0kiI%2B9Je5Khq0bVrCNASLFzCCQFTtLPIdsmGuaIsjRNw30%2Bqrn1Svn5t5v1RnZxJ%2FwkBGE
+#EXTINF:-1 tvg-name="9月24日18:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs日本" tvg-logo="https://live.fanmingming.cn/tv/9月24日18:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs日本.png" group-title="冰茶体育",9月24日18:30_棒球亚锦赛_2025亚洲棒球锦标赛小组赛：中国vs日本
+https://migu.188766.xyz/play?migutoken=c02e188c44a3add650516f2a94f60d56&id=Qf7yRZ0TsMWcl%2FpJ1mK%2FedN2Qee0TjOHkNlRTSrJNDRcKEFc3DyWExlLP9f4OvJTJRcAjtJmBBKMyLCFF1C4Cax20iSwFNsC9FSbHv8V08NviKDtKLr%2BTcAC1KB4CjhiYRToM8wfCTPJ9zCDs8eHIZXECIl5s8zdzrEpsAQjcSULW%2BfQHDUZmcQYGiZbQ9DsLM8zomeJyOeL%2Bz45ID4%2BtpdW85SgIKagZXPiZlTtoSq%2B4VrPlpZ8LiiSoq4QCmR8jSrNBMEq6j46ivOz17%2FMyuXkXxZSTm9RfSpCO2MGSsfeIFZXDSCAam8RUXR03WRS&name=3so3jfmOfM6mzpFef083KKMGOHQRS7aSTJQ8BBpwk5ERbEsHi2XjQ0Z1brP3h%2FZHXwaiU0Qjk0mWYUq1WQen0GxGmxpmU%2Ff5NCim6ZQp5fV9wdQiZdzhkhM6gWIehQCbymNnKZZlqVZEPZ2vy4cAbw%3D%3D
+#EXTINF:-1 tvg-name="9月24日20:00_NBA经典赛_NBA历史精彩回顾：浓眉天神下凡三分压哨绝杀" tvg-logo="https://live.fanmingming.cn/tv/9月24日20:00_NBA经典赛_NBA历史精彩回顾：浓眉天神下凡三分压哨绝杀.png" group-title="冰茶体育",9月24日20:00_NBA经典赛_NBA历史精彩回顾：浓眉天神下凡三分压哨绝杀
+https://migu.188766.xyz/play?migutoken=0891430380dcb2588cbd9cbe3dff7a09&id=DOOp6Otn3renhw%2BiBJ4bIS6I90OwtoKjucFQTH%2FdZIgJTJn8eSAYSV8%2BdJjeXDv1q56RfoLkQjLWJCBGNI9R1fqwLUe7P%2FF7VqBCT6x3U3Xi13r%2BzglOTfGywzIrtdfh1cp7VLftJFyzhNGgCqT3eFkaogztMFHQuv0GmybSs68Kiw3GiyCoL30HLLy96YvyRjx%2BWMDkLx9KRPVfFiRQVjqwRkNaR9FIdAiN2fWnIewcDqLOXoP%2Bb4ODF%2FGVmVeogferFUk9C0oYy%2F88irAqVp8t108IPGS5NEX9lK0u8eMA5klcBGRDnCyzaX6ok7lh&name=7M%2BXLHwI8w%2FAa0%2F%2FtgfsrQPrOz%2BNBUba35g%2FAKriE%2FTwDIhlHFroIGwKhSxolx%2BpVB5C60Ft72fI8sA0wTz3TdWFEeZ%2BDLvAGCG3KtMcrosn0Iu7B%2Bdjengmg0CulsaiCQ5ylNiJdqZJZCvne4vnRQ%3D%3D
+#EXTINF:-1 tvg-name="9月24日20:30_2025年U21与CUBAL对抗赛_上海久事 VS 北京体育大学" tvg-logo="https://live.fanmingming.cn/tv/9月24日20:30_2025年U21与CUBAL对抗赛_上海久事 VS 北京体育大学.png" group-title="冰茶体育",9月24日20:30_2025年U21与CUBAL对抗赛_上海久事 VS 北京体育大学
+https://migu.188766.xyz/play?migutoken=02ef81deccb461632d6adbcbc94d95ab&id=XPo1v3BwGq%2BtjyK%2BZVRyrxQDzKTvXqyffUsVVFZ4Dcq2oq9Nb%2BCKX22W4wISa83pel3qlVdy8FjZSHl91qx7JenxPbnNwU3NV4X3Y0nyDG%2Fyjut31At47pxIPDUrpm9QVH77cQhCXRYAm9hKaeY%2BKpmfvOi8gDNVr1xfaNxHTKBuN9w2pVFdTNeemzqlL6zzHuZQrdXslNND7PnC4hcSMunlOJsYzof%2FQO4MV%2F8qwGNgJKXyPKvLyFZY%2BTr3Yjle2byUC5R61biXWabUMKFOJFZorYYBQDTNFDatt01jZKNyBPJwu9QTAzUnE%2F5lqxu7&name=juJtGuLzuFuL3bKPxBy6rJ2NRX79L%2FpOvIi%2FRluGbPVAtltk%2FAKxfw%2F5DyL%2FGvEZqo8CSvvneJlpl4T2rcTAQbQQUq4uDODWGfA4h04%2F8oh3Jp9eDnxAfokdeR6ySGAD
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="河南频道",咪咕视频
 #genre#
 #EXTINF:-1 tvg-name="咪咕视频-1" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-1.png" group-title="河南频道",咪咕视频-1
@@ -362,7 +510,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 #EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/河南睛彩中原.png" group-title="河南频道",河南睛彩中原
 https://migu.188766.xyz/?migutoken=ebc3a0bac80b4f326889dc3fd443ddff&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
 #EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/河南睛彩中原.png" group-title="河南频道",河南睛彩中原
-http://1.195.221.93:8822/rtp/239.16.20.122:11220
+http://1.195.229.21:8822/rtp/239.16.20.122:11220
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
@@ -375,6 +523,12 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=200000000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="睛彩广场舞-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞-移动或影视专用.png" group-title="河南频道",睛彩广场舞-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 tvg-name="睛彩广场舞-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞-移动或影视专用.png" group-title="河南频道",睛彩广场舞-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.cn/tv/睛彩河北.png" group-title="河南频道",睛彩河北
+http://106.116.243.172:9999/rtp/239.254.200.27:6000
 #EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.cn/tv/睛彩河北.png" group-title="河南频道",睛彩河北
 http://27.184.64.66:58888/rtp/239.254.200.27:6000
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
@@ -385,6 +539,10 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="睛彩竞技-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-移动或影视专用.png" group-title="河南频道",睛彩竞技-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 tvg-name="睛彩竞技-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-移动或影视专用.png" group-title="河南频道",睛彩竞技-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
@@ -397,6 +555,10 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=200000000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="睛彩篮球-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-移动或影视专用.png" group-title="河南频道",睛彩篮球-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 tvg-name="睛彩篮球-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-移动或影视专用.png" group-title="河南频道",睛彩篮球-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
@@ -405,3 +567,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="睛彩青少-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少-移动或影视专用.png" group-title="河南频道",睛彩青少-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=toShengfen&mode=1
+#EXTINF:-1 tvg-name="睛彩青少-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少-移动或影视专用.png" group-title="河南频道",睛彩青少-移动或影视专用
+http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000031315&livemode=1&stbId=toShengfen&mode=1
