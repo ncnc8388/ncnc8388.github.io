@@ -126,7 +126,7 @@ http://1.195.217.169:8822/rtp/239.16.20.73:10730
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://1.195.217.169:8822/rtp/239.16.20.85:10850
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-https://migu.188766.xyz/?migutoken=a9be91644c6364ec51d56bdc34eb468f&id=fhzw&pp=1
+https://migu.188766.xyz/?migutoken=300688a39768bd44f69cbd22908b7404&id=fhzw&pp=1
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.134.85:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -190,7 +190,7 @@ http://120.40.56.22:1000/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://120.40.58.182:1000/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-https://migu.188766.xyz/?migutoken=d13a2583b89d007a8dc2de9ed01c1bfc&id=fhzx&pp=1
+https://migu.188766.xyz/?migutoken=368fcf444825c075672e68d0da014a8e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.134.85:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -228,7 +228,7 @@ http://58.46.28.70:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
-https://migu.188766.xyz/?migutoken=2fc5e55404b9f3508356bbe7f46b2406&id=fhhk&pp=1
+https://migu.188766.xyz/?migutoken=9a1835b60e16b5d58629d0881b7012e5&id=fhhk&pp=1
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
 http://42.92.195.138:10000/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
@@ -358,7 +358,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 #EXTINF:-1 tvg-name="咪咕视频-9" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-9.png" group-title="河南频道",咪咕视频-9
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/河南睛彩中原.png" group-title="河南频道",河南睛彩中原
-https://migu.188766.xyz/?migutoken=0f88ad6657f8d59d9559b10d01834807&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
+https://migu.188766.xyz/?migutoken=3715acc5cc40f46afa8e60808630e680&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
 #EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/河南睛彩中原.png" group-title="河南频道",河南睛彩中原
 http://1.195.217.169:8822/rtp/239.16.20.122:11220
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
