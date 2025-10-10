@@ -128,6 +128,8 @@ http://1.195.213.94:8822/rtp/239.16.20.85:10850
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 https://migu.188766.xyz/?migutoken=0cc81cfc2b78af09a796e502f924f932&id=fhzw&pp=1
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+https://migu.188766.xyz/?migutoken=6a93cef4b6b325ebc72947aa76843c56&id=fhzw&pp=1
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.146.213:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.152.206:8188/udp/239.93.0.162:2192
@@ -161,8 +163,6 @@ http://175.8.182.117:7878/udp/239.76.246.134:1234
 http://58.46.31.207:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://58.46.31.207:8188/udp/239.76.246.134:1234
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
 http://123.174.106.183:8888/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
@@ -187,6 +187,8 @@ http://120.40.56.22:1000/rtp/239.61.2.183:9086
 http://120.40.58.182:1000/rtp/239.61.2.183:9086
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://migu.188766.xyz/?migutoken=532c399f58e7b320e7a6a7a44acf5055&id=fhzx&pp=1
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+https://migu.188766.xyz/?migutoken=9436a63dca436cbd22fefe40e1581626&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.146.213:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -223,14 +225,12 @@ http://175.8.182.117:7878/udp/239.76.246.135:1234
 http://58.46.31.207:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://58.46.31.207:8188/udp/239.76.246.135:1234
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
 https://migu.188766.xyz/?migutoken=904622fd4078c5f120d3a71fe8bb6616&id=fhhk&pp=1
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
-http://42.92.195.138:10000/udp/239.255.30.123:8231
+https://migu.188766.xyz/?migutoken=5b4df1038d3c3e4563d0b6e588e0e68e&id=fhhk&pp=1
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+http://42.92.195.138:10000/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://1.195.213.94:8822/rtp/239.16.20.76:10760
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
@@ -549,8 +549,8 @@ https://migu.188766.xyz/play?migutoken=b877010a04480354bffdd08ac76b5dff&id=4EfvC
 https://migu.188766.xyz/play?migutoken=0cd51b5e062bf3ac79d852f371bcdab1&id=Lbu9DZs9pnSdY7Stgew0PDhZxh9n%2FwkjMGPI%2F2gT2lsDieSwcObxmYhg%2BuU%2Bg5I7s8DO2fR%2FYqUfem%2Bby5NcfP71ckSMVjasYU3ixDd6V2t%2B7BCIeUnmPNJuUoFOB6x%2FBza1J00LT7At9%2BLhTtM9mtg4ZLn01Hn7oFps3xbZrwU9Z54lVfePmsQZkCU9bCiGpUBcgbyZVkI%2FAtUj5jZd5kBi7mSZWwTQVGRJZXle%2FL9R2PpnGK2bDrt5HIVtvX4uqWVHckAM%2By8QudC7e7Gn3tD7cTFscCtz73%2F6wsTFCc01PSqiEYz15Akq90TDA9DzdDV9OeeYwDWSg8sei1x0Fe1HvuvZYzlPbDeoJz44DdojgyYcdI1iDDuVpYI0UAl1dh2eYYJ%2BDJktviZvsnYAIA%3D%3D&name=%2FnNQVUqZbfAmFcIjbrCNNecSDavd24eKLtG9nG%2B3n1Xh97NnYJvraUZifMKWDYpktQMHF6Ii%2BS6iAQhHKXK8K0EJ9BKSSg8bwZSB%2FTBTnSbbGnRj6KJJxjSGMuF96qlb
 #EXTINF:-1 tvg-name="10月9日23:55世欧预_芬兰vs立陶宛" tvg-logo="https://live.fanmingming.cn/tv/10月9日23:55世欧预_芬兰vs立陶宛.png" group-title="冰茶体育",10月9日23:55世欧预_芬兰vs立陶宛
 https://migu.188766.xyz/play?migutoken=8e39ef765ce72364fa89303eceaf37f2&id=biQlNeauBB7SJUvoA%2BOmdmSrEMmdxM8Y8PL7tKzGc2B8A0Cc9rAH0qRvCOqXWKUEkG7RgHjTiTRFLw7jBWO%2FDZm1gq92gpfQgOA3ETtLTyCP0vPz%2FUyfBJv6SG5noGM3aYwVGbhvklJyL2vk%2Bh4klaQUm9k9ac34Y3mcFzy6YwAJcAznd6WVliq%2Bw1J4VpLoHcw%2BrFfBMd42UuaM%2B5eFL7MbPdO2sCYI0BxspuLvHQXC2Mf%2FxyfGLoO633uQPEwCZwDDNqasljSD9N5tTuDw5i0kd1dJzakKoSKdKW4H1G8zQOPAkfn%2Bms4yT%2FIreK6596Jx39%2FNeOUzYIgOOo%2B6uSLsR67v7YIfkTAZ3SfTmpwYwE3KW791w9w4b3vkmTkYFd9jvy4kEyqZMrGr9lnPCg%3D%3D&name=li850FlMhqz2bL4IXs7RawenV8bIaJjTBbORHqSJ7nGfl2rns4qPGHQJNDhBf9SxgASI5WlUYlw%2BwF1AAOSxYA%3D%3D
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩.png" group-title="冰茶体育",龙华日韩
-https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+#EXTINF:-1 tvg-name="10月02日_咪咕已支持回看_增加英语体育" tvg-logo="https://live.fanmingming.cn/tv/10月02日_咪咕已支持回看_增加英语体育.png" group-title="河南频道",10月02日_咪咕已支持回看_增加英语体育
+https://188766.xyz/yu
 #EXTINF:-1 tvg-name="10月02日_咪咕已支持回看_增加英语体育" tvg-logo="https://live.fanmingming.cn/tv/10月02日_咪咕已支持回看_增加英语体育.png" group-title="河南频道",10月02日_咪咕已支持回看_增加英语体育
 https://188766.xyz/yu
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="河南频道",咪咕视频
@@ -628,6 +628,8 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 #EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/河南睛彩中原.png" group-title="河南频道",河南睛彩中原
 https://migu.188766.xyz/?migutoken=153b38b9f50f359c35f69b064889df59&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
 #EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/河南睛彩中原.png" group-title="河南频道",河南睛彩中原
+https://migu.188766.xyz/?migutoken=d485557c03266608e4ad9eaa88bc617c&id=%E7%9D%9B%E5%BD%A9%E4%B8%AD%E5%8E%9F&type=yy
+#EXTINF:-1 tvg-name="河南睛彩中原" tvg-logo="https://live.fanmingming.cn/tv/河南睛彩中原.png" group-title="河南频道",河南睛彩中原
 http://1.195.213.94:8822/rtp/239.16.20.122:11220
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
@@ -641,6 +643,8 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=200000000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="睛彩广场舞-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩广场舞-您用的不是影视专用订阅-只能移动网络
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="睛彩广场舞-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩广场舞-您用的不是影视专用订阅-只能移动网络
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.cn/tv/睛彩河北.png" group-title="河南频道",睛彩河北
@@ -657,6 +661,8 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=200000000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩竞技-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩竞技-您用的不是影视专用订阅-只能移动网络
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
+#EXTINF:-1 tvg-name="睛彩竞技-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩竞技-您用的不是影视专用订阅-只能移动网络
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
@@ -671,6 +677,8 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=10000000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩篮球-您用的不是影视专用订阅-只能移动网络
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
+#EXTINF:-1 tvg-name="睛彩篮球-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩篮球-您用的不是影视专用订阅-只能移动网络
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
@@ -679,5 +687,7 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="睛彩青少-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩青少-您用的不是影视专用订阅-只能移动网络
+http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
 #EXTINF:-1 tvg-name="睛彩青少-您用的不是影视专用订阅-只能移动网络" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少-您用的不是影视专用订阅-只能移动网络.png" group-title="河南频道",睛彩青少-您用的不是影视专用订阅-只能移动网络
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=BingCha
