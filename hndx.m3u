@@ -130,6 +130,10 @@ https://migu.188766.xyz/?migutoken=6632bcf5db770d55c1681a2675f7be31&id=fhzw&pp=1
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 https://migu.188766.xyz/?migutoken=6c8179100c86683b4980abbea824833d&id=hk_fhzw&type=dy
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+https://migu.188766.xyz/?migutoken=6632bcf5db770d55c1681a2675f7be31&id=fhzw&pp=1
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+https://migu.188766.xyz/?migutoken=6c8179100c86683b4980abbea824833d&id=hk_fhzw&type=dy
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.146.81:8188/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.151.21:8188/udp/239.93.0.162:2192
@@ -143,6 +147,10 @@ http://171.213.243.158:8188/udp/239.93.0.162:2192
 http://220.190.54.26:8188/udp/233.50.200.191:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.180.142.54:65535/udp/239.255.30.50:8231
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+http://175.8.181.28:7878/udp/239.76.253.134:9000
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
+http://175.8.181.28:7878/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://58.46.28.110:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -182,6 +190,10 @@ https://migu.188766.xyz/?migutoken=b2b97a41d6969c5231b1364663d496bc&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://migu.188766.xyz/?migutoken=91edc784b3420a682378d8ea1ffd359f&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+https://migu.188766.xyz/?migutoken=b2b97a41d6969c5231b1364663d496bc&id=fhzx&pp=1
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+https://migu.188766.xyz/?migutoken=91edc784b3420a682378d8ea1ffd359f&id=hk_fhzx&type=dy
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.146.81:8188/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.151.21:8188/udp/239.93.0.118:2191
@@ -198,9 +210,17 @@ http://123.174.106.244:8888/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.180.142.54:65535/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+http://175.8.181.28:7878/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+http://175.8.181.28:7878/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://58.46.28.110:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://58.46.28.110:8188/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
+https://migu.188766.xyz/?migutoken=66457a0bb99c69b42e7c6b90daf69645&id=fhhk&pp=1
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
+https://migu.188766.xyz/?migutoken=6d9b00a21f219d5ebcd4265628a4270b&id=hk_fhhk&type=dy
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
 https://migu.188766.xyz/?migutoken=66457a0bb99c69b42e7c6b90daf69645&id=fhhk&pp=1
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
@@ -255,6 +275,8 @@ http://1.195.200.124:8822/rtp/239.16.20.83:10830
 http://1.195.200.124:8822/rtp/239.16.20.101:11010
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://1.195.200.124:8822/rtp/239.16.20.99:10990
+#EXTINF:-1 tvg-name="11月01日_已增加咪视界bc分组_需要密码" tvg-logo="https://live.fanmingming.cn/tv/11月01日_已增加咪视界bc分组_需要密码.png" group-title="冰茶体育",11月01日_已增加咪视界bc分组_需要密码
+https://188766.xyz/yu
 #EXTINF:-1 tvg-name="11月01日_已增加咪视界bc分组_需要密码" tvg-logo="https://live.fanmingming.cn/tv/11月01日_已增加咪视界bc分组_需要密码.png" group-title="冰茶体育",11月01日_已增加咪视界bc分组_需要密码
 https://188766.xyz/yu
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="河南频道",咪咕视频
