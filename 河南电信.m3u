@@ -87,6 +87,18 @@ http://219.150.217.47:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
 http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-id="47" tvg-name="中天新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
+#EXTINF:-1 tvg-id="47" tvg-name="中天大白话" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+http://ncncha.cloudns.ch:9977/play?id=8o3rl1YgbmE&quality=720p
+#EXTINF:-1 tvg-id="47" tvg-name="中天少康戰情室1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+http://ncncha.cloudns.ch:9977/play?id=EFrAHLX2dSs&quality=720p
+#EXTINF:-1 tvg-id="47" tvg-name="河中天少康戰情室2" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+http://ncncha.cloudns.ch:9977/play?id=pCzEgetWfkc&quality=720p
+#EXTINF:-1 tvg-id="47" tvg-name="中天少康戰情室3" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+http://ncncha.cloudns.ch:9977/play?id=xTOdmoO-t3g&quality=720p
+#EXTINF:-1 tvg-id="47" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="香港", 凤凰卫视
+http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
 #EXTINF:-1 tvg-name="咪咕视频-34" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-34.png" group-title="河南频道",咪咕视频-34
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="咪咕视频-35" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-35.png" group-title="河南频道",咪咕视频-35
