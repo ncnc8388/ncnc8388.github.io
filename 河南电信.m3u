@@ -87,15 +87,15 @@ http://219.150.217.47:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="811" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
 http://219.150.217.47:6610/PLTV2/2780/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-id="812" tvg-name="中天新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+#EXTINF:-1 tvg-id="812" tvg-name="中天新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 中天新聞
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
-#EXTINF:-1 tvg-id="813" tvg-name="中天大白话" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+#EXTINF:-1 tvg-id="813" tvg-name="中天大白话" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中天", 中天大白话
 http://ncncha.cloudns.ch:9977/play?id=8o3rl1YgbmE&quality=720p
-#EXTINF:-1 tvg-id="814" tvg-name="中天少康戰情室1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+#EXTINF:-1 tvg-id="814" tvg-name="中天少康戰情室1" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 中天少康戰情室1
 http://ncncha.cloudns.ch:9977/play?id=EFrAHLX2dSs&quality=720p
-#EXTINF:-1 tvg-id="815" tvg-name="河中天少康戰情室2" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+#EXTINF:-1 tvg-id="815" tvg-name="中天少康戰情室2" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中天", 中天少康戰情室2
 http://ncncha.cloudns.ch:9977/play?id=pCzEgetWfkc&quality=720p
-#EXTINF:-1 tvg-id="816" tvg-name="中天少康戰情室3" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 河南卫视4K测试
+#EXTINF:-1 tvg-id="816" tvg-name="中天少康戰情室3" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="河南", 中天少康戰情室3
 http://ncncha.cloudns.ch:9977/play?id=xTOdmoO-t3g&quality=720p
 #EXTINF:-1 tvg-id="817" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="凤凰卫视", 凤凰卫视
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
