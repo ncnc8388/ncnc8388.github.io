@@ -114,25 +114,25 @@ https://mgev.188766.xyz/?migutoken=366f77fc90a20663fbabdd9c5f71a774&id=hk_fhhk&t
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
 http://118.180.142.247:65535/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-name=" 中天大白话" tvg-logo="https://live.fanmingming.cn/tv/ 中天大白话.png" group-title="youtube", 中天大白话
-http://ncncha.cloudns.ch:9977/play?id=8o3rl1YgbmE&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=8o3rl1YgbmE&quality=1080p&p=hls
 #EXTINF:-1 tvg-name=" 中天少康戰情室1" tvg-logo="https://live.fanmingming.cn/tv/ 中天少康戰情室1.png" group-title="youtube", 中天少康戰情室1
-http://ncncha.cloudns.ch:9977/play?id=EFrAHLX2dSs&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=EFrAHLX2dSs&quality=720p&p=dash
 #EXTINF:-1 tvg-name=" 中天少康戰情室2" tvg-logo="https://live.fanmingming.cn/tv/ 中天少康戰情室2.png" group-title="youtube", 中天少康戰情室2
-http://192.168.1.2:9977/play?id=pCzEgetWfkc&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=pCzEgetWfkc&quality=720p&p=vod
 #EXTINF:-1 tvg-name=" 中天少康戰情室3" tvg-logo="https://live.fanmingming.cn/tv/ 中天少康戰情室3.png" group-title="youtube", 中天少康戰情室3
-http://192.168.1.2:9977/play?id=xTOdmoO-t3g&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=xTOdmoO-t3g&quality=360p&p=vod
 #EXTINF:-1 tvg-name=" 中天新聞" tvg-logo="https://live.fanmingming.cn/tv/ 中天新聞.png" group-title="youtube", 中天新聞
-http://192.168.1.2:9977/play?id=vr3XyVCR4T0&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=vr3XyVCR4T0&quality=720p&p=hls
 #EXTINF:-1 tvg-name="1月24日15:30_女排超联赛A级双循环赛_天津渤海银行vs江苏中天钢铁" tvg-logo="https://live.fanmingming.cn/tv/1月24日15:30_女排超联赛A级双循环赛_天津渤海银行vs江苏中天钢铁.png" group-title="youtube",1月24日15:30_女排超联赛A级双循环赛_天津渤海银行vs江苏中天钢铁
 https://mgev.188766.xyz/play?migutoken=5f94f9f1e5abd6ebddb3ca70e4075b8a&id=sv0M8XPOZNY5FWo0cOdRe0EsyIzVbXQyemu2JL2JmlEXCNHt2WKQpDsQBntM%2F8tbLmY%2FdOS%2FYKVf21%2FIuyKGoEFPmd9aF1IjOAhEtsOukB4D5JZOCYfvPZnZ7LyAErbufIf34flxRaGTCN01F4F4bJaNRzadOwn2D7g4Dl8x6M9fb3iTSd1jtnukvFS1J0gFxRdtvo%2BEl3bAxznyjmYZLuTeHDV6MWfaFkLeQTSSCZ1ea8yHVQGURdbvgYDxkvE69vElT%2Fk3KnXNxi5PnXzVg0bt1pF18CDD2WcST03KNwQ%3D&name=3u09XnPT7Do4Kp2sUS0lr00djLLGUUhSAhfbOZ82X8FCTaf8R9Y%2BrDut4ISCwd8%2FpKUEswerA73HSuOoRUXxMr%2FcEiYWfUEZLjGjAtbRVgFytMe2OVfrHM15aHzZuAs1nkmPYuIPtsVR2KqkKOLN%2Bw%3D%3D
 #EXTINF:-1 tvg-name="【鳳凰衛視#24小時直播間 】美俄烏代表於阿聯酋進行首次三方會談｜特朗普被批在達沃斯放棄領導全球｜ 中國商務部：願打造中英經貿關係新增長點｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/【鳳凰衛視#24小時直播間 】美俄烏代表於阿聯酋進行首次三方會談｜特朗普被批在達沃斯放棄領導全球｜ 中國商務部：願打造中英經貿關係新增長點｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",【鳳凰衛視#24小時直播間 】美俄烏代表於阿聯酋進行首次三方會談｜特朗普被批在達沃斯放棄領導全球｜ 中國商務部：願打造中英經貿關係新增長點｜24-hour live news｜24小时直播间#鳳凰衛視
-http://192.168.1.2h:9977/play?id=fN9uYWCjQaw&quality=720p
+http://192.168.1.2h:9977/play?id=fN9uYWCjQaw&quality=720p&p=hls
 #EXTINF:-1 tvg-name="【🔴LIVE直播中】霍諾德攀台北101攻頂最新! 鄭麗君拒戰台北市長!民進黨剩一人選? 美國明州移民官轟平民掀抗議潮!川普再嗆加拿大!｜賴正鎧 林佩潔報新聞 20260125 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/【🔴LIVE直播中】霍諾德攀台北101攻頂最新! 鄭麗君拒戰台北市長!民進黨剩一人選? 美國明州移民官轟平民掀抗議潮!川普再嗆加拿大!｜賴正鎧 林佩潔報新聞 20260125 @中天新聞CtiNews.png" group-title="youtube",【🔴LIVE直播中】霍諾德攀台北101攻頂最新! 鄭麗君拒戰台北市長!民進黨剩一人選? 美國明州移民官轟平民掀抗議潮!川普再嗆加拿大!｜賴正鎧 林佩潔報新聞 20260125 @中天新聞CtiNews
-http://192.168.1.2:9977/play?id=ed9nY4jwJSY&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=ed9nY4jwJSY&quality=720p&p=hls
 #EXTINF:-1 tvg-name="🔴【#完整版24小時不間斷】#新聞大白話 ｜24-Hour Non-Stop Live｜24時間ライブ配信｜시리즈가 왔어요" tvg-logo="https://live.fanmingming.cn/tv/🔴【#完整版24小時不間斷】#新聞大白話 ｜24-Hour Non-Stop Live｜24時間ライブ配信｜시리즈가 왔어요.png" group-title="youtube",🔴【#完整版24小時不間斷】#新聞大白話 ｜24-Hour Non-Stop Live｜24時間ライブ配信｜시리즈가 왔어요
-http://192.168.1.2:9977/play?id=8o3rl1YgbmE&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=8o3rl1YgbmE&quality=720p&p=hls
 #EXTINF:-1 tvg-name="🔴【#完整版24小時不間斷】TVBS 少康戰情室精選特輯 ｜24-Hour Non-Stop Live｜24時間ライブ配信｜시리즈가 왔어요 #趙少康 #戰鬥藍" tvg-logo="https://live.fanmingming.cn/tv/🔴【#完整版24小時不間斷】TVBS 少康戰情室精選特輯 ｜24-Hour Non-Stop Live｜24時間ライブ配信｜시리즈가 왔어요 #趙少康 #戰鬥藍.png" group-title="youtube",🔴【#完整版24小時不間斷】TVBS 少康戰情室精選特輯 ｜24-Hour Non-Stop Live｜24時間ライブ配信｜시리즈가 왔어요 #趙少康 #戰鬥藍
-http://192.168.1.2:9977/play?id=_LVTMyXBTTI&quality=720p
+http://ncncha.cloudns.ch:9988/play?id=_LVTMyXBTTI&quality=720p&p=hls
 #EXTINF:-1 tvg-name="1月23日01:30欧联_塞萨洛尼基vs贝蒂斯" tvg-logo="https://live.fanmingming.cn/tv/1月23日01:30欧联_塞萨洛尼基vs贝蒂斯.png" group-title="冰茶体育",1月23日01:30欧联_塞萨洛尼基vs贝蒂斯
 https://mgev.188766.xyz/play?migutoken=29903fbe941a44fcb2dea9bfd1fc791f&id=oSoqb6eQFJQzOht471nZXhdXb%2F5MU69Up4Q3iz5M8bHsEFBf62vsoECgzES8KwLPMJlRhj9Z%2F6WV6ZTZJCBpq8SqqrlaULg0AyucVQSP5kdRxCYvtK80qLoNgNWKtCkj0GR2264dtyceCGMENID%2FE2kA454g7kMDfDg4DYJqKU7x2DRqVYU9B%2BIaWaoUrzu7cia1xz%2Fc5UNBafdU9JUDOEyzTO%2FIt0T9yn6JF%2B3qNfoGtMhBqyBojwEpBmZut19ob2BTqt1WOw1wIBSSy5kh3YY%2BgmBAsC93TJ6pwhJ%2F%2BlMUDng6wYxQF8RtK9CXsPUv3xjEFzBxV7LEsn3VAvnuz29eLLuEaVf7l8O9iQDV8fVxGGlnRDehn6%2B%2BIAhhOieo%2B2Apr04sxgK4BPpcPFZhdw%3D%3D&name=V67YDB3bGF9iM3wfT5ekZ%2BTOQ1XU7HuFjV5zFqOhOX5kh%2FByYTY5MIatko9asMqIQCpBLNg7HpZrWP0GneI8NQ%3D%3D
 #EXTINF:-1 tvg-name="1月23日01:35欧联_费内巴切vs阿斯顿维拉" tvg-logo="https://live.fanmingming.cn/tv/1月23日01:35欧联_费内巴切vs阿斯顿维拉.png" group-title="冰茶体育",1月23日01:35欧联_费内巴切vs阿斯顿维拉
