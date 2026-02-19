@@ -9,6 +9,8 @@ http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视", CCTV-5体育
 http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-id="105" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视", CCTV-5体育
+http://219.150.217.47:6610/PLTV2/3680/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视", CCTV-6电影
 http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视", CCTV-7国防军事
@@ -31,8 +33,16 @@ http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视", CCTV-17
 http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
+#EXTINF:-1  tvg-id="102" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
+http://222.85.25.226/PLTV/88888888/224/3221227072/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV-5+体育赛事
 http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视", CCTV-5+体育赛事
+http://222.85.25.226/PLTV/88888888/224/3221227220/1.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="央视",CCTV4K
+http://123.160.108.7:6610/PLTV1/190059/1.m3u8?
+#EXTINF:-1 tvg-id="103" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="央视",CCTV4K
+http://123.160.108.15:6610/PLTV1/190059/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="" group-title="央视", CETV1
 http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视", 浙江卫视
@@ -103,3 +113,9 @@ http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="咪咕视频-35" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-35.png" group-title="河南频道",咪咕视频-35
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="河南戏曲" tvg-logo="https://epg.112114.xyz/logo/河南戏曲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="河南",河南戏曲
+http://219.150.217.47:6610/PLTV1/840/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-name="睛彩河南曲艺" tvg-logo="https://epg.112114.xyz/logo/睛彩河南曲艺.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="河南",睛彩河南曲艺
+http://219.150.217.47:6610/PLTV1/700/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-name="睛彩移动戏曲" tvg-logo="https://epg.112114.xyz/logo/睛彩移动戏曲.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz" group-title="河南",睛彩移动戏曲
+http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1
