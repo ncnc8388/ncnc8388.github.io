@@ -124,9 +124,11 @@ http://106.116.127.51:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.106:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://111.221.137.152:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://175.0.72.65:9999/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -175,50 +177,52 @@ http://ncncha.cloudns.ch:9977/play?id=HvWkyIEZndI&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 #EXTINF:-1 tvg-name=" 中天新聞" tvg-logo="https://live.fanmingming.cn/tv/ 中天新聞.png" group-title="youtube", 中天新聞
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【調查4】衝康蔡英文 賴清德不挺光電？衝擊總統大選【#民間特偵組 238】 @民間特偵組PeopleJustice" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【調查4】衝康蔡英文 賴清德不挺光電？衝擊總統大選【#民間特偵組 238】 @民間特偵組PeopleJustice.png" group-title="youtube",youtube [LIVE] 【調查4】衝康蔡英文 賴清德不挺光電？衝擊總統大選【#民間特偵組 238】 @民間特偵組PeopleJustice
+http://ncncha.cloudns.ch:9977/play?id=X3vrNUDsEFU&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普給予伊朗最後期限：10到15天｜伊朗與俄羅斯海上演習結束｜英國前王子安德魯因涉愛潑斯坦醜聞被捕｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普給予伊朗最後期限：10到15天｜伊朗與俄羅斯海上演習結束｜英國前王子安德魯因涉愛潑斯坦醜聞被捕｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普給予伊朗最後期限：10到15天｜伊朗與俄羅斯海上演習結束｜英國前王子安德魯因涉愛潑斯坦醜聞被捕｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] 【#過年精選】唐湘龍看俄烏戰爭1恐怖事撂狠話！狠嗆卓榮泰就是總統的工具！虧賴清德不敢特赦陳水扁！警告「這玩法」對民眾黨2026傷害大 #少康戰情室" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#過年精選】唐湘龍看俄烏戰爭1恐怖事撂狠話！狠嗆卓榮泰就是總統的工具！虧賴清德不敢特赦陳水扁！警告「這玩法」對民眾黨2026傷害大 #少康戰情室.png" group-title="youtube",youtube [VOD] 【#過年精選】唐湘龍看俄烏戰爭1恐怖事撂狠話！狠嗆卓榮泰就是總統的工具！虧賴清德不敢特赦陳水扁！警告「這玩法」對民眾黨2026傷害大 #少康戰情室
+http://ncncha.cloudns.ch:9977/play?id=A-PnXKTPIxk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#過年精選】沈富雄笑喊「我來當主持人」！沈富雄喊鄭麗文敢在中國唱「這句」就服她！酸賴清德「這些人」當下樑歪資格都沒！大罷免失敗罵賴清德給高嘉瑜看 #少康戰情室" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#過年精選】沈富雄笑喊「我來當主持人」！沈富雄喊鄭麗文敢在中國唱「這句」就服她！酸賴清德「這些人」當下樑歪資格都沒！大罷免失敗罵賴清德給高嘉瑜看 #少康戰情室.png" group-title="youtube",youtube [VOD] 【#過年精選】沈富雄笑喊「我來當主持人」！沈富雄喊鄭麗文敢在中國唱「這句」就服她！酸賴清德「這些人」當下樑歪資格都沒！大罷免失敗罵賴清德給高嘉瑜看 #少康戰情室
 http://ncncha.cloudns.ch:9977/play?id=edDebRMD9Io&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【2/22即時新聞】川普反擊最高法院! 加碼關稅不怕打臉? 232條款才是台灣關鍵? 飛官辛柏毅妻子淚眼慶生畫面曝!｜黃韵筑報新聞 20260222 @中天新聞CtiNews ​" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【2/22即時新聞】川普反擊最高法院! 加碼關稅不怕打臉? 232條款才是台灣關鍵? 飛官辛柏毅妻子淚眼慶生畫面曝!｜黃韵筑報新聞 20260222 @中天新聞CtiNews ​.png" group-title="youtube",youtube [VOD] 【2/22即時新聞】川普反擊最高法院! 加碼關稅不怕打臉? 232條款才是台灣關鍵? 飛官辛柏毅妻子淚眼慶生畫面曝!｜黃韵筑報新聞 20260222 @中天新聞CtiNews ​
-http://ncncha.cloudns.ch:9977/play?id=UWO5okpH4sE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】區桂芝"神金句"戰力爆表! 從"108課綱"講到"軍購"讓民進黨全都怕了" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】區桂芝"神金句"戰力爆表! 從"108課綱"講到"軍購"讓民進黨全都怕了.png" group-title="youtube",youtube [VOD] 【全程字幕】區桂芝"神金句"戰力爆表! 從"108課綱"講到"軍購"讓民進黨全都怕了
-http://ncncha.cloudns.ch:9977/play?id=v1fKiWtrDXM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】高金遭北檢大搜索辦案手法跟柯文哲案如出一轍　司法鷹犬不演了？20260220｜#沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】高金遭北檢大搜索辦案手法跟柯文哲案如出一轍　司法鷹犬不演了？20260220｜#沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧.png" group-title="youtube",youtube [VOD] 【完整版下集】高金遭北檢大搜索辦案手法跟柯文哲案如出一轍　司法鷹犬不演了？20260220｜#沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧
-http://ncncha.cloudns.ch:9977/play?id=lcKs3e5m-Mg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【打牌好難】陪長輩打牌快瘋掉？放水被發現還讓他"沒面子"！@中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【打牌好難】陪長輩打牌快瘋掉？放水被發現還讓他"沒面子"！@中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【打牌好難】陪長輩打牌快瘋掉？放水被發現還讓他"沒面子"！@中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=SEOMlWoumg0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】2匪亮刀劫車整台開走 運將生財工具遭搶跪地哭吼 20260222" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】2匪亮刀劫車整台開走 運將生財工具遭搶跪地哭吼 20260222.png" group-title="youtube",youtube [VOD] 【每日必看】2匪亮刀劫車整台開走 運將生財工具遭搶跪地哭吼 20260222
-http://ncncha.cloudns.ch:9977/play?id=ohm4w-a5Zj0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】各式風格渡假村.酒店 2026必訪奢華住宿一次看 20260222" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】各式風格渡假村.酒店 2026必訪奢華住宿一次看 20260222.png" group-title="youtube",youtube [VOD] 【每日必看】各式風格渡假村.酒店 2026必訪奢華住宿一次看 20260222
-http://ncncha.cloudns.ch:9977/play?id=LnxAZ30bzZs&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】過年"大魚大肉"會變笨? 記憶力狂掉"這4招"救腦霧 20260222" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】過年"大魚大肉"會變笨? 記憶力狂掉"這4招"救腦霧 20260222.png" group-title="youtube",youtube [VOD] 【每日必看】過年"大魚大肉"會變笨? 記憶力狂掉"這4招"救腦霧 20260222
-http://ncncha.cloudns.ch:9977/play?id=MQYg1AwbRX0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程CC字幕】新北3月談藍白合 落敗方進對方陣營？黃國昌鬆口:各種可能性都有 籲台灣要告別用貼標籤口號式討論政治 軍購案昌轟綠帶頭曲解民眾黨【#大白話說新聞】#藍白合#黃國昌#軍購案" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程CC字幕】新北3月談藍白合 落敗方進對方陣營？黃國昌鬆口:各種可能性都有 籲台灣要告別用貼標籤口號式討論政治 軍購案昌轟綠帶頭曲解民眾黨【#大白話說新聞】#藍白合#黃國昌#軍購案.png" group-title="youtube",youtube [VOD] 【全程CC字幕】新北3月談藍白合 落敗方進對方陣營？黃國昌鬆口:各種可能性都有 籲台灣要告別用貼標籤口號式討論政治 軍購案昌轟綠帶頭曲解民眾黨【#大白話說新聞】#藍白合#黃國昌#軍購案
+http://ncncha.cloudns.ch:9977/play?id=_ObceJdFf0o&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程CC字幕】黃國昌.李四川通話拜年談什麼？川伯親解 江啟臣:川普2.0 關稅是武器交易是目的 川普會用盡一切手段改變貿易不平衡 籲政府隨時掌握狀況【#大白話說新聞】#藍白合#黃國昌#軍購案" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程CC字幕】黃國昌.李四川通話拜年談什麼？川伯親解 江啟臣:川普2.0 關稅是武器交易是目的 川普會用盡一切手段改變貿易不平衡 籲政府隨時掌握狀況【#大白話說新聞】#藍白合#黃國昌#軍購案.png" group-title="youtube",youtube [VOD] 【全程CC字幕】黃國昌.李四川通話拜年談什麼？川伯親解 江啟臣:川普2.0 關稅是武器交易是目的 川普會用盡一切手段改變貿易不平衡 籲政府隨時掌握狀況【#大白話說新聞】#藍白合#黃國昌#軍購案
+http://ncncha.cloudns.ch:9977/play?id=s-6BiLgDae0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集20260221】 中產階級消失！一半美國人付不起上千美元的意外開銷 #tvbs文茜的世界周報  20260221" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集20260221】 中產階級消失！一半美國人付不起上千美元的意外開銷 #tvbs文茜的世界周報  20260221.png" group-title="youtube",youtube [VOD] 【完整版上集20260221】 中產階級消失！一半美國人付不起上千美元的意外開銷 #tvbs文茜的世界周報  20260221
+http://ncncha.cloudns.ch:9977/play?id=axhS5cZbeD8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集20260221】川王正在享受一個人的統治夢想 他不是開玩笑  #TVBS文茜的世界周報-歐洲版  20260221" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集20260221】川王正在享受一個人的統治夢想 他不是開玩笑  #TVBS文茜的世界周報-歐洲版  20260221.png" group-title="youtube",youtube [VOD] 【完整版下集20260221】川王正在享受一個人的統治夢想 他不是開玩笑  #TVBS文茜的世界周報-歐洲版  20260221
+http://ncncha.cloudns.ch:9977/play?id=9-VlMH1RDQc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】不滿打牌輸錢遭揶揄 男朝前議員家掃射13槍 20260222" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】不滿打牌輸錢遭揶揄 男朝前議員家掃射13槍 20260222.png" group-title="youtube",youtube [VOD] 【每日必看】不滿打牌輸錢遭揶揄 男朝前議員家掃射13槍 20260222
+http://ncncha.cloudns.ch:9977/play?id=fUDIajNJCW0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】為"放寬移工"奔走拜廟 最強里長曝"留人"心聲 20260222" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】為"放寬移工"奔走拜廟 最強里長曝"留人"心聲 20260222.png" group-title="youtube",youtube [VOD] 【每日必看】為"放寬移工"奔走拜廟 最強里長曝"留人"心聲 20260222
+http://ncncha.cloudns.ch:9977/play?id=tg2thULpAjE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】跨越多重障礙 總統教育獎"東東"公益傳愛 20260222" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】跨越多重障礙 總統教育獎"東東"公益傳愛 20260222.png" group-title="youtube",youtube [VOD] 【每日必看】跨越多重障礙 總統教育獎"東東"公益傳愛 20260222
+http://ncncha.cloudns.ch:9977/play?id=e93a5XJ-CBc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】醫美老闆開工遭轟3槍影像曝! 狡詐槍手3次變裝逃 20260222" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】醫美老闆開工遭轟3槍影像曝! 狡詐槍手3次變裝逃 20260222.png" group-title="youtube",youtube [VOD] 【每日必看】醫美老闆開工遭轟3槍影像曝! 狡詐槍手3次變裝逃 20260222
+http://ncncha.cloudns.ch:9977/play?id=qrE-RIaA-rY&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】韓國前總統尹錫悅涉帶頭發動內亂 一審宣判：無期徒刑‼️檢方指控破壞憲政秩序｜#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #總統" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】韓國前總統尹錫悅涉帶頭發動內亂 一審宣判：無期徒刑‼️檢方指控破壞憲政秩序｜#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #總統.png" group-title="youtube",youtube [VOD] 【直播回顧】韓國前總統尹錫悅涉帶頭發動內亂 一審宣判：無期徒刑‼️檢方指控破壞憲政秩序｜#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #總統
 http://ncncha.cloudns.ch:9977/play?id=INHn1U1Sphc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 台灣15%還要付嗎? 川普關稅大刀違憲 豐田.好市多擬提告討錢 美國恐需退稅逾5.5兆! 高市早苗就任施政方針演說 矛頭指向中國抗威權擴張【#大白話說新聞】#台美關稅 #川普 #高市早苗 #好市多" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台灣15%還要付嗎? 川普關稅大刀違憲 豐田.好市多擬提告討錢 美國恐需退稅逾5.5兆! 高市早苗就任施政方針演說 矛頭指向中國抗威權擴張【#大白話說新聞】#台美關稅 #川普 #高市早苗 #好市多.png" group-title="youtube",youtube [VOD] 台灣15%還要付嗎? 川普關稅大刀違憲 豐田.好市多擬提告討錢 美國恐需退稅逾5.5兆! 高市早苗就任施政方針演說 矛頭指向中國抗威權擴張【#大白話說新聞】#台美關稅 #川普 #高市早苗 #好市多
-http://ncncha.cloudns.ch:9977/play?id=-i_kzLodVHE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普將再祭10%關稅 恐衝擊台「傳統產業」【#大白話說新聞】#川普 #關稅 #台灣" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普將再祭10%關稅 恐衝擊台「傳統產業」【#大白話說新聞】#川普 #關稅 #台灣.png" group-title="youtube",youtube [VOD] 川普將再祭10%關稅 恐衝擊台「傳統產業」【#大白話說新聞】#川普 #關稅 #台灣
-http://ncncha.cloudns.ch:9977/play?id=PF3WK0FWTLk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普關稅違法 美企業討錢 CNBC:恐遇NTD5.5兆退稅爭議【#大白話說新聞】#川普 #關稅 #CNBC #新臺幣" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普關稅違法 美企業討錢 CNBC:恐遇NTD5.5兆退稅爭議【#大白話說新聞】#川普 #關稅 #CNBC #新臺幣.png" group-title="youtube",youtube [VOD] 川普關稅違法 美企業討錢 CNBC:恐遇NTD5.5兆退稅爭議【#大白話說新聞】#川普 #關稅 #CNBC #新臺幣
-http://ncncha.cloudns.ch:9977/play?id=2Xc77FKMB0o&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【調查4】衝康蔡英文 賴清德不挺光電？衝擊總統大選【#民間特偵組 238】 @民間特偵組PeopleJustice" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【調查4】衝康蔡英文 賴清德不挺光電？衝擊總統大選【#民間特偵組 238】 @民間特偵組PeopleJustice.png" group-title="youtube",youtube [VOD] 【調查4】衝康蔡英文 賴清德不挺光電？衝擊總統大選【#民間特偵組 238】 @民間特偵組PeopleJustice
+http://ncncha.cloudns.ch:9977/play?id=X3vrNUDsEFU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 北市莒光路民宅起火! 百歲人瑞受困急救出" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 北市莒光路民宅起火! 百歲人瑞受困急救出.png" group-title="youtube",youtube [VOD] 北市莒光路民宅起火! 百歲人瑞受困急救出
+http://ncncha.cloudns.ch:9977/play?id=JNS0nL8XtZ8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 喊話黨？與李四川聯手 江啟臣盼願望實現【#大白話說新聞】#喊話黨#李四川#江啟臣" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 喊話黨？與李四川聯手 江啟臣盼願望實現【#大白話說新聞】#喊話黨#李四川#江啟臣.png" group-title="youtube",youtube [VOD] 喊話黨？與李四川聯手 江啟臣盼願望實現【#大白話說新聞】#喊話黨#李四川#江啟臣
+http://ncncha.cloudns.ch:9977/play?id=jW__jqRZD7Q&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 最後10天！特朗普再對伊朗“下通牒”：若不與美國達成協議，壞事就會發生！#鳳凰衛視 #phoenixtv #特朗普 #美國 #伊朗 #哈梅內伊" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 最後10天！特朗普再對伊朗“下通牒”：若不與美國達成協議，壞事就會發生！#鳳凰衛視 #phoenixtv #特朗普 #美國 #伊朗 #哈梅內伊.png" group-title="youtube",youtube [VOD] 最後10天！特朗普再對伊朗“下通牒”：若不與美國達成協議，壞事就會發生！#鳳凰衛視 #phoenixtv #特朗普 #美國 #伊朗 #哈梅內伊
 http://ncncha.cloudns.ch:9977/play?id=0RFPt1Y1-T4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 習近平與川普通話就台灣問題施壓 4月要求川普改口「反對台獨」？ #少康戰情室 20260220-2 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習近平與川普通話就台灣問題施壓 4月要求川普改口「反對台獨」？ #少康戰情室 20260220-2 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧.png" group-title="youtube",youtube [VOD] 習近平與川普通話就台灣問題施壓 4月要求川普改口「反對台獨」？ #少康戰情室 20260220-2 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧
-http://ncncha.cloudns.ch:9977/play?id=gnb-d1Dlvsg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 蔣萬安、李四川「雙箭頭效應」 藍曝除高雄宜蘭縣也有外溢效益？ #少康戰情室 20260220-1 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 蔣萬安、李四川「雙箭頭效應」 藍曝除高雄宜蘭縣也有外溢效益？ #少康戰情室 20260220-1 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧.png" group-title="youtube",youtube [VOD] 蔣萬安、李四川「雙箭頭效應」 藍曝除高雄宜蘭縣也有外溢效益？ #少康戰情室 20260220-1 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧
-http://ncncha.cloudns.ch:9977/play?id=5mxO1Op6sUM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 解鎖! 首戰匹克球 蔣萬安「秒上手」連續得分【#大白話說新聞】#蔣萬安 #匹克球 #台北市" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 解鎖! 首戰匹克球 蔣萬安「秒上手」連續得分【#大白話說新聞】#蔣萬安 #匹克球 #台北市.png" group-title="youtube",youtube [VOD] 解鎖! 首戰匹克球 蔣萬安「秒上手」連續得分【#大白話說新聞】#蔣萬安 #匹克球 #台北市
-http://ncncha.cloudns.ch:9977/play?id=Rj7zZeABn24&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 許毓仁揭白宮逐字稿 習近平開條件不處理軍購、不見川普？ #少康戰情室 20260220-3 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 許毓仁揭白宮逐字稿 習近平開條件不處理軍購、不見川普？ #少康戰情室 20260220-3 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧.png" group-title="youtube",youtube [VOD] 許毓仁揭白宮逐字稿 習近平開條件不處理軍購、不見川普？ #少康戰情室 20260220-3 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧
 http://ncncha.cloudns.ch:9977/play?id=GQvOQ3Jjy5k&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 賴清德喊不設主題盼化分歧為團結 五院茶敘解決朝野僵局？ #少康戰情室 20260220-4 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 賴清德喊不設主題盼化分歧為團結 五院茶敘解決朝野僵局？ #少康戰情室 20260220-4 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧.png" group-title="youtube",youtube [VOD] 賴清德喊不設主題盼化分歧為團結 五院茶敘解決朝野僵局？ #少康戰情室 20260220-4 #沈富雄 #吳崢 #洪孟楷 #尹乃菁 #游淑慧
 http://ncncha.cloudns.ch:9977/play?id=bjt4TJB-v1M&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 開戰倒數?「福特號」航艦現身歐洲.美軍戰機集結 川普:伊朗最好快談【#大白話說新聞】#川普 #伊朗 #福特號 #美軍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 開戰倒數?「福特號」航艦現身歐洲.美軍戰機集結 川普:伊朗最好快談【#大白話說新聞】#川普 #伊朗 #福特號 #美軍.png" group-title="youtube",youtube [VOD] 開戰倒數?「福特號」航艦現身歐洲.美軍戰機集結 川普:伊朗最好快談【#大白話說新聞】#川普 #伊朗 #福特號 #美軍
-http://ncncha.cloudns.ch:9977/play?id=t90yVkpjdig&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 轉移關稅壓力 川普恐「下令攻擊」 伊朗學生再掀反政府示威【#大白話說新聞】#關稅#川普#伊朗" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 轉移關稅壓力 川普恐「下令攻擊」 伊朗學生再掀反政府示威【#大白話說新聞】#關稅#川普#伊朗.png" group-title="youtube",youtube [VOD] 轉移關稅壓力 川普恐「下令攻擊」 伊朗學生再掀反政府示威【#大白話說新聞】#關稅#川普#伊朗
+http://ncncha.cloudns.ch:9977/play?id=snLfjCjfzwg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 關稅生變！王義川籲立院速簽:最多就15%｜TVBS新聞【#大白話說新聞】#關稅#王義川#立院" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 關稅生變！王義川籲立院速簽:最多就15%｜TVBS新聞【#大白話說新聞】#關稅#王義川#立院.png" group-title="youtube",youtube [VOD] 關稅生變！王義川籲立院速簽:最多就15%｜TVBS新聞【#大白話說新聞】#關稅#王義川#立院
+http://ncncha.cloudns.ch:9977/play?id=hWUXq7dz4i4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 韓國前總統尹錫悅一審被判無期徒刑：內亂頭目罪罪名成立！#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #李在明" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 韓國前總統尹錫悅一審被判無期徒刑：內亂頭目罪罪名成立！#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #李在明.png" group-title="youtube",youtube [VOD] 韓國前總統尹錫悅一審被判無期徒刑：內亂頭目罪罪名成立！#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #李在明
 http://ncncha.cloudns.ch:9977/play?id=T-TtupOcDY4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 馬年大運程｜唐碧霞老師開講羊、雞、狗運勢：這個生肖財氣最盛！馬年財運如何翻身？三大旺財位一次看！｜20260219 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 馬年大運程｜唐碧霞老師開講羊、雞、狗運勢：這個生肖財氣最盛！馬年財運如何翻身？三大旺財位一次看！｜20260219 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 馬年大運程｜唐碧霞老師開講羊、雞、狗運勢：這個生肖財氣最盛！馬年財運如何翻身？三大旺財位一次看！｜20260219 #鳳凰衛視
-http://ncncha.cloudns.ch:9977/play?id=8clAxF98u_4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 馬年大運程｜唐碧霞開講馬年健康運！肖龍忌水、肖猴防禍、肖豬“破財危機”浮現：正南西北成關鍵風水位？｜20260222 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 馬年大運程｜唐碧霞開講馬年健康運！肖龍忌水、肖猴防禍、肖豬“破財危機”浮現：正南西北成關鍵風水位？｜20260222 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 馬年大運程｜唐碧霞開講馬年健康運！肖龍忌水、肖猴防禍、肖豬“破財危機”浮現：正南西北成關鍵風水位？｜20260222 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=2S6qUy61PEo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 馬年大運程｜紅鸞星動！唐碧霞開講馬年姻緣運：肖雞者單身易脫單、肖兔者當心“爛桃花”、肖虎者或生辦公室戀情？｜從面相看姻緣：冤枉桃花眼還是含淚桃花眼？｜20260221 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 馬年大運程｜紅鸞星動！唐碧霞開講馬年姻緣運：肖雞者單身易脫單、肖兔者當心“爛桃花”、肖虎者或生辦公室戀情？｜從面相看姻緣：冤枉桃花眼還是含淚桃花眼？｜20260221 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 馬年大運程｜紅鸞星動！唐碧霞開講馬年姻緣運：肖雞者單身易脫單、肖兔者當心“爛桃花”、肖虎者或生辦公室戀情？｜從面相看姻緣：冤枉桃花眼還是含淚桃花眼？｜20260221 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=N-G0Tr-iVlI&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 馬年大運程｜馬年辦公室風水有什麼講究？左青龍右白虎 各放什麼能旺財？｜東北位放富貴竹 今年升職加薪步步高！｜20260220 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 馬年大運程｜馬年辦公室風水有什麼講究？左青龍右白虎 各放什麼能旺財？｜東北位放富貴竹 今年升職加薪步步高！｜20260220 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 馬年大運程｜馬年辦公室風水有什麼講究？左青龍右白虎 各放什麼能旺財？｜東北位放富貴竹 今年升職加薪步步高！｜20260220 #鳳凰衛視
