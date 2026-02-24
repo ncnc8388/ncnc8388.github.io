@@ -128,6 +128,8 @@ http://106.116.241.77:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://36.36.200.198:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://106.116.127.51:4022/rtp/239.254.201.1:5214
@@ -183,32 +185,30 @@ http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=9rLVc3lyxqQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】川習會前川普將施壓台灣盡快投資　對台立場與對台承諾基礎動搖？ #少康戰情室 20260223" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】川習會前川普將施壓台灣盡快投資　對台立場與對台承諾基礎動搖？ #少康戰情室 20260223.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】川習會前川普將施壓台灣盡快投資　對台立場與對台承諾基礎動搖？ #少康戰情室 20260223
 http://ncncha.cloudns.ch:9977/play?id=Zps1zkP5wZ0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【2/23即時新聞】川普被打臉惱羞強徵稅 習川會前吃鱉籌碼盡失｜李四川遞辭呈轉戰新北 蔣萬安不捨喊話攬牢牢｜中天SUPER夜線 20260223 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【2/23即時新聞】川普被打臉惱羞強徵稅 習川會前吃鱉籌碼盡失｜李四川遞辭呈轉戰新北 蔣萬安不捨喊話攬牢牢｜中天SUPER夜線 20260223 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【2/23即時新聞】川普被打臉惱羞強徵稅 習川會前吃鱉籌碼盡失｜李四川遞辭呈轉戰新北 蔣萬安不捨喊話攬牢牢｜中天SUPER夜線 20260223 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=wtIjGf177LU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【SUB】中美軍機黃海衝突？殲20模擬打美航母？【#新聞大白話】20260223 #字幕版 #中美 #黃海 #殲20 #美航母" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】中美軍機黃海衝突？殲20模擬打美航母？【#新聞大白話】20260223 #字幕版 #中美 #黃海 #殲20 #美航母.png" group-title="youtube",youtube [VOD] 【SUB】中美軍機黃海衝突？殲20模擬打美航母？【#新聞大白話】20260223 #字幕版 #中美 #黃海 #殲20 #美航母
 http://ncncha.cloudns.ch:9977/play?id=OqWV4HjQ1hY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】習川對話順利到讓人毛骨悚然? 彭文正: 台灣被打了一個耳光" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】習川對話順利到讓人毛骨悚然? 彭文正: 台灣被打了一個耳光.png" group-title="youtube",youtube [VOD] 【全程字幕】習川對話順利到讓人毛骨悚然? 彭文正: 台灣被打了一個耳光
-http://ncncha.cloudns.ch:9977/play?id=b-6CYax4U28&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】五角大廈提供多項打擊伊朗方案　川普考慮「斬首」哈米尼父子？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】五角大廈提供多項打擊伊朗方案　川普考慮「斬首」哈米尼父子？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍.png" group-title="youtube",youtube [VOD] 【完整版上集】五角大廈提供多項打擊伊朗方案　川普考慮「斬首」哈米尼父子？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍
 http://ncncha.cloudns.ch:9977/play?id=Wwc9C8mX3Bc&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】綠營名嘴唱衰這是地獄劫難逃之兆　鄭麗文一根紅繩各自表述？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】綠營名嘴唱衰這是地獄劫難逃之兆　鄭麗文一根紅繩各自表述？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍.png" group-title="youtube",youtube [VOD] 【完整版下集】綠營名嘴唱衰這是地獄劫難逃之兆　鄭麗文一根紅繩各自表述？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍
 http://ncncha.cloudns.ch:9977/play?id=PoDZEUy22SQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】鄭麗文嗆執政黨甩鍋「挺小人的」　國民黨將自提軍購條例攻防戰？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】鄭麗文嗆執政黨甩鍋「挺小人的」　國民黨將自提軍購條例攻防戰？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍.png" group-title="youtube",youtube [VOD] 【完整版中集】鄭麗文嗆執政黨甩鍋「挺小人的」　國民黨將自提軍購條例攻防戰？20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍
 http://ncncha.cloudns.ch:9977/play?id=Jhwu3GSdqQ8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】喝對水讓代謝率狂飆30% 專家激推"免費的瘦瘦針" 20260223" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】喝對水讓代謝率狂飆30% 專家激推"免費的瘦瘦針" 20260223.png" group-title="youtube",youtube [VOD] 【每日必看】喝對水讓代謝率狂飆30% 專家激推"免費的瘦瘦針" 20260223
-http://ncncha.cloudns.ch:9977/play?id=d18rodDPi6c&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】夫妻退休砸數十萬登郵輪 生病再噴百萬退休金見底 20260223" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】夫妻退休砸數十萬登郵輪 生病再噴百萬退休金見底 20260223.png" group-title="youtube",youtube [VOD] 【每日必看】夫妻退休砸數十萬登郵輪 生病再噴百萬退休金見底 20260223
-http://ncncha.cloudns.ch:9977/play?id=odKfS8s0aAo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】紅包丟洗衣機"千元鈔染紅" 還有救千萬別丟 20260223" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】紅包丟洗衣機"千元鈔染紅" 還有救千萬別丟 20260223.png" group-title="youtube",youtube [VOD] 【每日必看】紅包丟洗衣機"千元鈔染紅" 還有救千萬別丟 20260223
-http://ncncha.cloudns.ch:9977/play?id=5EOURYieZTE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】開學突傳禁止學生外訂便當 家長怒轟:自肥福利社 20260223" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】開學突傳禁止學生外訂便當 家長怒轟:自肥福利社 20260223.png" group-title="youtube",youtube [VOD] 【每日必看】開學突傳禁止學生外訂便當 家長怒轟:自肥福利社 20260223
-http://ncncha.cloudns.ch:9977/play?id=81n49NjITy0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】21歲槍手持霰彈槍 燃料罐「闖海湖莊園」遭擊斃｜海湖莊園被擊斃21歲男 全家都是川普鐵粉｜20260223｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】21歲槍手持霰彈槍 燃料罐「闖海湖莊園」遭擊斃｜海湖莊園被擊斃21歲男 全家都是川普鐵粉｜20260223｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】21歲槍手持霰彈槍 燃料罐「闖海湖莊園」遭擊斃｜海湖莊園被擊斃21歲男 全家都是川普鐵粉｜20260223｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=8OC4PRUj6KA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】印煤:光輝戰鬥機又摔一架 墜機率遙遙領先｜印度金融時報: 本月初，印度空軍又折一架光輝｜20260223｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】印煤:光輝戰鬥機又摔一架 墜機率遙遙領先｜印度金融時報: 本月初，印度空軍又折一架光輝｜20260223｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】印煤:光輝戰鬥機又摔一架 墜機率遙遙領先｜印度金融時報: 本月初，印度空軍又折一架光輝｜20260223｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=gfsC_U8_bTA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】背景是廠房門口 兩架”黃皮" 殲20A彈艙全打開｜殲20給全國人民拜年 大方地打開彈艙｜20260223｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】背景是廠房門口 兩架”黃皮" 殲20A彈艙全打開｜殲20給全國人民拜年 大方地打開彈艙｜20260223｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】背景是廠房門口 兩架”黃皮" 殲20A彈艙全打開｜殲20給全國人民拜年 大方地打開彈艙｜20260223｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=apKl8lTqXRA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】黃金破5100 蔡正元預言結局｜川普影響波動 各國投行對黃金目價上看6600美元?｜20260223｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】黃金破5100 蔡正元預言結局｜川普影響波動 各國投行對黃金目價上看6600美元?｜20260223｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】黃金破5100 蔡正元預言結局｜川普影響波動 各國投行對黃金目價上看6600美元?｜20260223｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=tL6mLw3PKks&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 全台瘋運動~蔣萬安也陷入"匹克球"魅力！ 首戰秒上手連得分 全球掀匹克球樂活商機 新興運動成新風潮！ Hyrox燒進台灣【#大白話說新聞】#匹克球#運動#蔣萬安" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 全台瘋運動~蔣萬安也陷入"匹克球"魅力！ 首戰秒上手連得分 全球掀匹克球樂活商機 新興運動成新風潮！ Hyrox燒進台灣【#大白話說新聞】#匹克球#運動#蔣萬安.png" group-title="youtube",youtube [VOD] 全台瘋運動~蔣萬安也陷入"匹克球"魅力！ 首戰秒上手連得分 全球掀匹克球樂活商機 新興運動成新風潮！ Hyrox燒進台灣【#大白話說新聞】#匹克球#運動#蔣萬安
 http://ncncha.cloudns.ch:9977/play?id=rtYx-WHi8wk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 台關稅有這麼樂觀？王義川籲立院速簽:最多就15% 不簽=跟川普翻臉？ 李乾龍拜廟迎接黃國昌 3月初徵召李四川 藍白下一步？【#大白話說新聞】#關稅#王義川#黃國昌#李四川" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台關稅有這麼樂觀？王義川籲立院速簽:最多就15% 不簽=跟川普翻臉？ 李乾龍拜廟迎接黃國昌 3月初徵召李四川 藍白下一步？【#大白話說新聞】#關稅#王義川#黃國昌#李四川.png" group-title="youtube",youtube [VOD] 台關稅有這麼樂觀？王義川籲立院速簽:最多就15% 不簽=跟川普翻臉？ 李乾龍拜廟迎接黃國昌 3月初徵召李四川 藍白下一步？【#大白話說新聞】#關稅#王義川#黃國昌#李四川
 http://ncncha.cloudns.ch:9977/play?id=xMN_8t-jBuU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 大安醫美槍手尚未落網 北車又傳當街亮刀 男持10公分長刀閒晃畫面曝【#大白話說新聞】#大安醫美#槍手#北車" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 大安醫美槍手尚未落網 北車又傳當街亮刀 男持10公分長刀閒晃畫面曝【#大白話說新聞】#大安醫美#槍手#北車.png" group-title="youtube",youtube [VOD] 大安醫美槍手尚未落網 北車又傳當街亮刀 男持10公分長刀閒晃畫面曝【#大白話說新聞】#大安醫美#槍手#北車
 http://ncncha.cloudns.ch:9977/play?id=toP1OET9ses&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 搶先習川會!高市早苗3月赴美見川普 楊永明曝美恐玩"兩手策略"" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 搶先習川會!高市早苗3月赴美見川普 楊永明曝美恐玩"兩手策略".png" group-title="youtube",youtube [VOD] 搶先習川會!高市早苗3月赴美見川普 楊永明曝美恐玩"兩手策略"
+http://ncncha.cloudns.ch:9977/play?id=oVOt53ko_t4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 最後10天！特朗普再對伊朗“下通牒”：若不與美國達成協議，壞事就會發生！#鳳凰衛視 #phoenixtv #特朗普 #美國 #伊朗 #哈梅內伊" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 最後10天！特朗普再對伊朗“下通牒”：若不與美國達成協議，壞事就會發生！#鳳凰衛視 #phoenixtv #特朗普 #美國 #伊朗 #哈梅內伊.png" group-title="youtube",youtube [VOD] 最後10天！特朗普再對伊朗“下通牒”：若不與美國達成協議，壞事就會發生！#鳳凰衛視 #phoenixtv #特朗普 #美國 #伊朗 #哈梅內伊
 http://ncncha.cloudns.ch:9977/play?id=0RFPt1Y1-T4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 最高院判決後平均關稅降至8.3%  20大進口國台灣關稅第5高？【#今日精華搶先看】少康戰情室 20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 最高院判決後平均關稅降至8.3%  20大進口國台灣關稅第5高？【#今日精華搶先看】少康戰情室 20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍.png" group-title="youtube",youtube [VOD] 最高院判決後平均關稅降至8.3%  20大進口國台灣關稅第5高？【#今日精華搶先看】少康戰情室 20260223｜#戴瑋姍 #張啓楷 #賴士葆 #柯志恩 #李永萍
@@ -217,6 +217,8 @@ http://ncncha.cloudns.ch:9977/play?id=qZ0EalwkwPg&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=KerQIlksPgw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 談轉型正義 賈永婕:正義或許會遲到但終究會到 曝補修台灣史下一步【#大白話說新聞】#賈永婕#台灣史#轉型正義" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 談轉型正義 賈永婕:正義或許會遲到但終究會到 曝補修台灣史下一步【#大白話說新聞】#賈永婕#台灣史#轉型正義.png" group-title="youtube",youtube [VOD] 談轉型正義 賈永婕:正義或許會遲到但終究會到 曝補修台灣史下一步【#大白話說新聞】#賈永婕#台灣史#轉型正義
 http://ncncha.cloudns.ch:9977/play?id=HuAA1gHJhmQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 關稅戰! 習近平笑到最後贏麻了?! 川普還想上訴?! 蔡正元:再硬拗他會從小輸變慘敗" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 關稅戰! 習近平笑到最後贏麻了?! 川普還想上訴?! 蔡正元:再硬拗他會從小輸變慘敗.png" group-title="youtube",youtube [VOD] 關稅戰! 習近平笑到最後贏麻了?! 川普還想上訴?! 蔡正元:再硬拗他會從小輸變慘敗
+http://ncncha.cloudns.ch:9977/play?id=qp36VKffmcw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 韓國前總統尹錫悅一審被判無期徒刑：內亂頭目罪罪名成立！#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #李在明" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 韓國前總統尹錫悅一審被判無期徒刑：內亂頭目罪罪名成立！#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #李在明.png" group-title="youtube",youtube [VOD] 韓國前總統尹錫悅一審被判無期徒刑：內亂頭目罪罪名成立！#鳳凰衛視 #phoenixtv #韓國 #尹錫悅 #李在明
 http://ncncha.cloudns.ch:9977/play?id=T-TtupOcDY4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 馬年大運程｜唐碧霞開講馬年健康運！肖龍忌水、肖猴防禍、肖豬“破財危機”浮現：正南西北成關鍵風水位？｜20260222 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 馬年大運程｜唐碧霞開講馬年健康運！肖龍忌水、肖猴防禍、肖豬“破財危機”浮現：正南西北成關鍵風水位？｜20260222 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 馬年大運程｜唐碧霞開講馬年健康運！肖龍忌水、肖猴防禍、肖豬“破財危機”浮現：正南西北成關鍵風水位？｜20260222 #鳳凰衛視
