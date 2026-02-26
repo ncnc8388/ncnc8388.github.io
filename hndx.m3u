@@ -126,9 +126,15 @@ http://106.116.127.35:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.77:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://36.36.200.198:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.196.235.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://183.162.120.165:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://183.162.120.165:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://111.221.137.152:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://106.116.127.35:4022/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -137,6 +143,8 @@ http://106.116.241.77:9999/rtp/239.254.201.1:5214
 http://106.116.127.35:4022/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://106.116.241.77:9999/rtp/239.254.201.3:5227
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://183.162.120.165:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://183.162.120.165:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -181,30 +189,28 @@ http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平主席與德國總理默茨舉行會談｜中國外交部談俄烏：核武器用不得 核戰爭打不得｜大疆起訴美國聯邦通信委員會｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平主席與德國總理默茨舉行會談｜中國外交部談俄烏：核武器用不得 核戰爭打不得｜大疆起訴美國聯邦通信委員會｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平主席與德國總理默茨舉行會談｜中國外交部談俄烏：核武器用不得 核戰爭打不得｜大疆起訴美國聯邦通信委員會｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] 《全程字幕》郭正亮覆盤川普關稅輸一屁股 害慘美國經濟 接下來每一步都是死棋 由不得他做主 @Guovision-TV  @funseeTW" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 《全程字幕》郭正亮覆盤川普關稅輸一屁股 害慘美國經濟 接下來每一步都是死棋 由不得他做主 @Guovision-TV  @funseeTW.png" group-title="youtube",youtube [VOD] 《全程字幕》郭正亮覆盤川普關稅輸一屁股 害慘美國經濟 接下來每一步都是死棋 由不得他做主 @Guovision-TV  @funseeTW
+http://ncncha.cloudns.ch:9977/play?id=57_tV5kjOXE&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 「不排除加入李四川」被解讀退選 黃國昌嗆:裝聽不懂.編假新聞【#大白話說新聞】#李四川#黃國昌#退選" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 「不排除加入李四川」被解讀退選 黃國昌嗆:裝聽不懂.編假新聞【#大白話說新聞】#李四川#黃國昌#退選.png" group-title="youtube",youtube [VOD] 「不排除加入李四川」被解讀退選 黃國昌嗆:裝聽不懂.編假新聞【#大白話說新聞】#李四川#黃國昌#退選
 http://ncncha.cloudns.ch:9977/play?id=-WTg0c_GkJA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】川普國情咨文演說再嗆最高法院　強調關稅絕不喊停稱有更強籌碼？#少康戰情室 20260225" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】川普國情咨文演說再嗆最高法院　強調關稅絕不喊停稱有更強籌碼？#少康戰情室 20260225.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】川普國情咨文演說再嗆最高法院　強調關稅絕不喊停稱有更強籌碼？#少康戰情室 20260225
 http://ncncha.cloudns.ch:9977/play?id=NjkohyIviCI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【2/25即時新聞】川普國情咨文自吹自擂 民調崩盤不滿意度狂飆｜高市早苗再爆違法爭議 祝賀自家人當選狂送禮｜中天SUPER夜線 20260225 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【2/25即時新聞】川普國情咨文自吹自擂 民調崩盤不滿意度狂飆｜高市早苗再爆違法爭議 祝賀自家人當選狂送禮｜中天SUPER夜線 20260225 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【2/25即時新聞】川普國情咨文自吹自擂 民調崩盤不滿意度狂飆｜高市早苗再爆違法爭議 祝賀自家人當選狂送禮｜中天SUPER夜線 20260225 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=eUevc89Waq4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【LIVE】2026台北燈節正式開展  蔣萬安點亮柯博文主燈" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【LIVE】2026台北燈節正式開展  蔣萬安點亮柯博文主燈.png" group-title="youtube",youtube [VOD] 【LIVE】2026台北燈節正式開展  蔣萬安點亮柯博文主燈
 http://ncncha.cloudns.ch:9977/play?id=QBudGaJG8PE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】不尋常!川普國情咨文"絕口不提"中國大陸 顧及"習川會"?陳鳳馨:他現在籌碼只剩"這個"!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】不尋常!川普國情咨文"絕口不提"中國大陸 顧及"習川會"?陳鳳馨:他現在籌碼只剩"這個"!.png" group-title="youtube",youtube [VOD] 【全程字幕】不尋常!川普國情咨文"絕口不提"中國大陸 顧及"習川會"?陳鳳馨:他現在籌碼只剩"這個"!
-http://ncncha.cloudns.ch:9977/play?id=66GLmtQh450&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】館長爆氣全面宣戰!青鳥亂飛街頭叫囂綠色言論自由超雙標?! 館長:玻璃心碎又要告我了" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】館長爆氣全面宣戰!青鳥亂飛街頭叫囂綠色言論自由超雙標?! 館長:玻璃心碎又要告我了.png" group-title="youtube",youtube [VOD] 【全程字幕】館長爆氣全面宣戰!青鳥亂飛街頭叫囂綠色言論自由超雙標?! 館長:玻璃心碎又要告我了
-http://ncncha.cloudns.ch:9977/play?id=ltDLClTzdwo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】川普可打五張牌新提徵國安稅 232關稅鎖定六產業警鐘響？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】川普可打五張牌新提徵國安稅 232關稅鎖定六產業警鐘響？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱.png" group-title="youtube",youtube [VOD] 【完整版上集】川普可打五張牌新提徵國安稅 232關稅鎖定六產業警鐘響？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱
 http://ncncha.cloudns.ch:9977/play?id=C-yDZA-p7X4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】韓國瑜：持續溝通、擇期協商 賴清德國情報告尚無共識瀕破局？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】韓國瑜：持續溝通、擇期協商 賴清德國情報告尚無共識瀕破局？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱.png" group-title="youtube",youtube [VOD] 【完整版下集】韓國瑜：持續溝通、擇期協商 賴清德國情報告尚無共識瀕破局？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱
 http://ncncha.cloudns.ch:9977/play?id=e5VmJ1E5FR8&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】賴清德稱對岸”中國大陸” 重申維持現狀、和好相處強調和平？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】賴清德稱對岸”中國大陸” 重申維持現狀、和好相處強調和平？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱.png" group-title="youtube",youtube [VOD] 【完整版中集】賴清德稱對岸”中國大陸” 重申維持現狀、和好相處強調和平？20260225｜#高嘉瑜 #林珍羽 #王育敏 #葉元之 #張斯綱
 http://ncncha.cloudns.ch:9977/play?id=LGs980mV190&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】恐怖! 垃圾車斗"噴彈"重擊 8旬嬤摔飛重傷昏迷 20260225" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】恐怖! 垃圾車斗"噴彈"重擊 8旬嬤摔飛重傷昏迷 20260225.png" group-title="youtube",youtube [VOD] 【每日必看】恐怖! 垃圾車斗"噴彈"重擊 8旬嬤摔飛重傷昏迷 20260225
-http://ncncha.cloudns.ch:9977/play?id=T_GC24qd3f8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】漁船外海翻覆! 船長漁工全落海 緊抱船體獲救 20260225" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】漁船外海翻覆! 船長漁工全落海 緊抱船體獲救 20260225.png" group-title="youtube",youtube [VOD] 【每日必看】漁船外海翻覆! 船長漁工全落海 緊抱船體獲救 20260225
-http://ncncha.cloudns.ch:9977/play?id=3a7rSJWSBhc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】男子大鬧超商怒吼店員 警勸離竟遭粗口辱罵 20260225" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】男子大鬧超商怒吼店員 警勸離竟遭粗口辱罵 20260225.png" group-title="youtube",youtube [VOD] 【每日必看】男子大鬧超商怒吼店員 警勸離竟遭粗口辱罵 20260225
-http://ncncha.cloudns.ch:9977/play?id=jv4qDHjrRWU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】人民幣狂漲 階段段性新高｜川普急了 多次與民主黨人互嗆 20260225｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】人民幣狂漲 階段段性新高｜川普急了 多次與民主黨人互嗆 20260225｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】人民幣狂漲 階段段性新高｜川普急了 多次與民主黨人互嗆 20260225｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=JOtsdegeVOo&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】四足機器人 中國贏麻了｜史上第二高 華為2025年收入亮眼 20260225｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】四足機器人 中國贏麻了｜史上第二高 華為2025年收入亮眼 20260225｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】四足機器人 中國贏麻了｜史上第二高 華為2025年收入亮眼 20260225｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=uJw1APsJBZM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】日圓重貶 高市對升息保留｜菲闖黃岩島 中方電磁壓制 20260225｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】日圓重貶 高市對升息保留｜菲闖黃岩島 中方電磁壓制 20260225｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】日圓重貶 高市對升息保留｜菲闖黃岩島 中方電磁壓制 20260225｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=1wrdusz12dM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】福特號糗了屎詩級災難｜大疆反擊 川普慫了 20260225｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】福特號糗了屎詩級災難｜大疆反擊 川普慫了 20260225｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】福特號糗了屎詩級災難｜大疆反擊 川普慫了 20260225｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=57aHXrmIxPo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】打了四年沒結果、和談僅是“假動作”？俄烏之戰邁入第五年 特朗普豪言：7月停火！普京買單嗎？｜特邀雷倩、何亮亮點評 #鳳凰衛視 #phoenixtv #俄烏" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】打了四年沒結果、和談僅是“假動作”？俄烏之戰邁入第五年 特朗普豪言：7月停火！普京買單嗎？｜特邀雷倩、何亮亮點評 #鳳凰衛視 #phoenixtv #俄烏.png" group-title="youtube",youtube [VOD] 【直播回顧】打了四年沒結果、和談僅是“假動作”？俄烏之戰邁入第五年 特朗普豪言：7月停火！普京買單嗎？｜特邀雷倩、何亮亮點評 #鳳凰衛視 #phoenixtv #俄烏
 http://ncncha.cloudns.ch:9977/play?id=Wn9vfUnQMSs&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 俄烏之戰四周年｜核陰霾籠罩！普京亮出“核底牌”、英法援烏核武 俄烏戰爭第五年恐擴大？特朗普插手談和 歐洲靠邊站！新一輪美俄烏會談有戲嗎？【特別節目】#鳳凰衛視 #phoenixtv #俄烏" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 俄烏之戰四周年｜核陰霾籠罩！普京亮出“核底牌”、英法援烏核武 俄烏戰爭第五年恐擴大？特朗普插手談和 歐洲靠邊站！新一輪美俄烏會談有戲嗎？【特別節目】#鳳凰衛視 #phoenixtv #俄烏.png" group-title="youtube",youtube [VOD] 俄烏之戰四周年｜核陰霾籠罩！普京亮出“核底牌”、英法援烏核武 俄烏戰爭第五年恐擴大？特朗普插手談和 歐洲靠邊站！新一輪美俄烏會談有戲嗎？【特別節目】#鳳凰衛視 #phoenixtv #俄烏
@@ -213,6 +219,8 @@ http://ncncha.cloudns.ch:9977/play?id=bfloQmBsYWo&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=OxV8inCgy74&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 全球霸王級暴雪緊急狀態！美國罕見雪假5400萬人戒備 日本致命雪災危機！【#大白話熱焦點】#暴雪#美國#日本#雪災#緊急狀態" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 全球霸王級暴雪緊急狀態！美國罕見雪假5400萬人戒備 日本致命雪災危機！【#大白話熱焦點】#暴雪#美國#日本#雪災#緊急狀態.png" group-title="youtube",youtube [VOD] 全球霸王級暴雪緊急狀態！美國罕見雪假5400萬人戒備 日本致命雪災危機！【#大白話熱焦點】#暴雪#美國#日本#雪災#緊急狀態
 http://ncncha.cloudns.ch:9977/play?id=g017D0wxoLg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 吹牛107分鐘 川普沒提半句中國?! 教授:他關稅輸慘了 再得罪習近平會S得更難看" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 吹牛107分鐘 川普沒提半句中國?! 教授:他關稅輸慘了 再得罪習近平會S得更難看.png" group-title="youtube",youtube [VOD] 吹牛107分鐘 川普沒提半句中國?! 教授:他關稅輸慘了 再得罪習近平會S得更難看
+http://ncncha.cloudns.ch:9977/play?id=jH0p6_jAWGg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 官司戰未了！張榮發遺產逾千億難分割 張國煒聲請撤換張榮發遺囑執行人 出庭加速分配：法官請我來我就來！【#大白話說新聞】#張國煒#張榮發#遺囑" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 官司戰未了！張榮發遺產逾千億難分割 張國煒聲請撤換張榮發遺囑執行人 出庭加速分配：法官請我來我就來！【#大白話說新聞】#張國煒#張榮發#遺囑.png" group-title="youtube",youtube [VOD] 官司戰未了！張榮發遺產逾千億難分割 張國煒聲請撤換張榮發遺囑執行人 出庭加速分配：法官請我來我就來！【#大白話說新聞】#張國煒#張榮發#遺囑
 http://ncncha.cloudns.ch:9977/play?id=DK5gTUve2Cw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川普擬以國安為由對6產業加稅  炸彈氣旋狂襲美東！交通癱瘓【#大白話說新聞】 #川普#國安#關稅" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普擬以國安為由對6產業加稅  炸彈氣旋狂襲美東！交通癱瘓【#大白話說新聞】 #川普#國安#關稅.png" group-title="youtube",youtube [VOD] 川普擬以國安為由對6產業加稅  炸彈氣旋狂襲美東！交通癱瘓【#大白話說新聞】 #川普#國安#關稅
