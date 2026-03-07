@@ -114,9 +114,9 @@ http://58.46.31.193:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://58.46.31.193:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.47.123:8888/udp/239.94.2.51:5140
+http://175.152.44.35:8888/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://171.213.47.123:8888/udp/239.94.2.52:5140
+http://175.152.44.35:8888/udp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰中文FYtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文FYtv.png" group-title="港澳频道",凤凰中文FYtv
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰中文Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文Pdtv.png" group-title="港澳频道",凤凰中文Pdtv
@@ -136,13 +136,9 @@ http://106.116.127.10:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.240.244:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://115.210.130.50:8001/rtp/233.50.202.35:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://123.157.31.182:7912/rtp/233.50.202.35:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://113.120.108.132:4000/rtp/239.21.2.153:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://106.59.2.73:55555/rtp/239.200.200.132:8876$云南电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://125.78.43.31:4022/rtp/239.61.2.184:9092$福建省电信
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://106.116.127.10:4022/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -152,15 +148,9 @@ http://106.116.127.10:4022/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://106.116.240.244:9999/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://115.210.130.50:8001/rtp/233.50.202.36:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://123.157.31.182:7912/rtp/233.50.202.36:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://113.120.108.132:4000/rtp/239.21.2.163:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://106.59.2.73:55555/rtp/239.200.200.133:8880$云南电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://125.78.43.31:4022/rtp/239.61.2.183:9086$福建省电信
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
-http://113.120.108.132:4000/rtp/239.21.2.164:5002$山东电信
 #EXTINF:-1 tvg-name="凤凰新闻网播" tvg-logo="https://live.fanmingming.cn/tv/凤凰新闻网播.png" group-title="港澳频道",凤凰新闻网播
 video://https://live.douyin.com/40184312758
 #EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
@@ -186,9 +176,9 @@ http://58.46.31.193:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://58.46.31.193:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.47.123:8888/udp/239.94.2.49:5140
+http://175.152.44.35:8888/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://171.213.47.123:8888/udp/239.94.2.50:5140
+http://175.152.44.35:8888/udp/239.94.2.50:5140
 #EXTINF:-1 tvg-name="凤凰资讯Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯Pdtv.png" group-title="港澳频道",凤凰资讯Pdtv
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 tvg-name="凤凰资讯SXtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯SXtv.png" group-title="港澳频道",凤凰资讯SXtv
@@ -225,58 +215,58 @@ http://ncncha.cloudns.ch:9977/play?id=HvWkyIEZndI&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 #EXTINF:-1 tvg-name=" 中天新聞" tvg-logo="https://live.fanmingming.cn/tv/ 中天新聞.png" group-title="youtube", 中天新聞
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【#ctitalk網路論壇】川轟伊&quot;陷泥潭&quot;必定TACO?習要台海&quot;美會軟&quot;賴慘了?...介文汲.李大中.楊永明_重磅對談 精彩完整全程ep111@中天電視CtiTv" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【#ctitalk網路論壇】川轟伊&quot;陷泥潭&quot;必定TACO?習要台海&quot;美會軟&quot;賴慘了?...介文汲.李大中.楊永明_重磅對談 精彩完整全程ep111@中天電視CtiTv.png" group-title="youtube",youtube [LIVE] 【#ctitalk網路論壇】川轟伊&quot;陷泥潭&quot;必定TACO?習要台海&quot;美會軟&quot;賴慘了?...介文汲.李大中.楊永明_重磅對談 精彩完整全程ep111@中天電視CtiTv
+http://ncncha.cloudns.ch:9977/play?id=LqJqHMMBIkI&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】美軍擊中伊朗無人機航母 爆炸起火｜科威特遇襲美軍指揮中心遭伊朗監視｜中方：中國經濟為動盪世界提供穩定性｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】美軍擊中伊朗無人機航母 爆炸起火｜科威特遇襲美軍指揮中心遭伊朗監視｜中方：中國經濟為動盪世界提供穩定性｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】美軍擊中伊朗無人機航母 爆炸起火｜科威特遇襲美軍指揮中心遭伊朗監視｜中方：中國經濟為動盪世界提供穩定性｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 🔴LIVE：2026.03.07 新聞大白話特報【14:10全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴LIVE：2026.03.07 新聞大白話特報【14:10全球開播】.png" group-title="youtube",youtube [LIVE] 🔴LIVE：2026.03.07 新聞大白話特報【14:10全球開播】
-http://ncncha.cloudns.ch:9977/play?id=R1aJr5aJCFk&quality=720p
 #EXTINF:-1 tvg-name="youtube [VOD] 2026全國兩會｜傳統工人將被人工智能替代⁉️董明珠：有更多的產業需要人【鳳凰獨家】#鳳凰衛視 #phoenixtv #兩會 #中國 #董明珠" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 2026全國兩會｜傳統工人將被人工智能替代⁉️董明珠：有更多的產業需要人【鳳凰獨家】#鳳凰衛視 #phoenixtv #兩會 #中國 #董明珠.png" group-title="youtube",youtube [VOD] 2026全國兩會｜傳統工人將被人工智能替代⁉️董明珠：有更多的產業需要人【鳳凰獨家】#鳳凰衛視 #phoenixtv #兩會 #中國 #董明珠
 http://ncncha.cloudns.ch:9977/play?id=PA1YGWGZDBA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 2026全國兩會｜小米雷軍：未來五年將投入2千億發展“硬核科技”‼️【鳳凰獨家】#鳳凰衛視 #phoenixtv #兩會 #中國 #鳳凰行天下 #雷軍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 2026全國兩會｜小米雷軍：未來五年將投入2千億發展“硬核科技”‼️【鳳凰獨家】#鳳凰衛視 #phoenixtv #兩會 #中國 #鳳凰行天下 #雷軍.png" group-title="youtube",youtube [VOD] 2026全國兩會｜小米雷軍：未來五年將投入2千億發展“硬核科技”‼️【鳳凰獨家】#鳳凰衛視 #phoenixtv #兩會 #中國 #鳳凰行天下 #雷軍
 http://ncncha.cloudns.ch:9977/play?id=GHHFJjMdezs&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 22綠委集體翹班赴日看球!黃揚明嗆"行政院長去日本"是大事情! 直言:棒球交給球迷支持就好!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 22綠委集體翹班赴日看球!黃揚明嗆"行政院長去日本"是大事情! 直言:棒球交給球迷支持就好!.png" group-title="youtube",youtube [VOD] 22綠委集體翹班赴日看球!黃揚明嗆"行政院長去日本"是大事情! 直言:棒球交給球迷支持就好!
+http://ncncha.cloudns.ch:9977/play?id=YGhBUQo0Ht0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] Alpha對話｜專訪香港科大校長葉玉如：AI只是工具 醫者的同理心不可替代！中東2050戰略轉型、瞄準零排放 香港科大佈局大灣區、雙向合作正在展開！#鳳凰行天下 #AlphaTalk" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] Alpha對話｜專訪香港科大校長葉玉如：AI只是工具 醫者的同理心不可替代！中東2050戰略轉型、瞄準零排放 香港科大佈局大灣區、雙向合作正在展開！#鳳凰行天下 #AlphaTalk.png" group-title="youtube",youtube [VOD] Alpha對話｜專訪香港科大校長葉玉如：AI只是工具 醫者的同理心不可替代！中東2050戰略轉型、瞄準零排放 香港科大佈局大灣區、雙向合作正在展開！#鳳凰行天下 #AlphaTalk
 http://ncncha.cloudns.ch:9977/play?id=AA2vUq99FBY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【#ctitalk網路論壇】川轟伊"陷泥潭"必定TACO?習要台海"美會軟"賴慘了?...介文汲.李大中.楊永明_重磅對談 精彩完整全程ep111@中天電視CtiTv" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#ctitalk網路論壇】川轟伊"陷泥潭"必定TACO?習要台海"美會軟"賴慘了?...介文汲.李大中.楊永明_重磅對談 精彩完整全程ep111@中天電視CtiTv.png" group-title="youtube",youtube [VOD] 【#ctitalk網路論壇】川轟伊"陷泥潭"必定TACO?習要台海"美會軟"賴慘了?...介文汲.李大中.楊永明_重磅對談 精彩完整全程ep111@中天電視CtiTv
+http://ncncha.cloudns.ch:9977/play?id=LqJqHMMBIkI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【#精選】美伊衝突3月川習會恐生變？川普稱跟陸關係好 栗正傑分析:中國有強大影響力！【#新聞大白話】#熱搜大來賓#栗正傑#川普#川習會#中國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】美伊衝突3月川習會恐生變？川普稱跟陸關係好 栗正傑分析:中國有強大影響力！【#新聞大白話】#熱搜大來賓#栗正傑#川普#川習會#中國.png" group-title="youtube",youtube [VOD] 【#精選】美伊衝突3月川習會恐生變？川普稱跟陸關係好 栗正傑分析:中國有強大影響力！【#新聞大白話】#熱搜大來賓#栗正傑#川普#川習會#中國
+http://ncncha.cloudns.ch:9977/play?id=CfPit9mT3Yo&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【#精選】美防長放話「掌握伊朗領空」 美殺紅眼連醫院都不放過？【#新聞大白話】#熱搜大來賓#川普#美伊#飛彈#地面戰" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】美防長放話「掌握伊朗領空」 美殺紅眼連醫院都不放過？【#新聞大白話】#熱搜大來賓#川普#美伊#飛彈#地面戰.png" group-title="youtube",youtube [VOD] 【#精選】美防長放話「掌握伊朗領空」 美殺紅眼連醫院都不放過？【#新聞大白話】#熱搜大來賓#川普#美伊#飛彈#地面戰
+http://ncncha.cloudns.ch:9977/play?id=50GN3Xxz7XA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【14分完封捷克】終於笑了！中華隊下班路玩Emoji挑戰「嘟嘴、比愛心」太可愛 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【14分完封捷克】終於笑了！中華隊下班路玩Emoji挑戰「嘟嘴、比愛心」太可愛 #shorts.png" group-title="youtube",youtube [VOD] 【14分完封捷克】終於笑了！中華隊下班路玩Emoji挑戰「嘟嘴、比愛心」太可愛 #shorts
+http://ncncha.cloudns.ch:9977/play?id=n675pVp84fI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】伊朗24輪重創薩德？美再派航母地面戰？【#新聞大白話】20260307 #字幕版 #美國#伊朗 #薩德" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】伊朗24輪重創薩德？美再派航母地面戰？【#新聞大白話】20260307 #字幕版 #美國#伊朗 #薩德.png" group-title="youtube",youtube [VOD] 【SUB】伊朗24輪重創薩德？美再派航母地面戰？【#新聞大白話】20260307 #字幕版 #美國#伊朗 #薩德
+http://ncncha.cloudns.ch:9977/play?id=l_xyEXKPgrg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】伊朗死嗑航母薩德？美以戰損擴大急眼？【#新聞大白話】20260307 #字幕版 #美國#伊朗 #以色列" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】伊朗死嗑航母薩德？美以戰損擴大急眼？【#新聞大白話】20260307 #字幕版 #美國#伊朗 #以色列.png" group-title="youtube",youtube [VOD] 【SUB】伊朗死嗑航母薩德？美以戰損擴大急眼？【#新聞大白話】20260307 #字幕版 #美國#伊朗 #以色列
+http://ncncha.cloudns.ch:9977/play?id=VSus4UWPm8g&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】以軍50戰機炸爛哈米尼地堡 伊朗被打爆政權尚無瓦解跡象？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】以軍50戰機炸爛哈米尼地堡 伊朗被打爆政權尚無瓦解跡象？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版上集】以軍50戰機炸爛哈米尼地堡 伊朗被打爆政權尚無瓦解跡象？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之
+http://ncncha.cloudns.ch:9977/play?id=o22Wmt8sy2E&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】國民黨:常識與專業雙缺 批顧立雄沒發價書討國防特別預算？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】國民黨:常識與專業雙缺 批顧立雄沒發價書討國防特別預算？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版下集】國民黨:常識與專業雙缺 批顧立雄沒發價書討國防特別預算？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之
+http://ncncha.cloudns.ch:9977/play?id=sj4F1ePeMvU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】華郵:美以猛轟伊朗6天未見起義跡象 德黑蘭政權掌控未崩？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】華郵:美以猛轟伊朗6天未見起義跡象 德黑蘭政權掌控未崩？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版中集】華郵:美以猛轟伊朗6天未見起義跡象 德黑蘭政權掌控未崩？20260307｜#高嘉瑜 #周榆修 #凌濤 #楊永明 #翁曉玲 #葉元之
+http://ncncha.cloudns.ch:9977/play?id=jQzXpaR1JsA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【戰情不斷電】美軍轟炸伊朗無人機母艦　美伊戰爭最新戰況分析 #少康戰情室" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【戰情不斷電】美軍轟炸伊朗無人機母艦　美伊戰爭最新戰況分析 #少康戰情室.png" group-title="youtube",youtube [VOD] 【戰情不斷電】美軍轟炸伊朗無人機母艦　美伊戰爭最新戰況分析 #少康戰情室
 http://ncncha.cloudns.ch:9977/play?id=V-V1HKCiANg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】台中深夜地震"震央在七期" 當地人驚呼:像被炸到 20260307" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】台中深夜地震"震央在七期" 當地人驚呼:像被炸到 20260307.png" group-title="youtube",youtube [VOD] 【每日必看】台中深夜地震"震央在七期" 當地人驚呼:像被炸到 20260307
-http://ncncha.cloudns.ch:9977/play?id=hAMS9lpbff0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】毒駕"拒檢"警追捕 維安特勤偷"簽名球"國安局開鍘! 20260307" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】毒駕"拒檢"警追捕 維安特勤偷"簽名球"國安局開鍘! 20260307.png" group-title="youtube",youtube [VOD] 【每日必看】毒駕"拒檢"警追捕 維安特勤偷"簽名球"國安局開鍘! 20260307
-http://ncncha.cloudns.ch:9977/play?id=Gddyis6ia_c&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】翁推行李箱重摔外送員救援 BMW倒撞機車肇逃 20260307" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】翁推行李箱重摔外送員救援 BMW倒撞機車肇逃 20260307.png" group-title="youtube",youtube [VOD] 【每日必看】翁推行李箱重摔外送員救援 BMW倒撞機車肇逃 20260307
-http://ncncha.cloudns.ch:9977/play?id=M_CE_jpzDXM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】超跑雨中急行"打水漂"! 阿伯騎車停紅燈"狂轉圈" 20260307" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】超跑雨中急行"打水漂"! 阿伯騎車停紅燈"狂轉圈" 20260307.png" group-title="youtube",youtube [VOD] 【每日必看】超跑雨中急行"打水漂"! 阿伯騎車停紅燈"狂轉圈" 20260307
-http://ncncha.cloudns.ch:9977/play?id=KjauK9dI5P0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】逆向狂衝"正面對撞"休旅車! 起步迴轉"騎士攔腰撞" 20260307" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】逆向狂衝"正面對撞"休旅車! 起步迴轉"騎士攔腰撞" 20260307.png" group-title="youtube",youtube [VOD] 【每日必看】逆向狂衝"正面對撞"休旅車! 起步迴轉"騎士攔腰撞" 20260307
-http://ncncha.cloudns.ch:9977/play?id=0ZWN9qp1ebA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【本週放大鏡Part.1】CNN爆伊朗直接命中毫無警報！鄭麗文衝刺3月完成9成提名！喊話團結+藍白合！美攻伊朗一小時燒10億台幣！戰費驚人戰爭有死傷更是錢坑？#少康戰情室 20260227-0305" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【本週放大鏡Part.1】CNN爆伊朗直接命中毫無警報！鄭麗文衝刺3月完成9成提名！喊話團結+藍白合！美攻伊朗一小時燒10億台幣！戰費驚人戰爭有死傷更是錢坑？#少康戰情室 20260227-0305.png" group-title="youtube",youtube [VOD] 【本週放大鏡Part.1】CNN爆伊朗直接命中毫無警報！鄭麗文衝刺3月完成9成提名！喊話團結+藍白合！美攻伊朗一小時燒10億台幣！戰費驚人戰爭有死傷更是錢坑？#少康戰情室 20260227-0305
+http://ncncha.cloudns.ch:9977/play?id=bYuSOaM7Xi0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】鬧元宵炸出蕈狀雲?! 如核爆火團衝天 全場嚇瘋 20260307" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】鬧元宵炸出蕈狀雲?! 如核爆火團衝天 全場嚇瘋 20260307.png" group-title="youtube",youtube [VOD] 【每日必看】鬧元宵炸出蕈狀雲?! 如核爆火團衝天 全場嚇瘋 20260307
+http://ncncha.cloudns.ch:9977/play?id=hafmtx0cQB4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】十四屆全國人大四次會議民生主題記者會‼️聚焦教育、民政、社會保障、文旅、衛生健康等相關問題｜鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #兩會 #中國 #民生" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】十四屆全國人大四次會議民生主題記者會‼️聚焦教育、民政、社會保障、文旅、衛生健康等相關問題｜鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #兩會 #中國 #民生.png" group-title="youtube",youtube [VOD] 【直播回顧】十四屆全國人大四次會議民生主題記者會‼️聚焦教育、民政、社會保障、文旅、衛生健康等相關問題｜鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #兩會 #中國 #民生
 http://ncncha.cloudns.ch:9977/play?id=YIYxMHgHFCg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】十四屆全國人大四次會議經濟主題記者會‼️重點關注中國經濟目標 人工智能等議題｜鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #兩會 #中國 #經濟" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】十四屆全國人大四次會議經濟主題記者會‼️重點關注中國經濟目標 人工智能等議題｜鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #兩會 #中國 #經濟.png" group-title="youtube",youtube [VOD] 【直播回顧】十四屆全國人大四次會議經濟主題記者會‼️重點關注中國經濟目標 人工智能等議題｜鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #兩會 #中國 #經濟
 http://ncncha.cloudns.ch:9977/play?id=2lBNMftJxQE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 太有緣!李明璇拜票"再遇王世堅" 扶龍王再開金口:"你一定會上的"" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 太有緣!李明璇拜票"再遇王世堅" 扶龍王再開金口:"你一定會上的".png" group-title="youtube",youtube [VOD] 太有緣!李明璇拜票"再遇王世堅" 扶龍王再開金口:"你一定會上的"
-http://ncncha.cloudns.ch:9977/play?id=aelQUgGUfHQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普放話漲就漲吧：打贏戰爭更重要　檯面上淡化油價飆漲衝擊？#少康戰情室 20260306-4 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普放話漲就漲吧：打贏戰爭更重要　檯面上淡化油價飆漲衝擊？#少康戰情室 20260306-4 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁.png" group-title="youtube",youtube [VOD] 川普放話漲就漲吧：打贏戰爭更重要　檯面上淡化油價飆漲衝擊？#少康戰情室 20260306-4 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁
-http://ncncha.cloudns.ch:9977/play?id=3Tek8oPvItA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【賽後休息室】明日迎戰韓國！陳傑憲喊話"還有機會"：帶著感謝表現給台灣球迷看 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【賽後休息室】明日迎戰韓國！陳傑憲喊話"還有機會"：帶著感謝表現給台灣球迷看 #shorts.png" group-title="youtube",youtube [VOD] 【賽後休息室】明日迎戰韓國！陳傑憲喊話"還有機會"：帶著感謝表現給台灣球迷看 #shorts
+http://ncncha.cloudns.ch:9977/play?id=PO_6FyaH-pE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 伊朗炸美沙漠之眼雷達？革命衛隊導彈轟美航母！美打伊朗波音訂單黃了？美派第三航母中東馳援？民進黨22立委大翹班了！【#新聞大白話】20260307 #完整版 #伊朗 #航母 #美國 #中東 #民進黨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 伊朗炸美沙漠之眼雷達？革命衛隊導彈轟美航母！美打伊朗波音訂單黃了？美派第三航母中東馳援？民進黨22立委大翹班了！【#新聞大白話】20260307 #完整版 #伊朗 #航母 #美國 #中東 #民進黨.png" group-title="youtube",youtube [VOD] 伊朗炸美沙漠之眼雷達？革命衛隊導彈轟美航母！美打伊朗波音訂單黃了？美派第三航母中東馳援？民進黨22立委大翹班了！【#新聞大白話】20260307 #完整版 #伊朗 #航母 #美國 #中東 #民進黨
+http://ncncha.cloudns.ch:9977/play?id=R1aJr5aJCFk&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 川普打伊朗波音訂單要黃了？美少了陸稀土修不了雷達了？【#新聞大白話】20260307-12｜#帥化民 #苑舉正 #嚴震生" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普打伊朗波音訂單要黃了？美少了陸稀土修不了雷達了？【#新聞大白話】20260307-12｜#帥化民 #苑舉正 #嚴震生.png" group-title="youtube",youtube [VOD] 川普打伊朗波音訂單要黃了？美少了陸稀土修不了雷達了？【#新聞大白話】20260307-12｜#帥化民 #苑舉正 #嚴震生
+http://ncncha.cloudns.ch:9977/play?id=qaa09yrUVw4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜GDP“不衝了”？中國主動降速另有盤算！特朗普關稅圍城 北京轉打“內需升級戰”：押注“人工智能+”換引擎！AI普及化進場、全產業大變 硅谷還坐得住嗎？｜20260306 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜GDP“不衝了”？中國主動降速另有盤算！特朗普關稅圍城 北京轉打“內需升級戰”：押注“人工智能+”換引擎！AI普及化進場、全產業大變 硅谷還坐得住嗎？｜20260306 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜GDP“不衝了”？中國主動降速另有盤算！特朗普關稅圍城 北京轉打“內需升級戰”：押注“人工智能+”換引擎！AI普及化進場、全產業大變 硅谷還坐得住嗎？｜20260306 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=XPVirWWHfQw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋：價值觀跟民進黨支持者不同　認知作戰轉向攻擊自己人？#少康戰情室 20260306-6 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋：價值觀跟民進黨支持者不同　認知作戰轉向攻擊自己人？#少康戰情室 20260306-6 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁.png" group-title="youtube",youtube [VOD] 沈伯洋：價值觀跟民進黨支持者不同　認知作戰轉向攻擊自己人？#少康戰情室 20260306-6 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁
-http://ncncha.cloudns.ch:9977/play?id=_vY1TcGU43A&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 美伊戰火釀航空大癱瘓！全球數十萬旅客受困波灣地區 伊朗封鎖海峽逾150艘船停駛【#大白話說新聞】#川普 #伊朗 #美國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美伊戰火釀航空大癱瘓！全球數十萬旅客受困波灣地區 伊朗封鎖海峽逾150艘船停駛【#大白話說新聞】#川普 #伊朗 #美國.png" group-title="youtube",youtube [VOD] 美伊戰火釀航空大癱瘓！全球數十萬旅客受困波灣地區 伊朗封鎖海峽逾150艘船停駛【#大白話說新聞】#川普 #伊朗 #美國
-http://ncncha.cloudns.ch:9977/play?id=LRKL9jDmN9U&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 美伊開戰恐拖三個月？伊朗空襲煉油之都掀石油危機 四月川習會有變數！【#大白話說新聞】#川普 #伊朗 #美國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美伊開戰恐拖三個月？伊朗空襲煉油之都掀石油危機 四月川習會有變數！【#大白話說新聞】#川普 #伊朗 #美國.png" group-title="youtube",youtube [VOD] 美伊開戰恐拖三個月？伊朗空襲煉油之都掀石油危機 四月川習會有變數！【#大白話說新聞】#川普 #伊朗 #美國
-http://ncncha.cloudns.ch:9977/play?id=kawpQYvdyj4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 美媒示警戰事至少100天　各國啟動撤僑現在不走恐難逃？#少康戰情室 20260306-3 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美媒示警戰事至少100天　各國啟動撤僑現在不走恐難逃？#少康戰情室 20260306-3 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁.png" group-title="youtube",youtube [VOD] 美媒示警戰事至少100天　各國啟動撤僑現在不走恐難逃？#少康戰情室 20260306-3 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁
-http://ncncha.cloudns.ch:9977/play?id=6P3X1eNPNRA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 美軍漸浮現"彈藥荒"？白宮將召集國防承包商 討論加速武器生產 黎巴嫩飯店無辜遭炸 老闆怒嗆：這裡沒伊朗人！美公民轉機困卡達 電話竟回：別指望【#大白話說新聞】 #伊朗 #川普 #美伊開打" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美軍漸浮現"彈藥荒"？白宮將召集國防承包商 討論加速武器生產 黎巴嫩飯店無辜遭炸 老闆怒嗆：這裡沒伊朗人！美公民轉機困卡達 電話竟回：別指望【#大白話說新聞】 #伊朗 #川普 #美伊開打.png" group-title="youtube",youtube [VOD] 美軍漸浮現"彈藥荒"？白宮將召集國防承包商 討論加速武器生產 黎巴嫩飯店無辜遭炸 老闆怒嗆：這裡沒伊朗人！美公民轉機困卡達 電話竟回：別指望【#大白話說新聞】 #伊朗 #川普 #美伊開打
-http://ncncha.cloudns.ch:9977/play?id=ivhVThdZEK0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 美軍航母遠離荷姆茲海峽了 卡達警告海灣危機出大事了【#新聞大白話】20260307-2｜#葉元之 #凌濤 #何景榮" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美軍航母遠離荷姆茲海峽了 卡達警告海灣危機出大事了【#新聞大白話】20260307-2｜#葉元之 #凌濤 #何景榮.png" group-title="youtube",youtube [VOD] 美軍航母遠離荷姆茲海峽了 卡達警告海灣危機出大事了【#新聞大白話】20260307-2｜#葉元之 #凌濤 #何景榮
-http://ncncha.cloudns.ch:9977/play?id=g50OaVkDeM4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 藍版軍購加碼至「3800億＋N」　設二階軍購但書為人民把關？#少康戰情室 20260306-5 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 藍版軍購加碼至「3800億＋N」　設二階軍購但書為人民把關？#少康戰情室 20260306-5 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁.png" group-title="youtube",youtube [VOD] 藍版軍購加碼至「3800億＋N」　設二階軍購但書為人民把關？#少康戰情室 20260306-5 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁
-http://ncncha.cloudns.ch:9977/play?id=uzZmkIY-W7c&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 賴清德總統府再爆大醜聞了 民進黨22位立委集體翹班了【#新聞大白話】20260307-1｜#葉元之 #凌濤 #何景榮" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 賴清德總統府再爆大醜聞了 民進黨22位立委集體翹班了【#新聞大白話】20260307-1｜#葉元之 #凌濤 #何景榮.png" group-title="youtube",youtube [VOD] 賴清德總統府再爆大醜聞了 民進黨22位立委集體翹班了【#新聞大白話】20260307-1｜#葉元之 #凌濤 #何景榮
-http://ncncha.cloudns.ch:9977/play?id=0uomGEGoM6A&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 美伊戰火升溫! 油價漲不停恐釀"全球經濟大崩盤" 謝寒冰替台灣捏一把冷汗:"不太妙"..." tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美伊戰火升溫! 油價漲不停恐釀"全球經濟大崩盤" 謝寒冰替台灣捏一把冷汗:"不太妙"....png" group-title="youtube",youtube [VOD] 美伊戰火升溫! 油價漲不停恐釀"全球經濟大崩盤" 謝寒冰替台灣捏一把冷汗:"不太妙"...
+http://ncncha.cloudns.ch:9977/play?id=4FNYOeVndh0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 陳佩琪談到柯文哲遭遇頻哽咽落淚　為3/26宣判做最後一搏？#少康戰情室 20260306-7 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 陳佩琪談到柯文哲遭遇頻哽咽落淚　為3/26宣判做最後一搏？#少康戰情室 20260306-7 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁.png" group-title="youtube",youtube [VOD] 陳佩琪談到柯文哲遭遇頻哽咽落淚　為3/26宣判做最後一搏？#少康戰情室 20260306-7 #沈富雄 #吳崢 #謝龍介 #萬美玲 #尹乃菁
 http://ncncha.cloudns.ch:9977/play?id=7buAM0j7cGY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 🔴LIVE：2026.03.07 新聞大白話特報【14:10全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 🔴LIVE：2026.03.07 新聞大白話特報【14:10全球開播】.png" group-title="youtube",youtube [VOD] 🔴LIVE：2026.03.07 新聞大白話特報【14:10全球開播】
-http://ncncha.cloudns.ch:9977/play?id=R1aJr5aJCFk&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
 P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 tvg-name="中天亚洲频特" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频特.png" group-title="youtube",中天亚洲频特
@@ -690,17 +680,17 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 #EXTINF:-1 tvg-name="咪咕视频-9" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-9.png" group-title="河南频道",咪咕视频-9
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
-http://111.193.239.94:8888/rtp/239.3.1.128:8001$北京市联通
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
-http://114.243.96.219:8888/rtp/239.3.1.128:8001$北京市联通
+http://180.112.58.55:8800/rtp/239.49.8.64:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://114.243.168.34:8888/rtp/239.3.1.128:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
+http://221.223.19.85:8888/rtp/239.3.1.128:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
+http://114.243.96.219:8888/rtp/239.3.1.128:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://123.112.164.129:4022/rtp/239.3.1.128:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
-http://180.112.58.55:8800/rtp/239.49.8.64:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
-http://221.223.19.85:8888/rtp/239.3.1.128:8001$北京市联通
+http://111.193.239.94:8888/rtp/239.3.1.128:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
@@ -726,19 +716,21 @@ http://219.150.217.47:6610/PLTV1/700/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="睛彩移动戏曲" tvg-logo="https://live.fanmingming.cn/tv/睛彩移动戏曲.png" group-title="河南频道",睛彩移动戏曲
 http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://111.193.239.94:8888/rtp/239.3.1.125:8001$北京市联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://114.243.96.219:8888/rtp/239.3.1.125:8001$北京市联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://123.157.31.182:7912/rtp/233.50.202.26:5140$浙江电信
+http://180.112.58.55:8800/rtp/239.49.8.39:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://114.243.168.34:8888/rtp/239.3.1.125:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://221.223.19.85:8888/rtp/239.3.1.125:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://114.243.96.219:8888/rtp/239.3.1.125:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://123.112.164.129:4022/rtp/239.3.1.125:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://180.112.58.55:8800/rtp/239.49.8.39:8000$江苏电信
+http://115.210.130.50:8001/rtp/233.50.202.26:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://221.223.19.85:8888/rtp/239.3.1.125:8001$北京市联通
+http://123.157.31.182:7912/rtp/233.50.202.26:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://111.193.239.94:8888/rtp/239.3.1.125:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
@@ -752,19 +744,21 @@ https://msj.188766.xyz/play?id=3000000020000011528&token=87d6d6e387d6d6e387d6d6e
 #EXTINF:-1 tvg-name="睛彩竞技-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-移动或影视专用.png" group-title="河南频道",睛彩竞技-移动或影视专用
 https://msj.188766.xyz/play?id=3000000020000011528&token=87d6d6e387d6d6e387d6d6e387d6d6e3&client=ys
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://111.193.239.94:8888/rtp/239.3.1.126:8001$北京市联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://114.243.96.219:8888/rtp/239.3.1.126:8001$北京市联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://123.157.31.182:7912/rtp/233.50.202.27:5140$浙江电信
+http://180.112.58.55:8800/rtp/239.49.8.42:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://114.243.168.34:8888/rtp/239.3.1.126:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://221.223.19.85:8888/rtp/239.3.1.126:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://114.243.96.219:8888/rtp/239.3.1.126:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://123.112.164.129:4022/rtp/239.3.1.126:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://180.112.58.55:8800/rtp/239.49.8.42:8000$江苏电信
+http://115.210.130.50:8001/rtp/233.50.202.27:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://221.223.19.85:8888/rtp/239.3.1.126:8001$北京市联通
+http://123.157.31.182:7912/rtp/233.50.202.27:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://111.193.239.94:8888/rtp/239.3.1.126:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
@@ -782,19 +776,21 @@ https://msj.188766.xyz/play?id=3000000020000011529&token=87d6d6e487d6d6e487d6d6e
 #EXTINF:-1 tvg-name="睛彩篮球-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-移动或影视专用.png" group-title="河南频道",睛彩篮球-移动或影视专用
 https://msj.188766.xyz/play?id=3000000020000011529&token=87d6d6e487d6d6e487d6d6e487d6d6e4&client=ys
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://111.193.239.94:8888/rtp/239.3.1.127:8001$北京市联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://114.243.96.219:8888/rtp/239.3.1.127:8001$北京市联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://123.157.31.182:7912/rtp/233.50.202.28:5140$浙江电信
+http://180.112.58.55:8800/rtp/239.49.8.46:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://114.243.168.34:8888/rtp/239.3.1.127:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://221.223.19.85:8888/rtp/239.3.1.127:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://114.243.96.219:8888/rtp/239.3.1.127:8001$北京市联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://123.112.164.129:4022/rtp/239.3.1.127:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://180.112.58.55:8800/rtp/239.49.8.46:8000$江苏电信
+http://115.210.130.50:8001/rtp/233.50.202.28:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://221.223.19.85:8888/rtp/239.3.1.127:8001$北京市联通
+http://123.157.31.182:7912/rtp/233.50.202.28:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://111.193.239.94:8888/rtp/239.3.1.127:8001$北京市联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
