@@ -116,9 +116,9 @@ http://58.46.31.151:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://58.46.31.151:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.114.98.114:4022/udp/239.94.2.51:5140
+http://118.113.13.83:8118/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.114.98.114:4022/udp/239.94.2.52:5140
+http://118.113.13.83:8118/udp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰中文FYtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文FYtv.png" group-title="港澳频道",凤凰中文FYtv
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰中文Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文Pdtv.png" group-title="港澳频道",凤凰中文Pdtv
@@ -254,9 +254,9 @@ http://58.46.31.151:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://58.46.31.151:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.114.98.114:4022/udp/239.94.2.49:5140
+http://118.113.13.83:8118/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.114.98.114:4022/udp/239.94.2.50:5140
+http://118.113.13.83:8118/udp/239.94.2.50:5140
 #EXTINF:-1 tvg-name="凤凰资讯Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯Pdtv.png" group-title="港澳频道",凤凰资讯Pdtv
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 tvg-name="凤凰资讯SXtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯SXtv.png" group-title="港澳频道",凤凰资讯SXtv
@@ -293,62 +293,56 @@ http://ncncha.cloudns.ch:9977/play?id=HvWkyIEZndI&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 #EXTINF:-1 tvg-name=" 中天新聞" tvg-logo="https://live.fanmingming.cn/tv/ 中天新聞.png" group-title="youtube", 中天新聞
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 【LIVE】柯文哲京華城案1審宣判 關鍵4被告親赴北院聆判" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【LIVE】柯文哲京華城案1審宣判 關鍵4被告親赴北院聆判.png" group-title="youtube",youtube [LIVE] 【LIVE】柯文哲京華城案1審宣判 關鍵4被告親赴北院聆判
-http://ncncha.cloudns.ch:9977/play?id=pR04xGdVKSQ&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 【直播LIVE】柯文哲京華城案一審宣判‼️獲刑17年 褫奪公權6年｜民眾黨17時將召開記者會｜特邀鈕則勳、江岷欽點評 鳳凰記者現場報道【最新消息】#鳳凰衛視 #phoenixtv #柯文哲 #京華城案" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【直播LIVE】柯文哲京華城案一審宣判‼️獲刑17年 褫奪公權6年｜民眾黨17時將召開記者會｜特邀鈕則勳、江岷欽點評 鳳凰記者現場報道【最新消息】#鳳凰衛視 #phoenixtv #柯文哲 #京華城案.png" group-title="youtube",youtube [LIVE] 【直播LIVE】柯文哲京華城案一審宣判‼️獲刑17年 褫奪公權6年｜民眾黨17時將召開記者會｜特邀鈕則勳、江岷欽點評 鳳凰記者現場報道【最新消息】#鳳凰衛視 #phoenixtv #柯文哲 #京華城案
-http://ncncha.cloudns.ch:9977/play?id=4_X6dsigxTk&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 【🔴LIVE直播中】京華城案柯文哲重判17年!二審前禁選公職斷總統路!綠籲勇敢面對柯媽淚喊迫害!小沈1500法官不認定有罪!|林佩潔/黃韵筑報新聞20260326@中天新聞CtiNews​" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【🔴LIVE直播中】京華城案柯文哲重判17年!二審前禁選公職斷總統路!綠籲勇敢面對柯媽淚喊迫害!小沈1500法官不認定有罪!|林佩潔/黃韵筑報新聞20260326@中天新聞CtiNews​.png" group-title="youtube",youtube [LIVE] 【🔴LIVE直播中】京華城案柯文哲重判17年!二審前禁選公職斷總統路!綠籲勇敢面對柯媽淚喊迫害!小沈1500法官不認定有罪!|林佩潔/黃韵筑報新聞20260326@中天新聞CtiNews​
-http://ncncha.cloudns.ch:9977/play?id=yO3s1WUIFA0&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 🔴LIVE：2026.03.26 新聞大白話【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴LIVE：2026.03.26 新聞大白話【14:00全球開播】.png" group-title="youtube",youtube [LIVE] 🔴LIVE：2026.03.26 新聞大白話【14:00全球開播】
-http://ncncha.cloudns.ch:9977/play?id=MVWE9NBeaSM&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#少康大人物】卓揆稱反核非神主牌藍批意識形態　國家發展淪政治踏板操弄？ 20260325｜#陳智菡 #王伯輝" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#少康大人物】卓揆稱反核非神主牌藍批意識形態　國家發展淪政治踏板操弄？ 20260325｜#陳智菡 #王伯輝.png" group-title="youtube",youtube [VOD] 【#少康大人物】卓揆稱反核非神主牌藍批意識形態　國家發展淪政治踏板操弄？ 20260325｜#陳智菡 #王伯輝
-http://ncncha.cloudns.ch:9977/play?id=xdmMMr63rjw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#少康大人物】國台辦：解決台灣問題中國人自己事　打臉美稱2027未計劃攻台？ 20260325｜#柯志恩 #李柏毅" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#少康大人物】國台辦：解決台灣問題中國人自己事　打臉美稱2027未計劃攻台？ 20260325｜#柯志恩 #李柏毅.png" group-title="youtube",youtube [VOD] 【#少康大人物】國台辦：解決台灣問題中國人自己事　打臉美稱2027未計劃攻台？ 20260325｜#柯志恩 #李柏毅
-http://ncncha.cloudns.ch:9977/play?id=dq3dGFQ1VqA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#柯文哲一審宣判】柯文哲遭判17年無緣2028大選 陳佩琪陪伴出庭聽判決結果震驚#新聞大白話#陳佩琪#柯文哲" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#柯文哲一審宣判】柯文哲遭判17年無緣2028大選 陳佩琪陪伴出庭聽判決結果震驚#新聞大白話#陳佩琪#柯文哲.png" group-title="youtube",youtube [VOD] 【#柯文哲一審宣判】柯文哲遭判17年無緣2028大選 陳佩琪陪伴出庭聽判決結果震驚#新聞大白話#陳佩琪#柯文哲
-http://ncncha.cloudns.ch:9977/play?id=f8RwQI81vdw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程CC字幕】柯文哲「世紀審判」民進黨怎看?若判決未達10年甚至無罪柯恐東山再起?綠委:我們不是算命的地方 徐春鶯涉反滲透遭起訴 范雲點名:下一個李貞秀?｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程CC字幕】柯文哲「世紀審判」民進黨怎看?若判決未達10年甚至無罪柯恐東山再起?綠委:我們不是算命的地方 徐春鶯涉反滲透遭起訴 范雲點名:下一個李貞秀?｜TVBS新聞.png" group-title="youtube",youtube [VOD] 【全程CC字幕】柯文哲「世紀審判」民進黨怎看?若判決未達10年甚至無罪柯恐東山再起?綠委:我們不是算命的地方 徐春鶯涉反滲透遭起訴 范雲點名:下一個李貞秀?｜TVBS新聞
-http://ncncha.cloudns.ch:9977/play?id=xyjyT5Ws6zo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程CC字幕】與顧立雄爆「機密」口角 徐巧芯怨:好心被雷親!轟顧立雄:他這個態度註定讓1.25兆行政院版軍購難通過｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程CC字幕】與顧立雄爆「機密」口角 徐巧芯怨:好心被雷親!轟顧立雄:他這個態度註定讓1.25兆行政院版軍購難通過｜TVBS新聞.png" group-title="youtube",youtube [VOD] 【全程CC字幕】與顧立雄爆「機密」口角 徐巧芯怨:好心被雷親!轟顧立雄:他這個態度註定讓1.25兆行政院版軍購難通過｜TVBS新聞
-http://ncncha.cloudns.ch:9977/play?id=9Zc4HWY2-jI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】顧立雄無奈回：乾脆把我送懲戒吧！軍購條例協商卡關 藍版本擬納「預算執行不力懲戒」條文 顧：乾脆把我跟機關首長送懲戒 朝野多數無共識 該條文最終列保留｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】顧立雄無奈回：乾脆把我送懲戒吧！軍購條例協商卡關 藍版本擬納「預算執行不力懲戒」條文 顧：乾脆把我跟機關首長送懲戒 朝野多數無共識 該條文最終列保留｜TVBS新聞.png" group-title="youtube",youtube [VOD] 【全程字幕】顧立雄無奈回：乾脆把我送懲戒吧！軍購條例協商卡關 藍版本擬納「預算執行不力懲戒」條文 顧：乾脆把我跟機關首長送懲戒 朝野多數無共識 該條文最終列保留｜TVBS新聞
-http://ncncha.cloudns.ch:9977/play?id=-arh8IixtuA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【直播LIVE】柯文哲京華城案一審宣判‼️獲刑17年 褫奪公權6年｜民眾黨17時將召開記者會｜特邀鈕則勳、江岷欽點評 鳳凰記者現場報道【最新消息】#鳳凰衛視 #phoenixtv #柯文哲 #京華城案" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播LIVE】柯文哲京華城案一審宣判‼️獲刑17年 褫奪公權6年｜民眾黨17時將召開記者會｜特邀鈕則勳、江岷欽點評 鳳凰記者現場報道【最新消息】#鳳凰衛視 #phoenixtv #柯文哲 #京華城案.png" group-title="youtube",youtube [VOD] 【直播LIVE】柯文哲京華城案一審宣判‼️獲刑17年 褫奪公權6年｜民眾黨17時將召開記者會｜特邀鈕則勳、江岷欽點評 鳳凰記者現場報道【最新消息】#鳳凰衛視 #phoenixtv #柯文哲 #京華城案
-http://ncncha.cloudns.ch:9977/play?id=4_X6dsigxTk&quality=360p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗：襲擊“林肯”號 美軍：“林肯”號繼續對伊作戰｜伊朗：美國奪島難改戰局｜伊朗革命衛隊海軍司令遇襲身亡｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗：襲擊“林肯”號 美軍：“林肯”號繼續對伊作戰｜伊朗：美國奪島難改戰局｜伊朗革命衛隊海軍司令遇襲身亡｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗：襲擊“林肯”號 美軍：“林肯”號繼續對伊作戰｜伊朗：美國奪島難改戰局｜伊朗革命衛隊海軍司令遇襲身亡｜24-hour live news｜24小时直播间#鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] 17年重判‼️柯文哲一審獲刑17年 將喪失2028年台灣大選資格【鳳凰記者在現場】 #鳳凰衛視 #phoenixtv #柯文哲 #台灣 #民眾黨 #京華城案 #一審 #宣判 #大選" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 17年重判‼️柯文哲一審獲刑17年 將喪失2028年台灣大選資格【鳳凰記者在現場】 #鳳凰衛視 #phoenixtv #柯文哲 #台灣 #民眾黨 #京華城案 #一審 #宣判 #大選.png" group-title="youtube",youtube [VOD] 17年重判‼️柯文哲一審獲刑17年 將喪失2028年台灣大選資格【鳳凰記者在現場】 #鳳凰衛視 #phoenixtv #柯文哲 #台灣 #民眾黨 #京華城案 #一審 #宣判 #大選
+http://ncncha.cloudns.ch:9977/play?id=zORREKdJhYo&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 《晚間最新》鄭麗文談柯文哲審判用美國當例子 錯誤的司法判決恐將引爆戰爭" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 《晚間最新》鄭麗文談柯文哲審判用美國當例子 錯誤的司法判決恐將引爆戰爭.png" group-title="youtube",youtube [VOD] 《晚間最新》鄭麗文談柯文哲審判用美國當例子 錯誤的司法判決恐將引爆戰爭
+http://ncncha.cloudns.ch:9977/play?id=7V5jp7xIc0w&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】柯文哲4罪狀遭判17年　謎之金流、帳冊真相一審迎終章？ #少康戰情室 20260326" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】柯文哲4罪狀遭判17年　謎之金流、帳冊真相一審迎終章？ #少康戰情室 20260326.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】柯文哲4罪狀遭判17年　謎之金流、帳冊真相一審迎終章？ #少康戰情室 20260326
+http://ncncha.cloudns.ch:9977/play?id=1K3CH273LBk&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【LIVE主播+立委線上聊】柯文哲一審判17年! 民眾黨立委週日上凱道”討公道”" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【LIVE主播+立委線上聊】柯文哲一審判17年! 民眾黨立委週日上凱道”討公道”.png" group-title="youtube",youtube [VOD] 【LIVE主播+立委線上聊】柯文哲一審判17年! 民眾黨立委週日上凱道”討公道”
+http://ncncha.cloudns.ch:9977/play?id=-7yaMjouZQ0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】川普檯面上稱伊朗超想和談　私下向助理稱想快速結束戰爭？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】川普檯面上稱伊朗超想和談　私下向助理稱想快速結束戰爭？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍.png" group-title="youtube",youtube [VOD] 【完整版上集】川普檯面上稱伊朗超想和談　私下向助理稱想快速結束戰爭？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍
+http://ncncha.cloudns.ch:9977/play?id=n6XE2d6HayU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】馬辦風暴「2024選戰正面交鋒」　蕭旭岑擋金溥聰見馬英九導火線？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】馬辦風暴「2024選戰正面交鋒」　蕭旭岑擋金溥聰見馬英九導火線？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍.png" group-title="youtube",youtube [VOD] 【完整版下集】馬辦風暴「2024選戰正面交鋒」　蕭旭岑擋金溥聰見馬英九導火線？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍
+http://ncncha.cloudns.ch:9977/play?id=UfBCIukPvm0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】柯文哲親自到庭聽判臉色鐵青　一審遭重判17年等政治死刑？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】柯文哲親自到庭聽判臉色鐵青　一審遭重判17年等政治死刑？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍.png" group-title="youtube",youtube [VOD] 【完整版中集】柯文哲親自到庭聽判臉色鐵青　一審遭重判17年等政治死刑？20260326｜#張嘉玲 #陳琬惠 #陳琬惠 #王鴻薇 #唐湘龍
+http://ncncha.cloudns.ch:9977/play?id=UaS9fcXBJj8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】北院"判柯文哲17年"! 圖利京華城"多賺百億" 柯"收賄210萬"! | 北院認柯收賄210萬是"前金" 鄭深元問"後謝"在哪裡? 20260326" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】北院"判柯文哲17年"! 圖利京華城"多賺百億" 柯"收賄210萬"! | 北院認柯收賄210萬是"前金" 鄭深元問"後謝"在哪裡? 20260326.png" group-title="youtube",youtube [VOD] 【每日必看】北院"判柯文哲17年"! 圖利京華城"多賺百億" 柯"收賄210萬"! | 北院認柯收賄210萬是"前金" 鄭深元問"後謝"在哪裡? 20260326
+http://ncncha.cloudns.ch:9977/play?id=LbmE-3uMXhA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】嘉義市成合作樣板? 賴苡任曝"民調"一貓膩 | 綠議員讚他讓蔣"不好選" 沈伯洋:要問蔣萬安 20260326" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】嘉義市成合作樣板? 賴苡任曝"民調"一貓膩 | 綠議員讚他讓蔣"不好選" 沈伯洋:要問蔣萬安 20260326.png" group-title="youtube",youtube [VOD] 【每日必看】嘉義市成合作樣板? 賴苡任曝"民調"一貓膩 | 綠議員讚他讓蔣"不好選" 沈伯洋:要問蔣萬安 20260326
+http://ncncha.cloudns.ch:9977/play?id=T56lWI2MRRo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】博鰲亞洲論壇2026年年會全體大會‼️全國人大常委會委員長趙樂際發表主旨演講｜特邀朱文暉 王文點評、鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #中國 #博鰲亞洲論壇 #海南" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】博鰲亞洲論壇2026年年會全體大會‼️全國人大常委會委員長趙樂際發表主旨演講｜特邀朱文暉 王文點評、鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #中國 #博鰲亞洲論壇 #海南.png" group-title="youtube",youtube [VOD] 【直播回顧】博鰲亞洲論壇2026年年會全體大會‼️全國人大常委會委員長趙樂際發表主旨演講｜特邀朱文暉 王文點評、鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #中國 #博鰲亞洲論壇 #海南
 http://ncncha.cloudns.ch:9977/play?id=EaUNhuJn_Do&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【🔴LIVE直播中】京華城案柯文哲重判17年!二審前禁選公職斷總統路!綠籲勇敢面對柯媽淚喊迫害!小沈1500法官不認定有罪!|林佩潔/黃韵筑報新聞20260326@中天新聞CtiNews​" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【🔴LIVE直播中】京華城案柯文哲重判17年!二審前禁選公職斷總統路!綠籲勇敢面對柯媽淚喊迫害!小沈1500法官不認定有罪!|林佩潔/黃韵筑報新聞20260326@中天新聞CtiNews​.png" group-title="youtube",youtube [VOD] 【🔴LIVE直播中】京華城案柯文哲重判17年!二審前禁選公職斷總統路!綠籲勇敢面對柯媽淚喊迫害!小沈1500法官不認定有罪!|林佩潔/黃韵筑報新聞20260326@中天新聞CtiNews​
-http://ncncha.cloudns.ch:9977/play?id=yO3s1WUIFA0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 伊朗收到美國15點停火方案 最快27日談判 伊攻擊鄰國炸不停 沙烏地.阿聯火大逼近參戰邊緣 傳王儲勸川普續攻伊？【#美伊戰爭】#談判#伊朗#川普#大白話戰事最前線" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 伊朗收到美國15點停火方案 最快27日談判 伊攻擊鄰國炸不停 沙烏地.阿聯火大逼近參戰邊緣 傳王儲勸川普續攻伊？【#美伊戰爭】#談判#伊朗#川普#大白話戰事最前線.png" group-title="youtube",youtube [VOD] 伊朗收到美國15點停火方案 最快27日談判 伊攻擊鄰國炸不停 沙烏地.阿聯火大逼近參戰邊緣 傳王儲勸川普續攻伊？【#美伊戰爭】#談判#伊朗#川普#大白話戰事最前線
-http://ncncha.cloudns.ch:9977/play?id=fnRPsR4aUhg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 在公園打架只為這個...? 3少年為”藍芽耳機”翻臉鬥毆 警掏"電擊槍”嚇阻壓制 少年嚇到抱頭蹲下" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 在公園打架只為這個...? 3少年為”藍芽耳機”翻臉鬥毆 警掏"電擊槍”嚇阻壓制 少年嚇到抱頭蹲下.png" group-title="youtube",youtube [VOD] 在公園打架只為這個...? 3少年為”藍芽耳機”翻臉鬥毆 警掏"電擊槍”嚇阻壓制 少年嚇到抱頭蹲下
-http://ncncha.cloudns.ch:9977/play?id=FrR5x_Kkocw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 巴基斯坦總理稱已準備好主持美伊會談！聯合國：歡迎巴基斯坦斡旋美國伊朗對話 #鳳凰衛視 #phoenixtv #美國 #伊朗 #美伊 #以色列" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 巴基斯坦總理稱已準備好主持美伊會談！聯合國：歡迎巴基斯坦斡旋美國伊朗對話 #鳳凰衛視 #phoenixtv #美國 #伊朗 #美伊 #以色列.png" group-title="youtube",youtube [VOD] 巴基斯坦總理稱已準備好主持美伊會談！聯合國：歡迎巴基斯坦斡旋美國伊朗對話 #鳳凰衛視 #phoenixtv #美國 #伊朗 #美伊 #以色列
-http://ncncha.cloudns.ch:9977/play?id=Ikth1C6CIiE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 柯文哲17.6年加速藍白合了？唯一活路2028賴清德下台了？【#新聞大白話】20260326-3｜#黃揚明 #陳揮文 #高嘉瑜" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯文哲17.6年加速藍白合了？唯一活路2028賴清德下台了？【#新聞大白話】20260326-3｜#黃揚明 #陳揮文 #高嘉瑜.png" group-title="youtube",youtube [VOD] 柯文哲17.6年加速藍白合了？唯一活路2028賴清德下台了？【#新聞大白話】20260326-3｜#黃揚明 #陳揮文 #高嘉瑜
-http://ncncha.cloudns.ch:9977/play?id=2fKUFQJ7iPQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 柯文哲一審宣判! 館長:綠1個月前就知怎麼判 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯文哲一審宣判! 館長:綠1個月前就知怎麼判 #shorts.png" group-title="youtube",youtube [VOD] 柯文哲一審宣判! 館長:綠1個月前就知怎麼判 #shorts
-http://ncncha.cloudns.ch:9977/play?id=I8QkbF4UYWM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 柯文哲四大罪重判17.6年了 不能選總統了賴清德安心了？【#新聞大白話】20260326-2｜#黃揚明 #陳揮文 #高嘉瑜" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯文哲四大罪重判17.6年了 不能選總統了賴清德安心了？【#新聞大白話】20260326-2｜#黃揚明 #陳揮文 #高嘉瑜.png" group-title="youtube",youtube [VOD] 柯文哲四大罪重判17.6年了 不能選總統了賴清德安心了？【#新聞大白話】20260326-2｜#黃揚明 #陳揮文 #高嘉瑜
-http://ncncha.cloudns.ch:9977/play?id=ITcA6aVIi5M&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 柯文哲遭判刑17年、褫奪公權6年 2028夢碎衝擊政治版圖？柯文哲17年、應曉薇15年6月、沈慶京10年　京華城案全重判？" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯文哲遭判刑17年、褫奪公權6年 2028夢碎衝擊政治版圖？柯文哲17年、應曉薇15年6月、沈慶京10年　京華城案全重判？.png" group-title="youtube",youtube [VOD] 柯文哲遭判刑17年、褫奪公權6年 2028夢碎衝擊政治版圖？柯文哲17年、應曉薇15年6月、沈慶京10年　京華城案全重判？
-http://ncncha.cloudns.ch:9977/play?id=kbjqSGF_q6Y&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 特朗普訪華時間確定‼️將於5月14至15日與習近平會晤 #鳳凰衛視 #phoenixtv #中國 #美國 #中美 #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 特朗普訪華時間確定‼️將於5月14至15日與習近平會晤 #鳳凰衛視 #phoenixtv #中國 #美國 #中美 #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 特朗普訪華時間確定‼️將於5月14至15日與習近平會晤 #鳳凰衛視 #phoenixtv #中國 #美國 #中美 #習近平 #特朗普
-http://ncncha.cloudns.ch:9977/play?id=EGe6W-6CHDE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 矛跟盾都算自家的!都得誇! 愛國者飛彈之下 .飛行員活了 川普說到科威特不忘提“小意外"" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 矛跟盾都算自家的!都得誇! 愛國者飛彈之下 .飛行員活了 川普說到科威特不忘提“小意外".png" group-title="youtube",youtube [VOD] 矛跟盾都算自家的!都得誇! 愛國者飛彈之下 .飛行員活了 川普說到科威特不忘提“小意外"
-http://ncncha.cloudns.ch:9977/play?id=LSj27ERVtYY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 石油上漲股市下跌都無所謂? 川普:對我來說不重要 嗆"清除伊朗毒瘤"" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 石油上漲股市下跌都無所謂? 川普:對我來說不重要 嗆"清除伊朗毒瘤".png" group-title="youtube",youtube [VOD] 石油上漲股市下跌都無所謂? 川普:對我來說不重要 嗆"清除伊朗毒瘤"
-http://ncncha.cloudns.ch:9977/play?id=APXu4IsZi_Q&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 綠營喊蔡英文推翻賴清德了 青鳥誣李貞秀前夫張啟楷了【#新聞大白話】20260326-1｜#黃揚明 #陳揮文 #高嘉瑜" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 綠營喊蔡英文推翻賴清德了 青鳥誣李貞秀前夫張啟楷了【#新聞大白話】20260326-1｜#黃揚明 #陳揮文 #高嘉瑜.png" group-title="youtube",youtube [VOD] 綠營喊蔡英文推翻賴清德了 青鳥誣李貞秀前夫張啟楷了【#新聞大白話】20260326-1｜#黃揚明 #陳揮文 #高嘉瑜
-http://ncncha.cloudns.ch:9977/play?id=KTaYnTxiP0c&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 試圖解釋真的和伊朗在談判 川普:他們不敢承認 "怕被自己人&美國幹掉”" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 試圖解釋真的和伊朗在談判 川普:他們不敢承認 "怕被自己人&美國幹掉”.png" group-title="youtube",youtube [VOD] 試圖解釋真的和伊朗在談判 川普:他們不敢承認 "怕被自己人&美國幹掉”
-http://ncncha.cloudns.ch:9977/play?id=QeaGD5EUlAw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 鳳凰衛視30周年｜俄羅斯外交部發言人扎哈羅娃：“大事發生看鳳凰”的口號深入人心 #鳳凰衛視 #phoenixtv #俄羅斯 #扎哈羅娃" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鳳凰衛視30周年｜俄羅斯外交部發言人扎哈羅娃：“大事發生看鳳凰”的口號深入人心 #鳳凰衛視 #phoenixtv #俄羅斯 #扎哈羅娃.png" group-title="youtube",youtube [VOD] 鳳凰衛視30周年｜俄羅斯外交部發言人扎哈羅娃：“大事發生看鳳凰”的口號深入人心 #鳳凰衛視 #phoenixtv #俄羅斯 #扎哈羅娃
-http://ncncha.cloudns.ch:9977/play?id=nA0u2QQSGqw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 鳳凰衛視30周年｜白先勇：鳳凰衛視在文化和歷史方面傳播意義非常大，“要永久下去” #鳳凰衛視 #phoenixtv" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鳳凰衛視30周年｜白先勇：鳳凰衛視在文化和歷史方面傳播意義非常大，“要永久下去” #鳳凰衛視 #phoenixtv.png" group-title="youtube",youtube [VOD] 鳳凰衛視30周年｜白先勇：鳳凰衛視在文化和歷史方面傳播意義非常大，“要永久下去” #鳳凰衛視 #phoenixtv
-http://ncncha.cloudns.ch:9977/play?id=ny_sOjkMJBQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 🔴LIVE：2026.03.26 新聞大白話【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 🔴LIVE：2026.03.26 新聞大白話【14:00全球開播】.png" group-title="youtube",youtube [VOD] 🔴LIVE：2026.03.26 新聞大白話【14:00全球開播】
-http://ncncha.cloudns.ch:9977/play?id=MVWE9NBeaSM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 以色列媒體曝美伊4/9終戰？神秘人預知停火大賣原油期貨【#大白話說新聞】#以色列#媒體#原油" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 以色列媒體曝美伊4/9終戰？神秘人預知停火大賣原油期貨【#大白話說新聞】#以色列#媒體#原油.png" group-title="youtube",youtube [VOD] 以色列媒體曝美伊4/9終戰？神秘人預知停火大賣原油期貨【#大白話說新聞】#以色列#媒體#原油
+http://ncncha.cloudns.ch:9977/play?id=pQ5hP8RwdiM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 伊朗嗆「何時停戰不是川普說了算」 美國15點計畫老調重彈 美伊恐談判破局【#大白話說新聞】#伊朗#川普#美國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 伊朗嗆「何時停戰不是川普說了算」 美國15點計畫老調重彈 美伊恐談判破局【#大白話說新聞】#伊朗#川普#美國.png" group-title="youtube",youtube [VOD] 伊朗嗆「何時停戰不是川普說了算」 美國15點計畫老調重彈 美伊恐談判破局【#大白話說新聞】#伊朗#川普#美國
+http://ncncha.cloudns.ch:9977/play?id=u-2CIXCRZpk&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 剛談完就翻臉！OpenAI砍掉Sora 迪士尼10億美元合作案胎死腹中 AI競賽中國.美國恐迅速縮小差距？鴻海劉揚偉赴華府談"製造"【#大白話說新聞】#OpenAI#Sora#鴻海#迪士尼" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 剛談完就翻臉！OpenAI砍掉Sora 迪士尼10億美元合作案胎死腹中 AI競賽中國.美國恐迅速縮小差距？鴻海劉揚偉赴華府談"製造"【#大白話說新聞】#OpenAI#Sora#鴻海#迪士尼.png" group-title="youtube",youtube [VOD] 剛談完就翻臉！OpenAI砍掉Sora 迪士尼10億美元合作案胎死腹中 AI競賽中國.美國恐迅速縮小差距？鴻海劉揚偉赴華府談"製造"【#大白話說新聞】#OpenAI#Sora#鴻海#迪士尼
+http://ncncha.cloudns.ch:9977/play?id=TQ3j2ekX61s&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 嗶嗶！注意怪怪「要票哥」出沒他會要求你做這件事👉 https://tvbs.to/8ulgem #2026黃金機車大賞 #地球黃金線" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 嗶嗶！注意怪怪「要票哥」出沒他會要求你做這件事👉 https://tvbs.to/8ulgem #2026黃金機車大賞 #地球黃金線.png" group-title="youtube",youtube [VOD] 嗶嗶！注意怪怪「要票哥」出沒他會要求你做這件事👉 https://tvbs.to/8ulgem #2026黃金機車大賞 #地球黃金線
+http://ncncha.cloudns.ch:9977/play?id=MkvSOf6HHFg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 強行“挽尊”⁉️特朗普拒絕承認對伊朗打擊是“戰爭”：發起軍事行動並不需要國會授權‼️ #鳳凰衛視 #phoenixtv #特朗普 #伊朗 #美國 #戰爭" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 強行“挽尊”⁉️特朗普拒絕承認對伊朗打擊是“戰爭”：發起軍事行動並不需要國會授權‼️ #鳳凰衛視 #phoenixtv #特朗普 #伊朗 #美國 #戰爭.png" group-title="youtube",youtube [VOD] 強行“挽尊”⁉️特朗普拒絕承認對伊朗打擊是“戰爭”：發起軍事行動並不需要國會授權‼️ #鳳凰衛視 #phoenixtv #特朗普 #伊朗 #美國 #戰爭
+http://ncncha.cloudns.ch:9977/play?id=tLIFd51e_B0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 搶命脈還是踩陷阱? 川普擬增兵強奪哈格島 伊朗疑早"佈雷"等美軍上門  | 全球線上" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 搶命脈還是踩陷阱? 川普擬增兵強奪哈格島 伊朗疑早"佈雷"等美軍上門  | 全球線上.png" group-title="youtube",youtube [VOD] 搶命脈還是踩陷阱? 川普擬增兵強奪哈格島 伊朗疑早"佈雷"等美軍上門  | 全球線上
+http://ncncha.cloudns.ch:9977/play?id=3ASPxG_sa0s&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜特朗普“商人戰爭”崩盤？本想靠石油賺錢、反被千億軍費拖垮！伊朗霍爾木茲威脅奏效、石油危機反噬美國：油價通脹對撞降息 金融恐暴雷！美元崩壞 人民幣機會來了？｜20260326 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜特朗普“商人戰爭”崩盤？本想靠石油賺錢、反被千億軍費拖垮！伊朗霍爾木茲威脅奏效、石油危機反噬美國：油價通脹對撞降息 金融恐暴雷！美元崩壞 人民幣機會來了？｜20260326 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜特朗普“商人戰爭”崩盤？本想靠石油賺錢、反被千億軍費拖垮！伊朗霍爾木茲威脅奏效、石油危機反噬美國：油價通脹對撞降息 金融恐暴雷！美元崩壞 人民幣機會來了？｜20260326 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=GgbFKTrwPE8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 曝馬英九早上問他為何離開 下午卻說要法辦他 蕭旭岑嘆老長官忘了很多事 很多家庭有類似經驗 【#大白話說新聞】#馬英九#蕭旭岑#法辦" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 曝馬英九早上問他為何離開 下午卻說要法辦他 蕭旭岑嘆老長官忘了很多事 很多家庭有類似經驗 【#大白話說新聞】#馬英九#蕭旭岑#法辦.png" group-title="youtube",youtube [VOD] 曝馬英九早上問他為何離開 下午卻說要法辦他 蕭旭岑嘆老長官忘了很多事 很多家庭有類似經驗 【#大白話說新聞】#馬英九#蕭旭岑#法辦
+http://ncncha.cloudns.ch:9977/play?id=lVR5vAP8QZY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 柯文哲一審判17年! 吳子嘉"見一幕"爆柯要復仇了" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯文哲一審判17年! 吳子嘉"見一幕"爆柯要復仇了.png" group-title="youtube",youtube [VOD] 柯文哲一審判17年! 吳子嘉"見一幕"爆柯要復仇了
+http://ncncha.cloudns.ch:9977/play?id=I-1iD2HRFD8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 王毅會見國際原子能機構總幹事‼️中東戰事影響外溢 呼籲共防對抗升級【鳳凰記者在現場】 #鳳凰衛視 #phoenixtv #伊朗 #美國 #美以伊戰爭 #中國 #外交" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 王毅會見國際原子能機構總幹事‼️中東戰事影響外溢 呼籲共防對抗升級【鳳凰記者在現場】 #鳳凰衛視 #phoenixtv #伊朗 #美國 #美以伊戰爭 #中國 #外交.png" group-title="youtube",youtube [VOD] 王毅會見國際原子能機構總幹事‼️中東戰事影響外溢 呼籲共防對抗升級【鳳凰記者在現場】 #鳳凰衛視 #phoenixtv #伊朗 #美國 #美以伊戰爭 #中國 #外交
+http://ncncha.cloudns.ch:9977/play?id=YR1U4x67tx4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 誰發戰爭財？川普宣布暫緩打伊朗前15分鐘 神押注159億 美軍超強「82空降師」 18小時部署可直侵伊朗【#大白話說新聞】#川普#伊朗#美軍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 誰發戰爭財？川普宣布暫緩打伊朗前15分鐘 神押注159億 美軍超強「82空降師」 18小時部署可直侵伊朗【#大白話說新聞】#川普#伊朗#美軍.png" group-title="youtube",youtube [VOD] 誰發戰爭財？川普宣布暫緩打伊朗前15分鐘 神押注159億 美軍超強「82空降師」 18小時部署可直侵伊朗【#大白話說新聞】#川普#伊朗#美軍
+http://ncncha.cloudns.ch:9977/play?id=ynIzXaTHjAE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 鋼鐵狼群出籠! 共軍"機器狼"巷戰畫面首曝光 3型協同圍剿"共享大腦" | 全球線上" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鋼鐵狼群出籠! 共軍"機器狼"巷戰畫面首曝光 3型協同圍剿"共享大腦" | 全球線上.png" group-title="youtube",youtube [VOD] 鋼鐵狼群出籠! 共軍"機器狼"巷戰畫面首曝光 3型協同圍剿"共享大腦" | 全球線上
+http://ncncha.cloudns.ch:9977/play?id=Ab6KGVEJMug&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 魏哲家獲頒榮譽博士！幽默自嘲別當「囂張CEO」台積電布局美日持續深耕台灣！【#大白話熱焦點】#魏哲家#台積電#榮譽博士#台灣" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 魏哲家獲頒榮譽博士！幽默自嘲別當「囂張CEO」台積電布局美日持續深耕台灣！【#大白話熱焦點】#魏哲家#台積電#榮譽博士#台灣.png" group-title="youtube",youtube [VOD] 魏哲家獲頒榮譽博士！幽默自嘲別當「囂張CEO」台積電布局美日持續深耕台灣！【#大白話熱焦點】#魏哲家#台積電#榮譽博士#台灣
+http://ncncha.cloudns.ch:9977/play?id=krpUNx7N4SE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 鳳凰衛視30周年｜錢文忠：鳳凰衛視的專業、敬業令我感佩不已，受益良多 #鳳凰衛視 #phoenixtv #錢文忠 #百家講壇" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鳳凰衛視30周年｜錢文忠：鳳凰衛視的專業、敬業令我感佩不已，受益良多 #鳳凰衛視 #phoenixtv #錢文忠 #百家講壇.png" group-title="youtube",youtube [VOD] 鳳凰衛視30周年｜錢文忠：鳳凰衛視的專業、敬業令我感佩不已，受益良多 #鳳凰衛視 #phoenixtv #錢文忠 #百家講壇
+http://ncncha.cloudns.ch:9977/play?id=9KkjOv_xnP8&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
 P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 tvg-name="中天亚洲频特" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频特.png" group-title="youtube",中天亚洲频特
