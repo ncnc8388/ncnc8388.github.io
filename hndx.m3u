@@ -116,9 +116,9 @@ http://58.46.30.200:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://58.46.30.200:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://175.152.82.6:888/udp/239.94.2.51:5140
+http://119.4.122.166:8888/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://175.152.82.6:888/udp/239.94.2.52:5140
+http://119.4.122.166:8888/udp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰中文FYtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文FYtv.png" group-title="港澳频道",凤凰中文FYtv
 http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰中文Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文Pdtv.png" group-title="港澳频道",凤凰中文Pdtv
@@ -140,95 +140,81 @@ http://106.116.126.222:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.240.74:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://phmanet.com:9999/rtp/239.76.253.135:9000$湖南电信
+http://www.zlizi.cn:4023/rtp/239.76.253.135:9000$湖南电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://phmanet.com:9999/rtp/239.76.246.134:1234$湖南电信
+http://www.zlizi.cn:4023/rtp/239.76.246.134:1234$湖南电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://emby.xlangnan.cn:10316/rtp/239.254.201.2:5226$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.191:5140$浙江联通
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.lvyjay.win:4022/rtp/233.50.202.35:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://hs.imyjy.cn:7088/rtp/233.50.202.35:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://zqh2333.top:2222/rtp/239.94.2.51:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://zqh2333.top:2222/rtp/239.94.2.52:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.negative.top:50000/rtp/233.50.202.35:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://dsm.xlangnan.cn:10316/rtp/239.254.201.2:5226$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.sjwyp.com:4022/rtp/239.254.201.2:5226$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.andy-nas.top:8623/rtp/239.76.253.135:9000$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.andy-nas.top:8623/rtp/239.76.246.134:1234$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://rujia.9966.org:7004/rtp/239.21.2.153:5002$山东电信
+http://www.slq888.cn:9999/rtp/233.50.202.35:5140$浙江电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://nas.cdbackup.cn:8888/rtp/239.94.2.51:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://nas.cdbackup.cn:8888/rtp/239.94.2.52:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://share.xlangnan.cn:10316/rtp/239.254.201.2:5226$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.liangcl.top:8686/rtp/233.50.202.35:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://sunny2017.xyz:7788/rtp/239.21.2.153:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.zlizi.cn:4023/rtp/239.76.253.135:9000$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.zlizi.cn:4023/rtp/239.76.246.134:1234$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.hunterpoon.tech:4000/rtp/239.76.253.135:9000$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.hunterpoon.tech:4000/rtp/239.76.246.134:1234$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.niuin.com:4022/rtp/239.21.2.153:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://l3.negative.video:50000/rtp/233.50.202.35:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.35:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://e1.woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://www.liyajun.top:7088/rtp/239.253.93.82:6248$河北联通
+http://www.negative.top:50000/rtp/233.50.202.35:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://emby.xlangnan.cn:10316/rtp/239.254.201.2:5226$河北电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.sjwyp.com:4022/rtp/239.254.201.2:5226$河北电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://wan1.tangwudi.cc:47859/rtp/239.94.2.51:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://wan1.tangwudi.cc:47859/rtp/239.94.2.52:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.niuin.com:4022/rtp/239.21.2.153:5002$山东电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://rujia.9966.org:7004/rtp/239.21.2.153:5002$山东电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://zqh2333.top:2222/rtp/239.94.2.51:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://zqh2333.top:2222/rtp/239.94.2.52:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.andy-nas.top:8623/rtp/239.76.253.135:9000$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.andy-nas.top:8623/rtp/239.76.246.134:1234$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.liangcl.top:8686/rtp/233.50.202.35:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://phmanet.com:9999/rtp/239.76.253.135:9000$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://phmanet.com:9999/rtp/239.76.246.134:1234$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://hs.hejd.net:7088/rtp/233.50.202.35:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://dsm.xlangnan.cn:10316/rtp/239.254.201.2:5226$河北电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.hunterpoon.tech:4000/rtp/239.76.253.135:9000$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.hunterpoon.tech:4000/rtp/239.76.246.134:1234$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.191:5140$浙江联通
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://lj.kuail8.cn:7000/rtp/239.253.93.82:6248$河北联通
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://171.213.231.55:8088/rtp/239.94.2.51:5140$四川电信
+http://hs.imyjy.cn:7088/rtp/233.50.202.35:5140$浙江电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://171.213.231.55:8088/rtp/239.94.2.52:5140$四川电信
+http://share.xlangnan.cn:10316/rtp/239.254.201.2:5226$河北电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://l3.negative.video:50000/rtp/233.50.202.35:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.liyajun.top:7088/rtp/239.253.93.82:6248$河北联通
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://sunny2017.xyz:7788/rtp/239.21.2.153:5002$山东电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092$福建电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.35:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://www.lvyjay.win:4022/rtp/233.50.202.35:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://118.113.145.163:7788/rtp/239.94.2.51:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://118.113.145.163:7788/rtp/239.94.2.52:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://182.143.115.140:40000/rtp/239.94.2.51:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://182.143.115.140:40000/rtp/239.94.2.52:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://171.213.139.87:8899/rtp/239.94.2.51:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://171.213.139.87:8899/rtp/239.94.2.52:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://118.113.13.78:8118/rtp/239.94.2.51:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://118.113.13.78:8118/rtp/239.94.2.52:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://182.143.115.226:8888/rtp/239.94.2.51:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://182.143.115.226:8888/rtp/239.94.2.52:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://182.135.34.97:888/rtp/239.94.2.51:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://182.135.34.97:888/rtp/239.94.2.52:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://171.213.228.155:8888/rtp/239.94.2.51:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
@@ -238,7 +224,21 @@ http://171.213.205.41:8800/rtp/239.94.2.51:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://171.213.205.41:8800/rtp/239.94.2.52:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://118.113.145.163:7788/rtp/239.94.2.51:5140$四川电信
+http://171.213.231.55:8088/rtp/239.94.2.51:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://171.213.231.55:8088/rtp/239.94.2.52:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://182.135.34.97:888/rtp/239.94.2.51:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://182.135.34.97:888/rtp/239.94.2.52:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://118.113.13.78:8118/rtp/239.94.2.51:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://118.113.13.78:8118/rtp/239.94.2.52:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://182.143.115.226:8888/rtp/239.94.2.51:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
+http://182.143.115.226:8888/rtp/239.94.2.52:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://106.116.126.222:4022/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -246,119 +246,103 @@ http://106.116.240.74:9999/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://emby.xlangnan.cn:10316/rtp/239.254.201.1:5214$河北电信
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
+http://www.sjwyp.com:4022/rtp/239.254.201.1:5214$河北电信
+#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://dsm.xlangnan.cn:10316/rtp/239.254.201.1:5214$河北电信
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://www.sjwyp.com:4022/rtp/239.254.201.1:5214$河北电信
+http://lj.kuail8.cn:7000/rtp/239.253.93.81:6247$河北联通
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://share.xlangnan.cn:10316/rtp/239.254.201.1:5214$河北电信
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://www.liyajun.top:7088/rtp/239.253.93.81:6247$河北联通
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://lj.kuail8.cn:7000/rtp/239.253.93.81:6247$河北联通
+http://106.116.240.74:9999/rtp/239.254.201.1:5214$河北电信
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://121.29.215.146:2083/rtp/239.253.93.81:6247$河北联通
-#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://60.3.123.84:7000/rtp/239.253.93.81:6247$河北联通
+http://120.9.52.43:8809/rtp/239.253.93.81:6247$河北联通
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://106.116.126.222:4022/rtp/239.254.201.1:5214$河北电信
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://106.116.240.74:9999/rtp/239.254.201.1:5214$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://60.4.30.55:8077/rtp/239.253.93.81:6247$河北联通
+http://121.29.215.146:2083/rtp/239.253.93.81:6247$河北联通
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://106.116.126.222:4022/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://106.116.240.74:9999/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://phmanet.com:9999/rtp/239.76.246.135:1234$湖南电信
+http://www.zlizi.cn:4023/rtp/239.76.246.135:1234$湖南电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://phmanet.com:9999/rtp/239.76.253.134:9000$湖南电信
+http://www.zlizi.cn:4023/rtp/239.76.253.134:9000$湖南电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://emby.xlangnan.cn:10316/rtp/239.254.201.3:5227$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.192:5140$浙江联通
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.lvyjay.win:4022/rtp/233.50.202.36:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://hs.imyjy.cn:7088/rtp/233.50.202.36:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://zqh2333.top:2222/rtp/239.94.2.49:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://zqh2333.top:2222/rtp/239.94.2.50:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.negative.top:50000/rtp/233.50.202.36:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://dsm.xlangnan.cn:10316/rtp/239.254.201.3:5227$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://woc.iiiya.cn:18888/rtp/239.61.2.183:9086$福建电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.sjwyp.com:4022/rtp/239.254.201.3:5227$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.andy-nas.top:8623/rtp/239.76.246.135:1234$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.andy-nas.top:8623/rtp/239.76.253.134:9000$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://rujia.9966.org:7004/rtp/239.21.2.163:5002$山东电信
+http://www.slq888.cn:9999/rtp/233.50.202.36:5140$浙江电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://nas.cdbackup.cn:8888/rtp/239.94.2.49:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://nas.cdbackup.cn:8888/rtp/239.94.2.50:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://share.xlangnan.cn:10316/rtp/239.254.201.3:5227$河北电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.liangcl.top:8686/rtp/233.50.202.36:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://sunny2017.xyz:7788/rtp/239.21.2.163:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.zlizi.cn:4023/rtp/239.76.246.135:1234$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.zlizi.cn:4023/rtp/239.76.253.134:9000$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.hunterpoon.tech:4000/rtp/239.76.246.135:1234$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.hunterpoon.tech:4000/rtp/239.76.253.134:9000$湖南电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.niuin.com:4022/rtp/239.21.2.163:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://l3.negative.video:50000/rtp/233.50.202.36:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.36:5140$浙江电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://e1.woc.iiiya.cn:18888/rtp/239.61.2.183:9086$福建电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://www.liyajun.top:7088/rtp/239.253.93.83:6249$河北联通
+http://www.negative.top:50000/rtp/233.50.202.36:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://emby.xlangnan.cn:10316/rtp/239.254.201.3:5227$河北电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.sjwyp.com:4022/rtp/239.254.201.3:5227$河北电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://wan1.tangwudi.cc:47859/rtp/239.94.2.49:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://wan1.tangwudi.cc:47859/rtp/239.94.2.50:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.niuin.com:4022/rtp/239.21.2.163:5002$山东电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://rujia.9966.org:7004/rtp/239.21.2.163:5002$山东电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://zqh2333.top:2222/rtp/239.94.2.49:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://zqh2333.top:2222/rtp/239.94.2.50:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.andy-nas.top:8623/rtp/239.76.246.135:1234$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.andy-nas.top:8623/rtp/239.76.253.134:9000$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.liangcl.top:8686/rtp/233.50.202.36:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://phmanet.com:9999/rtp/239.76.246.135:1234$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://phmanet.com:9999/rtp/239.76.253.134:9000$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://hs.hejd.net:7088/rtp/233.50.202.36:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://dsm.xlangnan.cn:10316/rtp/239.254.201.3:5227$河北电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.hunterpoon.tech:4000/rtp/239.76.246.135:1234$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.hunterpoon.tech:4000/rtp/239.76.253.134:9000$湖南电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://eversouthhangzhou.7766.org:8188/rtp/233.50.200.192:5140$浙江联通
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://lj.kuail8.cn:7000/rtp/239.253.93.83:6249$河北联通
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://171.213.231.55:8088/rtp/239.94.2.49:5140$四川电信
+http://hs.imyjy.cn:7088/rtp/233.50.202.36:5140$浙江电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://171.213.231.55:8088/rtp/239.94.2.50:5140$四川电信
+http://share.xlangnan.cn:10316/rtp/239.254.201.3:5227$河北电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://l3.negative.video:50000/rtp/233.50.202.36:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.liyajun.top:7088/rtp/239.253.93.83:6249$河北联通
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://sunny2017.xyz:7788/rtp/239.21.2.163:5002$山东电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://woc.iiiya.cn:18888/rtp/239.61.2.183:9086$福建电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.36:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://www.lvyjay.win:4022/rtp/233.50.202.36:5140$浙江电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://118.113.145.163:7788/rtp/239.94.2.49:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://118.113.145.163:7788/rtp/239.94.2.50:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://182.143.115.140:40000/rtp/239.94.2.49:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://182.143.115.140:40000/rtp/239.94.2.50:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://171.213.139.87:8899/rtp/239.94.2.49:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://171.213.139.87:8899/rtp/239.94.2.50:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://118.113.13.78:8118/rtp/239.94.2.49:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://118.113.13.78:8118/rtp/239.94.2.50:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://182.143.115.226:8888/rtp/239.94.2.49:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://182.143.115.226:8888/rtp/239.94.2.50:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://182.135.34.97:888/rtp/239.94.2.49:5140$四川电信
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://182.135.34.97:888/rtp/239.94.2.50:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://171.213.228.155:8888/rtp/239.94.2.49:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
@@ -368,25 +352,33 @@ http://171.213.205.41:8800/rtp/239.94.2.49:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://171.213.205.41:8800/rtp/239.94.2.50:5140$四川电信
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://118.113.145.163:7788/rtp/239.94.2.49:5140$四川电信
+http://171.213.231.55:8088/rtp/239.94.2.49:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://171.213.231.55:8088/rtp/239.94.2.50:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://182.135.34.97:888/rtp/239.94.2.49:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://182.135.34.97:888/rtp/239.94.2.50:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://118.113.13.78:8118/rtp/239.94.2.49:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://118.113.13.78:8118/rtp/239.94.2.50:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://182.143.115.226:8888/rtp/239.94.2.49:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
+http://182.143.115.226:8888/rtp/239.94.2.50:5140$四川电信
+#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
+http://www.niuin.com:4022/rtp/239.21.2.164:5002$山东电信
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
 http://rujia.9966.org:7004/rtp/239.21.2.164:5002$山东电信
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
 http://sunny2017.xyz:7788/rtp/239.21.2.164:5002$山东电信
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
-http://www.niuin.com:4022/rtp/239.21.2.164:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
-http://144.0.57.58:7004/rtp/239.21.2.164:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
-http://113.120.99.168:7004/rtp/239.21.2.164:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
 http://123.168.210.194:6777/rtp/239.21.2.164:5002$山东电信
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
-http://39.77.92.67:7004/rtp/239.21.2.164:5002$山东电信
+http://144.255.16.170:6688/rtp/239.21.2.164:5002$山东电信
 #EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
 http://113.120.108.132:4000/rtp/239.21.2.164:5002$山东电信
-#EXTINF:-1 tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰卫视香港台
-http://144.255.16.170:6688/rtp/239.21.2.164:5002$山东电信
 #EXTINF:-1 tvg-name="凤凰新闻网播" tvg-logo="https://live.fanmingming.cn/tv/凤凰新闻网播.png" group-title="港澳频道",凤凰新闻网播
 video://https://live.douyin.com/40184312758
 #EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
@@ -412,9 +404,9 @@ http://58.46.30.200:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://58.46.30.200:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://175.152.82.6:888/udp/239.94.2.49:5140
+http://119.4.122.166:8888/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://175.152.82.6:888/udp/239.94.2.50:5140
+http://119.4.122.166:8888/udp/239.94.2.50:5140
 #EXTINF:-1 tvg-name="凤凰资讯Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯Pdtv.png" group-title="港澳频道",凤凰资讯Pdtv
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 tvg-name="凤凰资讯SXtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯SXtv.png" group-title="港澳频道",凤凰资讯SXtv
@@ -457,34 +449,38 @@ http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】美伊同意停火兩周 中方：支持巴方等斡旋｜伊朗錫里島發生數起爆炸｜國台辦：鄭麗文參訪大陸順應島內民意｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】美伊同意停火兩周 中方：支持巴方等斡旋｜伊朗錫里島發生數起爆炸｜國台辦：鄭麗文參訪大陸順應島內民意｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】美伊同意停火兩周 中方：支持巴方等斡旋｜伊朗錫里島發生數起爆炸｜國台辦：鄭麗文參訪大陸順應島內民意｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] "陸AI神器"助伊朗反擊美! 苑舉正:川普整天喊贏麻"太輕敵"" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] "陸AI神器"助伊朗反擊美! 苑舉正:川普整天喊贏麻"太輕敵".png" group-title="youtube",youtube [VOD] "陸AI神器"助伊朗反擊美! 苑舉正:川普整天喊贏麻"太輕敵"
-http://ncncha.cloudns.ch:9977/play?id=RVZM7MizIvQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 《美伊最新》不講武德! 美伊"停火2週"不包含黎巴嫩! 以色列"集中火力"大規模攻擊真主黨 多地發生"大爆炸"大樓變廢墟...伊朗怒了! 警告:再炸就退出停火協議!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 《美伊最新》不講武德! 美伊"停火2週"不包含黎巴嫩! 以色列"集中火力"大規模攻擊真主黨 多地發生"大爆炸"大樓變廢墟...伊朗怒了! 警告:再炸就退出停火協議!.png" group-title="youtube",youtube [VOD] 《美伊最新》不講武德! 美伊"停火2週"不包含黎巴嫩! 以色列"集中火力"大規模攻擊真主黨 多地發生"大爆炸"大樓變廢墟...伊朗怒了! 警告:再炸就退出停火協議!
-http://ncncha.cloudns.ch:9977/play?id=l121MInEfEU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】鄭麗文南京謁陵提「中華民國」　喊話習為「兩岸中國人」種和平種子？ #少康戰情室 20260408" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】鄭麗文南京謁陵提「中華民國」　喊話習為「兩岸中國人」種和平種子？ #少康戰情室 20260408.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】鄭麗文南京謁陵提「中華民國」　喊話習為「兩岸中國人」種和平種子？ #少康戰情室 20260408
 http://ncncha.cloudns.ch:9977/play?id=14f-WmJrg0U&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#鄭習會登場】鄭麗文今赴中山陵 挑戰體力爬392級石階 中山謁陵「觸及中華民國」? 疑不留墨寶 陸粉絲找鄭要簽名【#大白話說新聞】#鄭麗文#中山陵#中華民國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#鄭習會登場】鄭麗文今赴中山陵 挑戰體力爬392級石階 中山謁陵「觸及中華民國」? 疑不留墨寶 陸粉絲找鄭要簽名【#大白話說新聞】#鄭麗文#中山陵#中華民國.png" group-title="youtube",youtube [VOD] 【#鄭習會登場】鄭麗文今赴中山陵 挑戰體力爬392級石階 中山謁陵「觸及中華民國」? 疑不留墨寶 陸粉絲找鄭要簽名【#大白話說新聞】#鄭麗文#中山陵#中華民國
 http://ncncha.cloudns.ch:9977/play?id=dUV3bmTjp5g&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#鄭習會登場】鄭麗文飛抵上海獲禮遇 宋濤:奉習近平指示迎接！設宴接待全程發言未提兩岸統一 稱絕不容忍中華民族家園遭破壞 鄭稱兩岸非注定一戰【#大白話說新聞】#鄭麗文#習近平#宋濤" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#鄭習會登場】鄭麗文飛抵上海獲禮遇 宋濤:奉習近平指示迎接！設宴接待全程發言未提兩岸統一 稱絕不容忍中華民族家園遭破壞 鄭稱兩岸非注定一戰【#大白話說新聞】#鄭麗文#習近平#宋濤.png" group-title="youtube",youtube [VOD] 【#鄭習會登場】鄭麗文飛抵上海獲禮遇 宋濤:奉習近平指示迎接！設宴接待全程發言未提兩岸統一 稱絕不容忍中華民族家園遭破壞 鄭稱兩岸非注定一戰【#大白話說新聞】#鄭麗文#習近平#宋濤
 http://ncncha.cloudns.ch:9977/play?id=rVcvuCiBpg0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【4/8即時新聞】美伊停火川普宣告完勝 爆中國介入促達成談判｜鄭麗文中山陵哽咽致詞 為兩岸同胞種和平種子｜中天SUPER夜線 20260408 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【4/8即時新聞】美伊停火川普宣告完勝 爆中國介入促達成談判｜鄭麗文中山陵哽咽致詞 為兩岸同胞種和平種子｜中天SUPER夜線 20260408 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【4/8即時新聞】美伊停火川普宣告完勝 爆中國介入促達成談判｜鄭麗文中山陵哽咽致詞 為兩岸同胞種和平種子｜中天SUPER夜線 20260408 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=iIP9_n6yHn0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【SUB】伊朗突發感謝中俄 川普認慫願談十點?【#新聞大白話】20260408 #字幕版 #川普 #中俄 #伊朗" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】伊朗突發感謝中俄 川普認慫願談十點?【#新聞大白話】20260408 #字幕版 #川普 #中俄 #伊朗.png" group-title="youtube",youtube [VOD] 【SUB】伊朗突發感謝中俄 川普認慫願談十點?【#新聞大白話】20260408 #字幕版 #川普 #中俄 #伊朗
 http://ncncha.cloudns.ch:9977/play?id=I52BNSRh1xY&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【全程CC字幕】不接受李貞秀質詢!卓榮泰不承認立委資格:她沒有依法放棄中國的戶籍跟國籍 行政院所有的首長沒義務接受質詢 韓國瑜再籲尊重立法委員的質詢權｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程CC字幕】不接受李貞秀質詢!卓榮泰不承認立委資格:她沒有依法放棄中國的戶籍跟國籍 行政院所有的首長沒義務接受質詢 韓國瑜再籲尊重立法委員的質詢權｜TVBS新聞.png" group-title="youtube",youtube [VOD] 【全程CC字幕】不接受李貞秀質詢!卓榮泰不承認立委資格:她沒有依法放棄中國的戶籍跟國籍 行政院所有的首長沒義務接受質詢 韓國瑜再籲尊重立法委員的質詢權｜TVBS新聞
 http://ncncha.cloudns.ch:9977/play?id=F4Mn1zKOHxo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】拒答戲碼再度上演！劉世芳.李貞秀互槓 李嗆問：陸配是外國人嗎？劉稱「沒義務接受不具資格者質詢」李反批賴政府沒高度 怕被民眾黨開除？本人火線回應｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】拒答戲碼再度上演！劉世芳.李貞秀互槓 李嗆問：陸配是外國人嗎？劉稱「沒義務接受不具資格者質詢」李反批賴政府沒高度 怕被民眾黨開除？本人火線回應｜TVBS新聞.png" group-title="youtube",youtube [VOD] 【全程字幕】拒答戲碼再度上演！劉世芳.李貞秀互槓 李嗆問：陸配是外國人嗎？劉稱「沒義務接受不具資格者質詢」李反批賴政府沒高度 怕被民眾黨開除？本人火線回應｜TVBS新聞
 http://ncncha.cloudns.ch:9977/play?id=p9hH5A10NAs&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】鄭麗文謁中山陵數度哽咽!帥化民"有感而發"怒嗆台獨:"只會嘴炮"! | 鄭麗文拜謁中山陵致詞提"關鍵字"?! 黃介正驚呼"背後必有高人"!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】鄭麗文謁中山陵數度哽咽!帥化民"有感而發"怒嗆台獨:"只會嘴炮"! | 鄭麗文拜謁中山陵致詞提"關鍵字"?! 黃介正驚呼"背後必有高人"!.png" group-title="youtube",youtube [VOD] 【全程字幕】鄭麗文謁中山陵數度哽咽!帥化民"有感而發"怒嗆台獨:"只會嘴炮"! | 鄭麗文拜謁中山陵致詞提"關鍵字"?! 黃介正驚呼"背後必有高人"!
+http://ncncha.cloudns.ch:9977/play?id=4aVgHkk_fIo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】以色列軍方：正持續空襲伊朗　美伊才宣布停火打臉川普？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】以色列軍方：正持續空襲伊朗　美伊才宣布停火打臉川普？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳.png" group-title="youtube",youtube [VOD] 【完整版上集】以色列軍方：正持續空襲伊朗　美伊才宣布停火打臉川普？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳
 http://ncncha.cloudns.ch:9977/play?id=PqUneORYenA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】蔡明彥揭中共盤算「和戰加壓」　兩大策略擋軍購、分化台美合作？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】蔡明彥揭中共盤算「和戰加壓」　兩大策略擋軍購、分化台美合作？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳.png" group-title="youtube",youtube [VOD] 【完整版下集】蔡明彥揭中共盤算「和戰加壓」　兩大策略擋軍購、分化台美合作？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳
 http://ncncha.cloudns.ch:9977/play?id=_lshieDv73E&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】陸民眾讚名留青史：全中國人感謝她　盼鄭麗文「推動兩岸統一」？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】陸民眾讚名留青史：全中國人感謝她　盼鄭麗文「推動兩岸統一」？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳.png" group-title="youtube",youtube [VOD] 【完整版中集】陸民眾讚名留青史：全中國人感謝她　盼鄭麗文「推動兩岸統一」？20260408｜#高嘉瑜 #陳智菡 #柯志恩 #吳宗憲 #柳采葳
 http://ncncha.cloudns.ch:9977/play?id=Ekyd93ZV7y8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】鄭麗文哽咽發言 陸媒驚:與平常不同.有感情 | 鄭麗文搭"上海之星"夜遊黃浦江 國台辦主任宋濤作陪 20260408" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】鄭麗文哽咽發言 陸媒驚:與平常不同.有感情 | 鄭麗文搭"上海之星"夜遊黃浦江 國台辦主任宋濤作陪 20260408.png" group-title="youtube",youtube [VOD] 【每日必看】鄭麗文哽咽發言 陸媒驚:與平常不同.有感情 | 鄭麗文搭"上海之星"夜遊黃浦江 國台辦主任宋濤作陪 20260408
-http://ncncha.cloudns.ch:9977/play?id=nw829f7wJQ4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】伊朗發無人機發射視頻“飛天小摩托”直衝美軍基地｜伊朗第99波攻擊 用巡航導彈打擊"林肯號"航母｜20260408｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】伊朗發無人機發射視頻“飛天小摩托”直衝美軍基地｜伊朗第99波攻擊 用巡航導彈打擊"林肯號"航母｜20260408｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】伊朗發無人機發射視頻“飛天小摩托”直衝美軍基地｜伊朗第99波攻擊 用巡航導彈打擊"林肯號"航母｜20260408｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=DJgyEnb2GFQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】俄媒:美對伊攻擊前「末日電台」出現不尋常播音｜恐怖訊號 「伊朗末日電台」｜20260408｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】俄媒:美對伊攻擊前「末日電台」出現不尋常播音｜恐怖訊號 「伊朗末日電台」｜20260408｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】俄媒:美對伊攻擊前「末日電台」出現不尋常播音｜恐怖訊號 「伊朗末日電台」｜20260408｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=BUAiO0K29co&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】庫德族叛變 美國被吞了｜川普爆猛料:曾提供武器 但...｜20260408｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】庫德族叛變 美國被吞了｜川普爆猛料:曾提供武器 但...｜20260408｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】庫德族叛變 美國被吞了｜川普爆猛料:曾提供武器 但...｜20260408｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=1G3vnThpCkA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】西方不明中國意圖? 中國家門口設40天禁航區｜中國40天禁航區「無限高度」透端倪｜20260408｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】西方不明中國意圖? 中國家門口設40天禁航區｜中國40天禁航區「無限高度」透端倪｜20260408｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】西方不明中國意圖? 中國家門口設40天禁航區｜中國40天禁航區「無限高度」透端倪｜20260408｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=7UzQEwLNq-4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播LIVE】特朗普宣佈美伊同意雙向停火兩周‼️【最新消息】｜特邀鄭浩、黃靖點評 鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #伊朗 #特朗普 #美國 #美以伊 #停火" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播LIVE】特朗普宣佈美伊同意雙向停火兩周‼️【最新消息】｜特邀鄭浩、黃靖點評 鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #伊朗 #特朗普 #美國 #美以伊 #停火.png" group-title="youtube",youtube [VOD] 【直播LIVE】特朗普宣佈美伊同意雙向停火兩周‼️【最新消息】｜特邀鄭浩、黃靖點評 鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #伊朗 #特朗普 #美國 #美以伊 #停火
 http://ncncha.cloudns.ch:9977/play?id=Ik0QoQr4NdQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】鄭麗文率領中國國民黨訪問團拜謁中山陵 並發表講話‼️｜鳳凰記者現場報道【現場畫面】 #鳳凰衛視 #phoenixtv #鄭麗文 #國民黨 #台灣 #訪陸" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】鄭麗文率領中國國民黨訪問團拜謁中山陵 並發表講話‼️｜鳳凰記者現場報道【現場畫面】 #鳳凰衛視 #phoenixtv #鄭麗文 #國民黨 #台灣 #訪陸.png" group-title="youtube",youtube [VOD] 【直播回顧】鄭麗文率領中國國民黨訪問團拜謁中山陵 並發表講話‼️｜鳳凰記者現場報道【現場畫面】 #鳳凰衛視 #phoenixtv #鄭麗文 #國民黨 #台灣 #訪陸
+http://ncncha.cloudns.ch:9977/play?id=2UhJAFzbZMA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 不毀伊朗文明了 川普同意停火2週！巴基斯坦從中斡旋談條件「立即」開放荷姆茲海峽！【#大白話說新聞】#伊朗#川普#巴基斯坦" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 不毀伊朗文明了 川普同意停火2週！巴基斯坦從中斡旋談條件「立即」開放荷姆茲海峽！【#大白話說新聞】#伊朗#川普#巴基斯坦.png" group-title="youtube",youtube [VOD] 不毀伊朗文明了 川普同意停火2週！巴基斯坦從中斡旋談條件「立即」開放荷姆茲海峽！【#大白話說新聞】#伊朗#川普#巴基斯坦
 http://ncncha.cloudns.ch:9977/play?id=o0WcfaDpHkw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川普再轟北約不滿日韓沒幫忙 無視川普！伊朗軍方批「傲慢」  【#大白話說新聞】#川普#北約#伊朗" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普再轟北約不滿日韓沒幫忙 無視川普！伊朗軍方批「傲慢」  【#大白話說新聞】#川普#北約#伊朗.png" group-title="youtube",youtube [VOD] 川普再轟北約不滿日韓沒幫忙 無視川普！伊朗軍方批「傲慢」  【#大白話說新聞】#川普#北約#伊朗
@@ -497,14 +493,10 @@ http://ncncha.cloudns.ch:9977/play?id=ZeDsryyemZI&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=BBv3fYt1MCg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 特朗普認為是中國促使伊朗談判？外交部：一直致力於促和止戰 #鳳凰衛視 #phoenixtv #美國 #伊朗 #美伊 #談判 #中國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 特朗普認為是中國促使伊朗談判？外交部：一直致力於促和止戰 #鳳凰衛視 #phoenixtv #美國 #伊朗 #美伊 #談判 #中國.png" group-title="youtube",youtube [VOD] 特朗普認為是中國促使伊朗談判？外交部：一直致力於促和止戰 #鳳凰衛視 #phoenixtv #美國 #伊朗 #美伊 #談判 #中國
 http://ncncha.cloudns.ch:9977/play?id=x3ycHQyLHMc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 逃生畫面曝光! 以色列"大規模空襲"真主黨! 民眾嚇到躲進餐廳避難...川普坦言:黎巴嫩"不在"停火協議範圍 伊朗嗆"退出停火":已暫停荷姆茲海峽通行" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 逃生畫面曝光! 以色列"大規模空襲"真主黨! 民眾嚇到躲進餐廳避難...川普坦言:黎巴嫩"不在"停火協議範圍 伊朗嗆"退出停火":已暫停荷姆茲海峽通行.png" group-title="youtube",youtube [VOD] 逃生畫面曝光! 以色列"大規模空襲"真主黨! 民眾嚇到躲進餐廳避難...川普坦言:黎巴嫩"不在"停火協議範圍 伊朗嗆"退出停火":已暫停荷姆茲海峽通行
-http://ncncha.cloudns.ch:9977/play?id=nU0UOEhGrMI&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鄭麗文率中國國民黨訪問團拜謁中山陵 重申對歷史尊重和對兩岸文化認同 #鳳凰衛視 #phoenixtv #鄭麗文" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭麗文率中國國民黨訪問團拜謁中山陵 重申對歷史尊重和對兩岸文化認同 #鳳凰衛視 #phoenixtv #鄭麗文.png" group-title="youtube",youtube [VOD] 鄭麗文率中國國民黨訪問團拜謁中山陵 重申對歷史尊重和對兩岸文化認同 #鳳凰衛視 #phoenixtv #鄭麗文
 http://ncncha.cloudns.ch:9977/play?id=a-Hxn3TxDnU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鄭麗文訪陸"民進黨怕什麼"? 介文汲:整天拿中華民國包裝台獨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭麗文訪陸"民進黨怕什麼"? 介文汲:整天拿中華民國包裝台獨.png" group-title="youtube",youtube [VOD] 鄭麗文訪陸"民進黨怕什麼"? 介文汲:整天拿中華民國包裝台獨
 http://ncncha.cloudns.ch:9977/play?id=CcS0fD5W6G0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 鳳凰獨家｜鄭麗文完成中山陵參拜後發表講話：要為兩岸中國人 全人類種下和平種子【完整版】#鳳凰衛視 #phoenixtv #鄭麗文 #國民黨 #兩岸" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鳳凰獨家｜鄭麗文完成中山陵參拜後發表講話：要為兩岸中國人 全人類種下和平種子【完整版】#鳳凰衛視 #phoenixtv #鄭麗文 #國民黨 #兩岸.png" group-title="youtube",youtube [VOD] 鳳凰獨家｜鄭麗文完成中山陵參拜後發表講話：要為兩岸中國人 全人類種下和平種子【完整版】#鳳凰衛視 #phoenixtv #鄭麗文 #國民黨 #兩岸
-http://ncncha.cloudns.ch:9977/play?id=iod12KQ_ES8&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
 P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 tvg-name="中天亚洲频特" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频特.png" group-title="youtube",中天亚洲频特
@@ -952,105 +944,105 @@ http://219.150.217.47:6610/PLTV1/700/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="睛彩移动戏曲" tvg-logo="https://live.fanmingming.cn/tv/睛彩移动戏曲.png" group-title="河南频道",睛彩移动戏曲
 http://219.150.217.47:6610/PLTV1/800/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://yahao.myqnapcloud.com:4022/rtp/239.77.1.20:5146$广东电信
+http://z.d4p.cn:8000/rtp/239.49.8.39:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://joyznm.i234.me:20000/rtp/239.3.1.125:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.lvyjay.win:4022/rtp/233.50.202.26:5140$浙江电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://hs.imyjy.cn:7088/rtp/233.50.202.26:5140$浙江电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://iptv.xxika.net:8188/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.ljun.cc:4022/rtp/239.3.1.125:8001$北京联通
+http://www.slq888.cn:9999/rtp/233.50.202.26:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://www.negative.top:50000/rtp/233.50.202.26:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://z.d4p.cn:8000/rtp/239.49.8.39:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.maomizi.cn:9527/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://a.xiongnas.top:8888/rtp/239.3.1.125:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://thhomes.cn:4000/rtp/239.3.1.125:8001$北京联通
+http://www.maomizi.cn:9530/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://audios.guangyuan.site:8188/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://x1x.bid:5146/rtp/239.3.1.125:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://kodbox.guangyuan.site:8188/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.huijie5421.cn:8800/rtp/239.49.8.39:8000$江苏电信
+http://thhomes.cn:4000/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.maomizi.cn:9530/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://pr.19760929.xyz:9688/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://231114.xyz:4022/rtp/239.3.1.125:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://hongzhijiaoyu.net:8188/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.yzddy.top:8800/rtp/239.49.8.39:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.taoli.website:23234/rtp/239.3.1.125:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://ds3622.guangyuan.site:8188/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://idc.zymok.cn:10000/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://home.amucn.net:8800/rtp/239.49.8.39:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.yahao.host:4022/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://ysf620.f3322.net:8889/rtp/239.77.1.20:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.liangcl.top:8686/rtp/233.50.202.26:5140$浙江电信
+http://www.ljun.cc:4022/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://xxika.synology.me:8188/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://b.xiongnas.top:8888/rtp/239.3.1.125:8001$北京联通
+http://home.amucn.net:8800/rtp/239.49.8.39:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://zb.hexuntong.net:8188/rtp/239.3.1.125:8001$北京联通
+http://www.taoli.website:23234/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://www.sclvip.top:5566/rtp/239.49.8.39:8000$江苏电信
+http://www.yahao.host:4022/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://ikuai.huase.ltd:8888/rtp/239.77.1.20:5146$广东电信
+http://hongzhijiaoyu.net:8188/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://l3.negative.video:50000/rtp/233.50.202.26:5140$浙江电信
+http://www.liangcl.top:8686/rtp/233.50.202.26:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://alist.guangyuan.site:8188/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.20:5146$广东电信
+http://hs.hejd.net:7088/rtp/233.50.202.26:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://r.xace.fun:4999/rtp/239.3.1.125:8001$北京联通
+http://ikuai.huase.ltd:8888/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.26:5140$浙江电信
+http://www.sclvip.top:8787/rtp/239.49.8.39:8000$江苏电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://ds3622.guangyuan.site:8188/rtp/239.77.1.20:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://www.yzddy.top:8800/rtp/239.49.8.39:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://yanshifen.top:8889/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://wmh.wmh.ink:6633/rtp/239.77.1.20:5146$广东电信
+http://x1x.bid:5146/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://hs.imyjy.cn:7088/rtp/233.50.202.26:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://l3.negative.video:50000/rtp/233.50.202.26:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://www.huijie5421.cn:8800/rtp/239.49.8.39:8000$江苏电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.20:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://iptv.xxika.net:8188/rtp/239.77.1.20:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://231114.xyz:4022/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.26:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://kodbox.guangyuan.site:8188/rtp/239.77.1.20:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://ysf620.f3322.net:8889/rtp/239.77.1.20:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://joyznm.i234.me:20000/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://zb.hexuntong.net:8188/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://pr.19760929.xyz:9688/rtp/239.77.1.20:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://www.lvyjay.win:4022/rtp/233.50.202.26:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://vp.maomizi.cc:9530/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://hs.hejd.net:7088/rtp/233.50.202.26:5140$浙江电信
+http://www.maomizi.cn:9527/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://114.254.85.177:8888/rtp/239.3.1.125:8001$北京联通
+http://www.sclvip.top:5566/rtp/239.49.8.39:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://114.254.36.219:18888/rtp/239.3.1.125:8001$北京联通
+http://yahao.myqnapcloud.com:4022/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://123.118.171.46:6688/rtp/239.3.1.125:8001$北京联通
+http://r.xace.fun:4999/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://111.193.226.136:8888/rtp/239.3.1.125:8001$北京联通
+http://idc.zymok.cn:10000/rtp/239.77.1.20:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://123.114.17.150:4000/rtp/239.3.1.125:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://111.193.235.246:8888/rtp/239.3.1.125:8001$北京联通
+http://221.220.130.93:9999/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://124.65.2.127:20000/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
-http://221.218.13.150:8888/rtp/239.3.1.125:8001$北京联通
+http://114.243.96.9:8888/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://114.249.12.2:4022/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://114.254.36.219:18888/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://123.113.103.22:12322/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://123.117.161.44:8118/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://114.254.185.98:8099/rtp/239.3.1.125:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
+http://123.123.198.233:61612/rtp/239.3.1.125:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
@@ -1064,105 +1056,105 @@ https://msj.188766.xyz/play?id=3000000020000011528&token=87d6d6e387d6d6e387d6d6e
 #EXTINF:-1 tvg-name="睛彩竞技-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-移动或影视专用.png" group-title="河南频道",睛彩竞技-移动或影视专用
 https://msj.188766.xyz/play?id=3000000020000011528&token=87d6d6e387d6d6e387d6d6e387d6d6e3&client=ys
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://yahao.myqnapcloud.com:4022/rtp/239.77.1.21:5146$广东电信
+http://z.d4p.cn:8000/rtp/239.49.8.42:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://joyznm.i234.me:20000/rtp/239.3.1.126:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.lvyjay.win:4022/rtp/233.50.202.27:5140$浙江电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://hs.imyjy.cn:7088/rtp/233.50.202.27:5140$浙江电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://iptv.xxika.net:8188/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.ljun.cc:4022/rtp/239.3.1.126:8001$北京联通
+http://www.slq888.cn:9999/rtp/233.50.202.27:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://www.negative.top:50000/rtp/233.50.202.27:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://z.d4p.cn:8000/rtp/239.49.8.42:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.maomizi.cn:9527/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://a.xiongnas.top:8888/rtp/239.3.1.126:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://thhomes.cn:4000/rtp/239.3.1.126:8001$北京联通
+http://www.maomizi.cn:9530/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://audios.guangyuan.site:8188/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://x1x.bid:5146/rtp/239.3.1.126:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://kodbox.guangyuan.site:8188/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.huijie5421.cn:8800/rtp/239.49.8.42:8000$江苏电信
+http://thhomes.cn:4000/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.maomizi.cn:9530/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://pr.19760929.xyz:9688/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://231114.xyz:4022/rtp/239.3.1.126:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://hongzhijiaoyu.net:8188/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.yzddy.top:8800/rtp/239.49.8.42:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.taoli.website:23234/rtp/239.3.1.126:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://ds3622.guangyuan.site:8188/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://idc.zymok.cn:10000/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://home.amucn.net:8800/rtp/239.49.8.42:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.yahao.host:4022/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://ysf620.f3322.net:8889/rtp/239.77.1.21:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.liangcl.top:8686/rtp/233.50.202.27:5140$浙江电信
+http://www.ljun.cc:4022/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://xxika.synology.me:8188/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://b.xiongnas.top:8888/rtp/239.3.1.126:8001$北京联通
+http://home.amucn.net:8800/rtp/239.49.8.42:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://zb.hexuntong.net:8188/rtp/239.3.1.126:8001$北京联通
+http://www.taoli.website:23234/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://www.sclvip.top:5566/rtp/239.49.8.42:8000$江苏电信
+http://www.yahao.host:4022/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://ikuai.huase.ltd:8888/rtp/239.77.1.21:5146$广东电信
+http://hongzhijiaoyu.net:8188/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://l3.negative.video:50000/rtp/233.50.202.27:5140$浙江电信
+http://www.liangcl.top:8686/rtp/233.50.202.27:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://alist.guangyuan.site:8188/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.21:5146$广东电信
+http://hs.hejd.net:7088/rtp/233.50.202.27:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://r.xace.fun:4999/rtp/239.3.1.126:8001$北京联通
+http://ikuai.huase.ltd:8888/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.27:5140$浙江电信
+http://www.sclvip.top:8787/rtp/239.49.8.42:8000$江苏电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://ds3622.guangyuan.site:8188/rtp/239.77.1.21:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://www.yzddy.top:8800/rtp/239.49.8.42:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://yanshifen.top:8889/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://wmh.wmh.ink:6633/rtp/239.77.1.21:5146$广东电信
+http://x1x.bid:5146/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://hs.imyjy.cn:7088/rtp/233.50.202.27:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://l3.negative.video:50000/rtp/233.50.202.27:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://www.huijie5421.cn:8800/rtp/239.49.8.42:8000$江苏电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.21:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://iptv.xxika.net:8188/rtp/239.77.1.21:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://231114.xyz:4022/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.27:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://kodbox.guangyuan.site:8188/rtp/239.77.1.21:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://ysf620.f3322.net:8889/rtp/239.77.1.21:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://joyznm.i234.me:20000/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://zb.hexuntong.net:8188/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://pr.19760929.xyz:9688/rtp/239.77.1.21:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://www.lvyjay.win:4022/rtp/233.50.202.27:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://vp.maomizi.cc:9530/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://hs.hejd.net:7088/rtp/233.50.202.27:5140$浙江电信
+http://www.maomizi.cn:9527/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://114.254.85.177:8888/rtp/239.3.1.126:8001$北京联通
+http://www.sclvip.top:5566/rtp/239.49.8.42:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://114.254.36.219:18888/rtp/239.3.1.126:8001$北京联通
+http://yahao.myqnapcloud.com:4022/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://123.118.171.46:6688/rtp/239.3.1.126:8001$北京联通
+http://r.xace.fun:4999/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://111.193.226.136:8888/rtp/239.3.1.126:8001$北京联通
+http://idc.zymok.cn:10000/rtp/239.77.1.21:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://123.114.17.150:4000/rtp/239.3.1.126:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://111.193.235.246:8888/rtp/239.3.1.126:8001$北京联通
+http://221.220.130.93:9999/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://124.65.2.127:20000/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
-http://221.218.13.150:8888/rtp/239.3.1.126:8001$北京联通
+http://114.243.96.9:8888/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://114.249.12.2:4022/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://114.254.36.219:18888/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://123.113.103.22:12322/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://123.117.161.44:8118/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://114.254.185.98:8099/rtp/239.3.1.126:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
+http://123.123.198.233:61612/rtp/239.3.1.126:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
@@ -1180,105 +1172,105 @@ https://msj.188766.xyz/play?id=3000000020000011529&token=87d6d6e487d6d6e487d6d6e
 #EXTINF:-1 tvg-name="睛彩篮球-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-移动或影视专用.png" group-title="河南频道",睛彩篮球-移动或影视专用
 https://msj.188766.xyz/play?id=3000000020000011529&token=87d6d6e487d6d6e487d6d6e487d6d6e4&client=ys
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://yahao.myqnapcloud.com:4022/rtp/239.77.1.22:5146$广东电信
+http://z.d4p.cn:8000/rtp/239.49.8.46:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://joyznm.i234.me:20000/rtp/239.3.1.127:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.lvyjay.win:4022/rtp/233.50.202.28:5140$浙江电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://hs.imyjy.cn:7088/rtp/233.50.202.28:5140$浙江电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://iptv.xxika.net:8188/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.ljun.cc:4022/rtp/239.3.1.127:8001$北京联通
+http://www.slq888.cn:9999/rtp/233.50.202.28:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://www.negative.top:50000/rtp/233.50.202.28:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://z.d4p.cn:8000/rtp/239.49.8.46:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.maomizi.cn:9527/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://a.xiongnas.top:8888/rtp/239.3.1.127:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://thhomes.cn:4000/rtp/239.3.1.127:8001$北京联通
+http://www.maomizi.cn:9530/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://audios.guangyuan.site:8188/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://x1x.bid:5146/rtp/239.3.1.127:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://kodbox.guangyuan.site:8188/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://naslmd2.myqnapcloud.com:4022/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.huijie5421.cn:8800/rtp/239.49.8.46:8000$江苏电信
+http://thhomes.cn:4000/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.maomizi.cn:9530/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://pr.19760929.xyz:9688/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://231114.xyz:4022/rtp/239.3.1.127:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://hongzhijiaoyu.net:8188/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.yzddy.top:8800/rtp/239.49.8.46:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.taoli.website:23234/rtp/239.3.1.127:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://ds3622.guangyuan.site:8188/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://idc.zymok.cn:10000/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://home.amucn.net:8800/rtp/239.49.8.46:8000$江苏电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.yahao.host:4022/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://ysf620.f3322.net:8889/rtp/239.77.1.22:5146$广东电信
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.liangcl.top:8686/rtp/233.50.202.28:5140$浙江电信
+http://www.ljun.cc:4022/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://xxika.synology.me:8188/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://b.xiongnas.top:8888/rtp/239.3.1.127:8001$北京联通
+http://home.amucn.net:8800/rtp/239.49.8.46:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://zb.hexuntong.net:8188/rtp/239.3.1.127:8001$北京联通
+http://www.taoli.website:23234/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://www.sclvip.top:5566/rtp/239.49.8.46:8000$江苏电信
+http://www.yahao.host:4022/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://ikuai.huase.ltd:8888/rtp/239.77.1.22:5146$广东电信
+http://hongzhijiaoyu.net:8188/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://l3.negative.video:50000/rtp/233.50.202.28:5140$浙江电信
+http://www.liangcl.top:8686/rtp/233.50.202.28:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://alist.guangyuan.site:8188/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.22:5146$广东电信
+http://hs.hejd.net:7088/rtp/233.50.202.28:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://r.xace.fun:4999/rtp/239.3.1.127:8001$北京联通
+http://ikuai.huase.ltd:8888/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.28:5140$浙江电信
+http://www.sclvip.top:8787/rtp/239.49.8.46:8000$江苏电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://ds3622.guangyuan.site:8188/rtp/239.77.1.22:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://www.yzddy.top:8800/rtp/239.49.8.46:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://yanshifen.top:8889/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://wmh.wmh.ink:6633/rtp/239.77.1.22:5146$广东电信
+http://x1x.bid:5146/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://hs.imyjy.cn:7088/rtp/233.50.202.28:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://l3.negative.video:50000/rtp/233.50.202.28:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://www.huijie5421.cn:8800/rtp/239.49.8.46:8000$江苏电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://lbyjlt.vv5678.cn:8880/rtp/239.77.1.22:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://iptv.xxika.net:8188/rtp/239.77.1.22:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://231114.xyz:4022/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://ipv4.hs.imyjy.cn:7088/rtp/233.50.202.28:5140$浙江电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://kodbox.guangyuan.site:8188/rtp/239.77.1.22:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://ysf620.f3322.net:8889/rtp/239.77.1.22:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://joyznm.i234.me:20000/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://zb.hexuntong.net:8188/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://pr.19760929.xyz:9688/rtp/239.77.1.22:5146$广东电信
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://www.lvyjay.win:4022/rtp/233.50.202.28:5140$浙江电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://vp.maomizi.cc:9530/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://hs.hejd.net:7088/rtp/233.50.202.28:5140$浙江电信
+http://www.maomizi.cn:9527/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://114.254.85.177:8888/rtp/239.3.1.127:8001$北京联通
+http://www.sclvip.top:5566/rtp/239.49.8.46:8000$江苏电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://114.254.36.219:18888/rtp/239.3.1.127:8001$北京联通
+http://yahao.myqnapcloud.com:4022/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://123.118.171.46:6688/rtp/239.3.1.127:8001$北京联通
+http://r.xace.fun:4999/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://111.193.226.136:8888/rtp/239.3.1.127:8001$北京联通
+http://idc.zymok.cn:10000/rtp/239.77.1.22:5146$广东电信
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://123.114.17.150:4000/rtp/239.3.1.127:8001$北京联通
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://111.193.235.246:8888/rtp/239.3.1.127:8001$北京联通
+http://221.220.130.93:9999/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://124.65.2.127:20000/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
-http://221.218.13.150:8888/rtp/239.3.1.127:8001$北京联通
+http://114.243.96.9:8888/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://114.249.12.2:4022/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://114.254.36.219:18888/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://123.113.103.22:12322/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://123.117.161.44:8118/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://114.254.185.98:8099/rtp/239.3.1.127:8001$北京联通
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
+http://123.123.198.233:61612/rtp/239.3.1.127:8001$北京联通
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
