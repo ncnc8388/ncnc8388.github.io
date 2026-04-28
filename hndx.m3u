@@ -112,9 +112,9 @@ http://118.251.18.138:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.251.18.138:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.30.89:8188/udp/239.76.253.134:9000
+http://58.46.30.61:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.30.89:8188/udp/239.76.246.134:1234
+http://58.46.30.61:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -138,7 +138,7 @@ https://woshinibaba.tzh911.qzz.io/play-smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-name="凤凰中文频陆" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文频陆.png" group-title="港澳频道",凤凰中文频陆
 p3p://focus169.org:47731/68a6abe2000dd5d9a5012600500a1279
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.177:8188/udp/239.1.1.126:8126
+http://110.178.145.253:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.126.176:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
@@ -164,7 +164,7 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.177:8188/udp/239.1.1.127:8127
+http://110.178.145.253:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -172,9 +172,9 @@ http://118.251.18.138:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.251.18.138:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.30.89:8188/udp/239.76.253.135:9000
+http://58.46.30.61:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.30.89:8188/udp/239.76.246.135:1234
+http://58.46.30.61:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -235,10 +235,14 @@ p3p://focus169.org:47731/6777d8b3000cf17a061f70ad45a34b66
 p3p://focus169.org:47731/6777d8b3000cf17a061f70ad45a34b66
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普：撤離時跌倒是應要求&quot;趴下避險&quot;｜伊朗外長密集出訪 將與普京磋商地區局勢｜美國據報已收到伊朗談判新方案｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普：撤離時跌倒是應要求&quot;趴下避險&quot;｜伊朗外長密集出訪 將與普京磋商地區局勢｜美國據報已收到伊朗談判新方案｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普：撤離時跌倒是應要求&quot;趴下避險&quot;｜伊朗外長密集出訪 將與普京磋商地區局勢｜美國據報已收到伊朗談判新方案｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] 5/1大限將至 大難關讓美伊劇情大逆轉?! 大使:讓川普難堪的大場面要來了?!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 5/1大限將至 大難關讓美伊劇情大逆轉?! 大使:讓川普難堪的大場面要來了?!.png" group-title="youtube",youtube [VOD] 5/1大限將至 大難關讓美伊劇情大逆轉?! 大使:讓川普難堪的大場面要來了?!
+http://ncncha.cloudns.ch:9977/play?id=bm0ZmfZiY7A&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 7年級生嘆成倒楣世代! 遇金融危機又遇疫情+通膨 累積財富困難反釀集體倦怠 世代衝突? 7年級轟下一代"鬼樣子"沒救了 紅利沒了.職場差異現【#大白話說新聞】#7年級生 #金融危機" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 7年級生嘆成倒楣世代! 遇金融危機又遇疫情+通膨 累積財富困難反釀集體倦怠 世代衝突? 7年級轟下一代"鬼樣子"沒救了 紅利沒了.職場差異現【#大白話說新聞】#7年級生 #金融危機.png" group-title="youtube",youtube [VOD] 7年級生嘆成倒楣世代! 遇金融危機又遇疫情+通膨 累積財富困難反釀集體倦怠 世代衝突? 7年級轟下一代"鬼樣子"沒救了 紅利沒了.職場差異現【#大白話說新聞】#7年級生 #金融危機
 http://ncncha.cloudns.ch:9977/play?id=QVVSP3u0Gx4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] “神預言”？白宮發言人晚宴前玩諧音梗 稱今晚會場肯定有“槍聲響起” #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] “神預言”？白宮發言人晚宴前玩諧音梗 稱今晚會場肯定有“槍聲響起” #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴.png" group-title="youtube",youtube [VOD] “神預言”？白宮發言人晚宴前玩諧音梗 稱今晚會場肯定有“槍聲響起” #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴
 http://ncncha.cloudns.ch:9977/play?id=e1EsE2M2NhE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 《全程字幕》民進黨張"笑"全來了?!董事長超期待 順便拜託他來天天蹭 重溫大罷免32:0感人神作" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 《全程字幕》民進黨張"笑"全來了?!董事長超期待 順便拜託他來天天蹭 重溫大罷免32:0感人神作.png" group-title="youtube",youtube [VOD] 《全程字幕》民進黨張"笑"全來了?!董事長超期待 順便拜託他來天天蹭 重溫大罷免32:0感人神作
+http://ncncha.cloudns.ch:9977/play?id=pEloxtDZLNo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】川普：不會阻礙我贏得伊朗戰爭　消費白宮記者晚宴傳槍響？ #少康戰情室 20260427" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】川普：不會阻礙我贏得伊朗戰爭　消費白宮記者晚宴傳槍響？ #少康戰情室 20260427.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】川普：不會阻礙我贏得伊朗戰爭　消費白宮記者晚宴傳槍響？ #少康戰情室 20260427
 http://ncncha.cloudns.ch:9977/play?id=WzCXy3Nskog&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【SUB】川普槍擊陰謀自導？陸擺陣圍獵美日菲？【#新聞大白話】20260427 #字幕版 #川普 #日本 #菲律賓" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】川普槍擊陰謀自導？陸擺陣圍獵美日菲？【#新聞大白話】20260427 #字幕版 #川普 #日本 #菲律賓.png" group-title="youtube",youtube [VOD] 【SUB】川普槍擊陰謀自導？陸擺陣圍獵美日菲？【#新聞大白話】20260427 #字幕版 #川普 #日本 #菲律賓
@@ -249,10 +253,16 @@ http://ncncha.cloudns.ch:9977/play?id=lLCDLe0yzRo&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=2P8mq35yhnw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】賴清德上任、解禁就生變 禁團令一禁6年旅行業氣煞欲哭無淚？20260427｜#高嘉瑜 #張啓楷 #賴士葆 #柳采葳 #唐湘龍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】賴清德上任、解禁就生變 禁團令一禁6年旅行業氣煞欲哭無淚？20260427｜#高嘉瑜 #張啓楷 #賴士葆 #柳采葳 #唐湘龍.png" group-title="youtube",youtube [VOD] 【完整版中集】賴清德上任、解禁就生變 禁團令一禁6年旅行業氣煞欲哭無淚？20260427｜#高嘉瑜 #張啓楷 #賴士葆 #柳采葳 #唐湘龍
 http://ncncha.cloudns.ch:9977/play?id=hkj9Oz_vt5A&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】以大選新局 兩前總理挑戰納坦｜伊朗高招 海灣兄弟怒美 20260427｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】以大選新局 兩前總理挑戰納坦｜伊朗高招 海灣兄弟怒美 20260427｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】以大選新局 兩前總理挑戰納坦｜伊朗高招 海灣兄弟怒美 20260427｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=Dhj0oHxSs38&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】停戰條件 伊朗玩死川普｜鄭麗文強調 台不該陷入選擇中美 20260427｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】停戰條件 伊朗玩死川普｜鄭麗文強調 台不該陷入選擇中美 20260427｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】停戰條件 伊朗玩死川普｜鄭麗文強調 台不該陷入選擇中美 20260427｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=sowOWTaCcy0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】日本經歷衰退中 韓國反超.台灣進逼｜日本垮了 淪亞洲菲律賓 20260427｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】日本經歷衰退中 韓國反超.台灣進逼｜日本垮了 淪亞洲菲律賓 20260427｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】日本經歷衰退中 韓國反超.台灣進逼｜日本垮了 淪亞洲菲律賓 20260427｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=FZO9msi4noI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】羞辱日航母 055射鷹擊20｜美航母惡夢 鷹擊18打到了 20260427｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】羞辱日航母 055射鷹擊20｜美航母惡夢 鷹擊18打到了 20260427｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】羞辱日航母 055射鷹擊20｜美航母惡夢 鷹擊18打到了 20260427｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=kIvI2abGcDU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 副總統萬斯先撤？特朗普回應：“我想看看發生了什麼” #鳳凰衛視 #phoenixtv #白宮 #特朗普 #美國 #晚宴" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 副總統萬斯先撤？特朗普回應：“我想看看發生了什麼” #鳳凰衛視 #phoenixtv #白宮 #特朗普 #美國 #晚宴.png" group-title="youtube",youtube [VOD] 副總統萬斯先撤？特朗普回應：“我想看看發生了什麼” #鳳凰衛視 #phoenixtv #白宮 #特朗普 #美國 #晚宴
 http://ncncha.cloudns.ch:9977/play?id=KcDy1DpnYuc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 壓力來襲?谷立言致函韓國瑜關切國防預算協商進度 直言:特別預算越快過越好"確保嚇阻能力是和平關鍵" #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 壓力來襲?谷立言致函韓國瑜關切國防預算協商進度 直言:特別預算越快過越好"確保嚇阻能力是和平關鍵" #shorts.png" group-title="youtube",youtube [VOD] 壓力來襲?谷立言致函韓國瑜關切國防預算協商進度 直言:特別預算越快過越好"確保嚇阻能力是和平關鍵" #shorts
-http://ncncha.cloudns.ch:9977/play?id=QiKLfk18thg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川普不到2年3度遇死亡威脅！自嘲總統是「危險職業」日7.7強震.台灣4.9震 未來幾天還有地牛翻身？台北東區銀行間千萬搶案 犯嫌曾是德州撲克冠軍【#大白話說新聞】#地震 #川普 #白宮" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普不到2年3度遇死亡威脅！自嘲總統是「危險職業」日7.7強震.台灣4.9震 未來幾天還有地牛翻身？台北東區銀行間千萬搶案 犯嫌曾是德州撲克冠軍【#大白話說新聞】#地震 #川普 #白宮.png" group-title="youtube",youtube [VOD] 川普不到2年3度遇死亡威脅！自嘲總統是「危險職業」日7.7強震.台灣4.9震 未來幾天還有地牛翻身？台北東區銀行間千萬搶案 犯嫌曾是德州撲克冠軍【#大白話說新聞】#地震 #川普 #白宮
 http://ncncha.cloudns.ch:9977/play?id=Sg8BWg1ld8U&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川普第3次遇刺 白宮晚宴爆槍響急撤離!槍手闖大樓開槍遭當場制伏 美伊第二輪談判落空 美方取消談判 曝不滿意提案【#大白話說新聞】#川普 #白宮遇刺" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普第3次遇刺 白宮晚宴爆槍響急撤離!槍手闖大樓開槍遭當場制伏 美伊第二輪談判落空 美方取消談判 曝不滿意提案【#大白話說新聞】#川普 #白宮遇刺.png" group-title="youtube",youtube [VOD] 川普第3次遇刺 白宮晚宴爆槍響急撤離!槍手闖大樓開槍遭當場制伏 美伊第二輪談判落空 美方取消談判 曝不滿意提案【#大白話說新聞】#川普 #白宮遇刺
@@ -263,22 +273,12 @@ http://ncncha.cloudns.ch:9977/play?id=WRZ5RXZNOUw&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=mll-buXMAZs&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 特朗普：早知道當總統這麼危險，當初就不參選了... #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 特朗普：早知道當總統這麼危險，當初就不參選了... #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴.png" group-title="youtube",youtube [VOD] 特朗普：早知道當總統這麼危險，當初就不參選了... #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴
 http://ncncha.cloudns.ch:9977/play?id=l68qQ_HbEkQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 甘肅翻車事件掀出大問題!赴陸旅遊百萬國人誰來保障?! 消費者權益處於灰色地帶觀光業者盼解禁團令! #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 甘肅翻車事件掀出大問題!赴陸旅遊百萬國人誰來保障?! 消費者權益處於灰色地帶觀光業者盼解禁團令! #shorts.png" group-title="youtube",youtube [VOD] 甘肅翻車事件掀出大問題!赴陸旅遊百萬國人誰來保障?! 消費者權益處於灰色地帶觀光業者盼解禁團令! #shorts
-http://ncncha.cloudns.ch:9977/play?id=wUavYMfKgZw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 疑似吞農藥集體輕生...揭台南三屍案追查重點! 採指紋.驗成分與飲用量 高大成:判斷是否為加工強灌#shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 疑似吞農藥集體輕生...揭台南三屍案追查重點! 採指紋.驗成分與飲用量 高大成:判斷是否為加工強灌#shorts.png" group-title="youtube",youtube [VOD] 疑似吞農藥集體輕生...揭台南三屍案追查重點! 採指紋.驗成分與飲用量 高大成:判斷是否為加工強灌#shorts
-http://ncncha.cloudns.ch:9977/play?id=lJhuH3yPmbA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 白宮晚宴槍擊現場一片“混亂”：有人瘋狂拍照，有人淡定吃飯… #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴 #美國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 白宮晚宴槍擊現場一片“混亂”：有人瘋狂拍照，有人淡定吃飯… #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴 #美國.png" group-title="youtube",youtube [VOD] 白宮晚宴槍擊現場一片“混亂”：有人瘋狂拍照，有人淡定吃飯… #鳳凰衛視 #phoenixtv #特朗普 #白宮 #晚宴 #美國
 http://ncncha.cloudns.ch:9977/play?id=IqEdgf9dQZY&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 石評天下｜全世界都“錯看中國”？西班牙首相一句話掀翻西方認知 馬斯克直言未來在中國！中國科技DNA已全面爆發、特朗普還在玩AI耶穌“自嗨”：連怎麼輸的都沒懂？20260427 #石評天下 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 石評天下｜全世界都“錯看中國”？西班牙首相一句話掀翻西方認知 馬斯克直言未來在中國！中國科技DNA已全面爆發、特朗普還在玩AI耶穌“自嗨”：連怎麼輸的都沒懂？20260427 #石評天下 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 石評天下｜全世界都“錯看中國”？西班牙首相一句話掀翻西方認知 馬斯克直言未來在中國！中國科技DNA已全面爆發、特朗普還在玩AI耶穌“自嗨”：連怎麼輸的都沒懂？20260427 #石評天下 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=WgOATeVWfjA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 納坦雅胡賀川普脫險高喊"絕不容許任何暴力!" 下一秒:將對真主黨持續打擊 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 納坦雅胡賀川普脫險高喊"絕不容許任何暴力!" 下一秒:將對真主黨持續打擊 #shorts.png" group-title="youtube",youtube [VOD] 納坦雅胡賀川普脫險高喊"絕不容許任何暴力!" 下一秒:將對真主黨持續打擊 #shorts
-http://ncncha.cloudns.ch:9977/play?id=752zhD9RGyM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 自導自演? 川普一年被刺3次 「擺拍」陰謀論瘋傳 槍手躲死角換裝竟沒人守 謝寒冰傻眼:這一幕太瞎了" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 自導自演? 川普一年被刺3次 「擺拍」陰謀論瘋傳 槍手躲死角換裝竟沒人守 謝寒冰傻眼:這一幕太瞎了.png" group-title="youtube",youtube [VOD] 自導自演? 川普一年被刺3次 「擺拍」陰謀論瘋傳 槍手躲死角換裝竟沒人守 謝寒冰傻眼:這一幕太瞎了
-http://ncncha.cloudns.ch:9977/play?id=l3h3zKThDJk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 護國神山超搶手！哥斯大黎加不懼中國施壓 斷交台灣19年後為半導體回頭  台積熊本廠發威 稅收增幅8.6% 肥後銀行4月起加薪6%【#大白話說新聞】#半導體 #台積電" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 護國神山超搶手！哥斯大黎加不懼中國施壓 斷交台灣19年後為半導體回頭  台積熊本廠發威 稅收增幅8.6% 肥後銀行4月起加薪6%【#大白話說新聞】#半導體 #台積電.png" group-title="youtube",youtube [VOD] 護國神山超搶手！哥斯大黎加不懼中國施壓 斷交台灣19年後為半導體回頭  台積熊本廠發威 稅收增幅8.6% 肥後銀行4月起加薪6%【#大白話說新聞】#半導體 #台積電
 http://ncncha.cloudns.ch:9977/play?id=KQ8hIPFr-Jg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 軍購協商1小時還是破局顧立雄堅持:金額就是1.25兆! 再訂下周繼續協商!國民黨畫底線:軍購商購分開談 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 軍購協商1小時還是破局顧立雄堅持:金額就是1.25兆! 再訂下周繼續協商!國民黨畫底線:軍購商購分開談 #shorts.png" group-title="youtube",youtube [VOD] 軍購協商1小時還是破局顧立雄堅持:金額就是1.25兆! 再訂下周繼續協商!國民黨畫底線:軍購商購分開談 #shorts
-http://ncncha.cloudns.ch:9977/play?id=8pLCrS6u9Sg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鄭智善主廚與TVBS GOOD響應世界地球日，體驗栽種有機米，用台灣米做飯捲～台灣米怎麼料理最好吃？一起來看！#TVBSGOOD #ESG #鄭智善 #生物多樣性" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭智善主廚與TVBS GOOD響應世界地球日，體驗栽種有機米，用台灣米做飯捲～台灣米怎麼料理最好吃？一起來看！#TVBSGOOD #ESG #鄭智善 #生物多樣性.png" group-title="youtube",youtube [VOD] 鄭智善主廚與TVBS GOOD響應世界地球日，體驗栽種有機米，用台灣米做飯捲～台灣米怎麼料理最好吃？一起來看！#TVBSGOOD #ESG #鄭智善 #生物多樣性
 http://ncncha.cloudns.ch:9977/play?id=DYtUQCx439Y&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 高嘉瑜喊沈伯洋是前所未有最強對手　蘭萱：只有反中親美治理國家也太簡單 #少康戰情室 #趙少康 #shorts #蘭萱 #高嘉瑜 #沈伯洋 #蔣萬安" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 高嘉瑜喊沈伯洋是前所未有最強對手　蘭萱：只有反中親美治理國家也太簡單 #少康戰情室 #趙少康 #shorts #蘭萱 #高嘉瑜 #沈伯洋 #蔣萬安.png" group-title="youtube",youtube [VOD] 高嘉瑜喊沈伯洋是前所未有最強對手　蘭萱：只有反中親美治理國家也太簡單 #少康戰情室 #趙少康 #shorts #蘭萱 #高嘉瑜 #沈伯洋 #蔣萬安
