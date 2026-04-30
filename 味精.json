@@ -503,6 +503,17 @@
       },
       "changeable": 1
     },
+      {
+      "key": "永乐s",
+      "name": "🐷永乐s┃🈶2K",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/liguoXz/wjwj/raw/master/lib/ylsp_open.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
     {
       "key": "奇奇",
       "name": "😋奇奇┃4K",
