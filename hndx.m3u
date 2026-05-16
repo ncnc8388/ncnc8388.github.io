@@ -112,9 +112,9 @@ http://118.251.18.208:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.251.18.208:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.28.38:8188/udp/239.76.253.134:9000
+http://58.46.30.228:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.28.38:8188/udp/239.76.246.134:1234
+http://58.46.30.228:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -130,7 +130,7 @@ http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文欣赏.png" group-title="港澳频道",凤凰中文欣赏
 http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.15:8188/udp/239.1.1.126:8126
+http://110.178.145.251:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.126.134:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
@@ -156,7 +156,7 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.15:8188/udp/239.1.1.127:8127
+http://110.178.145.251:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -164,9 +164,9 @@ http://118.251.18.208:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.251.18.208:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.28.38:8188/udp/239.76.253.135:9000
+http://58.46.30.228:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.28.38:8188/udp/239.76.246.135:1234
+http://58.46.30.228:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -209,16 +209,14 @@ http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=V1iWqto6gj0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#精選】川習會落幕 36小時閃電訪華川普與習對話「太棒了」【#新聞大白話】#川普#習近平#對話#川習會" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】川習會落幕 36小時閃電訪華川普與習對話「太棒了」【#新聞大白話】#川普#習近平#對話#川習會.png" group-title="youtube",youtube [VOD] 【#精選】川習會落幕 36小時閃電訪華川普與習對話「太棒了」【#新聞大白話】#川普#習近平#對話#川習會
 http://ncncha.cloudns.ch:9977/play?id=ncFYAkM2_Qo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【5/15即時新聞】習川會"菜色曲目"藏巧思最富代表團"身價破35兆"川普:"未對台灣問題"做承諾是否協防台灣?川普"不想談"｜中天SUPER夜線 20260515 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【5/15即時新聞】習川會"菜色曲目"藏巧思最富代表團"身價破35兆"川普:"未對台灣問題"做承諾是否協防台灣?川普"不想談"｜中天SUPER夜線 20260515 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【5/15即時新聞】習川會"菜色曲目"藏巧思最富代表團"身價破35兆"川普:"未對台灣問題"做承諾是否協防台灣?川普"不想談"｜中天SUPER夜線 20260515 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=bsXs6RhDqYw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【SUB】川習中南海密會 中美談共管日本？【#新聞大白話】20260515 #字幕版 #川習 #中南海 #日本" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】川習中南海密會 中美談共管日本？【#新聞大白話】20260515 #字幕版 #川習 #中南海 #日本.png" group-title="youtube",youtube [VOD] 【SUB】川習中南海密會 中美談共管日本？【#新聞大白話】20260515 #字幕版 #川習 #中南海 #日本
 http://ncncha.cloudns.ch:9977/play?id=Vv-bAO0YAPc&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【SUB】王毅送行川普 伊朗扣武裝船【#新聞大白話】20260515 #字幕版 #川普 #王毅 #伊朗 #武裝船" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】王毅送行川普 伊朗扣武裝船【#新聞大白話】20260515 #字幕版 #川普 #王毅 #伊朗 #武裝船.png" group-title="youtube",youtube [VOD] 【SUB】王毅送行川普 伊朗扣武裝船【#新聞大白話】20260515 #字幕版 #川普 #王毅 #伊朗 #武裝船
 http://ncncha.cloudns.ch:9977/play?id=XbsMXmUsXkY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】川普沉默回應台灣問題?! 介文汲:他已經示弱" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】川普沉默回應台灣問題?! 介文汲:他已經示弱.png" group-title="youtube",youtube [VOD] 【全程字幕】川普沉默回應台灣問題?! 介文汲:他已經示弱
-http://ncncha.cloudns.ch:9977/play?id=cMNdeqdMQgg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】川普預告與"管台灣的人"談軍售?!郭正亮曝他"陷入窘境":恐提折中方案! | 川普證實與習"討論台灣"?亮哥大膽推斷中美"有大量爭吵"!?" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】川普預告與"管台灣的人"談軍售?!郭正亮曝他"陷入窘境":恐提折中方案! | 川普證實與習"討論台灣"?亮哥大膽推斷中美"有大量爭吵"!?.png" group-title="youtube",youtube [VOD] 【全程字幕】川普預告與"管台灣的人"談軍售?!郭正亮曝他"陷入窘境":恐提折中方案! | 川普證實與習"討論台灣"?亮哥大膽推斷中美"有大量爭吵"!?
-http://ncncha.cloudns.ch:9977/play?id=Q3D0o0h6IZk&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】川普滴酒不沾卻應習近平之邀"乾杯"!介文汲笑稱他是"老江湖":算計很清楚!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】川普滴酒不沾卻應習近平之邀"乾杯"!介文汲笑稱他是"老江湖":算計很清楚!.png" group-title="youtube",youtube [VOD] 【全程字幕】川普滴酒不沾卻應習近平之邀"乾杯"!介文汲笑稱他是"老江湖":算計很清楚!
+http://ncncha.cloudns.ch:9977/play?id=PWjFTN_XXXs&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】盧比歐見中式美學變"劉姥姥"? 介文汲轟"作秀心態"! | 川普對解放軍儀隊"讚不絕口"! 介大使酸:美軍閱兵像逛大街!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】盧比歐見中式美學變"劉姥姥"? 介文汲轟"作秀心態"! | 川普對解放軍儀隊"讚不絕口"! 介大使酸:美軍閱兵像逛大街!.png" group-title="youtube",youtube [VOD] 【全程字幕】盧比歐見中式美學變"劉姥姥"? 介文汲轟"作秀心態"! | 川普對解放軍儀隊"讚不絕口"! 介大使酸:美軍閱兵像逛大街!
+http://ncncha.cloudns.ch:9977/play?id=9sPbwQ0v_Dk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【原音呈現LIVE】川普前往中南海 與習近平茶敘、工作午餐" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【原音呈現LIVE】川普前往中南海 與習近平茶敘、工作午餐.png" group-title="youtube",youtube [VOD] 【原音呈現LIVE】川普前往中南海 與習近平茶敘、工作午餐
 http://ncncha.cloudns.ch:9977/play?id=LJLq1gLMCyo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】習近平：台獨與和平水火不容　台灣問題太敏感川習會畫紅線？20260515｜#何孟樺 #吳崢 #周榆修 #葉元之 #凌濤" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】習近平：台獨與和平水火不容　台灣問題太敏感川習會畫紅線？20260515｜#何孟樺 #吳崢 #周榆修 #葉元之 #凌濤.png" group-title="youtube",youtube [VOD] 【完整版上集】習近平：台獨與和平水火不容　台灣問題太敏感川習會畫紅線？20260515｜#何孟樺 #吳崢 #周榆修 #葉元之 #凌濤
@@ -227,10 +225,14 @@ http://ncncha.cloudns.ch:9977/play?id=p4wu27bW9bg&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=gNj19Ituy1Y&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】澤倫斯基批普欽：不像要停戰　俄軍1567架無人機狂轟基輔冷血？20260515｜#何孟樺 #吳崢 #周榆修 #葉元之 #凌濤" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】澤倫斯基批普欽：不像要停戰　俄軍1567架無人機狂轟基輔冷血？20260515｜#何孟樺 #吳崢 #周榆修 #葉元之 #凌濤.png" group-title="youtube",youtube [VOD] 【完整版中集】澤倫斯基批普欽：不像要停戰　俄軍1567架無人機狂轟基輔冷血？20260515｜#何孟樺 #吳崢 #周榆修 #葉元之 #凌濤
 http://ncncha.cloudns.ch:9977/play?id=2vy2SLCU0jc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】大陸學者讚習川會回正軌 共訪天壇意義深 20260515" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】大陸學者讚習川會回正軌 共訪天壇意義深 20260515.png" group-title="youtube",youtube [VOD] 【每日必看】大陸學者讚習川會回正軌 共訪天壇意義深 20260515
-http://ncncha.cloudns.ch:9977/play?id=FD4xZ0O1_AE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】習川會牽動兩岸! 陸看好中美破冰 台憂台海升溫 20260515" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】習川會牽動兩岸! 陸看好中美破冰 台憂台海升溫 20260515.png" group-title="youtube",youtube [VOD] 【每日必看】習川會牽動兩岸! 陸看好中美破冰 台憂台海升溫 20260515
-http://ncncha.cloudns.ch:9977/play?id=5D2ugXTvt34&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】中國外交部:中美元首達成一連串新共識｜「修昔底德陷阱」源自古希體典故美媒揭「真正涵義」 20260515｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】中國外交部:中美元首達成一連串新共識｜「修昔底德陷阱」源自古希體典故美媒揭「真正涵義」 20260515｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】中國外交部:中美元首達成一連串新共識｜「修昔底德陷阱」源自古希體典故美媒揭「真正涵義」 20260515｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=rih4OChgGng&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】克魯曼評“習川會":中美勢力消長 逼川飛北京求助｜陸官媒新聞稿: 川願建立「有史以來好的中美關係」20260515｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】克魯曼評“習川會":中美勢力消長 逼川飛北京求助｜陸官媒新聞稿: 川願建立「有史以來好的中美關係」20260515｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】克魯曼評“習川會":中美勢力消長 逼川飛北京求助｜陸官媒新聞稿: 川願建立「有史以來好的中美關係」20260515｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=bhVOg1bHgB8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】川普對歡迎儀式上的 解放軍儀仗隊贊不絕口｜中國軍人巋然不動 網友盛贊 鈞正平發聲 20260515｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】川普對歡迎儀式上的 解放軍儀仗隊贊不絕口｜中國軍人巋然不動 網友盛贊 鈞正平發聲 20260515｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】川普對歡迎儀式上的 解放軍儀仗隊贊不絕口｜中國軍人巋然不動 網友盛贊 鈞正平發聲 20260515｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=5h1JpLPhsq4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】美國務卿魯比奧:中國傾向和平統一台灣｜川普稱習「重大表態」 鬆口不軍援伊朗 20260515｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】美國務卿魯比奧:中國傾向和平統一台灣｜川普稱習「重大表態」 鬆口不軍援伊朗 20260515｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】美國務卿魯比奧:中國傾向和平統一台灣｜川普稱習「重大表態」 鬆口不軍援伊朗 20260515｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=CbKEcl7Og48&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】台灣問題“冷處理”、AI博弈“熱對抗”？中美“新”關係如何走？｜陳鳳馨、何亮亮點評 鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】台灣問題“冷處理”、AI博弈“熱對抗”？中美“新”關係如何走？｜陳鳳馨、何亮亮點評 鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播回顧】台灣問題“冷處理”、AI博弈“熱對抗”？中美“新”關係如何走？｜陳鳳馨、何亮亮點評 鳳凰記者現場報道 #鳳凰衛視 #phoenixtv #習近平 #特朗普
 http://ncncha.cloudns.ch:9977/play?id=ov38SK3bYao&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 中美關係徹底變了？習近平當面警告台海風險、挑明“修昔底德陷阱”震撼特朗普！首次默認中美已“平起平坐”？特朗普國宴突邀習近平9月訪美：北京成共和黨選舉“定海神針”？｜20260515 #鳳凰衛視 #粵語" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 中美關係徹底變了？習近平當面警告台海風險、挑明“修昔底德陷阱”震撼特朗普！首次默認中美已“平起平坐”？特朗普國宴突邀習近平9月訪美：北京成共和黨選舉“定海神針”？｜20260515 #鳳凰衛視 #粵語.png" group-title="youtube",youtube [VOD] 中美關係徹底變了？習近平當面警告台海風險、挑明“修昔底德陷阱”震撼特朗普！首次默認中美已“平起平坐”？特朗普國宴突邀習近平9月訪美：北京成共和黨選舉“定海神針”？｜20260515 #鳳凰衛視 #粵語
@@ -241,8 +243,6 @@ http://ncncha.cloudns.ch:9977/play?id=6oOx3mb2TqM&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=wXnG1L9XBmA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 天壇到中南海：北京對特朗普“文武兩手”！不只給特朗普上“中國文化課”、更在“元首茶敘”裡深談台海安全？許楨：或在中南海密談裡當面挑明台海與日本！｜20260515 #鳳凰衛視 #粵語" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 天壇到中南海：北京對特朗普“文武兩手”！不只給特朗普上“中國文化課”、更在“元首茶敘”裡深談台海安全？許楨：或在中南海密談裡當面挑明台海與日本！｜20260515 #鳳凰衛視 #粵語.png" group-title="youtube",youtube [VOD] 天壇到中南海：北京對特朗普“文武兩手”！不只給特朗普上“中國文化課”、更在“元首茶敘”裡深談台海安全？許楨：或在中南海密談裡當面挑明台海與日本！｜20260515 #鳳凰衛視 #粵語
 http://ncncha.cloudns.ch:9977/play?id=wmT6GzB-RK0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普稱很快會決定"對台軍售"! 帥化民曝美"已承諾"這事" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普稱很快會決定"對台軍售"! 帥化民曝美"已承諾"這事.png" group-title="youtube",youtube [VOD] 川普稱很快會決定"對台軍售"! 帥化民曝美"已承諾"這事
-http://ncncha.cloudns.ch:9977/play?id=h-5IxoXaQ9E&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川普這趟掙了面子丟了裡子？波音等著中國大單救命落空？【#新聞大白話】20260515-11｜#賴岳謙 #董智森 #施孝瑋" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普這趟掙了面子丟了裡子？波音等著中國大單救命落空？【#新聞大白話】20260515-11｜#賴岳謙 #董智森 #施孝瑋.png" group-title="youtube",youtube [VOD] 川普這趟掙了面子丟了裡子？波音等著中國大單救命落空？【#新聞大白話】20260515-11｜#賴岳謙 #董智森 #施孝瑋
 http://ncncha.cloudns.ch:9977/play?id=HvdoOUaYri0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜特朗普帶“交易思維”訪華踢鐵板？北京罕見重話：台灣不是籌碼、更不是生意！中美正式進入“平視時代”！｜20260515 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜特朗普帶“交易思維”訪華踢鐵板？北京罕見重話：台灣不是籌碼、更不是生意！中美正式進入“平視時代”！｜20260515 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜特朗普帶“交易思維”訪華踢鐵板？北京罕見重話：台灣不是籌碼、更不是生意！中美正式進入“平視時代”！｜20260515 #鳳凰衛視
