@@ -132,15 +132,15 @@ http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
 http://110.178.145.249:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://106.116.126.134:4022/rtp/239.254.201.2:5226
+http://106.116.126.119:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.243.19:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://106.116.126.134:4022/rtp/239.254.201.1:5214
+http://106.116.126.119:4022/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
 http://106.116.243.19:9999/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://106.116.126.134:4022/rtp/239.254.201.3:5227
+http://106.116.126.119:4022/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://106.116.243.19:9999/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰新闻网播" tvg-logo="https://live.fanmingming.cn/tv/凤凰新闻网播.png" group-title="港澳频道",凤凰新闻网播
@@ -205,56 +205,54 @@ http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】中方：賴清德表演暴露“台獨”分裂本質｜中方：全面準確落實好中美元首重要共識｜俄方對普京總統訪華抱有很高期待｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】中方：賴清德表演暴露“台獨”分裂本質｜中方：全面準確落實好中美元首重要共識｜俄方對普京總統訪華抱有很高期待｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】中方：賴清德表演暴露“台獨”分裂本質｜中方：全面準確落實好中美元首重要共識｜俄方對普京總統訪華抱有很高期待｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 【🔴LIVE直播中】#謝寒冰#嚴震生#張延廷! 川普新四不 痛擊台獨! 普丁訪華 2美軍機墜! 巴鐵殲10 中國秘密交付!|林嘉源辣晚報20260518完整版@中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【🔴LIVE直播中】#謝寒冰#嚴震生#張延廷! 川普新四不 痛擊台獨! 普丁訪華 2美軍機墜! 巴鐵殲10 中國秘密交付!|林嘉源辣晚報20260518完整版@中天新聞CtiNews.png" group-title="youtube",youtube [LIVE] 【🔴LIVE直播中】#謝寒冰#嚴震生#張延廷! 川普新四不 痛擊台獨! 普丁訪華 2美軍機墜! 巴鐵殲10 中國秘密交付!|林嘉源辣晚報20260518完整版@中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=McN_pZADDU0&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] “總裁同款”打卡點‼️黃仁勳穿黑色皮衣現身北京街頭，一路幹飯，吃老北京炸醬麵、喝豆汁兒、嘗酸奶、吹糖人... #鳳凰衛視 #phoenixtv #特朗普 #訪華 #黃仁勳 #中國 #北京" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] “總裁同款”打卡點‼️黃仁勳穿黑色皮衣現身北京街頭，一路幹飯，吃老北京炸醬麵、喝豆汁兒、嘗酸奶、吹糖人... #鳳凰衛視 #phoenixtv #特朗普 #訪華 #黃仁勳 #中國 #北京.png" group-title="youtube",youtube [VOD] “總裁同款”打卡點‼️黃仁勳穿黑色皮衣現身北京街頭，一路幹飯，吃老北京炸醬麵、喝豆汁兒、嘗酸奶、吹糖人... #鳳凰衛視 #phoenixtv #特朗普 #訪華 #黃仁勳 #中國 #北京
+http://ncncha.cloudns.ch:9977/play?id=8INS4ms7dvs&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】川習會落幕川普對台獨畫紅線　賴清德一日兩說明對美輸誠？ #少康戰情室 20260518" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】川習會落幕川普對台獨畫紅線　賴清德一日兩說明對美輸誠？ #少康戰情室 20260518.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】川習會落幕川普對台獨畫紅線　賴清德一日兩說明對美輸誠？ #少康戰情室 20260518
 http://ncncha.cloudns.ch:9977/play?id=vWV0azyEOTY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#少康大人物】白宮強調對台不變仍難化解疑慮　川普短暫沉默圍繞台灣的博弈？ 20260516｜#賴岳謙 #李明璇" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#少康大人物】白宮強調對台不變仍難化解疑慮　川普短暫沉默圍繞台灣的博弈？ 20260516｜#賴岳謙 #李明璇.png" group-title="youtube",youtube [VOD] 【#少康大人物】白宮強調對台不變仍難化解疑慮　川普短暫沉默圍繞台灣的博弈？ 20260516｜#賴岳謙 #李明璇
-http://ncncha.cloudns.ch:9977/play?id=pjZwPcnU2Fg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#少康大人物】習談台灣措辭強硬川普冷處理　美中認知分歧持續「北京更大膽」？ 20260515｜#吳崢 #沈富雄" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#少康大人物】習談台灣措辭強硬川普冷處理　美中認知分歧持續「北京更大膽」？ 20260515｜#吳崢 #沈富雄.png" group-title="youtube",youtube [VOD] 【#少康大人物】習談台灣措辭強硬川普冷處理　美中認知分歧持續「北京更大膽」？ 20260515｜#吳崢 #沈富雄
-http://ncncha.cloudns.ch:9977/play?id=UNEzYptcI3Y&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#少康大人物】蘇起預測美對台支持更薄弱　北京成功釜底抽薪一棒打死台獨？ 20260517｜#沈富雄 #黃揚明" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#少康大人物】蘇起預測美對台支持更薄弱　北京成功釜底抽薪一棒打死台獨？ 20260517｜#沈富雄 #黃揚明.png" group-title="youtube",youtube [VOD] 【#少康大人物】蘇起預測美對台支持更薄弱　北京成功釜底抽薪一棒打死台獨？ 20260517｜#沈富雄 #黃揚明
-http://ncncha.cloudns.ch:9977/play?id=EMhkECX-UnI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【LIVE】藍營瑟瑟發抖? 高嘉瑜力挺沈伯洋  聯名看板今上架" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【LIVE】藍營瑟瑟發抖? 高嘉瑜力挺沈伯洋  聯名看板今上架.png" group-title="youtube",youtube [VOD] 【LIVE】藍營瑟瑟發抖? 高嘉瑜力挺沈伯洋  聯名看板今上架
-http://ncncha.cloudns.ch:9977/play?id=4lXEJik-NO8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【戴立綱報氣象】未來一周"熱如夏"恐飆破30度 下波鋒面抵達時間曝｜高壓勢力西伸 全台天氣晴 中午炎熱 20260518" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【戴立綱報氣象】未來一周"熱如夏"恐飆破30度 下波鋒面抵達時間曝｜高壓勢力西伸 全台天氣晴 中午炎熱 20260518.png" group-title="youtube",youtube [VOD] 【戴立綱報氣象】未來一周"熱如夏"恐飆破30度 下波鋒面抵達時間曝｜高壓勢力西伸 全台天氣晴 中午炎熱 20260518
-http://ncncha.cloudns.ch:9977/play?id=LJccYtDXvv0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【🔴LIVE直播中】#謝寒冰#嚴震生#張延廷! 川普新四不 痛擊台獨! 普丁訪華 2美軍機墜! 巴鐵殲10 中國秘密交付!|林嘉源辣晚報20260518完整版@中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【🔴LIVE直播中】#謝寒冰#嚴震生#張延廷! 川普新四不 痛擊台獨! 普丁訪華 2美軍機墜! 巴鐵殲10 中國秘密交付!|林嘉源辣晚報20260518完整版@中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【🔴LIVE直播中】#謝寒冰#嚴震生#張延廷! 川普新四不 痛擊台獨! 普丁訪華 2美軍機墜! 巴鐵殲10 中國秘密交付!|林嘉源辣晚報20260518完整版@中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=McN_pZADDU0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 伊朗導彈再發射打下美機了？川普突然召開白宮戰情會了【#新聞大白話】20260518-11｜#張延廷 #郭正亮 #嚴震生" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 伊朗導彈再發射打下美機了？川普突然召開白宮戰情會了【#新聞大白話】20260518-11｜#張延廷 #郭正亮 #嚴震生.png" group-title="youtube",youtube [VOD] 伊朗導彈再發射打下美機了？川普突然召開白宮戰情會了【#新聞大白話】20260518-11｜#張延廷 #郭正亮 #嚴震生
-http://ncncha.cloudns.ch:9977/play?id=6pFViVCi9P4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 傳美再開戰情室會議 川普放話:伊朗時間不多了 全面備戰!3千萬人清真寺練兵 伊朗節目中教主持人射AK-47 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 傳美再開戰情室會議 川普放話:伊朗時間不多了 全面備戰!3千萬人清真寺練兵 伊朗節目中教主持人射AK-47 #shorts.png" group-title="youtube",youtube [VOD] 傳美再開戰情室會議 川普放話:伊朗時間不多了 全面備戰!3千萬人清真寺練兵 伊朗節目中教主持人射AK-47 #shorts
-http://ncncha.cloudns.ch:9977/play?id=Fj5tvsSC2Tg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 吳思瑤會陪沈伯洋一起下台 張雅琴稱他像張凌赫武安侯【#新聞大白話】20260518-9｜#葉元之 #陳揮文 #游淑慧" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 吳思瑤會陪沈伯洋一起下台 張雅琴稱他像張凌赫武安侯【#新聞大白話】20260518-9｜#葉元之 #陳揮文 #游淑慧.png" group-title="youtube",youtube [VOD] 吳思瑤會陪沈伯洋一起下台 張雅琴稱他像張凌赫武安侯【#新聞大白話】20260518-9｜#葉元之 #陳揮文 #游淑慧
-http://ncncha.cloudns.ch:9977/play?id=Ql3xzTVyilE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 國民年金一輩子白繳了? 65歲過世竟"一毛都領嘸! 欲提領3項給付全落空! 民眾傻眼嘆:誰還要繳!? #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 國民年金一輩子白繳了? 65歲過世竟"一毛都領嘸! 欲提領3項給付全落空! 民眾傻眼嘆:誰還要繳!? #shorts.png" group-title="youtube",youtube [VOD] 國民年金一輩子白繳了? 65歲過世竟"一毛都領嘸! 欲提領3項給付全落空! 民眾傻眼嘆:誰還要繳!? #shorts
-http://ncncha.cloudns.ch:9977/play?id=VM79OjoIjDI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普宣布不想看到搞台獨了  只稱賴清德治理台灣的人了【#新聞大白話】#李永萍 #康仁俊 #李明賢" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普宣布不想看到搞台獨了  只稱賴清德治理台灣的人了【#新聞大白話】#李永萍 #康仁俊 #李明賢.png" group-title="youtube",youtube [VOD] 川普宣布不想看到搞台獨了  只稱賴清德治理台灣的人了【#新聞大白話】#李永萍 #康仁俊 #李明賢
-http://ncncha.cloudns.ch:9977/play?id=x4qlObPoCTM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普會"背離台灣多遠" 取決於中方助美施壓伊朗 紐時記者示警:會是場前所未見的交易 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普會"背離台灣多遠" 取決於中方助美施壓伊朗 紐時記者示警:會是場前所未見的交易 #shorts.png" group-title="youtube",youtube [VOD] 川普會"背離台灣多遠" 取決於中方助美施壓伊朗 紐時記者示警:會是場前所未見的交易 #shorts
-http://ncncha.cloudns.ch:9977/play?id=mIxR5ALVSQA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普發現中國比想像強大了？台灣十八個月後就不重要了？【#新聞大白話】20260518-8｜#葉元之 #陳揮文 #游淑慧" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普發現中國比想像強大了？台灣十八個月後就不重要了？【#新聞大白話】20260518-8｜#葉元之 #陳揮文 #游淑慧.png" group-title="youtube",youtube [VOD] 川普發現中國比想像強大了？台灣十八個月後就不重要了？【#新聞大白話】20260518-8｜#葉元之 #陳揮文 #游淑慧
-http://ncncha.cloudns.ch:9977/play?id=ghBHjjaD2Is&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【5/18即時新聞】】川普稱"對台軍售是好籌碼 紐時:對台承諾成美中交易｜蔣萬安諷同情綠台獨變了!沈伯洋:不再討論20年前的事 中天SUPER夜線 20260518 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【5/18即時新聞】】川普稱"對台軍售是好籌碼 紐時:對台承諾成美中交易｜蔣萬安諷同情綠台獨變了!沈伯洋:不再討論20年前的事 中天SUPER夜線 20260518 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【5/18即時新聞】】川普稱"對台軍售是好籌碼 紐時:對台承諾成美中交易｜蔣萬安諷同情綠台獨變了!沈伯洋:不再討論20年前的事 中天SUPER夜線 20260518 @中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=7irH0dWeD6I&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】美軍F-18連摔 18個月墜毀8架【#新聞大白話】20260518 #字幕版 #美軍 #F-18 #墜毀" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】美軍F-18連摔 18個月墜毀8架【#新聞大白話】20260518 #字幕版 #美軍 #F-18 #墜毀.png" group-title="youtube",youtube [VOD] 【SUB】美軍F-18連摔 18個月墜毀8架【#新聞大白話】20260518 #字幕版 #美軍 #F-18 #墜毀
+http://ncncha.cloudns.ch:9977/play?id=t5ozWOGm6OI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【下一站科技】護國神山出現對手? 英特爾搶台積電訂單成國際晶片備胎? 輝達攜手康寧升級AI算力用"光"搶AI 資源轉移玩家邊緣化【#大白話說新聞】#英特爾 #台積電 #AI" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【下一站科技】護國神山出現對手? 英特爾搶台積電訂單成國際晶片備胎? 輝達攜手康寧升級AI算力用"光"搶AI 資源轉移玩家邊緣化【#大白話說新聞】#英特爾 #台積電 #AI.png" group-title="youtube",youtube [VOD] 【下一站科技】護國神山出現對手? 英特爾搶台積電訂單成國際晶片備胎? 輝達攜手康寧升級AI算力用"光"搶AI 資源轉移玩家邊緣化【#大白話說新聞】#英特爾 #台積電 #AI
+http://ncncha.cloudns.ch:9977/play?id=nVJZDu0HZe8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程CC字幕】賴清德稱沒有「台獨問題」藍委:賴清德因台獨當了立委.市長.行政院長 時間是一面最好的鏡子 當初誰做過什麼事未來都會受到反噬｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程CC字幕】賴清德稱沒有「台獨問題」藍委:賴清德因台獨當了立委.市長.行政院長 時間是一面最好的鏡子 當初誰做過什麼事未來都會受到反噬｜TVBS新聞.png" group-title="youtube",youtube [VOD] 【全程CC字幕】賴清德稱沒有「台獨問題」藍委:賴清德因台獨當了立委.市長.行政院長 時間是一面最好的鏡子 當初誰做過什麼事未來都會受到反噬｜TVBS新聞
+http://ncncha.cloudns.ch:9977/play?id=6A82f9M_x6Y&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】王鴻薇酸賴清德"台獨金孫不台獨了"! 賴清德定調台獨2大真實意涵 藍委揭綠黨綱欲把中華民國變"台灣國" 葉元之批賴:越描越黑 自欺欺人｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】王鴻薇酸賴清德"台獨金孫不台獨了"! 賴清德定調台獨2大真實意涵 藍委揭綠黨綱欲把中華民國變"台灣國" 葉元之批賴:越描越黑 自欺欺人｜TVBS新聞.png" group-title="youtube",youtube [VOD] 【全程字幕】王鴻薇酸賴清德"台獨金孫不台獨了"! 賴清德定調台獨2大真實意涵 藍委揭綠黨綱欲把中華民國變"台灣國" 葉元之批賴:越描越黑 自欺欺人｜TVBS新聞
+http://ncncha.cloudns.ch:9977/play?id=bSjkkKye--A&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】陸學者稱川習會成果之一　美不認同也不接受台灣走向獨立？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】陸學者稱川習會成果之一　美不認同也不接受台灣走向獨立？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥.png" group-title="youtube",youtube [VOD] 【完整版上集】陸學者稱川習會成果之一　美不認同也不接受台灣走向獨立？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥
+http://ncncha.cloudns.ch:9977/play?id=2t2wgLIIihY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】沈伯洋保護說、五分之一嫌疑論　2026攻防拉到抗中反滲透戰場？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】沈伯洋保護說、五分之一嫌疑論　2026攻防拉到抗中反滲透戰場？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥.png" group-title="youtube",youtube [VOD] 【完整版下集】沈伯洋保護說、五分之一嫌疑論　2026攻防拉到抗中反滲透戰場？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥
+http://ncncha.cloudns.ch:9977/play?id=so7Kgws_7Js&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】賴清德成川普口中的那個人 台灣給天價保護費連名字都不給？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】賴清德成川普口中的那個人 台灣給天價保護費連名字都不給？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥.png" group-title="youtube",youtube [VOD] 【完整版中集】賴清德成川普口中的那個人 台灣給天價保護費連名字都不給？20260518｜#林亮君 #張啓楷 #賴士葆 #李永萍 #林沛祥
+http://ncncha.cloudns.ch:9977/play?id=qBuWoqckWaI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】狄鶯海邊失聯! 警方火速找到人 孫鵬:謝謝關心 20260518" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】狄鶯海邊失聯! 警方火速找到人 孫鵬:謝謝關心 20260518.png" group-title="youtube",youtube [VOD] 【每日必看】狄鶯海邊失聯! 警方火速找到人 孫鵬:謝謝關心 20260518
+http://ncncha.cloudns.ch:9977/play?id=IVF_IjSDpdE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【淡江大橋特報】重機上淡江大橋快車道有望？藍綠參選人難得共識 通車首個禮拜爆狀況：螺帽一轉就開.民眾不熟悉標誌貨車誤闖 警察一天猛開17張罰單【#大白話說新聞】#淡江大橋 #快車道 #重機" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【淡江大橋特報】重機上淡江大橋快車道有望？藍綠參選人難得共識 通車首個禮拜爆狀況：螺帽一轉就開.民眾不熟悉標誌貨車誤闖 警察一天猛開17張罰單【#大白話說新聞】#淡江大橋 #快車道 #重機.png" group-title="youtube",youtube [VOD] 【淡江大橋特報】重機上淡江大橋快車道有望？藍綠參選人難得共識 通車首個禮拜爆狀況：螺帽一轉就開.民眾不熟悉標誌貨車誤闖 警察一天猛開17張罰單【#大白話說新聞】#淡江大橋 #快車道 #重機
+http://ncncha.cloudns.ch:9977/play?id=XJ-wE6LXPQs&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 又來! 咆哮者.大黃蜂交纏墜毀 前空軍副司令拆解美戰機墜機慘劇:空中卡死螺旋墜毀 美軍神話在伊朗後再度大掉漆" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 又來! 咆哮者.大黃蜂交纏墜毀 前空軍副司令拆解美戰機墜機慘劇:空中卡死螺旋墜毀 美軍神話在伊朗後再度大掉漆.png" group-title="youtube",youtube [VOD] 又來! 咆哮者.大黃蜂交纏墜毀 前空軍副司令拆解美戰機墜機慘劇:空中卡死螺旋墜毀 美軍神話在伊朗後再度大掉漆
+http://ncncha.cloudns.ch:9977/play?id=cBYQ7B1ERPU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 川普已被習近平影響？不挺台獨立場已偏離美「戰略模糊」政策 賴清德搬出蔡英文4堅持稱維持現狀 回應給川普看？【#大白話說新聞】#川習會 #賴清德 #台獨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普已被習近平影響？不挺台獨立場已偏離美「戰略模糊」政策 賴清德搬出蔡英文4堅持稱維持現狀 回應給川普看？【#大白話說新聞】#川習會 #賴清德 #台獨.png" group-title="youtube",youtube [VOD] 川普已被習近平影響？不挺台獨立場已偏離美「戰略模糊」政策 賴清德搬出蔡英文4堅持稱維持現狀 回應給川普看？【#大白話說新聞】#川習會 #賴清德 #台獨
+http://ncncha.cloudns.ch:9977/play?id=1N0vN0P0DE0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 川習會後台灣成籌碼? 美對台六保證遭川普淡化 圓山禁CBS播報內幕【#大白話說新聞】#川習會 #圓山飯店 #CBS" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川習會後台灣成籌碼? 美對台六保證遭川普淡化 圓山禁CBS播報內幕【#大白話說新聞】#川習會 #圓山飯店 #CBS.png" group-title="youtube",youtube [VOD] 川習會後台灣成籌碼? 美對台六保證遭川普淡化 圓山禁CBS播報內幕【#大白話說新聞】#川習會 #圓山飯店 #CBS
+http://ncncha.cloudns.ch:9977/play?id=LRLqQRjiqFk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜“習特會”互動細節引關注！特朗普剛談完 普京緊接訪華！中美談了什麼成關鍵？俄方急探動向、三角博弈全面升溫？｜20260518 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜“習特會”互動細節引關注！特朗普剛談完 普京緊接訪華！中美談了什麼成關鍵？俄方急探動向、三角博弈全面升溫？｜20260518 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜“習特會”互動細節引關注！特朗普剛談完 普京緊接訪華！中美談了什麼成關鍵？俄方急探動向、三角博弈全面升溫？｜20260518 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=-anOEje2t1w&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 日本大阪道頓堀驚傳大火 目擊者驚:聽到爆炸聲! 延燒4棟建築約350平方公尺 出動45輛消防車急撲滅 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 日本大阪道頓堀驚傳大火 目擊者驚:聽到爆炸聲! 延燒4棟建築約350平方公尺 出動45輛消防車急撲滅 #shorts.png" group-title="youtube",youtube [VOD] 日本大阪道頓堀驚傳大火 目擊者驚:聽到爆炸聲! 延燒4棟建築約350平方公尺 出動45輛消防車急撲滅 #shorts
-http://ncncha.cloudns.ch:9977/play?id=We1rEGTXhjw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 時事三對論｜特朗普“台灣牌”徹底失效？北京直接撕牌：紅線步步緊逼、特朗普不敢碰雷區、民進黨絕望崩潰！對台軍售、對“台獨”表態全被盯死！嘉賓：台灣？輪不到華府插話！｜20260518 #鳳凰衛視 #粵語" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事三對論｜特朗普“台灣牌”徹底失效？北京直接撕牌：紅線步步緊逼、特朗普不敢碰雷區、民進黨絕望崩潰！對台軍售、對“台獨”表態全被盯死！嘉賓：台灣？輪不到華府插話！｜20260518 #鳳凰衛視 #粵語.png" group-title="youtube",youtube [VOD] 時事三對論｜特朗普“台灣牌”徹底失效？北京直接撕牌：紅線步步緊逼、特朗普不敢碰雷區、民進黨絕望崩潰！對台軍售、對“台獨”表態全被盯死！嘉賓：台灣？輪不到華府插話！｜20260518 #鳳凰衛視 #粵語
 http://ncncha.cloudns.ch:9977/play?id=iXq15A0XNr0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜北京“舉世矚目”四字定調！中美進入“百年大變”！特朗普訪華喊成果卻“零突破” 台灣成美國保留“炸彈位”？許楨：北京早留後手！｜20260518 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜北京“舉世矚目”四字定調！中美進入“百年大變”！特朗普訪華喊成果卻“零突破” 台灣成美國保留“炸彈位”？許楨：北京早留後手！｜20260518 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜北京“舉世矚目”四字定調！中美進入“百年大變”！特朗普訪華喊成果卻“零突破” 台灣成美國保留“炸彈位”？許楨：北京早留後手！｜20260518 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=hsV8pX2ce9c&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 有報天天讀｜普京壓軸！聯合國四常接力訪華｜傳特朗普遊說阿聯酋奪島！美以本周或恢復襲擊伊朗？｜非洲兩國爆埃博拉疫情 列“國際關注公衛事件”｜20260518 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 有報天天讀｜普京壓軸！聯合國四常接力訪華｜傳特朗普遊說阿聯酋奪島！美以本周或恢復襲擊伊朗？｜非洲兩國爆埃博拉疫情 列“國際關注公衛事件”｜20260518 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 有報天天讀｜普京壓軸！聯合國四常接力訪華｜傳特朗普遊說阿聯酋奪島！美以本周或恢復襲擊伊朗？｜非洲兩國爆埃博拉疫情 列“國際關注公衛事件”｜20260518 #鳳凰衛視
-http://ncncha.cloudns.ch:9977/play?id=C_OIpjdsxc4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 李顯龍突急訪華要出大事了？哈薩克中國無人輕軌通車了【#新聞大白話】20260518-12｜#張延廷 #郭正亮 #嚴震生" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 李顯龍突急訪華要出大事了？哈薩克中國無人輕軌通車了【#新聞大白話】20260518-12｜#張延廷 #郭正亮 #嚴震生.png" group-title="youtube",youtube [VOD] 李顯龍突急訪華要出大事了？哈薩克中國無人輕軌通車了【#新聞大白話】20260518-12｜#張延廷 #郭正亮 #嚴震生
-http://ncncha.cloudns.ch:9977/play?id=-6g4NMLUCFo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 特朗普剛走、普京接力訪華‼️中國外交部介紹普京訪華相關安排：中俄元首將交流各領域合作及國際地區問題 #鳳凰衛視 #phoenixtv #普京 #訪華 #中國 #俄羅斯 #中俄" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 特朗普剛走、普京接力訪華‼️中國外交部介紹普京訪華相關安排：中俄元首將交流各領域合作及國際地區問題 #鳳凰衛視 #phoenixtv #普京 #訪華 #中國 #俄羅斯 #中俄.png" group-title="youtube",youtube [VOD] 特朗普剛走、普京接力訪華‼️中國外交部介紹普京訪華相關安排：中俄元首將交流各領域合作及國際地區問題 #鳳凰衛視 #phoenixtv #普京 #訪華 #中國 #俄羅斯 #中俄
-http://ncncha.cloudns.ch:9977/play?id=lvgTEfsxGdI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 特朗普結束訪華回國途中，高市早苗與其通電話：重申了牢不可破的日美同盟關係‼️#鳳凰衛視 #phoenixtv #特朗普 #訪華 #中國 #高市早苗 #日本 #美日" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 特朗普結束訪華回國途中，高市早苗與其通電話：重申了牢不可破的日美同盟關係‼️#鳳凰衛視 #phoenixtv #特朗普 #訪華 #中國 #高市早苗 #日本 #美日.png" group-title="youtube",youtube [VOD] 特朗普結束訪華回國途中，高市早苗與其通電話：重申了牢不可破的日美同盟關係‼️#鳳凰衛視 #phoenixtv #特朗普 #訪華 #中國 #高市早苗 #日本 #美日
-http://ncncha.cloudns.ch:9977/play?id=-p8R1XKZ9Zc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 美2架F-18電戰機突發墜毀了 57%日本人反對高市早苗了【#新聞大白話】20260518-10｜#張延廷 #郭正亮 #嚴震生" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美2架F-18電戰機突發墜毀了 57%日本人反對高市早苗了【#新聞大白話】20260518-10｜#張延廷 #郭正亮 #嚴震生.png" group-title="youtube",youtube [VOD] 美2架F-18電戰機突發墜毀了 57%日本人反對高市早苗了【#新聞大白話】20260518-10｜#張延廷 #郭正亮 #嚴震生
-http://ncncha.cloudns.ch:9977/play?id=oH_NmfhrEMg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 美軍電戰機演練突相撞！阿聯核設施被炸起火了！美逾40架MQ-9被擊落了？李顯龍訪華合作升溫了！川普新四不示警台獨了！【#新聞大白話】20260518 #完整版 #美軍 #川普 #李顯龍 #阿聯" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美軍電戰機演練突相撞！阿聯核設施被炸起火了！美逾40架MQ-9被擊落了？李顯龍訪華合作升溫了！川普新四不示警台獨了！【#新聞大白話】20260518 #完整版 #美軍 #川普 #李顯龍 #阿聯.png" group-title="youtube",youtube [VOD] 美軍電戰機演練突相撞！阿聯核設施被炸起火了！美逾40架MQ-9被擊落了？李顯龍訪華合作升溫了！川普新四不示警台獨了！【#新聞大白話】20260518 #完整版 #美軍 #川普 #李顯龍 #阿聯
-http://ncncha.cloudns.ch:9977/play?id=os-GLY5E88s&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 男神張凌赫見李英愛靦腆握手打招呼 粉絲巧遇女神介紹Zhang Linghe很紅XD #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 男神張凌赫見李英愛靦腆握手打招呼 粉絲巧遇女神介紹Zhang Linghe很紅XD #shorts.png" group-title="youtube",youtube [VOD] 男神張凌赫見李英愛靦腆握手打招呼 粉絲巧遇女神介紹Zhang Linghe很紅XD #shorts
+http://ncncha.cloudns.ch:9977/play?id=ts1mK4dGYrE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 看似輕鬆實則緊繃！川普訪中車隊可隨時獨立作戰？特殊車款曝不同功能：可通訊.屏蔽訊號.防阻無人機 川習會當天伊朗扣押中船 警告習勿背叛盟友？ 【#大白話說新聞】#川習會 #車隊 #台海" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 看似輕鬆實則緊繃！川普訪中車隊可隨時獨立作戰？特殊車款曝不同功能：可通訊.屏蔽訊號.防阻無人機 川習會當天伊朗扣押中船 警告習勿背叛盟友？ 【#大白話說新聞】#川習會 #車隊 #台海.png" group-title="youtube",youtube [VOD] 看似輕鬆實則緊繃！川普訪中車隊可隨時獨立作戰？特殊車款曝不同功能：可通訊.屏蔽訊號.防阻無人機 川習會當天伊朗扣押中船 警告習勿背叛盟友？ 【#大白話說新聞】#川習會 #車隊 #台海
+http://ncncha.cloudns.ch:9977/play?id=QbAqkS273h4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 石評天下｜“習特會”定調中美“大結局”？特朗普罕見認輸：中國已是平起平坐的“另一個老大”！“特朗普主義”徹底撕下美霸權假面：G2時代正式攤牌 中國這次不必再讓？202605118#石評天下 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 石評天下｜“習特會”定調中美“大結局”？特朗普罕見認輸：中國已是平起平坐的“另一個老大”！“特朗普主義”徹底撕下美霸權假面：G2時代正式攤牌 中國這次不必再讓？202605118#石評天下 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 石評天下｜“習特會”定調中美“大結局”？特朗普罕見認輸：中國已是平起平坐的“另一個老大”！“特朗普主義”徹底撕下美霸權假面：G2時代正式攤牌 中國這次不必再讓？202605118#石評天下 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=EkcbX-rCt50&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 習近平當面嗆「美國衰落」! 川普急跳腳甩鍋 雷倩精算美軍四大死穴 美債5.1%大拐點降臨 撕開華爾街「脫實向虛」致命惡果" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習近平當面嗆「美國衰落」! 川普急跳腳甩鍋 雷倩精算美軍四大死穴 美債5.1%大拐點降臨 撕開華爾街「脫實向虛」致命惡果.png" group-title="youtube",youtube [VOD] 習近平當面嗆「美國衰落」! 川普急跳腳甩鍋 雷倩精算美軍四大死穴 美債5.1%大拐點降臨 撕開華爾街「脫實向虛」致命惡果
+http://ncncha.cloudns.ch:9977/play?id=j-Ay9KQRK1Y&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 莫斯科遭遇一年多來最大規模無人機襲擊‼️現場黑煙沖天，車輛在濃煙中穿行 #鳳凰衛視 #phoenixtv #俄羅斯 #俄烏 #烏克蘭 #普京" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 莫斯科遭遇一年多來最大規模無人機襲擊‼️現場黑煙沖天，車輛在濃煙中穿行 #鳳凰衛視 #phoenixtv #俄羅斯 #俄烏 #烏克蘭 #普京.png" group-title="youtube",youtube [VOD] 莫斯科遭遇一年多來最大規模無人機襲擊‼️現場黑煙沖天，車輛在濃煙中穿行 #鳳凰衛視 #phoenixtv #俄羅斯 #俄烏 #烏克蘭 #普京
+http://ncncha.cloudns.ch:9977/play?id=IZmQCopk6Jg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 這次...台獨終極信心徹底崩盤！帥化民:川普私下掀底牌「新四不一沒有」 雷根六大保證被一筆抹去 台灣老百姓該醒醒了" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 這次...台獨終極信心徹底崩盤！帥化民:川普私下掀底牌「新四不一沒有」 雷根六大保證被一筆抹去 台灣老百姓該醒醒了.png" group-title="youtube",youtube [VOD] 這次...台獨終極信心徹底崩盤！帥化民:川普私下掀底牌「新四不一沒有」 雷根六大保證被一筆抹去 台灣老百姓該醒醒了
+http://ncncha.cloudns.ch:9977/play?id=X6BBUvHxU3Q&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
 P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 tvg-name="中天娱乐频道" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐频道.png" group-title="youtube",中天娱乐频道
@@ -670,7 +668,7 @@ https://msj.188766.xyz/play?id=3000000020000011523&token=87d6d6de87d6d6de87d6d6d
 #EXTINF:-1 tvg-name="睛彩广场舞-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞-移动或影视专用.png" group-title="河南频道",睛彩广场舞-移动或影视专用
 https://msj.188766.xyz/play?id=3000000020000011523&token=87d6d6de87d6d6de87d6d6de87d6d6de&client=ys
 #EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.cn/tv/睛彩河北.png" group-title="河南频道",睛彩河北
-http://106.116.126.134:4022/rtp/239.254.200.27:6000
+http://106.116.126.119:4022/rtp/239.254.200.27:6000
 #EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.cn/tv/睛彩河北.png" group-title="河南频道",睛彩河北
 http://106.116.243.19:9999/rtp/239.254.200.27:6000
 #EXTINF:-1 tvg-name="睛彩河南曲艺" tvg-logo="https://live.fanmingming.cn/tv/睛彩河南曲艺.png" group-title="河南频道",睛彩河南曲艺
