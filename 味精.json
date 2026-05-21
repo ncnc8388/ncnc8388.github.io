@@ -2034,6 +2034,15 @@
       "epg": "http://epg.51zmt.top:8000/e1.xml.gz",
       "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/09.YY轮播.png"
     },
+     {
+      "name": "🐅老三TV",
+      "type": 0,
+      "url": "https://gh.bugdey.us.kg/https://raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/zb",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "壹米直播",
       "type": 0,
