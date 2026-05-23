@@ -70,12 +70,33 @@
       "api": "http://183.136.134.152:250/lib/drpy2.min.js",
       "ext": "http://183.136.134.152:250/lib/bili.js"
     },
+  {
+      "key": "藤藤",
+      "name": "❤小腾｜4K测试",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+    },
     {
       "key": "茫茫",
-      "name": "果果4K",
+      "name": "❤小芒｜4K测试",
       "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+    },
+    {
+      "key": "小哩弹幕",
+      "name": "❤小哩｜4K测试",
+      "type": 3,
+      "api": "csp_Bilimd",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "cookie": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
+      },
+      "timeout": 10
     },
     {
       "key": "xiaoya",
@@ -1257,7 +1278,7 @@
       "key": "MjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
-      "jar": "https://raw.giteeusercontent.com/liguoXz/wjwj/raw/master/bfdb--cvdvds.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/liguoXz/wjwj/raw/master/awdm2.png",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
@@ -1269,7 +1290,7 @@
       "key": "DjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
-      "jar": "https://raw.giteeusercontent.com/liguoXz/wjwj/raw/master/bfdb--cvdvds.jar;md5;71db9888b04fa21b49768a8e25503df4",
+      "jar": "https://raw.giteeusercontent.com/liguoXz/wjwj/raw/master/awdm2.png",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
