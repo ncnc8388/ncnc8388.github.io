@@ -112,9 +112,9 @@ http://118.251.18.94:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.251.18.94:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.6:8188/udp/239.76.253.134:9000
+http://58.46.28.56:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.6:8188/udp/239.76.246.134:1234
+http://58.46.28.56:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -134,7 +134,7 @@ http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文频陆" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文频陆.png" group-title="港澳频道",凤凰中文频陆
 p3p://focus169.org:25271/68a6abe2000dd5d9a5012600500a1279
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.143:8188/udp/239.1.1.126:8126
+http://110.178.145.38:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.126.119:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
@@ -160,7 +160,7 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.143:8188/udp/239.1.1.127:8127
+http://110.178.145.38:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -168,9 +168,9 @@ http://118.251.18.94:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.251.18.94:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.6:8188/udp/239.76.253.135:9000
+http://58.46.28.56:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.6:8188/udp/239.76.246.135:1234
+http://58.46.28.56:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -225,30 +225,30 @@ p3p://focus169.org:25271/6777d8b3000cf17a061f70ad45a34b66
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】學者：川普恐施壓台灣「勿走台獨路線」　川賴通話若成走向？牽動？ #少康戰情室 20260522" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】學者：川普恐施壓台灣「勿走台獨路線」　川賴通話若成走向？牽動？ #少康戰情室 20260522.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】學者：川普恐施壓台灣「勿走台獨路線」　川賴通話若成走向？牽動？ #少康戰情室 20260522
 http://ncncha.cloudns.ch:9977/play?id=D4msoHFXN9A&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【5/22即時新聞】AIT要鄭麗文釋疑不親中?! 美柑橘關稅大降台果農崩潰｜馬大姊發聲明聲請輔助宣告 馬英九駁斥失智痛罵蕭旭岑｜中天SUPER夜線 20260522 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【5/22即時新聞】AIT要鄭麗文釋疑不親中?! 美柑橘關稅大降台果農崩潰｜馬大姊發聲明聲請輔助宣告 馬英九駁斥失智痛罵蕭旭岑｜中天SUPER夜線 20260522 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【5/22即時新聞】AIT要鄭麗文釋疑不親中?! 美柑橘關稅大降台果農崩潰｜馬大姊發聲明聲請輔助宣告 馬英九駁斥失智痛罵蕭旭岑｜中天SUPER夜線 20260522 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=llq8LOWP1_I&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【SUB】中美戰機大鬥法 武契奇宣布訪華【#新聞大白話】20260522 #字幕版 #中國 #美國 #武契奇" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】中美戰機大鬥法 武契奇宣布訪華【#新聞大白話】20260522 #字幕版 #中國 #美國 #武契奇.png" group-title="youtube",youtube [VOD] 【SUB】中美戰機大鬥法 武契奇宣布訪華【#新聞大白話】20260522 #字幕版 #中國 #美國 #武契奇
 http://ncncha.cloudns.ch:9977/play?id=pN0rrZLwayA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】中美朝向和解之路!台灣沒事日本也沒事 郭正亮怒轟高市:Please Shut Up!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】中美朝向和解之路!台灣沒事日本也沒事 郭正亮怒轟高市:Please Shut Up!.png" group-title="youtube",youtube [VOD] 【全程字幕】中美朝向和解之路!台灣沒事日本也沒事 郭正亮怒轟高市:Please Shut Up!
-http://ncncha.cloudns.ch:9977/play?id=AR9bWVZwplA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】馬英九基金會之亂"背後有推手"?謝寒冰怒批「馬身邊人」:拿他"當招牌"實現私慾!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】馬英九基金會之亂"背後有推手"?謝寒冰怒批「馬身邊人」:拿他"當招牌"實現私慾!.png" group-title="youtube",youtube [VOD] 【全程字幕】馬英九基金會之亂"背後有推手"?謝寒冰怒批「馬身邊人」:拿他"當招牌"實現私慾!
-http://ncncha.cloudns.ch:9977/play?id=7HDskvQmPGE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】黃仁勳心痛了?輝達大陸營收恐"歸零"! 亮哥揭關鍵:AI江山"拱手讓給華為"! | 大陸賣美債還不夠狠?郭正亮「蔡博士上身」開轟陸央行!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】黃仁勳心痛了?輝達大陸營收恐"歸零"! 亮哥揭關鍵:AI江山"拱手讓給華為"! | 大陸賣美債還不夠狠?郭正亮「蔡博士上身」開轟陸央行!.png" group-title="youtube",youtube [VOD] 【全程字幕】黃仁勳心痛了?輝達大陸營收恐"歸零"! 亮哥揭關鍵:AI江山"拱手讓給華為"! | 大陸賣美債還不夠狠?郭正亮「蔡博士上身」開轟陸央行!
+http://ncncha.cloudns.ch:9977/play?id=wEqpHrOtCig&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】攀附川普2年賴總統換來「那個人」　民進黨倚美舔美甘淪棋子？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】攀附川普2年賴總統換來「那個人」　民進黨倚美舔美甘淪棋子？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠.png" group-title="youtube",youtube [VOD] 【完整版上集】攀附川普2年賴總統換來「那個人」　民進黨倚美舔美甘淪棋子？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠
 http://ncncha.cloudns.ch:9977/play?id=G1zmiT61Kug&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】周美青、馬以南深夜發聲明　阻金溥聰開記者會平息家變？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】周美青、馬以南深夜發聲明　阻金溥聰開記者會平息家變？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠.png" group-title="youtube",youtube [VOD] 【完整版下集】周美青、馬以南深夜發聲明　阻金溥聰開記者會平息家變？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠
 http://ncncha.cloudns.ch:9977/play?id=WIi90yerTzM&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】藍喊話賴清德：要川普說話算話　美暫停140億美元軍售當兒戲？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】藍喊話賴清德：要川普說話算話　美暫停140億美元軍售當兒戲？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠.png" group-title="youtube",youtube [VOD] 【完整版中集】藍喊話賴清德：要川普說話算話　美暫停140億美元軍售當兒戲？20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠
 http://ncncha.cloudns.ch:9977/play?id=Jmy_KzIyYtU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】馬英九出面"駁斥失智"痛罵蕭!馬家人聲明"打臉金溥聰"?! | AIT要求鄭麗文釋疑不親中?! 美國暫緩對台軍售?! 20260522" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】馬英九出面"駁斥失智"痛罵蕭!馬家人聲明"打臉金溥聰"?! | AIT要求鄭麗文釋疑不親中?! 美國暫緩對台軍售?! 20260522.png" group-title="youtube",youtube [VOD] 【每日必看】馬英九出面"駁斥失智"痛罵蕭!馬家人聲明"打臉金溥聰"?! | AIT要求鄭麗文釋疑不親中?! 美國暫緩對台軍售?! 20260522
-http://ncncha.cloudns.ch:9977/play?id=ILGwkN9J_ak&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】「我們已退出那個市場」 黃仁勳坦承中國AI市場已拱手讓給華為｜「必須履行」中國施壓以色列｜20260522｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】「我們已退出那個市場」 黃仁勳坦承中國AI市場已拱手讓給華為｜「必須履行」中國施壓以色列｜20260522｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】「我們已退出那個市場」 黃仁勳坦承中國AI市場已拱手讓給華為｜「必須履行」中國施壓以色列｜20260522｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=Llg6czxNeAw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】出大事! 立陶宛拉警報｜高市.李在明閒談鬼故事: 日相官邸有鬧鬼傳聞 每晚傳怪聲｜20260522｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】出大事! 立陶宛拉警報｜高市.李在明閒談鬼故事: 日相官邸有鬧鬼傳聞 每晚傳怪聲｜20260522｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】出大事! 立陶宛拉警報｜高市.李在明閒談鬼故事: 日相官邸有鬧鬼傳聞 每晚傳怪聲｜20260522｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=ixHKBeZ3OFg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】印度網民不樂意了 莫迪和梅洛尼為這諧音哏哈哈大笑｜中國拒援 美債破5%風暴｜20260522｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】印度網民不樂意了 莫迪和梅洛尼為這諧音哏哈哈大笑｜中國拒援 美債破5%風暴｜20260522｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】印度網民不樂意了 莫迪和梅洛尼為這諧音哏哈哈大笑｜中國拒援 美債破5%風暴｜20260522｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=IqlbvA-G_VQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】李在明震怒: 連媒體都在造謠 煽動「反華」情緒」｜9:0太殘暴 殲10C殺瘋了｜20260522｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】李在明震怒: 連媒體都在造謠 煽動「反華」情緒」｜9:0太殘暴 殲10C殺瘋了｜20260522｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】李在明震怒: 連媒體都在造謠 煽動「反華」情緒」｜9:0太殘暴 殲10C殺瘋了｜20260522｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=a7hDvBVixCU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 中國多地山洪爆發 大暴雨淹兩層樓高【#大白話說新聞】#山洪 #暴雨 #淹水" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 中國多地山洪爆發 大暴雨淹兩層樓高【#大白話說新聞】#山洪 #暴雨 #淹水.png" group-title="youtube",youtube [VOD] 中國多地山洪爆發 大暴雨淹兩層樓高【#大白話說新聞】#山洪 #暴雨 #淹水
 http://ncncha.cloudns.ch:9977/play?id=d4l9OZsir9c&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 台美斷交首度元首通話？川普要和賴清德談「台灣問題」 美證實暫緩對台軍售 徐巧芯曝原因：美方不信沒搞台獨【#大白話說新聞】#賴清德 #川普 #罷工 #記憶體" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台美斷交首度元首通話？川普要和賴清德談「台灣問題」 美證實暫緩對台軍售 徐巧芯曝原因：美方不信沒搞台獨【#大白話說新聞】#賴清德 #川普 #罷工 #記憶體.png" group-title="youtube",youtube [VOD] 台美斷交首度元首通話？川普要和賴清德談「台灣問題」 美證實暫緩對台軍售 徐巧芯曝原因：美方不信沒搞台獨【#大白話說新聞】#賴清德 #川普 #罷工 #記憶體
 http://ncncha.cloudns.ch:9977/play?id=h196OQpFY5U&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 周美青、馬以南聲明盼醫療照護安享餘年 不讓內鬨拖垮馬英九？【#今日精華搶先看】少康戰情室 20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 周美青、馬以南聲明盼醫療照護安享餘年 不讓內鬨拖垮馬英九？【#今日精華搶先看】少康戰情室 20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠.png" group-title="youtube",youtube [VOD] 周美青、馬以南聲明盼醫療照護安享餘年 不讓內鬨拖垮馬英九？【#今日精華搶先看】少康戰情室 20260522｜#沈富雄 #吳崢 #葉元之 #游淑慧 #陳琬惠
 http://ncncha.cloudns.ch:9977/play?id=2vm7mEb3VfU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普會打給"管理台灣那個人"談軍售?! 郭正亮要大家別做夢了 你沒那麼重要美國不會跟你談!  教授驚爆美國拿錢辦事檯面下交易" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普會打給"管理台灣那個人"談軍售?! 郭正亮要大家別做夢了 你沒那麼重要美國不會跟你談!  教授驚爆美國拿錢辦事檯面下交易.png" group-title="youtube",youtube [VOD] 川普會打給"管理台灣那個人"談軍售?! 郭正亮要大家別做夢了 你沒那麼重要美國不會跟你談!  教授驚爆美國拿錢辦事檯面下交易
-http://ncncha.cloudns.ch:9977/play?id=Z9ur3SPvhVo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川普親口證實「會跟賴總統談」 習近平下週訪北韓？中俄朝動作頻【#大白話說新聞】#賴清德 #川普 #習近平 #北韓 #金正恩" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普親口證實「會跟賴總統談」 習近平下週訪北韓？中俄朝動作頻【#大白話說新聞】#賴清德 #川普 #習近平 #北韓 #金正恩.png" group-title="youtube",youtube [VOD] 川普親口證實「會跟賴總統談」 習近平下週訪北韓？中俄朝動作頻【#大白話說新聞】#賴清德 #川普 #習近平 #北韓 #金正恩
 http://ncncha.cloudns.ch:9977/play?id=1v7wmPClvdg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川賴通話何時登場？聚焦軍售.台灣問題 中共再喊話恪守一中 賴總統拋0-18歲「每月發5千」 年花國庫2千億壓力山大【#大白話說新聞】#賴清德 #川普 #通話 #軍售" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川賴通話何時登場？聚焦軍售.台灣問題 中共再喊話恪守一中 賴總統拋0-18歲「每月發5千」 年花國庫2千億壓力山大【#大白話說新聞】#賴清德 #川普 #通話 #軍售.png" group-title="youtube",youtube [VOD] 川賴通話何時登場？聚焦軍售.台灣問題 中共再喊話恪守一中 賴總統拋0-18歲「每月發5千」 年花國庫2千億壓力山大【#大白話說新聞】#賴清德 #川普 #通話 #軍售
@@ -269,8 +269,8 @@ http://ncncha.cloudns.ch:9977/play?id=u_oQIjpbagM&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=O9bvqntu6hQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 詐騙如細菌沒辦法根除！台灣詐騙演化成無差別科技屠殺 更如不斷變異病毒無孔不入 詐團成員揭密犯罪產線 國家級危機成國安挑戰【#大白話說新聞】#詐騙 #科技 #數位 #危機" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 詐騙如細菌沒辦法根除！台灣詐騙演化成無差別科技屠殺 更如不斷變異病毒無孔不入 詐團成員揭密犯罪產線 國家級危機成國安挑戰【#大白話說新聞】#詐騙 #科技 #數位 #危機.png" group-title="youtube",youtube [VOD] 詐騙如細菌沒辦法根除！台灣詐騙演化成無差別科技屠殺 更如不斷變異病毒無孔不入 詐團成員揭密犯罪產線 國家級危機成國安挑戰【#大白話說新聞】#詐騙 #科技 #數位 #危機
 http://ncncha.cloudns.ch:9977/play?id=aP06gZ6jtWM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 郭正亮驚爆!某人急著把馬辦風波鬧上官府 北檢恐將出手殺進國民黨?!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 郭正亮驚爆!某人急著把馬辦風波鬧上官府 北檢恐將出手殺進國民黨?!.png" group-title="youtube",youtube [VOD] 郭正亮驚爆!某人急著把馬辦風波鬧上官府 北檢恐將出手殺進國民黨?!
-http://ncncha.cloudns.ch:9977/play?id=Upm5kg1W5TE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 郭正亮預告 美伊即將大結局?! 中俄準備豪華大樓梯給川普台階下?!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 郭正亮預告 美伊即將大結局?! 中俄準備豪華大樓梯給川普台階下?!.png" group-title="youtube",youtube [VOD] 郭正亮預告 美伊即將大結局?! 中俄準備豪華大樓梯給川普台階下?!
+http://ncncha.cloudns.ch:9977/play?id=c37-u3O9MB8&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
 P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 tvg-name="中天亚洲频陆" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频陆.png" group-title="youtube",中天亚洲频陆
@@ -301,8 +301,6 @@ http://rihou.cc:555/tv/[Bx]中天新闻
 p3p://focus169.org:25271/68b98b8e00071bd3eeba61bc11471666
 #EXTINF:-1 tvg-name="中天综合频陆" tvg-logo="https://live.fanmingming.cn/tv/中天综合频陆.png" group-title="youtube",中天综合频陆
 p3p://focus169.org:25271/642d0188000d7c49092747f97ffc7c72
-#EXTINF:-1 tvg-name="01:00中国U17🆚日本U17" tvg-logo="https://live.fanmingming.cn/tv/01:00中国U17🆚日本U17.png" group-title="冰茶体育",01:00中国U17🆚日本U17
-http://rihou.cc:555/tv/v
 #EXTINF:-1 tvg-name="19:00菏泽队🆚日照队" tvg-logo="https://live.fanmingming.cn/tv/19:00菏泽队🆚日照队.png" group-title="冰茶体育",19:00菏泽队🆚日照队
 http://rihou.cc:555/tv/v
 #EXTINF:-1 tvg-name="2月17日02:10亚精英赛_利雅得新月vs阿布扎比统一" tvg-logo="https://live.fanmingming.cn/tv/2月17日02:10亚精英赛_利雅得新月vs阿布扎比统一.png" group-title="冰茶体育",2月17日02:10亚精英赛_利雅得新月vs阿布扎比统一
