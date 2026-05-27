@@ -139,6 +139,8 @@ p3p://focus169.org:25271/694531d0000414f210386f2756d64099
 http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="凤凰香港SXtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港SXtv.png" group-title="港澳频道",凤凰香港SXtv
 http://rihou.cc:555/tv/[SX]凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港hptv" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港hptv.png" group-title="港澳频道",凤凰香港hptv
+http://123.202.221.184:9983/stream/channelid/1781676223
 #EXTINF:-1 tvg-name="凤凰香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港台.png" group-title="港澳频道",凤凰香港台
 p3p://focus169.org:25271/68a6b0e900041c3da514c6d1105e4d0d
 #EXTINF:-1 tvg-name="凤凰香港欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港欣赏.png" group-title="港澳频道",凤凰香港欣赏
@@ -299,12 +301,16 @@ http://ncncha.cloudns.ch:9977/play?id=VdqblZ0BmdA&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=mgXl6iTLKKk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】蕭旭岑和台商捧現金反咬馬知情　倒打一耙毀馬英九「清廉」形象？ 20260526｜#沈富雄 #高嘉瑜 #黃暐瀚 #林沛祥 #李永萍 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】蕭旭岑和台商捧現金反咬馬知情　倒打一耙毀馬英九「清廉」形象？ 20260526｜#沈富雄 #高嘉瑜 #黃暐瀚 #林沛祥 #李永萍 #陳鳳馨.png" group-title="youtube",youtube [VOD] 【完整版中集】蕭旭岑和台商捧現金反咬馬知情　倒打一耙毀馬英九「清廉」形象？ 20260526｜#沈富雄 #高嘉瑜 #黃暐瀚 #林沛祥 #李永萍 #陳鳳馨
 http://ncncha.cloudns.ch:9977/play?id=FCcAd0RbWIg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 不看中俄面子不行! 郭正亮驚爆美伊停戰最大內幕:美國已經徹底丟包以色列 帥化民預言以色列面臨生存死局" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 不看中俄面子不行! 郭正亮驚爆美伊停戰最大內幕:美國已經徹底丟包以色列 帥化民預言以色列面臨生存死局.png" group-title="youtube",youtube [VOD] 不看中俄面子不行! 郭正亮驚爆美伊停戰最大內幕:美國已經徹底丟包以色列 帥化民預言以色列面臨生存死局
-http://ncncha.cloudns.ch:9977/play?id=-5OJ2J2hpzg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】巴鐵總理+2大將 三巨頭同訪華 罕見 | 習大勝利 雙鐵助攻中國 20260526｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】巴鐵總理+2大將 三巨頭同訪華 罕見 | 習大勝利 雙鐵助攻中國 20260526｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】巴鐵總理+2大將 三巨頭同訪華 罕見 | 習大勝利 雙鐵助攻中國 20260526｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=ITHZ2AadzFg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】消費指數新低 美聯儲重大信號 | 日去年遭中國超車 退居第三大債權國 20260526｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】消費指數新低 美聯儲重大信號 | 日去年遭中國超車 退居第三大債權國 20260526｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】消費指數新低 美聯儲重大信號 | 日去年遭中國超車 退居第三大債權國 20260526｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=xJSO6Ds24MI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】華為1.4奈米 郭正亮大預言 | 美制裁中國 華為晶片重大突破 20260526｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】華為1.4奈米 郭正亮大預言 | 美制裁中國 華為晶片重大突破 20260526｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】華為1.4奈米 郭正亮大預言 | 美制裁中國 華為晶片重大突破 20260526｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=5uLm-GbiIZY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】跟丟遼寧艦 解放軍3羞辱日 | 遼寧艦3次隱身 勾勒西太海上力量 20260526｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】跟丟遼寧艦 解放軍3羞辱日 | 遼寧艦3次隱身 勾勒西太海上力量 20260526｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】跟丟遼寧艦 解放軍3羞辱日 | 遼寧艦3次隱身 勾勒西太海上力量 20260526｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=SwXVofr3gcI&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 伊波拉病毒警戒升級！美國攔截 聯準會陷兩難：不排除升息！【#大白話說新聞】#伊波拉病毒 #警戒 #聯準會" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 伊波拉病毒警戒升級！美國攔截 聯準會陷兩難：不排除升息！【#大白話說新聞】#伊波拉病毒 #警戒 #聯準會.png" group-title="youtube",youtube [VOD] 伊波拉病毒警戒升級！美國攔截 聯準會陷兩難：不排除升息！【#大白話說新聞】#伊波拉病毒 #警戒 #聯準會
 http://ncncha.cloudns.ch:9977/play?id=hzvjtC-vbbU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 塞國總統577好眼力!  七年前看準中國軍武實力大爆發 教授曝他這次帶回國的伴手禮"很殺"" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 塞國總統577好眼力!  七年前看準中國軍武實力大爆發 教授曝他這次帶回國的伴手禮"很殺".png" group-title="youtube",youtube [VOD] 塞國總統577好眼力!  七年前看準中國軍武實力大爆發 教授曝他這次帶回國的伴手禮"很殺"
-http://ncncha.cloudns.ch:9977/play?id=Th1mVcDfhbQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 大新聞大歷史｜北京連續迎來關鍵人物！普京訪華再延條約、2000億合作再擴張 “背靠背”戰略加速成型！中美在談、中俄在合 歐洲為何被一步步擠出牌桌？｜20260526 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 大新聞大歷史｜北京連續迎來關鍵人物！普京訪華再延條約、2000億合作再擴張 “背靠背”戰略加速成型！中美在談、中俄在合 歐洲為何被一步步擠出牌桌？｜20260526 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 大新聞大歷史｜北京連續迎來關鍵人物！普京訪華再延條約、2000億合作再擴張 “背靠背”戰略加速成型！中美在談、中俄在合 歐洲為何被一步步擠出牌桌？｜20260526 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fr6avgZCSZ8&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 山西礦災釀至少90死！大爆炸奪命瞬間曝光 毒氣超標阻救援 倖存者憶驚悚瞬間【#大白話說新聞】#山西礦災 #大爆炸 #毒氣 #災害" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 山西礦災釀至少90死！大爆炸奪命瞬間曝光 毒氣超標阻救援 倖存者憶驚悚瞬間【#大白話說新聞】#山西礦災 #大爆炸 #毒氣 #災害.png" group-title="youtube",youtube [VOD] 山西礦災釀至少90死！大爆炸奪命瞬間曝光 毒氣超標阻救援 倖存者憶驚悚瞬間【#大白話說新聞】#山西礦災 #大爆炸 #毒氣 #災害
@@ -319,10 +325,8 @@ http://ncncha.cloudns.ch:9977/play?id=7NFsNHI8-Lc&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=vNAgpMsv-4k&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 解放軍亮出新版紅旗+渤海怪獸 教授佈陣驚醒日本軍國大夢 郭正亮多邊戰力評估:有需要用這麼好武器?" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 解放軍亮出新版紅旗+渤海怪獸 教授佈陣驚醒日本軍國大夢 郭正亮多邊戰力評估:有需要用這麼好武器?.png" group-title="youtube",youtube [VOD] 解放軍亮出新版紅旗+渤海怪獸 教授佈陣驚醒日本軍國大夢 郭正亮多邊戰力評估:有需要用這麼好武器?
 http://ncncha.cloudns.ch:9977/play?id=K35oXOorRGA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 警察假不夠自己變出來?"按一鍵"多休12天被抓包 瞞天過海"偷假"手法全曝光 涉"詐欺取財罪嫌"斷送職涯#shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 警察假不夠自己變出來?"按一鍵"多休12天被抓包 瞞天過海"偷假"手法全曝光 涉"詐欺取財罪嫌"斷送職涯#shorts.png" group-title="youtube",youtube [VOD] 警察假不夠自己變出來?"按一鍵"多休12天被抓包 瞞天過海"偷假"手法全曝光 涉"詐欺取財罪嫌"斷送職涯#shorts
-http://ncncha.cloudns.ch:9977/play?id=Ar7hlNoxhkY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 金溥聰強推七支影片! 郭正亮爆馬辦開撕終極死局:就法論法不成立，只會逼周美青動用鐵腕強制收尾" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 金溥聰強推七支影片! 郭正亮爆馬辦開撕終極死局:就法論法不成立，只會逼周美青動用鐵腕強制收尾.png" group-title="youtube",youtube [VOD] 金溥聰強推七支影片! 郭正亮爆馬辦開撕終極死局:就法論法不成立，只會逼周美青動用鐵腕強制收尾
-http://ncncha.cloudns.ch:9977/play?id=vXMP2k-CQ80&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 談判最終局 美伊各說各話?! 郭正亮破解兩國玩這把戲  教授曝美伊"核"談卡關 關鍵在他?" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 談判最終局 美伊各說各話?! 郭正亮破解兩國玩這把戲  教授曝美伊"核"談卡關 關鍵在他?.png" group-title="youtube",youtube [VOD] 談判最終局 美伊各說各話?! 郭正亮破解兩國玩這把戲  教授曝美伊"核"談卡關 關鍵在他?
+http://ncncha.cloudns.ch:9977/play?id=uk7e8kBE_IM&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 金溥聰曝合體台商捧鈔照 蕭旭岑稱馬英九私帳嗆提告！姊聲請輔助宣告 馬聞訊眼眶紅 金溥聰哽咽嘆不能不管馬總統【#大白話說新聞】#馬英九 #蕭旭岑 #金溥聰 #馬辦 #台商" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 金溥聰曝合體台商捧鈔照 蕭旭岑稱馬英九私帳嗆提告！姊聲請輔助宣告 馬聞訊眼眶紅 金溥聰哽咽嘆不能不管馬總統【#大白話說新聞】#馬英九 #蕭旭岑 #金溥聰 #馬辦 #台商.png" group-title="youtube",youtube [VOD] 金溥聰曝合體台商捧鈔照 蕭旭岑稱馬英九私帳嗆提告！姊聲請輔助宣告 馬聞訊眼眶紅 金溥聰哽咽嘆不能不管馬總統【#大白話說新聞】#馬英九 #蕭旭岑 #金溥聰 #馬辦 #台商
 http://ncncha.cloudns.ch:9977/play?id=o9nT-FBdJIk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 金溥聰爆馬辦百萬現金黑幕！蕭旭岑涉侵占遭告  馬英九自曝有健忘狀況！金溥聰哽咽：但我也不能不管馬英九【#大白話說新聞】#馬英九 #蕭旭岑 #金溥聰 #馬辦" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 金溥聰爆馬辦百萬現金黑幕！蕭旭岑涉侵占遭告  馬英九自曝有健忘狀況！金溥聰哽咽：但我也不能不管馬英九【#大白話說新聞】#馬英九 #蕭旭岑 #金溥聰 #馬辦.png" group-title="youtube",youtube [VOD] 金溥聰爆馬辦百萬現金黑幕！蕭旭岑涉侵占遭告  馬英九自曝有健忘狀況！金溥聰哽咽：但我也不能不管馬英九【#大白話說新聞】#馬英九 #蕭旭岑 #金溥聰 #馬辦
@@ -331,8 +335,6 @@ http://ncncha.cloudns.ch:9977/play?id=4HqaHuqOyCU&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=s6JAREi4bpI&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鳳凰記者現場直擊｜烏軍襲擊盧甘斯克學校‼️宿舍樓倒塌致21名學生遇難，俄專家稱烏軍或多次精確偵查 #鳳凰衛視 #phoenixtv #俄羅斯 #烏克蘭 #俄烏 #盧甘斯克" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鳳凰記者現場直擊｜烏軍襲擊盧甘斯克學校‼️宿舍樓倒塌致21名學生遇難，俄專家稱烏軍或多次精確偵查 #鳳凰衛視 #phoenixtv #俄羅斯 #烏克蘭 #俄烏 #盧甘斯克.png" group-title="youtube",youtube [VOD] 鳳凰記者現場直擊｜烏軍襲擊盧甘斯克學校‼️宿舍樓倒塌致21名學生遇難，俄專家稱烏軍或多次精確偵查 #鳳凰衛視 #phoenixtv #俄羅斯 #烏克蘭 #俄烏 #盧甘斯克
 http://ncncha.cloudns.ch:9977/play?id=ZfDfQYkVReY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 黃仁勳、魏哲家餐敘一半「現身發炒麵飲料」 座車違停被檢舉! 警到場開單成插曲#shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 黃仁勳、魏哲家餐敘一半「現身發炒麵飲料」 座車違停被檢舉! 警到場開單成插曲#shorts.png" group-title="youtube",youtube [VOD] 黃仁勳、魏哲家餐敘一半「現身發炒麵飲料」 座車違停被檢舉! 警到場開單成插曲#shorts
-http://ncncha.cloudns.ch:9977/play?id=8ypZ7wNqOUM&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
 P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 tvg-name="中天亚洲频陆" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频陆.png" group-title="youtube",中天亚洲频陆
