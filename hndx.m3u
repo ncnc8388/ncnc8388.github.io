@@ -112,13 +112,13 @@ http://118.248.159.159:8889/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.248.159.159:8889/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.251.17.116:8188/udp/239.76.253.134:9000
+http://118.251.16.185:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.251.17.116:8188/udp/239.76.246.134:1234
+http://118.251.16.185:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.3:8188/udp/239.76.253.134:9000
+http://58.46.28.252:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.3:8188/udp/239.76.246.134:1234
+http://58.46.28.252:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -138,7 +138,7 @@ http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文频陆" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文频陆.png" group-title="港澳频道",凤凰中文频陆
 p3p://focus169.org:35351/68a6abe2000dd5d9a5012600500a1279
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.45:8188/udp/239.1.1.126:8126
+http://110.178.145.84:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.126.99:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
@@ -164,7 +164,7 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.45:8188/udp/239.1.1.127:8127
+http://110.178.145.84:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -172,13 +172,13 @@ http://118.248.159.159:8889/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.248.159.159:8889/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.251.17.116:8188/udp/239.76.253.135:9000
+http://118.251.16.185:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.251.17.116:8188/udp/239.76.246.135:1234
+http://118.251.16.185:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.3:8188/udp/239.76.253.135:9000
+http://58.46.28.252:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.3:8188/udp/239.76.246.135:1234
+http://58.46.28.252:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -239,10 +239,12 @@ http://ncncha.cloudns.ch:9977/play?id=C8vVt81cdWg&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=oAuueFfxggM&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】台灣海域被瓜分竟然叫好　外交部的小腦症遲鈍和軟弱讓人搖？ 20260604｜#戴瑋姍 #楊永明 #王鴻薇 #游淑慧 #凌濤" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】台灣海域被瓜分竟然叫好　外交部的小腦症遲鈍和軟弱讓人搖？ 20260604｜#戴瑋姍 #楊永明 #王鴻薇 #游淑慧 #凌濤.png" group-title="youtube",youtube [VOD] 【完整版中集】台灣海域被瓜分竟然叫好　外交部的小腦症遲鈍和軟弱讓人搖？ 20260604｜#戴瑋姍 #楊永明 #王鴻薇 #游淑慧 #凌濤
 http://ncncha.cloudns.ch:9977/play?id=x_-9CVCQItw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】不滿長期卸貨聲響 苗栗男憤持菜刀砍死郵局員工 20260604" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】不滿長期卸貨聲響 苗栗男憤持菜刀砍死郵局員工 20260604.png" group-title="youtube",youtube [VOD] 【每日必看】不滿長期卸貨聲響 苗栗男憤持菜刀砍死郵局員工 20260604
-http://ncncha.cloudns.ch:9977/play?id=ObA7BqWMCxk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】詐騙宮廟被"砸門撒冥紙"!? 連鎖餐廳欠薪"近54萬" 20260604" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】詐騙宮廟被"砸門撒冥紙"!? 連鎖餐廳欠薪"近54萬" 20260604.png" group-title="youtube",youtube [VOD] 【每日必看】詐騙宮廟被"砸門撒冥紙"!? 連鎖餐廳欠薪"近54萬" 20260604
-http://ncncha.cloudns.ch:9977/play?id=qOVSto2BZ0M&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】澤倫說了 願和普丁直接談判｜技術面分歧 川普.納坦爆粗口｜20260603｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】澤倫說了 願和普丁直接談判｜技術面分歧 川普.納坦爆粗口｜20260603｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】澤倫說了 願和普丁直接談判｜技術面分歧 川普.納坦爆粗口｜20260603｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=kpEZjpLLUEg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】美學者福山認錯 中國崩壞大逆轉｜劍指台灣主權 日菲搞政治小動作｜20260603｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】美學者福山認錯 中國崩壞大逆轉｜劍指台灣主權 日菲搞政治小動作｜20260603｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】美學者福山認錯 中國崩壞大逆轉｜劍指台灣主權 日菲搞政治小動作｜20260603｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=x3zfQlz8TUw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】黃岩島潟湖入口處 出現6米大小物｜差0.6%翻盤 柯志恩肉搏賴瑞隆｜20260603｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】黃岩島潟湖入口處 出現6米大小物｜差0.6%翻盤 柯志恩肉搏賴瑞隆｜20260603｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】黃岩島潟湖入口處 出現6米大小物｜差0.6%翻盤 柯志恩肉搏賴瑞隆｜20260603｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=4OswNuhbx4c&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 仁來瘋！黃仁勳超級鐵人行程「兩天逛展+逛夜市」帶大咖500萬訂閱播客逛饒河夜市 下站南韓帶動效應 韓半導體領漲 黃仁勳將見三星.現代等大老【#大白話說新聞】#黃仁勳 #饒河夜市 #南韓 #半導體" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 仁來瘋！黃仁勳超級鐵人行程「兩天逛展+逛夜市」帶大咖500萬訂閱播客逛饒河夜市 下站南韓帶動效應 韓半導體領漲 黃仁勳將見三星.現代等大老【#大白話說新聞】#黃仁勳 #饒河夜市 #南韓 #半導體.png" group-title="youtube",youtube [VOD] 仁來瘋！黃仁勳超級鐵人行程「兩天逛展+逛夜市」帶大咖500萬訂閱播客逛饒河夜市 下站南韓帶動效應 韓半導體領漲 黃仁勳將見三星.現代等大老【#大白話說新聞】#黃仁勳 #饒河夜市 #南韓 #半導體
 http://ncncha.cloudns.ch:9977/play?id=6bxlVUGuJ3M&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 伊朗血洗科威特！狠打臉川普 謝寒冰笑噴:川普這輩子只有去北京見習近平才超乖照稿念 兩千萬人送葬哈梅內伊 張延廷爆伊朗有高人指點" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 伊朗血洗科威特！狠打臉川普 謝寒冰笑噴:川普這輩子只有去北京見習近平才超乖照稿念 兩千萬人送葬哈梅內伊 張延廷爆伊朗有高人指點.png" group-title="youtube",youtube [VOD] 伊朗血洗科威特！狠打臉川普 謝寒冰笑噴:川普這輩子只有去北京見習近平才超乖照稿念 兩千萬人送葬哈梅內伊 張延廷爆伊朗有高人指點
@@ -267,8 +269,6 @@ http://ncncha.cloudns.ch:9977/play?id=m0GODfpFlcs&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=6B83ASMa1jc&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鄭麗文藍僑宴大在習近平 稱若沒見習她只是個陽春黨主席 赴胡佛研究所交流 鄭再與企業界交談 訪中後聲量大增 有史以來首位登熱搜政治人物 鄭麗文將成兩岸新代言人？【#大白話說新聞】#鄭麗文 #習近平" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭麗文藍僑宴大在習近平 稱若沒見習她只是個陽春黨主席 赴胡佛研究所交流 鄭再與企業界交談 訪中後聲量大增 有史以來首位登熱搜政治人物 鄭麗文將成兩岸新代言人？【#大白話說新聞】#鄭麗文 #習近平.png" group-title="youtube",youtube [VOD] 鄭麗文藍僑宴大在習近平 稱若沒見習她只是個陽春黨主席 赴胡佛研究所交流 鄭再與企業界交談 訪中後聲量大增 有史以來首位登熱搜政治人物 鄭麗文將成兩岸新代言人？【#大白話說新聞】#鄭麗文 #習近平
 http://ncncha.cloudns.ch:9977/play?id=c8-uJ7rS3tg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 鄭麗文訪美旋風"全程不看稿" 綠媒抹紅失敗 謝寒冰重砲譏：最常捧習的是川普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭麗文訪美旋風"全程不看稿" 綠媒抹紅失敗 謝寒冰重砲譏：最常捧習的是川普.png" group-title="youtube",youtube [VOD] 鄭麗文訪美旋風"全程不看稿" 綠媒抹紅失敗 謝寒冰重砲譏：最常捧習的是川普
-http://ncncha.cloudns.ch:9977/play?id=TkG9XRTGqTU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鄭麗文訪美辦僑宴「侃侃而談逾40分」 為何先訪陸再訪美？鄭麗文自認見習近平以前「自己只是一個陽春黨主席」大讚鄭習會【#大白話說新聞】#鄭麗文 #習近平 #鄭習會 #國民黨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭麗文訪美辦僑宴「侃侃而談逾40分」 為何先訪陸再訪美？鄭麗文自認見習近平以前「自己只是一個陽春黨主席」大讚鄭習會【#大白話說新聞】#鄭麗文 #習近平 #鄭習會 #國民黨.png" group-title="youtube",youtube [VOD] 鄭麗文訪美辦僑宴「侃侃而談逾40分」 為何先訪陸再訪美？鄭麗文自認見習近平以前「自己只是一個陽春黨主席」大讚鄭習會【#大白話說新聞】#鄭麗文 #習近平 #鄭習會 #國民黨
 http://ncncha.cloudns.ch:9977/play?id=SWjwuLtjQgQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鄭麗文：沒鄭習會我可能無足輕重 吐真心話”不當陽春黨主席”？【#今日精華搶先看】少康戰情室 20260604｜#戴瑋姍 #楊永明 #王鴻薇 #游淑慧 #凌濤" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭麗文：沒鄭習會我可能無足輕重 吐真心話”不當陽春黨主席”？【#今日精華搶先看】少康戰情室 20260604｜#戴瑋姍 #楊永明 #王鴻薇 #游淑慧 #凌濤.png" group-title="youtube",youtube [VOD] 鄭麗文：沒鄭習會我可能無足輕重 吐真心話”不當陽春黨主席”？【#今日精華搶先看】少康戰情室 20260604｜#戴瑋姍 #楊永明 #王鴻薇 #游淑慧 #凌濤
