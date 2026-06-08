@@ -106,15 +106,15 @@ https://mgev.188766.xyz/?migutoken=9413f7c93e4b8c78cc843146bdf9cfcd&id=hk_fhzw&t
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://42.92.117.151:8231/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.68.137:8188/udp/239.76.253.134:9000
+http://58.46.69.25:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.68.137:8188/udp/239.76.246.134:1234
+http://58.46.69.25:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.45:8188/udp/239.1.1.126:8126
+http://110.178.145.200:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.126.74:4022/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
@@ -132,13 +132,13 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.45:8188/udp/239.1.1.127:8127
+http://110.178.145.200:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.68.137:8188/udp/239.76.253.135:9000
+http://58.46.69.25:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.68.137:8188/udp/239.76.246.135:1234
+http://58.46.69.25:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -161,10 +161,6 @@ http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗再襲美軍第五艦隊重要設施｜美軍：擊落4架伊朗無人機 空襲沿海雷達站｜中方：冀歐方恪守市場經濟基本原則｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗再襲美軍第五艦隊重要設施｜美軍：擊落4架伊朗無人機 空襲沿海雷達站｜中方：冀歐方恪守市場經濟基本原則｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗再襲美軍第五艦隊重要設施｜美軍：擊落4架伊朗無人機 空襲沿海雷達站｜中方：冀歐方恪守市場經濟基本原則｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fN9uYWCjQaw&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] "黑熊剋星"蔣萬安神隊友! 北市府新戰神邏輯輾壓懟爆沈伯洋!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] "黑熊剋星"蔣萬安神隊友! 北市府新戰神邏輯輾壓懟爆沈伯洋!.png" group-title="youtube",youtube [VOD] "黑熊剋星"蔣萬安神隊友! 北市府新戰神邏輯輾壓懟爆沈伯洋!
-http://ncncha.cloudns.ch:9977/play?id=kkNjWxEaON8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#洪流洞見】美國智庫靈魂拷問鄭麗文 國民黨重返執政最後機會?川普投”習”所好見鄭?湯紹成教授分析 完整版20260607@中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#洪流洞見】美國智庫靈魂拷問鄭麗文 國民黨重返執政最後機會?川普投”習”所好見鄭?湯紹成教授分析 完整版20260607@中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【#洪流洞見】美國智庫靈魂拷問鄭麗文 國民黨重返執政最後機會?川普投”習”所好見鄭?湯紹成教授分析 完整版20260607@中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=6YNZJDpBHD4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#精選】2020至今「14架軍機墜毀、20官兵命喪黃泉」！賴清德喊2027中共武統「國防預算僅編不到2%」拿飛官性命玩命！？【#新聞大白話】#熱搜大來賓 #陳揮文 #軍機 #賴清德 #國防" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】2020至今「14架軍機墜毀、20官兵命喪黃泉」！賴清德喊2027中共武統「國防預算僅編不到2%」拿飛官性命玩命！？【#新聞大白話】#熱搜大來賓 #陳揮文 #軍機 #賴清德 #國防.png" group-title="youtube",youtube [VOD] 【#精選】2020至今「14架軍機墜毀、20官兵命喪黃泉」！賴清德喊2027中共武統「國防預算僅編不到2%」拿飛官性命玩命！？【#新聞大白話】#熱搜大來賓 #陳揮文 #軍機 #賴清德 #國防
 http://ncncha.cloudns.ch:9977/play?id=k8hABi1SEg4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#精選】防不住？共軍無偵10無人機遭國軍捕捉到！區域拒止.空中資訊戰關鍵節點？【#新聞大白話】#熱搜大來賓#張延廷#無人機#國軍#資訊戰" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】防不住？共軍無偵10無人機遭國軍捕捉到！區域拒止.空中資訊戰關鍵節點？【#新聞大白話】#熱搜大來賓#張延廷#無人機#國軍#資訊戰.png" group-title="youtube",youtube [VOD] 【#精選】防不住？共軍無偵10無人機遭國軍捕捉到！區域拒止.空中資訊戰關鍵節點？【#新聞大白話】#熱搜大來賓#張延廷#無人機#國軍#資訊戰
@@ -177,10 +173,6 @@ http://ncncha.cloudns.ch:9977/play?id=yf9l65sC8Gk&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=73khQ4Eymgk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【SUB】高市孫子大瓜 印度挑撥中俄【#新聞大白話】20260607#字幕版 #高市早苗 #印度 #中國 #俄羅斯" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】高市孫子大瓜 印度挑撥中俄【#新聞大白話】20260607#字幕版 #高市早苗 #印度 #中國 #俄羅斯.png" group-title="youtube",youtube [VOD] 【SUB】高市孫子大瓜 印度挑撥中俄【#新聞大白話】20260607#字幕版 #高市早苗 #印度 #中國 #俄羅斯
 http://ncncha.cloudns.ch:9977/play?id=mFP4NfyxhMg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】遭疑自爆? 國軍"飛彈中靶之謎"超慢動作格放 "神奇一幕"命中前0.1秒清楚拍到了! @IamJackLiu" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】遭疑自爆? 國軍"飛彈中靶之謎"超慢動作格放 "神奇一幕"命中前0.1秒清楚拍到了! @IamJackLiu.png" group-title="youtube",youtube [VOD] 【全程字幕】遭疑自爆? 國軍"飛彈中靶之謎"超慢動作格放 "神奇一幕"命中前0.1秒清楚拍到了! @IamJackLiu
-http://ncncha.cloudns.ch:9977/play?id=cl9kbQW0Se8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】黃仁勳穿"93號球衣"為韓職開球! 投球"險砸會長"惹笑全場 他笑:不應該看著你的!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】黃仁勳穿"93號球衣"為韓職開球! 投球"險砸會長"惹笑全場 他笑:不應該看著你的!.png" group-title="youtube",youtube [VOD] 【全程字幕】黃仁勳穿"93號球衣"為韓職開球! 投球"險砸會長"惹笑全場 他笑:不應該看著你的!
-http://ncncha.cloudns.ch:9977/play?id=qe1eyYlEBCM&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】習近平訪北韓凝聚中俄朝對陣美日韓 北韓尋雙支點不向美讓步？20260607｜#沈富雄 #高嘉瑜 #黃揚明 #洪孟楷 #葉元之 #吳怡萱" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】習近平訪北韓凝聚中俄朝對陣美日韓 北韓尋雙支點不向美讓步？20260607｜#沈富雄 #高嘉瑜 #黃揚明 #洪孟楷 #葉元之 #吳怡萱.png" group-title="youtube",youtube [VOD] 【完整版上集】習近平訪北韓凝聚中俄朝對陣美日韓 北韓尋雙支點不向美讓步？20260607｜#沈富雄 #高嘉瑜 #黃揚明 #洪孟楷 #葉元之 #吳怡萱
 http://ncncha.cloudns.ch:9977/play?id=TrnfoG2sQ1M&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】川普：隨時可跟賴清德談"140億軍購" 再提川賴通話耐人尋味？20260607｜#沈富雄 #高嘉瑜 #黃揚明 #洪孟楷 #葉元之 #吳怡萱" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】川普：隨時可跟賴清德談"140億軍購" 再提川賴通話耐人尋味？20260607｜#沈富雄 #高嘉瑜 #黃揚明 #洪孟楷 #葉元之 #吳怡萱.png" group-title="youtube",youtube [VOD] 【完整版下集】川普：隨時可跟賴清德談"140億軍購" 再提川賴通話耐人尋味？20260607｜#沈富雄 #高嘉瑜 #黃揚明 #洪孟楷 #葉元之 #吳怡萱
@@ -191,20 +183,28 @@ http://ncncha.cloudns.ch:9977/play?id=ClTSlsazvuo&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=71kzLg5b9bM&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【本週放大鏡Part.2】柯文哲遭延長境管8月有逃亡風險？賴清德示警小紅書TikTok唱滲透虎姑婆？蘇巧慧搬曾祖父喊冤？近六成支持恢復或增加兩岸交流？#少康戰情室 20260529-0604" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【本週放大鏡Part.2】柯文哲遭延長境管8月有逃亡風險？賴清德示警小紅書TikTok唱滲透虎姑婆？蘇巧慧搬曾祖父喊冤？近六成支持恢復或增加兩岸交流？#少康戰情室 20260529-0604.png" group-title="youtube",youtube [VOD] 【本週放大鏡Part.2】柯文哲遭延長境管8月有逃亡風險？賴清德示警小紅書TikTok唱滲透虎姑婆？蘇巧慧搬曾祖父喊冤？近六成支持恢復或增加兩岸交流？#少康戰情室 20260529-0604
 http://ncncha.cloudns.ch:9977/play?id=qziZocUsgig&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】中國反制荷艦 行動升級｜20260607｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】中國反制荷艦 行動升級｜20260607｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】中國反制荷艦 行動升級｜20260607｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=oQxVCEhveUU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】德大翻車 僅104票尷尬｜小馬可仕慘了 罕見負民調｜20260607｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】德大翻車 僅104票尷尬｜小馬可仕慘了 罕見負民調｜20260607｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】德大翻車 僅104票尷尬｜小馬可仕慘了 罕見負民調｜20260607｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=_teu67SITpU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】烏狂轟普丁家鄉 俄:史無前例｜烏無人艇 在近羅馬尼亞港口爆炸｜20260607｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】烏狂轟普丁家鄉 俄:史無前例｜烏無人艇 在近羅馬尼亞港口爆炸｜20260607｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】烏狂轟普丁家鄉 俄:史無前例｜烏無人艇 在近羅馬尼亞港口爆炸｜20260607｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=cAF9aZvgRoo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 中國外交部介紹習近平訪問朝鮮有關安排‼️雙方將就雙邊關係及共同關心問題交換意見 #鳳凰衛視 #phoenixtv #習近平 #中國 #朝鮮 #金正恩" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 中國外交部介紹習近平訪問朝鮮有關安排‼️雙方將就雙邊關係及共同關心問題交換意見 #鳳凰衛視 #phoenixtv #習近平 #中國 #朝鮮 #金正恩.png" group-title="youtube",youtube [VOD] 中國外交部介紹習近平訪問朝鮮有關安排‼️雙方將就雙邊關係及共同關心問題交換意見 #鳳凰衛視 #phoenixtv #習近平 #中國 #朝鮮 #金正恩
 http://ncncha.cloudns.ch:9977/play?id=1d6_mC06Lcs&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 光速打臉❓美國務卿爆料：特朗普幾乎不睡覺...美議員現場播放特朗普瞌睡視頻💤 #鳳凰衛視 #phoenixtv #特朗普 #美國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 光速打臉❓美國務卿爆料：特朗普幾乎不睡覺...美議員現場播放特朗普瞌睡視頻💤 #鳳凰衛視 #phoenixtv #特朗普 #美國.png" group-title="youtube",youtube [VOD] 光速打臉❓美國務卿爆料：特朗普幾乎不睡覺...美議員現場播放特朗普瞌睡視頻💤 #鳳凰衛視 #phoenixtv #特朗普 #美國
 http://ncncha.cloudns.ch:9977/play?id=meHz5i5T3SQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 問答神州｜美國對台失去信心？台積電高端產能恐三年搬空、美“掏空台灣”自保！介文汲痛批民進黨掀光底牌：美國吃定台灣別無選擇！台海時間表恐提前、特朗普準備重新“估價”台灣？｜20260605 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 問答神州｜美國對台失去信心？台積電高端產能恐三年搬空、美“掏空台灣”自保！介文汲痛批民進黨掀光底牌：美國吃定台灣別無選擇！台海時間表恐提前、特朗普準備重新“估價”台灣？｜20260605 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 問答神州｜美國對台失去信心？台積電高端產能恐三年搬空、美“掏空台灣”自保！介文汲痛批民進黨掀光底牌：美國吃定台灣別無選擇！台海時間表恐提前、特朗普準備重新“估價”台灣？｜20260605 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=ySbCpRBDRoY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 將軍驚爆!日菲瓜分海域背後大陰謀 早算準台灣傻子一定會往陷阱裡跳?!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 將軍驚爆!日菲瓜分海域背後大陰謀 早算準台灣傻子一定會往陷阱裡跳?!.png" group-title="youtube",youtube [VOD] 將軍驚爆!日菲瓜分海域背後大陰謀 早算準台灣傻子一定會往陷阱裡跳?!
+http://ncncha.cloudns.ch:9977/play?id=wIZLr0OQZDE&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜李在明“期中考”！狂贏地方選舉卻丟掉首爾：保守派絕地續命、半個韓國投下警告票？選舉剛落幕 特朗普亮刀加稅：李在明“美防中經”走鋼絲、平衡外交還能走多久？｜20260605 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜李在明“期中考”！狂贏地方選舉卻丟掉首爾：保守派絕地續命、半個韓國投下警告票？選舉剛落幕 特朗普亮刀加稅：李在明“美防中經”走鋼絲、平衡外交還能走多久？｜20260605 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜李在明“期中考”！狂贏地方選舉卻丟掉首爾：保守派絕地續命、半個韓國投下警告票？選舉剛落幕 特朗普亮刀加稅：李在明“美防中經”走鋼絲、平衡外交還能走多久？｜20260605 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=hUccDm5LCYg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 普京：願在俄美會晤基礎上與烏談判‼️稱待衝突結束俄烏應說“謝天謝地，一切都結束了” #鳳凰衛視 #phoenixtv #俄羅斯 #烏克蘭 #俄烏 #普京 #澤連斯基" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 普京：願在俄美會晤基礎上與烏談判‼️稱待衝突結束俄烏應說“謝天謝地，一切都結束了” #鳳凰衛視 #phoenixtv #俄羅斯 #烏克蘭 #俄烏 #普京 #澤連斯基.png" group-title="youtube",youtube [VOD] 普京：願在俄美會晤基礎上與烏談判‼️稱待衝突結束俄烏應說“謝天謝地，一切都結束了” #鳳凰衛視 #phoenixtv #俄羅斯 #烏克蘭 #俄烏 #普京 #澤連斯基
 http://ncncha.cloudns.ch:9977/play?id=ifv2lznQBtU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 有報天天讀｜美眾院通過限制總統戰爭權力決議 特朗普發文批“不愛國”！｜俄烏戰有望結束？澤連斯基公開邀普京會晤 克宮稱可隨時赴莫斯科｜霍爾木茲海峽危機正永久重塑石油版圖｜20260605 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 有報天天讀｜美眾院通過限制總統戰爭權力決議 特朗普發文批“不愛國”！｜俄烏戰有望結束？澤連斯基公開邀普京會晤 克宮稱可隨時赴莫斯科｜霍爾木茲海峽危機正永久重塑石油版圖｜20260605 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 有報天天讀｜美眾院通過限制總統戰爭權力決議 特朗普發文批“不愛國”！｜俄烏戰有望結束？澤連斯基公開邀普京會晤 克宮稱可隨時赴莫斯科｜霍爾木茲海峽危機正永久重塑石油版圖｜20260605 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=4oHl-mkFGP8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 武契奇、鄭麗文都去過！ CNN參訪小米汽車工廠 加速1 67秒太刺激  名額比名校難搶 【國際360】20260605" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 武契奇、鄭麗文都去過！ CNN參訪小米汽車工廠 加速1 67秒太刺激  名額比名校難搶 【國際360】20260605.png" group-title="youtube",youtube [VOD] 武契奇、鄭麗文都去過！ CNN參訪小米汽車工廠 加速1 67秒太刺激  名額比名校難搶 【國際360】20260605
-http://ncncha.cloudns.ch:9977/play?id=FIywhyIlf3I&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 海域被日菲吃了台灣沒影響?! 外交部同學 你們的教授生氣了! 跪舔美日慣了國際法全忘光?! 沒關係!老師免費再教你一次" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 海域被日菲吃了台灣沒影響?! 外交部同學 你們的教授生氣了! 跪舔美日慣了國際法全忘光?! 沒關係!老師免費再教你一次.png" group-title="youtube",youtube [VOD] 海域被日菲吃了台灣沒影響?! 外交部同學 你們的教授生氣了! 跪舔美日慣了國際法全忘光?! 沒關係!老師免費再教你一次
+http://ncncha.cloudns.ch:9977/play?id=bjqHrvHlrJw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 烏軍上百架無人機狂轟普丁故鄉聖彼得堡 將軍卻看見烏克蘭的窮途末路?!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 烏軍上百架無人機狂轟普丁故鄉聖彼得堡 將軍卻看見烏克蘭的窮途末路?!.png" group-title="youtube",youtube [VOD] 烏軍上百架無人機狂轟普丁故鄉聖彼得堡 將軍卻看見烏克蘭的窮途末路?!
 http://ncncha.cloudns.ch:9977/play?id=ufKKkP7tr_c&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 鄭麗文批賴清德「麻煩製造者」！川普仍考慮與賴清德談軍售 恐因習近平訪美破局！【#大白話熱焦點】#鄭麗文 #賴清德 #兩岸和平 #麻煩製造者 #賴川會 #軍售" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鄭麗文批賴清德「麻煩製造者」！川普仍考慮與賴清德談軍售 恐因習近平訪美破局！【#大白話熱焦點】#鄭麗文 #賴清德 #兩岸和平 #麻煩製造者 #賴川會 #軍售.png" group-title="youtube",youtube [VOD] 鄭麗文批賴清德「麻煩製造者」！川普仍考慮與賴清德談軍售 恐因習近平訪美破局！【#大白話熱焦點】#鄭麗文 #賴清德 #兩岸和平 #麻煩製造者 #賴川會 #軍售
