@@ -108,9 +108,9 @@ https://mgev.188766.xyz/?migutoken=9413f7c93e4b8c78cc843146bdf9cfcd&id=hk_fhzw&t
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://42.92.117.151:8231/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.4:8188/udp/239.76.253.134:9000
+http://58.46.29.114:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.4:8188/udp/239.76.246.134:1234
+http://58.46.29.114:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -130,7 +130,7 @@ http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文频陆" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文频陆.png" group-title="港澳频道",凤凰中文频陆
 p3p://focus169.org:26571/68a6abe2000dd5d9a5012600500a1279
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.146:8188/udp/239.1.1.126:8126
+http://110.178.145.79:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.242.184:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -150,13 +150,13 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.146:8188/udp/239.1.1.127:8127
+http://110.178.145.79:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.4:8188/udp/239.76.253.135:9000
+http://58.46.29.114:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.4:8188/udp/239.76.246.135:1234
+http://58.46.29.114:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -217,26 +217,24 @@ http://ncncha.cloudns.ch:9977/play?id=c5qpjVKXC5I&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=i4ZbzeyUaHw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】韓國瑜6月21日訪美拜會對象受矚目　藍營2028角力賽開打？ #少康戰情室 20260616" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】韓國瑜6月21日訪美拜會對象受矚目　藍營2028角力賽開打？ #少康戰情室 20260616.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】韓國瑜6月21日訪美拜會對象受矚目　藍營2028角力賽開打？ #少康戰情室 20260616
 http://ncncha.cloudns.ch:9977/play?id=O_denOlkjXY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【6/16即時新聞】韓國瑜受邀高規格訪美 國民黨大咖接力拚外交｜海峽論壇驚爆政治追殺? 饒慶鈴淪箭靶遭扣紅帽｜中天SUPER夜線 20260616 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【6/16即時新聞】韓國瑜受邀高規格訪美 國民黨大咖接力拚外交｜海峽論壇驚爆政治追殺? 饒慶鈴淪箭靶遭扣紅帽｜中天SUPER夜線 20260616 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【6/16即時新聞】韓國瑜受邀高規格訪美 國民黨大咖接力拚外交｜海峽論壇驚爆政治追殺? 饒慶鈴淪箭靶遭扣紅帽｜中天SUPER夜線 20260616 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=Y0jLuRSfwCM&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【LIVE主播+立委線上聊】 雀屏中選! 隨韓國瑜訪美拚外交 洪毓祥提「這些建議」" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【LIVE主播+立委線上聊】 雀屏中選! 隨韓國瑜訪美拚外交 洪毓祥提「這些建議」.png" group-title="youtube",youtube [VOD] 【LIVE主播+立委線上聊】 雀屏中選! 隨韓國瑜訪美拚外交 洪毓祥提「這些建議」
 http://ncncha.cloudns.ch:9977/play?id=_9YD6BloRHY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】韓國瑜將訪美傳見國務院高層 郭正亮爆「美方接待規格」不一般 韓國瑜手握這張牌" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】韓國瑜將訪美傳見國務院高層 郭正亮爆「美方接待規格」不一般 韓國瑜手握這張牌.png" group-title="youtube",youtube [VOD] 【全程字幕】韓國瑜將訪美傳見國務院高層 郭正亮爆「美方接待規格」不一般 韓國瑜手握這張牌
+http://ncncha.cloudns.ch:9977/play?id=yRmrArH-9CU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】 川普謝習近平緩解下輪談判氣氛 美伊停戰亞洲盟友鬆口氣？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】 川普謝習近平緩解下輪談判氣氛 美伊停戰亞洲盟友鬆口氣？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨.png" group-title="youtube",youtube [VOD] 【完整版上集】 川普謝習近平緩解下輪談判氣氛 美伊停戰亞洲盟友鬆口氣？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨
 http://ncncha.cloudns.ch:9977/play?id=oQs5w8qnyyg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】  鄭麗文、盧秀燕、韓國瑜及蔣萬安接力出訪 藍營競合白熱化？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】  鄭麗文、盧秀燕、韓國瑜及蔣萬安接力出訪 藍營競合白熱化？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨.png" group-title="youtube",youtube [VOD] 【完整版下集】  鄭麗文、盧秀燕、韓國瑜及蔣萬安接力出訪 藍營競合白熱化？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨
 http://ncncha.cloudns.ch:9977/play?id=TI84Jd_RjgU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】 在野喊替農民發聲何罪之有 海峽論壇看見台灣的「統戰」綠色獨裁？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】 在野喊替農民發聲何罪之有 海峽論壇看見台灣的「統戰」綠色獨裁？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨.png" group-title="youtube",youtube [VOD] 【完整版中集】 在野喊替農民發聲何罪之有 海峽論壇看見台灣的「統戰」綠色獨裁？20260616｜#沈富雄 #林亮君 #黃暐瀚 #陳菁徽 #陳鳳馨
 http://ncncha.cloudns.ch:9977/play?id=8mb-4M3ySYs&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】全明星出賽日! 梅西.姆巴佩.哈蘭德6/17世足登場｜終結能力遭質疑？姆巴佩仍有望角逐金球.金靴獎｜梅西迎國家隊200場里程碑 世界盃最後一舞受矚目 20260616" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】全明星出賽日! 梅西.姆巴佩.哈蘭德6/17世足登場｜終結能力遭質疑？姆巴佩仍有望角逐金球.金靴獎｜梅西迎國家隊200場里程碑 世界盃最後一舞受矚目 20260616.png" group-title="youtube",youtube [VOD] 【每日必看】全明星出賽日! 梅西.姆巴佩.哈蘭德6/17世足登場｜終結能力遭質疑？姆巴佩仍有望角逐金球.金靴獎｜梅西迎國家隊200場里程碑 世界盃最後一舞受矚目 20260616
-http://ncncha.cloudns.ch:9977/play?id=TNlC85JtyLI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】國道驚現飛車追逐! 大批警"截車插停"拽人壓制 20260616" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】國道驚現飛車追逐! 大批警"截車插停"拽人壓制 20260616.png" group-title="youtube",youtube [VOD] 【每日必看】國道驚現飛車追逐! 大批警"截車插停"拽人壓制 20260616
-http://ncncha.cloudns.ch:9977/play?id=6lflt5N_A8A&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】挖土機180度倒插水中! 駕駛受困 同事跳水救人 20260616" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】挖土機180度倒插水中! 駕駛受困 同事跳水救人 20260616.png" group-title="youtube",youtube [VOD] 【每日必看】挖土機180度倒插水中! 駕駛受困 同事跳水救人 20260616
-http://ncncha.cloudns.ch:9977/play?id=L7yTl3WDsNA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】翁遭隨機攻擊"揍滿臉x"! 嫌才出院"3天沒吃藥"!? 20260616" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】翁遭隨機攻擊"揍滿臉x"! 嫌才出院"3天沒吃藥"!? 20260616.png" group-title="youtube",youtube [VOD] 【每日必看】翁遭隨機攻擊"揍滿臉x"! 嫌才出院"3天沒吃藥"!? 20260616
-http://ncncha.cloudns.ch:9977/play?id=euyVqt1k-Gk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【終究還是瘋了】凌晨2點嫩嬰哄睡失敗！爸崩潰求助：有沒有安眠藥😭 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【終究還是瘋了】凌晨2點嫩嬰哄睡失敗！爸崩潰求助：有沒有安眠藥😭 #shorts.png" group-title="youtube",youtube [VOD] 【終究還是瘋了】凌晨2點嫩嬰哄睡失敗！爸崩潰求助：有沒有安眠藥😭 #shorts
-http://ncncha.cloudns.ch:9977/play?id=zHc9Mjqc958&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】以色列急了 憂伊朗滿血復活｜川普揪內鬼 白宮戰情遭竊聽｜20260616｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】以色列急了 憂伊朗滿血復活｜川普揪內鬼 白宮戰情遭竊聽｜20260616｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】以色列急了 憂伊朗滿血復活｜川普揪內鬼 白宮戰情遭竊聽｜20260616｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=PqLUhsz9ouQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】匈前總理再掌權 馮德萊恩沒想到｜華為加速AI布局 擬昇騰晶片推向拉美｜20260616｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】匈前總理再掌權 馮德萊恩沒想到｜華為加速AI布局 擬昇騰晶片推向拉美｜20260616｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】匈前總理再掌權 馮德萊恩沒想到｜華為加速AI布局 擬昇騰晶片推向拉美｜20260616｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=ctD5BR2NJnM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】對華惡化 日本成G7異類｜中方制裁 菲防長家族生意清零｜20260616｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】對華惡化 日本成G7異類｜中方制裁 菲防長家族生意清零｜20260616｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】對華惡化 日本成G7異類｜中方制裁 菲防長家族生意清零｜20260616｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=8foK4XZhKP0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】日經225指數 首次突破70000點｜北京重擊菲防長 小馬可仕沉默｜20260616｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】日經225指數 首次突破70000點｜北京重擊菲防長 小馬可仕沉默｜20260616｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】日經225指數 首次突破70000點｜北京重擊菲防長 小馬可仕沉默｜20260616｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=SmuwuqZMHwA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 只看不買！北台房市推案年減逾5成 提早卡位！北市明星國中「額滿潮」【#大白話說新聞】#房市 #推案 #明星國中" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 只看不買！北台房市推案年減逾5成 提早卡位！北市明星國中「額滿潮」【#大白話說新聞】#房市 #推案 #明星國中.png" group-title="youtube",youtube [VOD] 只看不買！北台房市推案年減逾5成 提早卡位！北市明星國中「額滿潮」【#大白話說新聞】#房市 #推案 #明星國中
 http://ncncha.cloudns.ch:9977/play?id=uWEQrAIaaI0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 夏寶龍在香港考察調研北部都會區發展 考察香港首個簡約公屋項目及微電子產業試點項目 #鳳凰衛視 #phoenixtv #香港" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 夏寶龍在香港考察調研北部都會區發展 考察香港首個簡約公屋項目及微電子產業試點項目 #鳳凰衛視 #phoenixtv #香港.png" group-title="youtube",youtube [VOD] 夏寶龍在香港考察調研北部都會區發展 考察香港首個簡約公屋項目及微電子產業試點項目 #鳳凰衛視 #phoenixtv #香港
@@ -257,6 +255,8 @@ http://ncncha.cloudns.ch:9977/play?id=wvektqEg6No&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=vxhRWKw5SEk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 美伊早簽了？范斯：已線上簽署協議 伊朗資金解凍有條件 停戰60天週五生效 諒解備忘錄19日簽 真主黨開火成和平變數？以色列拒撤出黎巴嫩【#大白話說新聞】#川普 #美伊 #停火協議 #和平" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美伊早簽了？范斯：已線上簽署協議 伊朗資金解凍有條件 停戰60天週五生效 諒解備忘錄19日簽 真主黨開火成和平變數？以色列拒撤出黎巴嫩【#大白話說新聞】#川普 #美伊 #停火協議 #和平.png" group-title="youtube",youtube [VOD] 美伊早簽了？范斯：已線上簽署協議 伊朗資金解凍有條件 停戰60天週五生效 諒解備忘錄19日簽 真主黨開火成和平變數？以色列拒撤出黎巴嫩【#大白話說新聞】#川普 #美伊 #停火協議 #和平
 http://ncncha.cloudns.ch:9977/play?id=kizSdZlR9f8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 美伊簽協議  以色列全國上下集體炸毛 郭正亮:他們知道自己完了 驚爆白宮遭竊聽 官員飆髒話外流?! 將軍:肯定是這幫人幹的" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美伊簽協議  以色列全國上下集體炸毛 郭正亮:他們知道自己完了 驚爆白宮遭竊聽 官員飆髒話外流?! 將軍:肯定是這幫人幹的.png" group-title="youtube",youtube [VOD] 美伊簽協議  以色列全國上下集體炸毛 郭正亮:他們知道自己完了 驚爆白宮遭竊聽 官員飆髒話外流?! 將軍:肯定是這幫人幹的
+http://ncncha.cloudns.ch:9977/play?id=wArldELmBlA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 習近平同緬甸總統敏昂萊會談：中方願同緬方分享發展經驗，打造中緬命運共同體 #鳳凰衛視 #phoenixtv #中國 #習近平 #緬甸" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習近平同緬甸總統敏昂萊會談：中方願同緬方分享發展經驗，打造中緬命運共同體 #鳳凰衛視 #phoenixtv #中國 #習近平 #緬甸.png" group-title="youtube",youtube [VOD] 習近平同緬甸總統敏昂萊會談：中方願同緬方分享發展經驗，打造中緬命運共同體 #鳳凰衛視 #phoenixtv #中國 #習近平 #緬甸
 http://ncncha.cloudns.ch:9977/play?id=K8Zo0V5NLgg&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
