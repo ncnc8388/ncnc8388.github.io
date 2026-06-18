@@ -108,9 +108,9 @@ https://mgev.188766.xyz/?migutoken=9413f7c93e4b8c78cc843146bdf9cfcd&id=hk_fhzw&t
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://42.92.117.151:8231/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.114:8188/udp/239.76.253.134:9000
+http://58.46.28.224:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.114:8188/udp/239.76.246.134:1234
+http://58.46.28.224:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -130,7 +130,7 @@ http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文频陆" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文频陆.png" group-title="港澳频道",凤凰中文频陆
 p3p://focus169.org:26571/68a6abe2000dd5d9a5012600500a1279
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.79:8188/udp/239.1.1.126:8126
+http://110.178.145.233:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.242.184:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -150,13 +150,13 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.79:8188/udp/239.1.1.127:8127
+http://110.178.145.233:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.114:8188/udp/239.76.253.135:9000
+http://58.46.28.224:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.114:8188/udp/239.76.246.135:1234
+http://58.46.28.224:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -229,20 +229,24 @@ http://ncncha.cloudns.ch:9977/play?id=wWbAXjuwabw&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=cZWuM1Q1dOs&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】邱垂正：兩岸條例33條之1查處　法辦饒慶鈴錄影參加海峽論壇？20260617｜#林秉宥 #周榆修 #柯志恩 #張斯綱 #董智森" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】邱垂正：兩岸條例33條之1查處　法辦饒慶鈴錄影參加海峽論壇？20260617｜#林秉宥 #周榆修 #柯志恩 #張斯綱 #董智森.png" group-title="youtube",youtube [VOD] 【完整版中集】邱垂正：兩岸條例33條之1查處　法辦饒慶鈴錄影參加海峽論壇？20260617｜#林秉宥 #周榆修 #柯志恩 #張斯綱 #董智森
 http://ncncha.cloudns.ch:9977/play?id=l-tThvgsWdE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】密談澤倫 馬克宏背刺川普｜王毅重磅 中國開放新藍圖｜20260617｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】密談澤倫 馬克宏背刺川普｜王毅重磅 中國開放新藍圖｜20260617｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】密談澤倫 馬克宏背刺川普｜王毅重磅 中國開放新藍圖｜20260617｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=f_gf7_AAzvw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】美疑不認帳 大豆波音訂單變卦｜中東買家強勁 中國秀出關鍵｜20260617｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】美疑不認帳 大豆波音訂單變卦｜中東買家強勁 中國秀出關鍵｜20260617｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】美疑不認帳 大豆波音訂單變卦｜中東買家強勁 中國秀出關鍵｜20260617｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=dkg8Qi5YWzQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】能源封殺失效? 中國石油儲備沒在怕｜近距離曝光 福建艦電磁彈射｜20260617｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】能源封殺失效? 中國石油儲備沒在怕｜近距離曝光 福建艦電磁彈射｜20260617｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】能源封殺失效? 中國石油儲備沒在怕｜近距離曝光 福建艦電磁彈射｜20260617｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=Qq0bS77T37U&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】饒慶玲擦邊球 國台辦:綠色恐怖｜20260617｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】饒慶玲擦邊球 國台辦:綠色恐怖｜20260617｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】饒慶玲擦邊球 國台辦:綠色恐怖｜20260617｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=aGX_C4xYQ9U&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 夏寶龍在香港北部都會區考察簡約公屋微電子產業園及河套香港園區發展 #鳳凰衛視 #phoenixtv #香港" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 夏寶龍在香港北部都會區考察簡約公屋微電子產業園及河套香港園區發展 #鳳凰衛視 #phoenixtv #香港.png" group-title="youtube",youtube [VOD] 夏寶龍在香港北部都會區考察簡約公屋微電子產業園及河套香港園區發展 #鳳凰衛視 #phoenixtv #香港
 http://ncncha.cloudns.ch:9977/play?id=YdbXQ0VajRQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川普輸很大？美伊協議繞回歐巴馬時期？保守派網紅：川向伊朗投降【#大白話說新聞】#川普 #伊朗 #停戰 #美伊戰爭" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普輸很大？美伊協議繞回歐巴馬時期？保守派網紅：川向伊朗投降【#大白話說新聞】#川普 #伊朗 #停戰 #美伊戰爭.png" group-title="youtube",youtube [VOD] 川普輸很大？美伊協議繞回歐巴馬時期？保守派網紅：川向伊朗投降【#大白話說新聞】#川普 #伊朗 #停戰 #美伊戰爭
 http://ncncha.cloudns.ch:9977/play?id=tIuBJL7T7nE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 成果豐碩! 竟遭誣指"美官員拒見" 鄭麗文點名"綠媒"手法卑劣 韓國瑜6/21接力訪美 鄭麗文盼獲美高規格接待 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 成果豐碩! 竟遭誣指"美官員拒見" 鄭麗文點名"綠媒"手法卑劣 韓國瑜6/21接力訪美 鄭麗文盼獲美高規格接待 #shorts.png" group-title="youtube",youtube [VOD] 成果豐碩! 竟遭誣指"美官員拒見" 鄭麗文點名"綠媒"手法卑劣 韓國瑜6/21接力訪美 鄭麗文盼獲美高規格接待 #shorts
-http://ncncha.cloudns.ch:9977/play?id=U1hf6Py9QS8&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 時事三對論｜《給阿嬤的情書》爆紅揭開華人三大“文化密碼”：僑批寄託家國牽掛、孝道維繫血脈親情、故鄉承載百年鄉愁！嘉賓：西方重個人 中華文化講家國、這份情感難複製！｜20260617 #鳳凰衛視 #粵語" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事三對論｜《給阿嬤的情書》爆紅揭開華人三大“文化密碼”：僑批寄託家國牽掛、孝道維繫血脈親情、故鄉承載百年鄉愁！嘉賓：西方重個人 中華文化講家國、這份情感難複製！｜20260617 #鳳凰衛視 #粵語.png" group-title="youtube",youtube [VOD] 時事三對論｜《給阿嬤的情書》爆紅揭開華人三大“文化密碼”：僑批寄託家國牽掛、孝道維繫血脈親情、故鄉承載百年鄉愁！嘉賓：西方重個人 中華文化講家國、這份情感難複製！｜20260617 #鳳凰衛視 #粵語
 http://ncncha.cloudns.ch:9977/play?id=s3SAbZunRfQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜剛與伊朗達協議、又為俄烏搭橋！特朗普公開槓上內塔尼亞胡、生日連線普京、拒讓歐洲搶功 專家：中美俄世紀同框進入倒數？特朗普正鋪墊下一場“和平秀”！ ｜20260617 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜剛與伊朗達協議、又為俄烏搭橋！特朗普公開槓上內塔尼亞胡、生日連線普京、拒讓歐洲搶功 專家：中美俄世紀同框進入倒數？特朗普正鋪墊下一場“和平秀”！ ｜20260617 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜剛與伊朗達協議、又為俄烏搭橋！特朗普公開槓上內塔尼亞胡、生日連線普京、拒讓歐洲搶功 專家：中美俄世紀同框進入倒數？特朗普正鋪墊下一場“和平秀”！ ｜20260617 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=CC_vt8F0tLY&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 有報天天讀｜特朗普會澤連斯基 稱俄烏應達協議｜批以色列造成太多傷亡 特朗普建議敘利亞接手打擊真主黨｜習近平晤敏昂萊 籲持續嚴打電詐｜20260617 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 有報天天讀｜特朗普會澤連斯基 稱俄烏應達協議｜批以色列造成太多傷亡 特朗普建議敘利亞接手打擊真主黨｜習近平晤敏昂萊 籲持續嚴打電詐｜20260617 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 有報天天讀｜特朗普會澤連斯基 稱俄烏應達協議｜批以色列造成太多傷亡 特朗普建議敘利亞接手打擊真主黨｜習近平晤敏昂萊 籲持續嚴打電詐｜20260617 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=uqEc-0lyP6g&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋不認"住工合一說" 急喊造謠遭藍議員反將一軍 不想輸蔣萬安!? 拋"剉冰台北論" 柳采葳神補刀:像亂煎蚵仔煎 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋不認"住工合一說" 急喊造謠遭藍議員反將一軍 不想輸蔣萬安!? 拋"剉冰台北論" 柳采葳神補刀:像亂煎蚵仔煎 #shorts.png" group-title="youtube",youtube [VOD] 沈伯洋不認"住工合一說" 急喊造謠遭藍議員反將一軍 不想輸蔣萬安!? 拋"剉冰台北論" 柳采葳神補刀:像亂煎蚵仔煎 #shorts
-http://ncncha.cloudns.ch:9977/play?id=S12pf9GO4_U&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 王毅震撼亮牌 郭正亮爆日本4143家企業黑字破產 中國稀土7/1號斷供 介文汲:東京電子信越化學無貨可出" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 王毅震撼亮牌 郭正亮爆日本4143家企業黑字破產 中國稀土7/1號斷供 介文汲:東京電子信越化學無貨可出.png" group-title="youtube",youtube [VOD] 王毅震撼亮牌 郭正亮爆日本4143家企業黑字破產 中國稀土7/1號斷供 介文汲:東京電子信越化學無貨可出
 http://ncncha.cloudns.ch:9977/play?id=Xi1ucwINjOw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 畢業季！AI熱潮帶動高薪搶才！新鮮人平均起薪3.9萬元 產業薪資差距明顯【#大白話說新聞】#AI #畢業 #新鮮人 #薪資" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 畢業季！AI熱潮帶動高薪搶才！新鮮人平均起薪3.9萬元 產業薪資差距明顯【#大白話說新聞】#AI #畢業 #新鮮人 #薪資.png" group-title="youtube",youtube [VOD] 畢業季！AI熱潮帶動高薪搶才！新鮮人平均起薪3.9萬元 產業薪資差距明顯【#大白話說新聞】#AI #畢業 #新鮮人 #薪資
@@ -255,10 +259,6 @@ http://ncncha.cloudns.ch:9977/play?id=xitFSSDJ3mk&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=CAv3gXtBrsg&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 謝政達、廖婉汝婉拒監委提名  賴政府繼續把監院政治提款機？【#今日精華搶先看】少康戰情室 20260617｜#林秉宥 #周榆修 #柯志恩 #張斯綱 #董智森" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 謝政達、廖婉汝婉拒監委提名  賴政府繼續把監院政治提款機？【#今日精華搶先看】少康戰情室 20260617｜#林秉宥 #周榆修 #柯志恩 #張斯綱 #董智森.png" group-title="youtube",youtube [VOD] 謝政達、廖婉汝婉拒監委提名  賴政府繼續把監院政治提款機？【#今日精華搶先看】少康戰情室 20260617｜#林秉宥 #周榆修 #柯志恩 #張斯綱 #董智森
 http://ncncha.cloudns.ch:9977/play?id=Z1EklzPSCJg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 這幕讓日本丟進顏面! 高市G7慘遭孤立「失態無助」 英德法各國爭相靠中 介文汲爆內幕:18兆對決4兆GDP 歐美只看利益" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 這幕讓日本丟進顏面! 高市G7慘遭孤立「失態無助」 英德法各國爭相靠中 介文汲爆內幕:18兆對決4兆GDP 歐美只看利益.png" group-title="youtube",youtube [VOD] 這幕讓日本丟進顏面! 高市G7慘遭孤立「失態無助」 英德法各國爭相靠中 介文汲爆內幕:18兆對決4兆GDP 歐美只看利益
-http://ncncha.cloudns.ch:9977/play?id=sKuqxEUG3fY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 韓國瑜69歲生日不慶生 親赴殉職飛官告別式 逝者之一是同窗老友愛子 韓國瑜沉痛發文了 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 韓國瑜69歲生日不慶生 親赴殉職飛官告別式 逝者之一是同窗老友愛子 韓國瑜沉痛發文了 #shorts.png" group-title="youtube",youtube [VOD] 韓國瑜69歲生日不慶生 親赴殉職飛官告別式 逝者之一是同窗老友愛子 韓國瑜沉痛發文了 #shorts
-http://ncncha.cloudns.ch:9977/play?id=S46d35a8QZ4&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
 P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
 #EXTINF:-1 tvg-name="中天亚洲频陆" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频陆.png" group-title="youtube",中天亚洲频陆
