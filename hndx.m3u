@@ -108,9 +108,9 @@ https://mgev.188766.xyz/?migutoken=9413f7c93e4b8c78cc843146bdf9cfcd&id=hk_fhzw&t
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://42.92.117.151:8231/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.31.60:8188/udp/239.76.253.134:9000
+http://58.46.31.135:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.31.60:8188/udp/239.76.246.134:1234
+http://58.46.31.135:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -130,7 +130,7 @@ http://rihou.cc:555/tv/[Bx]凤凰中文
 #EXTINF:-1 tvg-name="凤凰中文频陆" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文频陆.png" group-title="港澳频道",凤凰中文频陆
 p3p://focus169.org:26571/68a6abe2000dd5d9a5012600500a1279
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.63:8188/udp/239.1.1.126:8126
+http://110.178.145.198:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.206:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -150,13 +150,13 @@ https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.63:8188/udp/239.1.1.127:8127
+http://110.178.145.198:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.31.60:8188/udp/239.76.253.135:9000
+http://58.46.31.135:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.31.60:8188/udp/239.76.246.135:1234
+http://58.46.31.135:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -213,8 +213,8 @@ http://ncncha.cloudns.ch:9977/play?id=Gzo0sDZ4Fcg&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=Ry--eMIjYLQ&quality=720p
 #EXTINF:-1 tvg-name="youtube [VOD] 4天內大搖3次！日本岩手外海又6.1地震！委內瑞拉世紀強震釀千死 專家揭施工不良老屋、軟土成致命傷！郭鎧紋示警：台灣近期太安靜恐有規模6以上強震？【#大白話熱焦點】#地震 #日本 #委內瑞拉" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 4天內大搖3次！日本岩手外海又6.1地震！委內瑞拉世紀強震釀千死 專家揭施工不良老屋、軟土成致命傷！郭鎧紋示警：台灣近期太安靜恐有規模6以上強震？【#大白話熱焦點】#地震 #日本 #委內瑞拉.png" group-title="youtube",youtube [VOD] 4天內大搖3次！日本岩手外海又6.1地震！委內瑞拉世紀強震釀千死 專家揭施工不良老屋、軟土成致命傷！郭鎧紋示警：台灣近期太安靜恐有規模6以上強震？【#大白話熱焦點】#地震 #日本 #委內瑞拉
 http://ncncha.cloudns.ch:9977/play?id=MuqfaziZDqk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#洪流洞見】中美共管台灣，鄭麗文提"歐盟模式"行得通？兩岸未來從"零和"到"鄰和路線"避險，趙麟大使分析。完整版20260628@中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#洪流洞見】中美共管台灣，鄭麗文提"歐盟模式"行得通？兩岸未來從"零和"到"鄰和路線"避險，趙麟大使分析。完整版20260628@中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【#洪流洞見】中美共管台灣，鄭麗文提"歐盟模式"行得通？兩岸未來從"零和"到"鄰和路線"避險，趙麟大使分析。完整版20260628@中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=SZIJhAmHsU0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 「唐朝以來最大慘敗!」日媒崩潰承認:系統性全面落後中國 雷倩:日本重啟軍工混合體發戰爭財 介文汲:精銳盡出求和遭拒" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 「唐朝以來最大慘敗!」日媒崩潰承認:系統性全面落後中國 雷倩:日本重啟軍工混合體發戰爭財 介文汲:精銳盡出求和遭拒.png" group-title="youtube",youtube [VOD] 「唐朝以來最大慘敗!」日媒崩潰承認:系統性全面落後中國 雷倩:日本重啟軍工混合體發戰爭財 介文汲:精銳盡出求和遭拒
+http://ncncha.cloudns.ch:9977/play?id=E79YpXYLbTc&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#精選】自比柴契爾夫人卻慘遭英國冷落！高市早苗引火自焚？介文汲：姿態太鮮明要跟中國對抗！【#新聞大白話】#熱搜大來賓 #介文汲 #柴契爾 #高市早苗 #習近平" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】自比柴契爾夫人卻慘遭英國冷落！高市早苗引火自焚？介文汲：姿態太鮮明要跟中國對抗！【#新聞大白話】#熱搜大來賓 #介文汲 #柴契爾 #高市早苗 #習近平.png" group-title="youtube",youtube [VOD] 【#精選】自比柴契爾夫人卻慘遭英國冷落！高市早苗引火自焚？介文汲：姿態太鮮明要跟中國對抗！【#新聞大白話】#熱搜大來賓 #介文汲 #柴契爾 #高市早苗 #習近平
 http://ncncha.cloudns.ch:9977/play?id=aIbfn0ap01g&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#精選】高南、雙北一下雨卻淹成黃河？總預算沒過就不能救災？陳揮文怒轟：人民納稅錢花去哪裡了！【#新聞大白話】#熱搜大來賓 #陳揮文 #淹水 #高屏 #豪雨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】高南、雙北一下雨卻淹成黃河？總預算沒過就不能救災？陳揮文怒轟：人民納稅錢花去哪裡了！【#新聞大白話】#熱搜大來賓 #陳揮文 #淹水 #高屏 #豪雨.png" group-title="youtube",youtube [VOD] 【#精選】高南、雙北一下雨卻淹成黃河？總預算沒過就不能救災？陳揮文怒轟：人民納稅錢花去哪裡了！【#新聞大白話】#熱搜大來賓 #陳揮文 #淹水 #高屏 #豪雨
@@ -235,16 +235,14 @@ http://ncncha.cloudns.ch:9977/play?id=oxYyZzYUwAQ&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=QsSmQ87AVwQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【本週放大鏡Part.2】鄭麗文稱訪美投下深水炸彈？ 沈伯洋民調被蔣萬安海放！美環太軍演前福建艦再航經台灣海峽！廢監院機會千載難逢民進黨態度？#少康戰情室 20260619-0625" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【本週放大鏡Part.2】鄭麗文稱訪美投下深水炸彈？ 沈伯洋民調被蔣萬安海放！美環太軍演前福建艦再航經台灣海峽！廢監院機會千載難逢民進黨態度？#少康戰情室 20260619-0625.png" group-title="youtube",youtube [VOD] 【本週放大鏡Part.2】鄭麗文稱訪美投下深水炸彈？ 沈伯洋民調被蔣萬安海放！美環太軍演前福建艦再航經台灣海峽！廢監院機會千載難逢民進黨態度？#少康戰情室 20260619-0625
 http://ncncha.cloudns.ch:9977/play?id=jVxuWuiC22w&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】美國要台灣提升國防! 賣F-35卻冷處理 網轟:當我們盤子? 20260628" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】美國要台灣提升國防! 賣F-35卻冷處理 網轟:當我們盤子? 20260628.png" group-title="youtube",youtube [VOD] 【每日必看】美國要台灣提升國防! 賣F-35卻冷處理 網轟:當我們盤子? 20260628
-http://ncncha.cloudns.ch:9977/play?id=q6jNHbjp0qA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】落石悚奪4命疑誤判天氣 大雨後入山"網轟犯大忌" 20260628" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】落石悚奪4命疑誤判天氣 大雨後入山"網轟犯大忌" 20260628.png" group-title="youtube",youtube [VOD] 【每日必看】落石悚奪4命疑誤判天氣 大雨後入山"網轟犯大忌" 20260628
-http://ncncha.cloudns.ch:9977/play?id=lJjCLp6DkIU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】青鳥嗆"水蓮哪怕淹水"翻車 吹捧高雄淹水清澈被酸爆 20260628" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】青鳥嗆"水蓮哪怕淹水"翻車 吹捧高雄淹水清澈被酸爆 20260628.png" group-title="youtube",youtube [VOD] 【每日必看】青鳥嗆"水蓮哪怕淹水"翻車 吹捧高雄淹水清澈被酸爆 20260628
-http://ncncha.cloudns.ch:9977/play?id=lninYQheESk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】馬太鞍堰塞湖土石噴發 "洪流挾巨石"如末日傾瀉 20260628" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】馬太鞍堰塞湖土石噴發 "洪流挾巨石"如末日傾瀉 20260628.png" group-title="youtube",youtube [VOD] 【每日必看】馬太鞍堰塞湖土石噴發 "洪流挾巨石"如末日傾瀉 20260628
-http://ncncha.cloudns.ch:9977/play?id=C4BKjjd4OOY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【買樂透會中喔】姊幫弟抽兵種「獲1年海軍陸戰隊」樂翻比讚XD #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【買樂透會中喔】姊幫弟抽兵種「獲1年海軍陸戰隊」樂翻比讚XD #shorts.png" group-title="youtube",youtube [VOD] 【買樂透會中喔】姊幫弟抽兵種「獲1年海軍陸戰隊」樂翻比讚XD #shorts
-http://ncncha.cloudns.ch:9977/play?id=odl1m8INxI0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】中國技術領先 給美15年難追上｜富豪學中國話 欲攻14萬人市場｜20260628｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】中國技術領先 給美15年難追上｜富豪學中國話 欲攻14萬人市場｜20260628｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】中國技術領先 給美15年難追上｜富豪學中國話 欲攻14萬人市場｜20260628｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=6eSnzikdx6M&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】和日不搞曖昧 蒙古站隊中國｜美怕什麼 斬斷華為.中興｜20260628｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】和日不搞曖昧 蒙古站隊中國｜美怕什麼 斬斷華為.中興｜20260628｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】和日不搞曖昧 蒙古站隊中國｜美怕什麼 斬斷華為.中興｜20260628｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=drAzunDTxlI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】烏震動克宮 基輔連環爆｜破壞南海 中方狠批菲防長狂言｜20260628｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】烏震動克宮 基輔連環爆｜破壞南海 中方狠批菲防長狂言｜20260628｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】烏震動克宮 基輔連環爆｜破壞南海 中方狠批菲防長狂言｜20260628｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=RRytrHCY294&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】車企史詩級裁員 中國攻陷德國｜中國重判 掐斷日本命脈｜20260628｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】車企史詩級裁員 中國攻陷德國｜中國重判 掐斷日本命脈｜20260628｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】車企史詩級裁員 中國攻陷德國｜中國重判 掐斷日本命脈｜20260628｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=BM7yBHAqa10&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜“反華急先鋒”翻車！立陶宛停談台灣合作、“抗中”五年血本無歸：美國失約、台灣跳票、經濟全面反噬！“台灣牌”已成廢局 連特朗普都在收力：誰還敢打？｜20260626 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜“反華急先鋒”翻車！立陶宛停談台灣合作、“抗中”五年血本無歸：美國失約、台灣跳票、經濟全面反噬！“台灣牌”已成廢局 連特朗普都在收力：誰還敢打？｜20260626 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜“反華急先鋒”翻車！立陶宛停談台灣合作、“抗中”五年血本無歸：美國失約、台灣跳票、經濟全面反噬！“台灣牌”已成廢局 連特朗普都在收力：誰還敢打？｜20260626 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=_evdDAWHTFU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 李家超發文回顧四年任期：深耕細作 乘勢而上 #鳳凰衛視 #phoenixtv #李家超 #香港" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 李家超發文回顧四年任期：深耕細作 乘勢而上 #鳳凰衛視 #phoenixtv #李家超 #香港.png" group-title="youtube",youtube [VOD] 李家超發文回顧四年任期：深耕細作 乘勢而上 #鳳凰衛視 #phoenixtv #李家超 #香港
@@ -257,6 +255,8 @@ http://ncncha.cloudns.ch:9977/play?id=bPmFO39DRA4&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=V7g61upWap4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 紀錄大時代｜從潮州木雕到潮汕民俗！藍鴻春10年尋根之路：一刀一刻、一茶一俗 成就《給阿嬤的情書》的故鄉印記 #鳳凰衛視 #phoenixtv" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 紀錄大時代｜從潮州木雕到潮汕民俗！藍鴻春10年尋根之路：一刀一刻、一茶一俗 成就《給阿嬤的情書》的故鄉印記 #鳳凰衛視 #phoenixtv.png" group-title="youtube",youtube [VOD] 紀錄大時代｜從潮州木雕到潮汕民俗！藍鴻春10年尋根之路：一刀一刻、一茶一俗 成就《給阿嬤的情書》的故鄉印記 #鳳凰衛視 #phoenixtv
 http://ncncha.cloudns.ch:9977/play?id=tHYM0iNDBB4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 連代表都被清場! 黃敬平爆韓國瑜閉門祕會強森:這20分鐘絕不簡單 美方捧韓抑綠 痛擊綠委背後下毒手" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 連代表都被清場! 黃敬平爆韓國瑜閉門祕會強森:這20分鐘絕不簡單 美方捧韓抑綠 痛擊綠委背後下毒手.png" group-title="youtube",youtube [VOD] 連代表都被清場! 黃敬平爆韓國瑜閉門祕會強森:這20分鐘絕不簡單 美方捧韓抑綠 痛擊綠委背後下毒手
+http://ncncha.cloudns.ch:9977/play?id=-oObM103Ub4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 陸千帆星座殺進美後花園了 蘋果求買中國黑名單晶片了【#新聞大白話】20260628-12│#介文汲 #呂禮詩 #劉必榮" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 陸千帆星座殺進美後花園了 蘋果求買中國黑名單晶片了【#新聞大白話】20260628-12│#介文汲 #呂禮詩 #劉必榮.png" group-title="youtube",youtube [VOD] 陸千帆星座殺進美後花園了 蘋果求買中國黑名單晶片了【#新聞大白話】20260628-12│#介文汲 #呂禮詩 #劉必榮
 http://ncncha.cloudns.ch:9977/play?id=AaRTAY0BsxA&quality=360p
 #EXTINF:-1 tvg-name="中天亚洲频晴" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲频晴.png" group-title="youtube",中天亚洲频晴
