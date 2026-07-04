@@ -558,20 +558,8 @@
         "decrypt": "0"
       }
     },
-    {
-      "key": "老鹰",
-      "name": "🦅蓝鹰┃app",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
-        "dataKey": "zxPtEUDGVllIUhDB",
-        "dataIv": "zxPtEUDGVllIUhDB",
-        "ua": "okhttp/3.10.0"
-      }
-    },
+    {"key": "蓝鹰","name": "蓝鹰 • APP","type": 3,"api": "csp_AppQi","searchable": 1,"changeable": 1,"ext": {"site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt","dataKey": "ca94b06ca359d80e","dataIv": "ca94b06ca359d80e","init": "initV120","ua": "okhttp/3.10.0"}},
+     {"key": "金牌app","name": "金牌 • APP","type": 3,"api": "csp_AppQi","searchable": 1,"changeable": 1,"ext": {"url": "https://qj4.catbb.xyz","dataKey": "eecbio48dsq13kkk","dataIv": "eecbio48dsq13kkk","search": "searchList4","init": "initV122","ua": "okhttp/3.10.0"}},
     {
       "key": "农民",
       "name": "🎃旺旺┃秒播",
@@ -582,20 +570,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "秒看",
-      "name": "👑秒看┃秒播",
-      "type": 3,
-      "quickSearch": 1,
-      "jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
-      "api": "csp_AppGet",
-      "ext": {
-        "host": "https://mk1080.top/get.txt",
-        "datakey": "c60d88b2eep53za8",
-        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
-        "ua": "okhttp/3.10.0"
-      }
-    },
+  
     {
       "key": "魔方",
       "name": "🥝魔方┃App",
