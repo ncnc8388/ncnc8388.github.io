@@ -77,8 +77,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227367/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227365/index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index.m3u8
-#EXTINF:-1 tvg-name="X战警黑凤凰" tvg-logo="https://live.fanmingming.cn/tv/X战警黑凤凰.png" group-title="港澳频道",X战警黑凤凰
-https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
@@ -101,36 +99,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227185/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文FYtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文FYtv.png" group-title="港澳频道",凤凰中文FYtv
-http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-name="凤凰中文Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文Pdtv.png" group-title="港澳频道",凤凰中文Pdtv
-http://rihou.cc:555/tv/[Pd]凤凰中文
-#EXTINF:-1 tvg-name="凤凰中文欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文欣赏.png" group-title="港澳频道",凤凰中文欣赏
-http://rihou.cc:555/tv/[Pd]凤凰中文
-#EXTINF:-1 tvg-name="凤凰中文欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文欣赏.png" group-title="港澳频道",凤凰中文欣赏
-http://rihou.cc:555/tv/[Bx]凤凰中文
-#EXTINF:-1 tvg-name="凤凰新闻网播" tvg-logo="https://live.fanmingming.cn/tv/凤凰新闻网播.png" group-title="港澳频道",凤凰新闻网播
-video://https://live.douyin.com/40184312758
-#EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
-http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
-http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰资讯Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯Pdtv.png" group-title="港澳频道",凤凰资讯Pdtv
-http://rihou.cc:555/tv/[Pd]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰资讯欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯欣赏.png" group-title="港澳频道",凤凰资讯欣赏
-http://rihou.cc:555/tv/[Pd]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰资讯欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯欣赏.png" group-title="港澳频道",凤凰资讯欣赏
-http://rihou.cc:555/tv/[Bx]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰香港Pdtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港Pdtv.png" group-title="港澳频道",凤凰香港Pdtv
-http://rihou.cc:555/tv/[Pd]凤凰香港
-#EXTINF:-1 tvg-name="凤凰香港欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港欣赏.png" group-title="港澳频道",凤凰香港欣赏
-http://rihou.cc:555/tv/[Pd]凤凰香港
-#EXTINF:-1 tvg-name="凤凰香港欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港欣赏.png" group-title="港澳频道",凤凰香港欣赏
-http://rihou.cc:555/tv/[Bx]凤凰香港
-#EXTINF:-1 tvg-name="凤凰香港频晴" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港频晴.png" group-title="港澳频道",凤凰香港频晴
-P2p://107.150.42.186:33001/71e6d0e4f7bb145d49ccafe3dd81dc5e
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -281,22 +249,18 @@ http://ncncha.cloudns.ch:9977/play?id=9O3lVxB9Rvc&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=WORIcuQNpGQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】李逸洋拒出席：淪中共法律戰工具　不滿長崎原爆紀典遭日矮化？ 20260810｜#高嘉瑜 #張啓楷 #侯漢廷 #賴士葆 #陳以信" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】李逸洋拒出席：淪中共法律戰工具　不滿長崎原爆紀典遭日矮化？ 20260810｜#高嘉瑜 #張啓楷 #侯漢廷 #賴士葆 #陳以信.png" group-title="youtube",youtube [VOD] 【完整版中集】李逸洋拒出席：淪中共法律戰工具　不滿長崎原爆紀典遭日矮化？ 20260810｜#高嘉瑜 #張啓楷 #侯漢廷 #賴士葆 #陳以信
 http://ncncha.cloudns.ch:9977/play?id=e_yMT9Xuo68&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】不滿"沒漲價"搶生意?! 男持棍暴衝同業家"猛砸" 20260810" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】不滿"沒漲價"搶生意?! 男持棍暴衝同業家"猛砸" 20260810.png" group-title="youtube",youtube [VOD] 【每日必看】不滿"沒漲價"搶生意?! 男持棍暴衝同業家"猛砸" 20260810
-http://ncncha.cloudns.ch:9977/play?id=xBopdIqCPR8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】國票金.國票證副董給耐斯兄弟?!年薪五千萬超級肥貓?! 20260810" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】國票金.國票證副董給耐斯兄弟?!年薪五千萬超級肥貓?! 20260810.png" group-title="youtube",youtube [VOD] 【每日必看】國票金.國票證副董給耐斯兄弟?!年薪五千萬超級肥貓?! 20260810
-http://ncncha.cloudns.ch:9977/play?id=9_cQy7vfehg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【防空演習亂象】台中輪椅伯「無人道路上狂衝」　苗栗還有阿嬤騎電輔車趴趴走！ #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【防空演習亂象】台中輪椅伯「無人道路上狂衝」　苗栗還有阿嬤騎電輔車趴趴走！ #shorts.png" group-title="youtube",youtube [VOD] 【防空演習亂象】台中輪椅伯「無人道路上狂衝」　苗栗還有阿嬤騎電輔車趴趴走！ #shorts
-http://ncncha.cloudns.ch:9977/play?id=n89Jg0B8m8M&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 不知有防空演習？台中嬤騎自行車趴趴走...被警盯上才驚覺不對勁！ #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 不知有防空演習？台中嬤騎自行車趴趴走...被警盯上才驚覺不對勁！ #shorts.png" group-title="youtube",youtube [VOD] 不知有防空演習？台中嬤騎自行車趴趴走...被警盯上才驚覺不對勁！ #shorts
-http://ncncha.cloudns.ch:9977/play?id=h6OlC8hZGRY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】印尼求中國 出錢搞基建｜非洲鎖礦 印尼翻版｜20260810｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】印尼求中國 出錢搞基建｜非洲鎖礦 印尼翻版｜20260810｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】印尼求中國 出錢搞基建｜非洲鎖礦 印尼翻版｜20260810｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=mHMPgAq5Xlc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】只要一枚命中 就能癱瘓美航母｜伊朗新人事命令 最高領袖和總統會談｜20260810｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】只要一枚命中 就能癱瘓美航母｜伊朗新人事命令 最高領袖和總統會談｜20260810｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】只要一枚命中 就能癱瘓美航母｜伊朗新人事命令 最高領袖和總統會談｜20260810｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=V8LMum5JrbU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】日無視中國管制 南北對穿方式過航台海｜韓.台出口額增 拉大和日本差距｜20260810｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】日無視中國管制 南北對穿方式過航台海｜韓.台出口額增 拉大和日本差距｜20260810｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】日無視中國管制 南北對穿方式過航台海｜韓.台出口額增 拉大和日本差距｜20260810｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=8M0SqI95enI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】殲10賣北非 打包空警500｜A股首例 全網暴動｜20260810｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】殲10賣北非 打包空警500｜A股首例 全網暴動｜20260810｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】殲10賣北非 打包空警500｜A股首例 全網暴動｜20260810｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=Mdc2oXpnTbA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 台日友誼亮紅燈？！長崎原爆典禮「台駐日代表遭矮化」外交部：譴責中國打壓！【#大白話說新聞】#長崎 #原爆典禮 #高市早苗 #矮化" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台日友誼亮紅燈？！長崎原爆典禮「台駐日代表遭矮化」外交部：譴責中國打壓！【#大白話說新聞】#長崎 #原爆典禮 #高市早苗 #矮化.png" group-title="youtube",youtube [VOD] 台日友誼亮紅燈？！長崎原爆典禮「台駐日代表遭矮化」外交部：譴責中國打壓！【#大白話說新聞】#長崎 #原爆典禮 #高市早苗 #矮化
 http://ncncha.cloudns.ch:9977/play?id=ykVVXJXmnMQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 台糖「5月就知苯駢芘超標」未通報惹議！經濟部長：未來停買國內粗油【#大白話說新聞】#台糖 #毒油 #苯駢芘 #通報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台糖「5月就知苯駢芘超標」未通報惹議！經濟部長：未來停買國內粗油【#大白話說新聞】#台糖 #毒油 #苯駢芘 #通報.png" group-title="youtube",youtube [VOD] 台糖「5月就知苯駢芘超標」未通報惹議！經濟部長：未來停買國內粗油【#大白話說新聞】#台糖 #毒油 #苯駢芘 #通報
 http://ncncha.cloudns.ch:9977/play?id=oyCgruOzItw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 吳乃仁欠款"追不回"? 王鴻薇:關進去不就好了! #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 吳乃仁欠款"追不回"? 王鴻薇:關進去不就好了! #shorts.png" group-title="youtube",youtube [VOD] 吳乃仁欠款"追不回"? 王鴻薇:關進去不就好了! #shorts
-http://ncncha.cloudns.ch:9977/play?id=l4Dcv-V_uO4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 城鎮韌性演習變「任性演習」？　校內竟還有老師帶學生跑操場 #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 城鎮韌性演習變「任性演習」？　校內竟還有老師帶學生跑操場 #shorts.png" group-title="youtube",youtube [VOD] 城鎮韌性演習變「任性演習」？　校內竟還有老師帶學生跑操場 #shorts
-http://ncncha.cloudns.ch:9977/play?id=tdroiPPj0JA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜特朗普被伊朗“牽著走”！急喊48小時內簽約 為後撤“遮羞”？伊朗再添“排雷”王牌控海峽 美軍彈藥告急、弱點全暴露：特朗普正付出慘痛代價？｜20260807 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜特朗普被伊朗“牽著走”！急喊48小時內簽約 為後撤“遮羞”？伊朗再添“排雷”王牌控海峽 美軍彈藥告急、弱點全暴露：特朗普正付出慘痛代價？｜20260807 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜特朗普被伊朗“牽著走”！急喊48小時內簽約 為後撤“遮羞”？伊朗再添“排雷”王牌控海峽 美軍彈藥告急、弱點全暴露：特朗普正付出慘痛代價？｜20260807 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=esDXVBL3JWk&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜巴西阿根廷翻臉？米萊站台“巴西特朗普”、硬剛盧拉！背後美國影子浮現：特朗普怕了中國“南方聯盟” 掀右轉潮防“後院起火”？北京重拳加碼南美！｜20260810 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜巴西阿根廷翻臉？米萊站台“巴西特朗普”、硬剛盧拉！背後美國影子浮現：特朗普怕了中國“南方聯盟” 掀右轉潮防“後院起火”？北京重拳加碼南美！｜20260810 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜巴西阿根廷翻臉？米萊站台“巴西特朗普”、硬剛盧拉！背後美國影子浮現：特朗普怕了中國“南方聯盟” 掀右轉潮防“後院起火”？北京重拳加碼南美！｜20260810 #鳳凰衛視
@@ -309,76 +273,14 @@ http://ncncha.cloudns.ch:9977/play?id=b63C6SOx4pI&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=-yvNkstRVMo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 石評天下｜美對華250年算盤全落空？想改造中國、卻等來“中國崛起”反超！美霸權被打到“自閉” 特朗普慌亂封殺中國科技？北京淡定亮新牌：重塑全球新秩序！20260810 #石評天下 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 石評天下｜美對華250年算盤全落空？想改造中國、卻等來“中國崛起”反超！美霸權被打到“自閉” 特朗普慌亂封殺中國科技？北京淡定亮新牌：重塑全球新秩序！20260810 #石評天下 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 石評天下｜美對華250年算盤全落空？想改造中國、卻等來“中國崛起”反超！美霸權被打到“自閉” 特朗普慌亂封殺中國科技？北京淡定亮新牌：重塑全球新秩序！20260810 #石評天下 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=GBT3lzuPOBo&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 美國大後方反了 自組中東版北約ABT 錢.軍力.核武全到位 阿拉伯世界史無前例大團結 大使:先痛揍以色列 再警告美國別惹事?!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美國大後方反了 自組中東版北約ABT 錢.軍力.核武全到位 阿拉伯世界史無前例大團結 大使:先痛揍以色列 再警告美國別惹事?!.png" group-title="youtube",youtube [VOD] 美國大後方反了 自組中東版北約ABT 錢.軍力.核武全到位 阿拉伯世界史無前例大團結 大使:先痛揍以色列 再警告美國別惹事?!
+http://ncncha.cloudns.ch:9977/play?id=U2SgXomqRDU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 美國狂怒無人機對標攻擊-11 小艦長:根本不是對手丟臉啊!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美國狂怒無人機對標攻擊-11 小艦長:根本不是對手丟臉啊!.png" group-title="youtube",youtube [VOD] 美國狂怒無人機對標攻擊-11 小艦長:根本不是對手丟臉啊!
+http://ncncha.cloudns.ch:9977/play?id=hGW8slj7yEQ&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 蔣萬安批民進黨著牌疫苗、毒油爭議 恐譙政府都在便拗、黑箱？【#今日精華搶先看】少康戰情室 20260810｜#高嘉瑜 #張啓楷 #侯漢廷 #賴士葆 #陳以信" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 蔣萬安批民進黨著牌疫苗、毒油爭議 恐譙政府都在便拗、黑箱？【#今日精華搶先看】少康戰情室 20260810｜#高嘉瑜 #張啓楷 #侯漢廷 #賴士葆 #陳以信.png" group-title="youtube",youtube [VOD] 蔣萬安批民進黨著牌疫苗、毒油爭議 恐譙政府都在便拗、黑箱？【#今日精華搶先看】少康戰情室 20260810｜#高嘉瑜 #張啓楷 #侯漢廷 #賴士葆 #陳以信
 http://ncncha.cloudns.ch:9977/play?id=xR0tT53ZUgE&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 近觀中國｜全網托舉的奇蹟！社交媒體“救活”長江渡輪、也改寫重慶大山老人生計：“背簍渡輪”背後 是千千萬萬陌生人的善意接力！｜20260807 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 近觀中國｜全網托舉的奇蹟！社交媒體“救活”長江渡輪、也改寫重慶大山老人生計：“背簍渡輪”背後 是千千萬萬陌生人的善意接力！｜20260807 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 近觀中國｜全網托舉的奇蹟！社交媒體“救活”長江渡輪、也改寫重慶大山老人生計：“背簍渡輪”背後 是千千萬萬陌生人的善意接力！｜20260807 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=KWe89UFirSg&quality=360p
-#EXTINF:-1 tvg-name="中天娱乐频道" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐频道.png" group-title="youtube",中天娱乐频道
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="中天新闻4Gtv" tvg-logo="https://live.fanmingming.cn/tv/中天新闻4Gtv.png" group-title="youtube",中天新闻4Gtv
-http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻4Gtv" tvg-logo="https://live.fanmingming.cn/tv/中天新闻4Gtv.png" group-title="youtube",中天新闻4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻4Gtv" tvg-logo="https://live.fanmingming.cn/tv/中天新闻4Gtv.png" group-title="youtube",中天新闻4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中天新闻Pdtv" tvg-logo="https://live.fanmingming.cn/tv/中天新闻Pdtv.png" group-title="youtube",中天新闻Pdtv
-http://rihou.cc:555/tv/[Pd]中天新闻
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[SZ]中天新闻
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-rtmp://221.4.216.91/live/332123-ztxw
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[Hv]中天新聞
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[Us]中天新闻
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[Bx]中天新闻
-#EXTINF:-1 tvg-name="19:30中国女篮🆚尼日利亚女篮" tvg-logo="https://live.fanmingming.cn/tv/19:30中国女篮🆚尼日利亚女篮.png" group-title="冰茶体育",19:30中国女篮🆚尼日利亚女篮
-http://rihou.cc:555/tv/v
-#EXTINF:-1 tvg-name="⬇️刘德华<今日>演唱会精彩片段⬇️" tvg-logo="https://live.fanmingming.cn/tv/⬇️刘德华<今日>演唱会精彩片段⬇️.png" group-title="冰茶体育",⬇️刘德华<今日>演唱会精彩片段⬇️
-http://rihou.cc:555/tv/t
-#EXTINF:-1 tvg-name="人民日报抖播" tvg-logo="https://live.fanmingming.cn/tv/人民日报抖播.png" group-title="冰茶体育",人民日报抖播
-video://https://live.douyin.com/35849862298
-#EXTINF:-1 tvg-name="人民日报直播" tvg-logo="https://live.fanmingming.cn/tv/人民日报直播.png" group-title="冰茶体育",人民日报直播
-video://https://live.douyin.com/35849862298
-#EXTINF:-1 tvg-name="今日关注抖播" tvg-logo="https://live.fanmingming.cn/tv/今日关注抖播.png" group-title="冰茶体育",今日关注抖播
-video://https://live.douyin.com/302453514547
-#EXTINF:-1 tvg-name="今日关注直播" tvg-logo="https://live.fanmingming.cn/tv/今日关注直播.png" group-title="冰茶体育",今日关注直播
-video://https://live.douyin.com/302453514547
-#EXTINF:-1 tvg-name="今日新闻4Gtv" tvg-logo="https://live.fanmingming.cn/tv/今日新闻4Gtv.png" group-title="冰茶体育",今日新闻4Gtv
-http://nmk.ioapk.com:5050/nnews-zh/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="今日演唱会上" tvg-logo="https://live.fanmingming.cn/tv/今日演唱会上.png" group-title="冰茶体育",今日演唱会上
-http://rihou.cc:555/tv/[mv]今日演上
-#EXTINF:-1 tvg-name="今日演唱会下" tvg-logo="https://live.fanmingming.cn/tv/今日演唱会下.png" group-title="冰茶体育",今日演唱会下
-http://rihou.cc:555/tv/[mv]今日演下
-#EXTINF:-1 tvg-name="今日演唱会中" tvg-logo="https://live.fanmingming.cn/tv/今日演唱会中.png" group-title="冰茶体育",今日演唱会中
-http://rihou.cc:555/tv/[mv]今日演中
-#EXTINF:-1 tvg-name="北京日报直播" tvg-logo="https://live.fanmingming.cn/tv/北京日报直播.png" group-title="冰茶体育",北京日报直播
-video://https://live.douyin.com/678544089361
-#EXTINF:-1 tvg-name="往日少年家驹" tvg-logo="https://live.fanmingming.cn/tv/往日少年家驹.png" group-title="冰茶体育",往日少年家驹
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e927e7581658b7010370019ac3e18182_258.mp4
-#EXTINF:-1 tvg-name="旧日的足迹版" tvg-logo="https://live.fanmingming.cn/tv/旧日的足迹版.png" group-title="冰茶体育",旧日的足迹版
-https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c76cfbbc17c14f037001994b03cd07_258.mp4
-#EXTINF:-1 tvg-name="海南日报抖播" tvg-logo="https://live.fanmingming.cn/tv/海南日报抖播.png" group-title="冰茶体育",海南日报抖播
-video://https://live.douyin.com/33068222133
-#EXTINF:-1 tvg-name="海南日报直播" tvg-logo="https://live.fanmingming.cn/tv/海南日报直播.png" group-title="冰茶体育",海南日报直播
-video://https://live.douyin.com/33068222133
-#EXTINF:-1 tvg-name="湖北日报直播" tvg-logo="https://live.fanmingming.cn/tv/湖北日报直播.png" group-title="冰茶体育",湖北日报直播
-video://https://live.douyin.com/596554118511
-#EXTINF:-1 tvg-name="纬来日本频道" tvg-logo="https://live.fanmingming.cn/tv/纬来日本频道.png" group-title="冰茶体育",纬来日本频道
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-name="辽宁日报抖页" tvg-logo="https://live.fanmingming.cn/tv/辽宁日报抖页.png" group-title="冰茶体育",辽宁日报抖页
-video://https://live.douyin.com/728163755446
-#EXTINF:-1 tvg-name="靖天日本4Gtv" tvg-logo="https://live.fanmingming.cn/tv/靖天日本4Gtv.png" group-title="冰茶体育",靖天日本4Gtv
-http://nmk.ioapk.com:5050/4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="靖天日本4Gtv" tvg-logo="https://live.fanmingming.cn/tv/靖天日本4Gtv.png" group-title="冰茶体育",靖天日本4Gtv
-http://nmk.ioapk.com:5050/li-4gtv-4gtv047/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华日韩4Gtv" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩4Gtv.png" group-title="冰茶体育",龙华日韩4Gtv
-http://nmk.ioapk.com:5050/litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华日韩4Gtv" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩4Gtv.png" group-title="冰茶体育",龙华日韩4Gtv
-http://nmk.ioapk.com:5050/li-litv-longturn11/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="龙华日韩Pdtv" tvg-logo="https://live.fanmingming.cn/tv/龙华日韩Pdtv.png" group-title="冰茶体育",龙华日韩Pdtv
-http://rihou.cc:555/tv/[Pd]龙华日韩
 #EXTINF:-1 tvg-name="咪咕视频-1" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-1.png" group-title="河南频道",咪咕视频-1
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="咪咕视频-10" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-10.png" group-title="河南频道",咪咕视频-10
