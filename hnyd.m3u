@@ -77,8 +77,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227367/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227365/index.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index.m3u8
-#EXTINF:-1 tvg-name="X战警黑凤凰" tvg-logo="https://live.fanmingming.cn/tv/X战警黑凤凰.png" group-title="港澳频道",X战警黑凤凰
-https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.cn/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
@@ -101,22 +99,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227204/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227185/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
-#EXTINF:-1 tvg-name="凤凰中文FYtv" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文FYtv.png" group-title="港澳频道",凤凰中文FYtv
-http://iptv.4666888.xyz/iptv2A.php?id=27
-#EXTINF:-1 tvg-name="凤凰中文欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文欣赏.png" group-title="港澳频道",凤凰中文欣赏
-http://rihou.cc:555/tv/[Pd]凤凰中文
-#EXTINF:-1 tvg-name="凤凰新闻网播" tvg-logo="https://live.fanmingming.cn/tv/凤凰新闻网播.png" group-title="港澳频道",凤凰新闻网播
-video://https://live.douyin.com/40184312758
-#EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
-http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
-http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="凤凰资讯欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯欣赏.png" group-title="港澳频道",凤凰资讯欣赏
-http://rihou.cc:555/tv/[Pd]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰香港欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港欣赏.png" group-title="港澳频道",凤凰香港欣赏
-http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227232/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
@@ -247,104 +229,58 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226453/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/index.m3u8
-#EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】柯文哲遭控涉京華城等弊案 二審今首開庭｜烏克蘭稱俄羅斯恢復空襲基輔｜英首相伯納姆與特朗普通電話 談俄烏中東｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】柯文哲遭控涉京華城等弊案 二審今首開庭｜烏克蘭稱俄羅斯恢復空襲基輔｜英首相伯納姆與特朗普通電話 談俄烏中東｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】柯文哲遭控涉京華城等弊案 二審今首開庭｜烏克蘭稱俄羅斯恢復空襲基輔｜英首相伯納姆與特朗普通電話 談俄烏中東｜24-hour live news｜24小时直播间#鳳凰衛視
+#EXTINF:-1 tvg-name="youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／新颱風快生成「首波東北季風明殺到」2地炸雨！／加拿大「硬槓白宮」報復性關稅今生效　#新聞大白話 #少康戰情室 #國民大會 #國民開小會" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／新颱風快生成「首波東北季風明殺到」2地炸雨！／加拿大「硬槓白宮」報復性關稅今生效　#新聞大白話 #少康戰情室 #國民大會 #國民開小會.png" group-title="youtube",youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／新颱風快生成「首波東北季風明殺到」2地炸雨！／加拿大「硬槓白宮」報復性關稅今生效　#新聞大白話 #少康戰情室 #國民大會 #國民開小會
+http://ncncha.cloudns.ch:9977/play?id=Cb5MRzy0aiQ&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗：完全有能力打美國軍艦｜澤連斯基：預計9月中下旬與特朗普會面｜也門胡塞武裝與沙特交火持續 致73傷｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗：完全有能力打美國軍艦｜澤連斯基：預計9月中下旬與特朗普會面｜也門胡塞武裝與沙特交火持續 致73傷｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】伊朗：完全有能力打美國軍艦｜澤連斯基：預計9月中下旬與特朗普會面｜也門胡塞武裝與沙特交火持續 致73傷｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=Ry--eMIjYLQ&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE.png" group-title="youtube",youtube [LIVE] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=gzB8H1TieM4&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 🔴LIVE：2026.09.08 新聞大白話【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴LIVE：2026.09.08 新聞大白話【14:00全球開播】.png" group-title="youtube",youtube [LIVE] 🔴LIVE：2026.09.08 新聞大白話【14:00全球開播】
-http://ncncha.cloudns.ch:9977/play?id=vUIVk8eX5n4&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] CNN驚爆!美國準備淡出中東?! 郭正亮:伊斯蘭大團結 對美以造成重大傷害" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] CNN驚爆!美國準備淡出中東?! 郭正亮:伊斯蘭大團結 對美以造成重大傷害.png" group-title="youtube",youtube [VOD] CNN驚爆!美國準備淡出中東?! 郭正亮:伊斯蘭大團結 對美以造成重大傷害
+http://ncncha.cloudns.ch:9977/play?id=SIZrk6UXE9s&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】金正恩展示「核武級」驅逐艦　姜健號下水劍指美日韓軍演？ #少康戰情室 20260908" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】金正恩展示「核武級」驅逐艦　姜健號下水劍指美日韓軍演？ #少康戰情室 20260908.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】金正恩展示「核武級」驅逐艦　姜健號下水劍指美日韓軍演？ #少康戰情室 20260908
 http://ncncha.cloudns.ch:9977/play?id=BswYf_4agU0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】柯P出庭!不服遭判17年上訴二審!  小草集結舉牌喊"還我阿北"! 吳怡萱.陳智菡現身力挺!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】柯P出庭!不服遭判17年上訴二審!  小草集結舉牌喊"還我阿北"! 吳怡萱.陳智菡現身力挺!.png" group-title="youtube",youtube [VOD] 【全程字幕】柯P出庭!不服遭判17年上訴二審!  小草集結舉牌喊"還我阿北"! 吳怡萱.陳智菡現身力挺!
-http://ncncha.cloudns.ch:9977/play?id=M35kCg2Aqh0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】淡水藥師"黑歷史"連爆 "不當舉止"受害恐再增｜三立前副總兒涉不當侵害! 女藝人現身北院"隔離"控訴! 20260908" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】淡水藥師"黑歷史"連爆 "不當舉止"受害恐再增｜三立前副總兒涉不當侵害! 女藝人現身北院"隔離"控訴! 20260908.png" group-title="youtube",youtube [VOD] 【每日必看】淡水藥師"黑歷史"連爆 "不當舉止"受害恐再增｜三立前副總兒涉不當侵害! 女藝人現身北院"隔離"控訴! 20260908
-http://ncncha.cloudns.ch:9977/play?id=exxnu9DdOTs&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE.png" group-title="youtube",youtube [VOD] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=dyLczgTFTDE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE.png" group-title="youtube",youtube [VOD] 京華城案一審遭判17年 柯文哲二審今首開庭｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=gzB8H1TieM4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 伊朗殺紅眼!首測"最新武器"染血美航母..多名美軍慘死 F-35戰機嚇跑全撤了!栗正傑曝伊朗"重量級人物"接任國安秘書長:他不會妥協!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 伊朗殺紅眼!首測"最新武器"染血美航母..多名美軍慘死 F-35戰機嚇跑全撤了!栗正傑曝伊朗"重量級人物"接任國安秘書長:他不會妥協!.png" group-title="youtube",youtube [VOD] 伊朗殺紅眼!首測"最新武器"染血美航母..多名美軍慘死 F-35戰機嚇跑全撤了!栗正傑曝伊朗"重量級人物"接任國安秘書長:他不會妥協!
-http://ncncha.cloudns.ch:9977/play?id=9gsibfHRgpw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 力挺何欣純拚選戰 蔡英文親臨競選總部｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 力挺何欣純拚選戰 蔡英文親臨競選總部｜LIVE.png" group-title="youtube",youtube [VOD] 力挺何欣純拚選戰 蔡英文親臨競選總部｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=FZFxCXq1KrY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 力挺何欣純拚選戰 蔡英文親臨競選總部｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 力挺何欣純拚選戰 蔡英文親臨競選總部｜LIVE.png" group-title="youtube",youtube [VOD] 力挺何欣純拚選戰 蔡英文親臨競選總部｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=uEOewHEhsY8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 印尼3天內3座火山接連噴發‼️火山灰高達1.5萬米，8座機場臨時關閉🌋#鳳凰衛視 #印尼 #火山 #噴發" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 印尼3天內3座火山接連噴發‼️火山灰高達1.5萬米，8座機場臨時關閉🌋#鳳凰衛視 #印尼 #火山 #噴發.png" group-title="youtube",youtube [VOD] 印尼3天內3座火山接連噴發‼️火山灰高達1.5萬米，8座機場臨時關閉🌋#鳳凰衛視 #印尼 #火山 #噴發
-http://ncncha.cloudns.ch:9977/play?id=rFyROgqNAoQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 台北市長蔣萬安 市議會備詢｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台北市長蔣萬安 市議會備詢｜LIVE.png" group-title="youtube",youtube [VOD] 台北市長蔣萬安 市議會備詢｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=3v4kvhy6dWk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 台北市長蔣萬安 市議會備詢｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台北市長蔣萬安 市議會備詢｜LIVE.png" group-title="youtube",youtube [VOD] 台北市長蔣萬安 市議會備詢｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=zSy08E6ZEbk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 大晴天也淹水?!台南自來水管爆裂 公車慘陷坑洞 管齡52年將汰換" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 大晴天也淹水?!台南自來水管爆裂 公車慘陷坑洞 管齡52年將汰換.png" group-title="youtube",youtube [VOD] 大晴天也淹水?!台南自來水管爆裂 公車慘陷坑洞 管齡52年將汰換
-http://ncncha.cloudns.ch:9977/play?id=UjwpK54L_SA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 房間被翻箱倒櫃！調皮邊牧被抓包「心虛撇頭」　媽生氣質問牠還轉身裝傻" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 房間被翻箱倒櫃！調皮邊牧被抓包「心虛撇頭」　媽生氣質問牠還轉身裝傻.png" group-title="youtube",youtube [VOD] 房間被翻箱倒櫃！調皮邊牧被抓包「心虛撇頭」　媽生氣質問牠還轉身裝傻
-http://ncncha.cloudns.ch:9977/play?id=W58UVgt76AA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜先俄後烏！特朗普“秘密和平方案”直奔莫斯科再壓基輔：普京停襲3天給足面子！14萬億美俄能源合作暴露白宮野心 中選逼近、特朗普押上“和平最後一搏”？｜20260907 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜先俄後烏！特朗普“秘密和平方案”直奔莫斯科再壓基輔：普京停襲3天給足面子！14萬億美俄能源合作暴露白宮野心 中選逼近、特朗普押上“和平最後一搏”？｜20260907 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜先俄後烏！特朗普“秘密和平方案”直奔莫斯科再壓基輔：普京停襲3天給足面子！14萬億美俄能源合作暴露白宮野心 中選逼近、特朗普押上“和平最後一搏”？｜20260907 #鳳凰衛視
-http://ncncha.cloudns.ch:9977/play?id=IuXeCf6-qyE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜美航母漂泊280天！伊朗打掉中東補給點 美軍不敢靠岸、被迫“海上流浪”？11艘航母僅3艘能戰、大修動輒2年：美國造船業衰退 中國反超？｜20260907 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜美航母漂泊280天！伊朗打掉中東補給點 美軍不敢靠岸、被迫“海上流浪”？11艘航母僅3艘能戰、大修動輒2年：美國造船業衰退 中國反超？｜20260907 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜美航母漂泊280天！伊朗打掉中東補給點 美軍不敢靠岸、被迫“海上流浪”？11艘航母僅3艘能戰、大修動輒2年：美國造船業衰退 中國反超？｜20260907 #鳳凰衛視
-http://ncncha.cloudns.ch:9977/play?id=U8i_trV5Few&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 泥石流失蹤女警文燕失聯..父母抵事發地"手捧口岸土" 心碎發文:沒能把你帶回家 很遺憾.." tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 泥石流失蹤女警文燕失聯..父母抵事發地"手捧口岸土" 心碎發文:沒能把你帶回家 很遺憾...png" group-title="youtube",youtube [VOD] 泥石流失蹤女警文燕失聯..父母抵事發地"手捧口岸土" 心碎發文:沒能把你帶回家 很遺憾..
-http://ncncha.cloudns.ch:9977/play?id=WqvJ-8C2W9k&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 盧秀燕視察中火 燃煤機拆除進度｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 盧秀燕視察中火 燃煤機拆除進度｜LIVE.png" group-title="youtube",youtube [VOD] 盧秀燕視察中火 燃煤機拆除進度｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=Fo1b_ntadSY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 盧秀燕視察中火 燃煤機拆除進度｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 盧秀燕視察中火 燃煤機拆除進度｜LIVE.png" group-title="youtube",youtube [VOD] 盧秀燕視察中火 燃煤機拆除進度｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=eP0FeunZucc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 石評天下｜中東百年大變局！美軍被伊朗打穿、石齊平斷言“特朗普會向伊朗求饒”！沙特土耳其覺醒、麥加協議打響“去美國化”第一槍：中東拒絕再靠美國、轉向北京？20260907 #石評天下 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 石評天下｜中東百年大變局！美軍被伊朗打穿、石齊平斷言“特朗普會向伊朗求饒”！沙特土耳其覺醒、麥加協議打響“去美國化”第一槍：中東拒絕再靠美國、轉向北京？20260907 #石評天下 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 石評天下｜中東百年大變局！美軍被伊朗打穿、石齊平斷言“特朗普會向伊朗求饒”！沙特土耳其覺醒、麥加協議打響“去美國化”第一槍：中東拒絕再靠美國、轉向北京？20260907 #石評天下 #鳳凰衛視
-http://ncncha.cloudns.ch:9977/play?id=gaX_zZLwe2c&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 議員遭爆急診吼醫護 李柏毅親回應｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 議員遭爆急診吼醫護 李柏毅親回應｜LIVE.png" group-title="youtube",youtube [VOD] 議員遭爆急診吼醫護 李柏毅親回應｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=COGY9M4i5x4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 議員遭爆急診吼醫護 李柏毅親回應｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 議員遭爆急診吼醫護 李柏毅親回應｜LIVE.png" group-title="youtube",youtube [VOD] 議員遭爆急診吼醫護 李柏毅親回應｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=DYF5wTP-CAY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 鳳凰記者現場報道｜王毅會見墨西哥外長貝拉斯科，願不斷深化中墨全面戰略夥伴關係 #鳳凰衛視 #王毅 #墨西哥 #中國 #外交" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鳳凰記者現場報道｜王毅會見墨西哥外長貝拉斯科，願不斷深化中墨全面戰略夥伴關係 #鳳凰衛視 #王毅 #墨西哥 #中國 #外交.png" group-title="youtube",youtube [VOD] 鳳凰記者現場報道｜王毅會見墨西哥外長貝拉斯科，願不斷深化中墨全面戰略夥伴關係 #鳳凰衛視 #王毅 #墨西哥 #中國 #外交
-http://ncncha.cloudns.ch:9977/play?id=vY5Cb9djvTI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 鳳凰記者直擊霍爾木茲海峽‼️大批商船滯留近6個月，未經伊朗同意無法通行  #鳳凰衛視 #霍爾木茲 #海峽 #美伊 #伊朗" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 鳳凰記者直擊霍爾木茲海峽‼️大批商船滯留近6個月，未經伊朗同意無法通行  #鳳凰衛視 #霍爾木茲 #海峽 #美伊 #伊朗.png" group-title="youtube",youtube [VOD] 鳳凰記者直擊霍爾木茲海峽‼️大批商船滯留近6個月，未經伊朗同意無法通行  #鳳凰衛視 #霍爾木茲 #海峽 #美伊 #伊朗
-http://ncncha.cloudns.ch:9977/play?id=8g-jTWMK-BY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 🔴LIVE：2026.09.08 新聞大白話【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 🔴LIVE：2026.09.08 新聞大白話【14:00全球開播】.png" group-title="youtube",youtube [VOD] 🔴LIVE：2026.09.08 新聞大白話【14:00全球開播】
-http://ncncha.cloudns.ch:9977/play?id=vUIVk8eX5n4&quality=360p
-#EXTINF:-1 tvg-name="中天娱乐频道" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐频道.png" group-title="youtube",中天娱乐频道
-http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[Pd]中天新闻
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[SZ]中天新闻
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[Hv]中天新聞
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[Us]中天新闻
-#EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
-http://rihou.cc:555/tv/[Bx]中天新闻
-#EXTINF:-1 tvg-name="⬇️刘德华<今日>演唱会精彩片段⬇️" tvg-logo="https://live.fanmingming.cn/tv/⬇️刘德华<今日>演唱会精彩片段⬇️.png" group-title="冰茶体育",⬇️刘德华<今日>演唱会精彩片段⬇️
-http://rihou.cc:555/tv/t
-#EXTINF:-1 tvg-name="人民日报抖播" tvg-logo="https://live.fanmingming.cn/tv/人民日报抖播.png" group-title="冰茶体育",人民日报抖播
-video://https://live.douyin.com/35849862298
-#EXTINF:-1 tvg-name="人民日报直播" tvg-logo="https://live.fanmingming.cn/tv/人民日报直播.png" group-title="冰茶体育",人民日报直播
-video://https://live.douyin.com/35849862298
-#EXTINF:-1 tvg-name="今日关注抖播" tvg-logo="https://live.fanmingming.cn/tv/今日关注抖播.png" group-title="冰茶体育",今日关注抖播
-video://https://live.douyin.com/302453514547
-#EXTINF:-1 tvg-name="今日关注直播" tvg-logo="https://live.fanmingming.cn/tv/今日关注直播.png" group-title="冰茶体育",今日关注直播
-video://https://live.douyin.com/302453514547
-#EXTINF:-1 tvg-name="今日演唱会上" tvg-logo="https://live.fanmingming.cn/tv/今日演唱会上.png" group-title="冰茶体育",今日演唱会上
-http://rihou.cc:555/tv/[mv]今日演上
-#EXTINF:-1 tvg-name="今日演唱会下" tvg-logo="https://live.fanmingming.cn/tv/今日演唱会下.png" group-title="冰茶体育",今日演唱会下
-http://rihou.cc:555/tv/[mv]今日演下
-#EXTINF:-1 tvg-name="今日演唱会中" tvg-logo="https://live.fanmingming.cn/tv/今日演唱会中.png" group-title="冰茶体育",今日演唱会中
-http://rihou.cc:555/tv/[mv]今日演中
-#EXTINF:-1 tvg-name="北京日报直播" tvg-logo="https://live.fanmingming.cn/tv/北京日报直播.png" group-title="冰茶体育",北京日报直播
-video://https://live.douyin.com/678544089361
-#EXTINF:-1 tvg-name="往日少年家驹" tvg-logo="https://live.fanmingming.cn/tv/往日少年家驹.png" group-title="冰茶体育",往日少年家驹
-https://sns-video-default.xhscdn.com/stream/1/110/258/01e927e7581658b7010370019ac3e18182_258.mp4
-#EXTINF:-1 tvg-name="旧日的足迹版" tvg-logo="https://live.fanmingming.cn/tv/旧日的足迹版.png" group-title="冰茶体育",旧日的足迹版
-https://sns-video-default.xhscdn.com/stream/79/110/258/01e8c76cfbbc17c14f037001994b03cd07_258.mp4
-#EXTINF:-1 tvg-name="海南日报抖播" tvg-logo="https://live.fanmingming.cn/tv/海南日报抖播.png" group-title="冰茶体育",海南日报抖播
-video://https://live.douyin.com/33068222133
-#EXTINF:-1 tvg-name="海南日报直播" tvg-logo="https://live.fanmingming.cn/tv/海南日报直播.png" group-title="冰茶体育",海南日报直播
-video://https://live.douyin.com/33068222133
-#EXTINF:-1 tvg-name="湖北日报直播" tvg-logo="https://live.fanmingming.cn/tv/湖北日报直播.png" group-title="冰茶体育",湖北日报直播
-video://https://live.douyin.com/596554118511
-#EXTINF:-1 tvg-name="纬来日本频道" tvg-logo="https://live.fanmingming.cn/tv/纬来日本频道.png" group-title="冰茶体育",纬来日本频道
-rtmp://f13h.mine.nu/sat/tv771
-#EXTINF:-1 tvg-name="辽宁日报抖页" tvg-logo="https://live.fanmingming.cn/tv/辽宁日报抖页.png" group-title="冰茶体育",辽宁日报抖页
-video://https://live.douyin.com/728163755446
+#EXTINF:-1 tvg-name="youtube [VOD] 【#精選】中國海警「繞到台灣後門」東部不再安全？！萬噸級帶隊「台灣4千噸怎麼趕」郭正亮示警：外援生命線恐被掐！【#新聞大白話】#郭正亮 #中國海警 #花東外海 #國防動員法" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】中國海警「繞到台灣後門」東部不再安全？！萬噸級帶隊「台灣4千噸怎麼趕」郭正亮示警：外援生命線恐被掐！【#新聞大白話】#郭正亮 #中國海警 #花東外海 #國防動員法.png" group-title="youtube",youtube [VOD] 【#精選】中國海警「繞到台灣後門」東部不再安全？！萬噸級帶隊「台灣4千噸怎麼趕」郭正亮示警：外援生命線恐被掐！【#新聞大白話】#郭正亮 #中國海警 #花東外海 #國防動員法
+http://ncncha.cloudns.ch:9977/play?id=qQlVGEVA_Tw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】中日軍機連5天對峙 陸黃金儲備創新高【#新聞大白話】20260908 #字幕版 #黃金 #中日#創新高" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】中日軍機連5天對峙 陸黃金儲備創新高【#新聞大白話】20260908 #字幕版 #黃金 #中日#創新高.png" group-title="youtube",youtube [VOD] 【SUB】中日軍機連5天對峙 陸黃金儲備創新高【#新聞大白話】20260908 #字幕版 #黃金 #中日#創新高
+http://ncncha.cloudns.ch:9977/play?id=a3Tx5I2m4NQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】德國親俄政黨大勝？陸反傾銷制裁日本【#新聞大白話】20260908 #字幕版 #日本 #德國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】德國親俄政黨大勝？陸反傾銷制裁日本【#新聞大白話】20260908 #字幕版 #日本 #德國.png" group-title="youtube",youtube [VOD] 【SUB】德國親俄政黨大勝？陸反傾銷制裁日本【#新聞大白話】20260908 #字幕版 #日本 #德國
+http://ncncha.cloudns.ch:9977/play?id=wFCDTV-NA2M&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】美艦上空炸如地獄! 伊朗神秘殺器直撲航母  帥化民:精度在20米內 郭正亮:美艦被趕跑是必然" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】美艦上空炸如地獄! 伊朗神秘殺器直撲航母  帥化民:精度在20米內 郭正亮:美艦被趕跑是必然.png" group-title="youtube",youtube [VOD] 【全程字幕】美艦上空炸如地獄! 伊朗神秘殺器直撲航母  帥化民:精度在20米內 郭正亮:美艦被趕跑是必然
+http://ncncha.cloudns.ch:9977/play?id=YRfTXRDxDG0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】蔣萬安聲量破18萬!「肉搜15歲兒」連王世堅都怒 郭正亮打臉綠營雙標:藍白至少有做人底線" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】蔣萬安聲量破18萬!「肉搜15歲兒」連王世堅都怒 郭正亮打臉綠營雙標:藍白至少有做人底線.png" group-title="youtube",youtube [VOD] 【全程字幕】蔣萬安聲量破18萬!「肉搜15歲兒」連王世堅都怒 郭正亮打臉綠營雙標:藍白至少有做人底線
+http://ncncha.cloudns.ch:9977/play?id=voxZVyrquF8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】北韓驅逐艦「姜健號」入列　金正恩攜妻女亮相、高喊核對抗？#少康戰情室 202609008 #沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】北韓驅逐艦「姜健號」入列　金正恩攜妻女亮相、高喊核對抗？#少康戰情室 202609008 #沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨.png" group-title="youtube",youtube [VOD] 【完整版上集】北韓驅逐艦「姜健號」入列　金正恩攜妻女亮相、高喊核對抗？#少康戰情室 202609008 #沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨
+http://ncncha.cloudns.ch:9977/play?id=ax4t-nxAXNM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】吳子嘉翻徐欣瑩LINE「未承諾禮讓」　告發柯文哲、黃國昌掀戰火？20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】吳子嘉翻徐欣瑩LINE「未承諾禮讓」　告發柯文哲、黃國昌掀戰火？20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨.png" group-title="youtube",youtube [VOD] 【完整版下集】吳子嘉翻徐欣瑩LINE「未承諾禮讓」　告發柯文哲、黃國昌掀戰火？20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨
+http://ncncha.cloudns.ch:9977/play?id=kmJTu9GvbNg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】路透揭北京布局解放軍模擬「逐間清剿」　台海恐成機器人大戰？20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】路透揭北京布局解放軍模擬「逐間清剿」　台海恐成機器人大戰？20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨.png" group-title="youtube",youtube [VOD] 【完整版中集】路透揭北京布局解放軍模擬「逐間清剿」　台海恐成機器人大戰？20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨
+http://ncncha.cloudns.ch:9977/play?id=dSdpW_sMqr8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 中方邀請境外記者團進入吉隆災區採訪‼️記者感慨救援之難，讚中國應急救援速度 #鳳凰衛視 #吉隆 #泥石流" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 中方邀請境外記者團進入吉隆災區採訪‼️記者感慨救援之難，讚中國應急救援速度 #鳳凰衛視 #吉隆 #泥石流.png" group-title="youtube",youtube [VOD] 中方邀請境外記者團進入吉隆災區採訪‼️記者感慨救援之難，讚中國應急救援速度 #鳳凰衛視 #吉隆 #泥石流
+http://ncncha.cloudns.ch:9977/play?id=THQlYhtFVgg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 俄總統新聞秘書佩斯科夫：不排除重啟俄美烏三方會談，同日俄烏雙方發動多次猛烈互襲💥 #鳳凰衛視 #俄烏 #美國" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 俄總統新聞秘書佩斯科夫：不排除重啟俄美烏三方會談，同日俄烏雙方發動多次猛烈互襲💥 #鳳凰衛視 #俄烏 #美國.png" group-title="youtube",youtube [VOD] 俄總統新聞秘書佩斯科夫：不排除重啟俄美烏三方會談，同日俄烏雙方發動多次猛烈互襲💥 #鳳凰衛視 #俄烏 #美國
+http://ncncha.cloudns.ch:9977/play?id=vnwbYOtC5qs&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 加拿大反擊「正面硬槓川普」！法語保護條款成談判核心「民調支持政府強硬反擊」！【#大白話說新聞】#加拿大 #美國 #川普 #卡尼" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 加拿大反擊「正面硬槓川普」！法語保護條款成談判核心「民調支持政府強硬反擊」！【#大白話說新聞】#加拿大 #美國 #川普 #卡尼.png" group-title="youtube",youtube [VOD] 加拿大反擊「正面硬槓川普」！法語保護條款成談判核心「民調支持政府強硬反擊」！【#大白話說新聞】#加拿大 #美國 #川普 #卡尼
+http://ncncha.cloudns.ch:9977/play?id=lnuJkpcsmj8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 危險來了! 日圓升破154技術性反彈？郭正亮拆解利差:負債率228% 空頭隨時反噬" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 危險來了! 日圓升破154技術性反彈？郭正亮拆解利差:負債率228% 空頭隨時反噬.png" group-title="youtube",youtube [VOD] 危險來了! 日圓升破154技術性反彈？郭正亮拆解利差:負債率228% 空頭隨時反噬
+http://ncncha.cloudns.ch:9977/play?id=PrEQUe-u83U&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 周榆修：黨盼不擴及其他縣市未來看動態決定 竹縣藍白開撕餘波?【#今日精華搶先看】少康戰情室 20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 周榆修：黨盼不擴及其他縣市未來看動態決定 竹縣藍白開撕餘波?【#今日精華搶先看】少康戰情室 20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨.png" group-title="youtube",youtube [VOD] 周榆修：黨盼不擴及其他縣市未來看動態決定 竹縣藍白開撕餘波?【#今日精華搶先看】少康戰情室 20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨
+http://ncncha.cloudns.ch:9977/play?id=KfW2loLysOs&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 尼泊爾洪災Day11！印度父苦等女兒「雙手合十哭求中國給消息」！CNN質疑大陸官方說法「中方首讓外媒進場」！【#大白話說新聞】#尼泊爾 #西藏 #失蹤 #山洪" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 尼泊爾洪災Day11！印度父苦等女兒「雙手合十哭求中國給消息」！CNN質疑大陸官方說法「中方首讓外媒進場」！【#大白話說新聞】#尼泊爾 #西藏 #失蹤 #山洪.png" group-title="youtube",youtube [VOD] 尼泊爾洪災Day11！印度父苦等女兒「雙手合十哭求中國給消息」！CNN質疑大陸官方說法「中方首讓外媒進場」！【#大白話說新聞】#尼泊爾 #西藏 #失蹤 #山洪
+http://ncncha.cloudns.ch:9977/play?id=v7LliRmmaEU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 川普瘋魔發文 墨西哥.格陵蘭.月亮全是美國領土?! 大使替宇宙第一大總統想好超瘋墓誌銘 郭正亮:他病得不輕啊!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普瘋魔發文 墨西哥.格陵蘭.月亮全是美國領土?! 大使替宇宙第一大總統想好超瘋墓誌銘 郭正亮:他病得不輕啊!.png" group-title="youtube",youtube [VOD] 川普瘋魔發文 墨西哥.格陵蘭.月亮全是美國領土?! 大使替宇宙第一大總統想好超瘋墓誌銘 郭正亮:他病得不輕啊!
+http://ncncha.cloudns.ch:9977/play?id=COxFwSSMebc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜伊朗狂轟美航母！美軍喊“毫髮無傷”卻急撤？特朗普急推“戰後遏制伊朗”：拉中東組聯盟、逼沙特靠攏以色列！專家直言：恐怕“算盤打不響”！｜20260908 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜伊朗狂轟美航母！美軍喊“毫髮無傷”卻急撤？特朗普急推“戰後遏制伊朗”：拉中東組聯盟、逼沙特靠攏以色列！專家直言：恐怕“算盤打不響”！｜20260908 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜伊朗狂轟美航母！美軍喊“毫髮無傷”卻急撤？特朗普急推“戰後遏制伊朗”：拉中東組聯盟、逼沙特靠攏以色列！專家直言：恐怕“算盤打不響”！｜20260908 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=ZoqOaY71JgI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 日駐印大使為印度拚了!?憋氣勇敢跳恆河! 大使給過?! 郭正亮交戰 一招讓莫迪心臟爆擊" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 日駐印大使為印度拚了!?憋氣勇敢跳恆河! 大使給過?! 郭正亮交戰 一招讓莫迪心臟爆擊.png" group-title="youtube",youtube [VOD] 日駐印大使為印度拚了!?憋氣勇敢跳恆河! 大使給過?! 郭正亮交戰 一招讓莫迪心臟爆擊
+http://ncncha.cloudns.ch:9977/play?id=uFltnLzo3rc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 時事三對論｜特朗普極限制裁打空！伊朗借上合“突圍”：挺進中亞打通貿易、俄伊抱團逆勢取暖、籌建新金融避美元！美最怕的“被制裁者陣營”成形？陳鳳翔：不再看美國臉色！｜20260908 #鳳凰衛視 #粵語" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事三對論｜特朗普極限制裁打空！伊朗借上合“突圍”：挺進中亞打通貿易、俄伊抱團逆勢取暖、籌建新金融避美元！美最怕的“被制裁者陣營”成形？陳鳳翔：不再看美國臉色！｜20260908 #鳳凰衛視 #粵語.png" group-title="youtube",youtube [VOD] 時事三對論｜特朗普極限制裁打空！伊朗借上合“突圍”：挺進中亞打通貿易、俄伊抱團逆勢取暖、籌建新金融避美元！美最怕的“被制裁者陣營”成形？陳鳳翔：不再看美國臉色！｜20260908 #鳳凰衛視 #粵語
+http://ncncha.cloudns.ch:9977/play?id=hOpDaR2UhoI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜特朗普急派特使見普京、澤連斯基！俄烏停火有望？俄伊美以各有盤算：澤連斯基怕失位、普京不怕拖、特朗普急拚中期選舉！和平恐只是“喘息戰”？｜20260908 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜特朗普急派特使見普京、澤連斯基！俄烏停火有望？俄伊美以各有盤算：澤連斯基怕失位、普京不怕拖、特朗普急拚中期選舉！和平恐只是“喘息戰”？｜20260908 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜特朗普急派特使見普京、澤連斯基！俄烏停火有望？俄伊美以各有盤算：澤連斯基怕失位、普京不怕拖、特朗普急拚中期選舉！和平恐只是“喘息戰”？｜20260908 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=ehvvGhvaxOE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 生命奇蹟‼️尼泊爾泥石流中國幸存者獲救過程曝光，見到搜救人員瞬間露出笑容…#鳳凰衛視 #吉隆 #泥石流" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 生命奇蹟‼️尼泊爾泥石流中國幸存者獲救過程曝光，見到搜救人員瞬間露出笑容…#鳳凰衛視 #吉隆 #泥石流.png" group-title="youtube",youtube [VOD] 生命奇蹟‼️尼泊爾泥石流中國幸存者獲救過程曝光，見到搜救人員瞬間露出笑容…#鳳凰衛視 #吉隆 #泥石流
+http://ncncha.cloudns.ch:9977/play?id=K4m6DtJHV48&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 藍轟"賴清德愛將"逾2百萬公股酬勞 林國漳橫空出世選宜蘭疑竇?【#今日精華搶先看】少康戰情室 20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 藍轟"賴清德愛將"逾2百萬公股酬勞 林國漳橫空出世選宜蘭疑竇?【#今日精華搶先看】少康戰情室 20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨.png" group-title="youtube",youtube [VOD] 藍轟"賴清德愛將"逾2百萬公股酬勞 林國漳橫空出世選宜蘭疑竇?【#今日精華搶先看】少康戰情室 20260908｜#沈富雄 #黃暐瀚 #陳以信 #游淑慧 #陳鳳馨
+http://ncncha.cloudns.ch:9977/play?id=IlFet72LrsA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 蘋果秋季發表會9/10登場！外媒曝「9大理由」別急著買iPhone 18！【#大白話說新聞】#蘋果 #發表會 #iphone18 #摺疊機" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 蘋果秋季發表會9/10登場！外媒曝「9大理由」別急著買iPhone 18！【#大白話說新聞】#蘋果 #發表會 #iphone18 #摺疊機.png" group-title="youtube",youtube [VOD] 蘋果秋季發表會9/10登場！外媒曝「9大理由」別急著買iPhone 18！【#大白話說新聞】#蘋果 #發表會 #iphone18 #摺疊機
+http://ncncha.cloudns.ch:9977/play?id=2QesFJvlQ2k&quality=360p
 #EXTINF:-1 tvg-name="咪咕视频-1" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-1.png" group-title="河南频道",咪咕视频-1
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="咪咕视频-10" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-10.png" group-title="河南频道",咪咕视频-10
