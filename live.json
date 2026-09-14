@@ -1,4 +1,6 @@
 {
+"lives": [
+{
       "name": "ITV咪咕",
       "type": 0,
       "url": "https://fastgit.cc/https://raw.githubusercontent.com/iTCoffe/Collect-iTV/main/MiGu.m3u",
@@ -509,4 +511,5 @@
       "timeout": 5,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://11.112114.xyz/logo/{name}.png"
-    }
+    }]
+}  
