@@ -102,10 +102,6 @@ http://219.150.217.47:6610/PLTV1/1060/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="X战警黑凤凰" tvg-logo="https://live.fanmingming.cn/tv/X战警黑凤凰.png" group-title="港澳频道",X战警黑凤凰
 https://vd2.bdstatic.com/mda-jetjizur4bnmfux8/hd/mda-jetjizur4bnmfux8.mp4
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-https://mgev.188766.xyz/?migutoken=71657eda6c69117b93846d8ad34c2146&id=fhzw&pp=1
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-https://mgev.188766.xyz/?migutoken=9413f7c93e4b8c78cc843146bdf9cfcd&id=hk_fhzw&type=dy
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://42.92.117.151:8231/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.248.155.220:8889/udp/239.76.253.134:9000
@@ -116,9 +112,9 @@ http://118.251.18.140:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.251.18.140:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.116:8188/udp/239.76.253.134:9000
+http://58.46.29.241:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.29.116:8188/udp/239.76.246.134:1234
+http://58.46.29.241:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -128,7 +124,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰中文欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文欣赏.png" group-title="港澳频道",凤凰中文欣赏
 http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.186:8188/udp/239.1.1.126:8126
+http://110.178.145.181:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.206:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -144,11 +140,7 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-https://mgev.188766.xyz/?migutoken=1548ec5d87b7b871c3821f09ac853d1e&id=fhzx&pp=1
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-https://mgev.188766.xyz/?migutoken=ca5dfa849251703d573304b9f5df04e0&id=hk_fhzx&type=dy
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.186:8188/udp/239.1.1.127:8127
+http://110.178.145.181:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -160,19 +152,15 @@ http://118.251.18.140:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.251.18.140:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.116:8188/udp/239.76.253.135:9000
+http://58.46.29.241:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.29.116:8188/udp/239.76.246.135:1234
+http://58.46.29.241:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.50:5140
 #EXTINF:-1 tvg-name="凤凰资讯欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯欣赏.png" group-title="港澳频道",凤凰资讯欣赏
 http://rihou.cc:555/tv/[Pd]凤凰资讯
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
-https://mgev.188766.xyz/?migutoken=31206284b8700dd6871da4a602998d5e&id=fhhk&pp=1
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
-https://mgev.188766.xyz/?migutoken=85e8fef459b48c079bf6b77239f4a662&id=hk_fhhk&type=dy
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="港澳频道",凤凰香港
 http://42.92.117.151:8231/udp/239.255.30.123:8231
 #EXTINF:-1 tvg-name="凤凰香港欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港欣赏.png" group-title="港澳频道",凤凰香港欣赏
@@ -187,44 +175,34 @@ http://ncncha.cloudns.ch:9977/play?id=HvWkyIEZndI&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 #EXTINF:-1 tvg-name=" 中天新聞" tvg-logo="https://live.fanmingming.cn/tv/ 中天新聞.png" group-title="youtube", 中天新聞
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／川習會前夕突大動作擾台「轟-6K又來」！伴共艦逼近戰備警巡／美傳延後對中關稅　留川習會籌碼？　#新聞大白話 #少康戰情室 #國民大會 #國民開小會" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／川習會前夕突大動作擾台「轟-6K又來」！伴共艦逼近戰備警巡／美傳延後對中關稅　留川習會籌碼？　#新聞大白話 #少康戰情室 #國民大會 #國民開小會.png" group-title="youtube",youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／川習會前夕突大動作擾台「轟-6K又來」！伴共艦逼近戰備警巡／美傳延後對中關稅　留川習會籌碼？　#新聞大白話 #少康戰情室 #國民大會 #國民開小會
-http://ncncha.cloudns.ch:9977/play?id=Cb5MRzy0aiQ&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 15:30【LIVE】　919 大風起｜高雄勝利大會｜鳳山場" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 15:30【LIVE】　919 大風起｜高雄勝利大會｜鳳山場.png" group-title="youtube",youtube [LIVE] 15:30【LIVE】　919 大風起｜高雄勝利大會｜鳳山場
+http://ncncha.cloudns.ch:9977/play?id=wzGpVX2JTYQ&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】中國海警回應菲船隻碰撞中方海警艇：停止侵權挑釁｜特朗普政府准許伊朗總統出席聯大｜美國向中國返還文物與化石｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】中國海警回應菲船隻碰撞中方海警艇：停止侵權挑釁｜特朗普政府准許伊朗總統出席聯大｜美國向中國返還文物與化石｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】中國海警回應菲船隻碰撞中方海警艇：停止侵權挑釁｜特朗普政府准許伊朗總統出席聯大｜美國向中國返還文物與化石｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=Ry--eMIjYLQ&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] 5000美元人人有份？川普把「國會勝選綁現金股利」郭正亮酸：連自己人都不敢附和！【#全球大白話】分段精選｜#郭正亮 #川普 #期中選舉" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 5000美元人人有份？川普把「國會勝選綁現金股利」郭正亮酸：連自己人都不敢附和！【#全球大白話】分段精選｜#郭正亮 #川普 #期中選舉.png" group-title="youtube",youtube [VOD] 5000美元人人有份？川普把「國會勝選綁現金股利」郭正亮酸：連自己人都不敢附和！【#全球大白話】分段精選｜#郭正亮 #川普 #期中選舉
-http://ncncha.cloudns.ch:9977/play?id=sPH_-CZ9ZYc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] Boeing 737 Shakes Apart—FAA Outsourcing Safety Checks to Boeing?! ✈️⚠️#Shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] Boeing 737 Shakes Apart—FAA Outsourcing Safety Checks to Boeing?! ✈️⚠️#Shorts.png" group-title="youtube",youtube [VOD] Boeing 737 Shakes Apart—FAA Outsourcing Safety Checks to Boeing?! ✈️⚠️#Shorts
-http://ncncha.cloudns.ch:9977/play?id=d-xNMLH8krk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】傳川普破例親赴機場接習近平　白宮高規格迎賓細節曝弦外之音？#少康戰情室 20260918" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】傳川普破例親赴機場接習近平　白宮高規格迎賓細節曝弦外之音？#少康戰情室 20260918.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】傳川普破例親赴機場接習近平　白宮高規格迎賓細節曝弦外之音？#少康戰情室 20260918
-http://ncncha.cloudns.ch:9977/play?id=NskB31F9UOs&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#精選】沈伯洋造勢「路人也算洋流」？！賴瑞隆掃街「邀合照沒人理」求黑熊南下救場？！【#新聞大白話】 #郭正亮 #陳揮文 #柯志恩 #賴瑞隆 #沈伯洋" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】沈伯洋造勢「路人也算洋流」？！賴瑞隆掃街「邀合照沒人理」求黑熊南下救場？！【#新聞大白話】 #郭正亮 #陳揮文 #柯志恩 #賴瑞隆 #沈伯洋.png" group-title="youtube",youtube [VOD] 【#精選】沈伯洋造勢「路人也算洋流」？！賴瑞隆掃街「邀合照沒人理」求黑熊南下救場？！【#新聞大白話】 #郭正亮 #陳揮文 #柯志恩 #賴瑞隆 #沈伯洋
-http://ncncha.cloudns.ch:9977/play?id=4qUuEBP19is&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#精選】波音737狂震「客艙天花板整片掉」！美國飛安「陷入惡性循環」FAA安全檢驗發包波音？！【#新聞大白話】#介文汲 #波音737 #FAA #飛安" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】波音737狂震「客艙天花板整片掉」！美國飛安「陷入惡性循環」FAA安全檢驗發包波音？！【#新聞大白話】#介文汲 #波音737 #FAA #飛安.png" group-title="youtube",youtube [VOD] 【#精選】波音737狂震「客艙天花板整片掉」！美國飛安「陷入惡性循環」FAA安全檢驗發包波音？！【#新聞大白話】#介文汲 #波音737 #FAA #飛安
-http://ncncha.cloudns.ch:9977/play?id=MUcQq5pfFoY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】中國一招玩殘日艦？沙國感謝中國出手？【#新聞大白話】20260918 #字幕版 #中國 #沙國 # 日艦" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】中國一招玩殘日艦？沙國感謝中國出手？【#新聞大白話】20260918 #字幕版 #中國 #沙國 # 日艦.png" group-title="youtube",youtube [VOD] 【SUB】中國一招玩殘日艦？沙國感謝中國出手？【#新聞大白話】20260918 #字幕版 #中國 #沙國 # 日艦
-http://ncncha.cloudns.ch:9977/play?id=tc7RNqLOWVM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】川普頂規接習近平 F16頂替6代機缺口？【#新聞大白話】20260918 #字幕版 #川普 #習近平 #F16" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】川普頂規接習近平 F16頂替6代機缺口？【#新聞大白話】20260918 #字幕版 #川普 #習近平 #F16.png" group-title="youtube",youtube [VOD] 【SUB】川普頂規接習近平 F16頂替6代機缺口？【#新聞大白話】20260918 #字幕版 #川普 #習近平 #F16
-http://ncncha.cloudns.ch:9977/play?id=NK0li_j6-KA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】極致尊榮! 川普親自接機習近平 梅蘭妮亞親盯菜單 郭正亮爆:140億台灣軍售真完了?" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】極致尊榮! 川普親自接機習近平 梅蘭妮亞親盯菜單 郭正亮爆:140億台灣軍售真完了?.png" group-title="youtube",youtube [VOD] 【全程字幕】極致尊榮! 川普親自接機習近平 梅蘭妮亞親盯菜單 郭正亮爆:140億台灣軍售真完了?
-http://ncncha.cloudns.ch:9977/play?id=uUsp9euJO7k&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】綠營急下重手有詭 選前兩月突抓謝典霖父子 郭正亮爆:陳素月選情出事了" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】綠營急下重手有詭 選前兩月突抓謝典霖父子 郭正亮爆:陳素月選情出事了.png" group-title="youtube",youtube [VOD] 【全程字幕】綠營急下重手有詭 選前兩月突抓謝典霖父子 郭正亮爆:陳素月選情出事了
-http://ncncha.cloudns.ch:9977/play?id=bzVmsvP0PIo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】美官員證實：川普將親自接機　習近平訪美「難得的殊榮」融冰訊號？ #少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】美官員證實：川普將親自接機　習近平訪美「難得的殊榮」融冰訊號？ #少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版上集】美官員證實：川普將親自接機　習近平訪美「難得的殊榮」融冰訊號？ #少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=DNqxLj7qHpo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】吳思瑤稱沈伯洋民調追近至個位數　洋流崛起綠估選情看漲？#少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】吳思瑤稱沈伯洋民調追近至個位數　洋流崛起綠估選情看漲？#少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版下集】吳思瑤稱沈伯洋民調追近至個位數　洋流崛起綠估選情看漲？#少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=6tftEi8wnb0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】路彰檢搶在開議前出手　謝典霖涉賄遭羈押禁見時機敏感？ #少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】路彰檢搶在開議前出手　謝典霖涉賄遭羈押禁見時機敏感？ #少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版中集】路彰檢搶在開議前出手　謝典霖涉賄遭羈押禁見時機敏感？ #少康戰情室 20260918 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=zC3gW4MRSY0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】以力服人難得人心 新加坡防長北京引孟子｜313人搶進南寧 菲律賓突「大陣仗」赴華｜20260918｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】以力服人難得人心 新加坡防長北京引孟子｜313人搶進南寧 菲律賓突「大陣仗」赴華｜20260918｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】以力服人難得人心 新加坡防長北京引孟子｜313人搶進南寧 菲律賓突「大陣仗」赴華｜20260918｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=DLTkaVB5BQ4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】俄炸毀95街區 澤倫發跡地變廢墟｜俄軍大殺器 轟42次炸爛基輔｜20260918｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】俄炸毀95街區 澤倫發跡地變廢墟｜俄軍大殺器 轟42次炸爛基輔｜20260918｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】俄炸毀95街區 澤倫發跡地變廢墟｜俄軍大殺器 轟42次炸爛基輔｜20260918｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=z-14DUIYnzY&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】歐盟拉加拿大入夥! 川普震怒威脅:可能切斷美歐貿易｜印巴軍艦直撞 互召使節炸了｜20260918｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】歐盟拉加拿大入夥! 川普震怒威脅:可能切斷美歐貿易｜印巴軍艦直撞 互召使節炸了｜20260918｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】歐盟拉加拿大入夥! 川普震怒威脅:可能切斷美歐貿易｜印巴軍艦直撞 互召使節炸了｜20260918｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=OLE1pvRSod0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】胡塞打不停! 沙特找上中國尋求止戰｜胡塞變招了!不碰美以船 專打沙特「以打促談」｜20260918｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】胡塞打不停! 沙特找上中國尋求止戰｜胡塞變招了!不碰美以船 專打沙特「以打促談」｜20260918｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】胡塞打不停! 沙特找上中國尋求止戰｜胡塞變招了!不碰美以船 專打沙特「以打促談」｜20260918｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=RRgHWDJgMCM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 我們和牠們｜“水中大熊貓”長江江豚🐬愛撒嬌抱抱“不理它就吐水”😂長隆基地八年精心保育 #鳳凰衛視 #我們和牠們 #長隆 #江豚" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 我們和牠們｜“水中大熊貓”長江江豚🐬愛撒嬌抱抱“不理它就吐水”😂長隆基地八年精心保育 #鳳凰衛視 #我們和牠們 #長隆 #江豚.png" group-title="youtube",youtube [VOD] 我們和牠們｜“水中大熊貓”長江江豚🐬愛撒嬌抱抱“不理它就吐水”😂長隆基地八年精心保育 #鳳凰衛視 #我們和牠們 #長隆 #江豚
-http://ncncha.cloudns.ch:9977/play?id=mUYlPW0qLEQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [LIVE] 🔴LIVE：2026.09.19新聞大白話特報【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴LIVE：2026.09.19新聞大白話特報【14:00全球開播】.png" group-title="youtube",youtube [LIVE] 🔴LIVE：2026.09.19新聞大白話特報【14:00全球開播】
+http://ncncha.cloudns.ch:9977/play?id=9Gr-zL9oVW8&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] 15:30【LIVE】　919 大風起｜高雄勝利大會｜鳳山場" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 15:30【LIVE】　919 大風起｜高雄勝利大會｜鳳山場.png" group-title="youtube",youtube [VOD] 15:30【LIVE】　919 大風起｜高雄勝利大會｜鳳山場
+http://ncncha.cloudns.ch:9977/play?id=wzGpVX2JTYQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] F-15遭擊落宣稱只是開始！胡塞猛攻沙國、輸油管3站受創！荷姆茲＋曼德海峽「兩大命脈一起出事」布蘭特仍破104美元！【#大白話全球通】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] F-15遭擊落宣稱只是開始！胡塞猛攻沙國、輸油管3站受創！荷姆茲＋曼德海峽「兩大命脈一起出事」布蘭特仍破104美元！【#大白話全球通】.png" group-title="youtube",youtube [VOD] F-15遭擊落宣稱只是開始！胡塞猛攻沙國、輸油管3站受創！荷姆茲＋曼德海峽「兩大命脈一起出事」布蘭特仍破104美元！【#大白話全球通】
+http://ncncha.cloudns.ch:9977/play?id=GLBfWhZosqg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】美國強推"伊朗制裁案"遭封殺! 中俄聯手亮票"否決提案" 傅聰安理會重砲開嗆:對話才是正途!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】美國強推"伊朗制裁案"遭封殺! 中俄聯手亮票"否決提案" 傅聰安理會重砲開嗆:對話才是正途!.png" group-title="youtube",youtube [VOD] 【全程字幕】美國強推"伊朗制裁案"遭封殺! 中俄聯手亮票"否決提案" 傅聰安理會重砲開嗆:對話才是正途!
+http://ncncha.cloudns.ch:9977/play?id=WORIRd3TGzo&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】這一幕...全網怒了!日人街頭演說"否認"南京屠殺事件 當場遭華女抗議!日研發AI"源內"遭爆竄改歷史?" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】這一幕...全網怒了!日人街頭演說"否認"南京屠殺事件 當場遭華女抗議!日研發AI"源內"遭爆竄改歷史?.png" group-title="youtube",youtube [VOD] 【全程字幕】這一幕...全網怒了!日人街頭演說"否認"南京屠殺事件 當場遭華女抗議!日研發AI"源內"遭爆竄改歷史?
+http://ncncha.cloudns.ch:9977/play?id=Ex4P0H893yA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【戰情不斷電】沈伯洋掀「洋流」蔣萬安慘了？　夜市拜票人潮反激藍營危機感 #少康戰情室" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【戰情不斷電】沈伯洋掀「洋流」蔣萬安慘了？　夜市拜票人潮反激藍營危機感 #少康戰情室.png" group-title="youtube",youtube [VOD] 【戰情不斷電】沈伯洋掀「洋流」蔣萬安慘了？　夜市拜票人潮反激藍營危機感 #少康戰情室
+http://ncncha.cloudns.ch:9977/play?id=GrxQeXQfglg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】"洋流"塞爆景美夜市?! 惡搞圖卡"佯瘤"合照"沈伯洋尬笑" 20260919" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】"洋流"塞爆景美夜市?! 惡搞圖卡"佯瘤"合照"沈伯洋尬笑" 20260919.png" group-title="youtube",youtube [VOD] 【每日必看】"洋流"塞爆景美夜市?! 惡搞圖卡"佯瘤"合照"沈伯洋尬笑" 20260919
+http://ncncha.cloudns.ch:9977/play?id=I2PljJOEGzQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】大樓"磁磚掉落"險砸人?! 住戶控"管委會無作為"拖23天 20260919" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】大樓"磁磚掉落"險砸人?! 住戶控"管委會無作為"拖23天 20260919.png" group-title="youtube",youtube [VOD] 【每日必看】大樓"磁磚掉落"險砸人?! 住戶控"管委會無作為"拖23天 20260919
+http://ncncha.cloudns.ch:9977/play?id=hak6dH0g3r8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】川普宣布達"格陵蘭協議"! 美永久掌控安全:敵人進不去 20260919" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】川普宣布達"格陵蘭協議"! 美永久掌控安全:敵人進不去 20260919.png" group-title="youtube",youtube [VOD] 【每日必看】川普宣布達"格陵蘭協議"! 美永久掌控安全:敵人進不去 20260919
+http://ncncha.cloudns.ch:9977/play?id=RSCsFZPlTOE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】搶在川習會前! 聯合國大會高市見川普 保持"對中立場統一" 20260919" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】搶在川習會前! 聯合國大會高市見川普 保持"對中立場統一" 20260919.png" group-title="youtube",youtube [VOD] 【每日必看】搶在川習會前! 聯合國大會高市見川普 保持"對中立場統一" 20260919
+http://ncncha.cloudns.ch:9977/play?id=DE5wqYhxukk&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 國民黨：吳音寧一指控檢調就出手　選前司法大動作打擊異己？#少康戰情室 202609018-2 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 國民黨：吳音寧一指控檢調就出手　選前司法大動作打擊異己？#少康戰情室 202609018-2 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 國民黨：吳音寧一指控檢調就出手　選前司法大動作打擊異己？#少康戰情室 202609018-2 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
+http://ncncha.cloudns.ch:9977/play?id=D1vQUUvWIX0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 尉遲琳嘉跨時空對話蘇軾，揭秘這位“三杯就倒”的文豪，如何在大醉後寫下千古名篇 #古井貢酒 #詩宴徽州 #喝古井天天樂 #古井貢酒年份原漿古20" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 尉遲琳嘉跨時空對話蘇軾，揭秘這位“三杯就倒”的文豪，如何在大醉後寫下千古名篇 #古井貢酒 #詩宴徽州 #喝古井天天樂 #古井貢酒年份原漿古20.png" group-title="youtube",youtube [VOD] 尉遲琳嘉跨時空對話蘇軾，揭秘這位“三杯就倒”的文豪，如何在大醉後寫下千古名篇 #古井貢酒 #詩宴徽州 #喝古井天天樂 #古井貢酒年份原漿古20
+http://ncncha.cloudns.ch:9977/play?id=M7yZYm-JZ7E&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 我們和牠們｜沉浸式看長隆考拉吃播🐨超治癒時刻‼️ #鳳凰衛視 #我們和牠們 #長隆 #考拉" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 我們和牠們｜沉浸式看長隆考拉吃播🐨超治癒時刻‼️ #鳳凰衛視 #我們和牠們 #長隆 #考拉.png" group-title="youtube",youtube [VOD] 我們和牠們｜沉浸式看長隆考拉吃播🐨超治癒時刻‼️ #鳳凰衛視 #我們和牠們 #長隆 #考拉
 http://ncncha.cloudns.ch:9977/play?id=aSSpLpWRH-0&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜霍爾木茲未解、曼德海峽再告急！胡塞連日猛攻 沙特急向英國、以色列求援！紅海危機外溢 埃及、土耳其、巴基斯坦“口頭支持”卻不願出兵：沙特砸錢買美國炸彈反攻？｜20260918 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜霍爾木茲未解、曼德海峽再告急！胡塞連日猛攻 沙特急向英國、以色列求援！紅海危機外溢 埃及、土耳其、巴基斯坦“口頭支持”卻不願出兵：沙特砸錢買美國炸彈反攻？｜20260918 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜霍爾木茲未解、曼德海峽再告急！胡塞連日猛攻 沙特急向英國、以色列求援！紅海危機外溢 埃及、土耳其、巴基斯坦“口頭支持”卻不願出兵：沙特砸錢買美國炸彈反攻？｜20260918 #鳳凰衛視
@@ -233,12 +211,24 @@ http://ncncha.cloudns.ch:9977/play?id=lGmk3Haj5YE&quality=360p
 http://ncncha.cloudns.ch:9977/play?id=ilf0AE664fw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 有報天天讀｜王毅同魯比奧通電話：中美要籌備好下階段高層交往｜時機微妙！特朗普稱考慮重啟對伊打擊 下周聯大會晤海灣六國｜特朗普怒轟歐盟拉攏加拿大 威脅大增關稅｜20260918 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 有報天天讀｜王毅同魯比奧通電話：中美要籌備好下階段高層交往｜時機微妙！特朗普稱考慮重啟對伊打擊 下周聯大會晤海灣六國｜特朗普怒轟歐盟拉攏加拿大 威脅大增關稅｜20260918 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 有報天天讀｜王毅同魯比奧通電話：中美要籌備好下階段高層交往｜時機微妙！特朗普稱考慮重啟對伊打擊 下周聯大會晤海灣六國｜特朗普怒轟歐盟拉攏加拿大 威脅大增關稅｜20260918 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=K4770axR7iM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 格力一虎一席談｜湯家鳳喊話英語降權！先降權重，還是先改“教” 與 “考”？｜20260918 #鳳凰衛視 #一虎一席談 #湯家鳳 #英語降權 #教育改革 #格力電器" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 格力一虎一席談｜湯家鳳喊話英語降權！先降權重，還是先改“教” 與 “考”？｜20260918 #鳳凰衛視 #一虎一席談 #湯家鳳 #英語降權 #教育改革 #格力電器.png" group-title="youtube",youtube [VOD] 格力一虎一席談｜湯家鳳喊話英語降權！先降權重，還是先改“教” 與 “考”？｜20260918 #鳳凰衛視 #一虎一席談 #湯家鳳 #英語降權 #教育改革 #格力電器
-http://ncncha.cloudns.ch:9977/play?id=iNpdFHZoFFQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 綠營吹捧北市掀洋流 李四川妙回”新北川流不息”化解綠營造神？【#今日精華搶先看】少康戰情室 20260918｜#沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 綠營吹捧北市掀洋流 李四川妙回”新北川流不息”化解綠營造神？【#今日精華搶先看】少康戰情室 20260918｜#沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 綠營吹捧北市掀洋流 李四川妙回”新北川流不息”化解綠營造神？【#今日精華搶先看】少康戰情室 20260918｜#沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=yrJOrrZM8rQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 謝典霖父子收押、母鄭汝芬百萬交保 涉詐公款請吃選舉飯？【#今日精華搶先看】少康戰情室 20260918｜#沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 謝典霖父子收押、母鄭汝芬百萬交保 涉詐公款請吃選舉飯？【#今日精華搶先看】少康戰情室 20260918｜#沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 謝典霖父子收押、母鄭汝芬百萬交保 涉詐公款請吃選舉飯？【#今日精華搶先看】少康戰情室 20260918｜#沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=m7Gducda9iQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 果粉們看過來！i18開賣民眾搬帳蓬躺椅夜排搶頭香 美式賣場破200人排隊 電信首賣會加碼抽獎 蘋果新機最大亮點.功能一次看！【#大白話說新聞】#i18#蘋果#手機#iPhone Duo#iPhone" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 果粉們看過來！i18開賣民眾搬帳蓬躺椅夜排搶頭香 美式賣場破200人排隊 電信首賣會加碼抽獎 蘋果新機最大亮點.功能一次看！【#大白話說新聞】#i18#蘋果#手機#iPhone Duo#iPhone.png" group-title="youtube",youtube [VOD] 果粉們看過來！i18開賣民眾搬帳蓬躺椅夜排搶頭香 美式賣場破200人排隊 電信首賣會加碼抽獎 蘋果新機最大亮點.功能一次看！【#大白話說新聞】#i18#蘋果#手機#iPhone Duo#iPhone
+http://ncncha.cloudns.ch:9977/play?id=viWhHweQieE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 柯文哲帶小雞出席 中和戰鬥陀螺大賽LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯文哲帶小雞出席 中和戰鬥陀螺大賽LIVE.png" group-title="youtube",youtube [VOD] 柯文哲帶小雞出席 中和戰鬥陀螺大賽LIVE
+http://ncncha.cloudns.ch:9977/play?id=LVm-OrahtWQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 柯文哲帶小雞出席 中和戰鬥陀螺大賽LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯文哲帶小雞出席 中和戰鬥陀螺大賽LIVE.png" group-title="youtube",youtube [VOD] 柯文哲帶小雞出席 中和戰鬥陀螺大賽LIVE
+http://ncncha.cloudns.ch:9977/play?id=eK3UXzFQ3TM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋台上致詞 蔣萬安.李四川台下逐桌敬酒支持者狂喊「凍蒜」遭質疑不尊重?不可能的任務挑戰台北市翻盤?台北選戰聲勢跟戰線已拉到南台灣！【#大白話說新聞】#沈伯洋#蔣萬安#台北市#敬酒#台北市長#黃暐瀚" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋台上致詞 蔣萬安.李四川台下逐桌敬酒支持者狂喊「凍蒜」遭質疑不尊重?不可能的任務挑戰台北市翻盤?台北選戰聲勢跟戰線已拉到南台灣！【#大白話說新聞】#沈伯洋#蔣萬安#台北市#敬酒#台北市長#黃暐瀚.png" group-title="youtube",youtube [VOD] 沈伯洋台上致詞 蔣萬安.李四川台下逐桌敬酒支持者狂喊「凍蒜」遭質疑不尊重?不可能的任務挑戰台北市翻盤?台北選戰聲勢跟戰線已拉到南台灣！【#大白話說新聞】#沈伯洋#蔣萬安#台北市#敬酒#台北市長#黃暐瀚
+http://ncncha.cloudns.ch:9977/play?id=ZkibWpcieRE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 聯合國將一個新獎項頒給了一名中國企業家？董明珠獲頒首屆UNEP Cool Coalition全球可持續製冷領導者個人獎項 #全球製冷降溫承諾大會 #鳳凰點評 #董明珠 #格力電器" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 聯合國將一個新獎項頒給了一名中國企業家？董明珠獲頒首屆UNEP Cool Coalition全球可持續製冷領導者個人獎項 #全球製冷降溫承諾大會 #鳳凰點評 #董明珠 #格力電器.png" group-title="youtube",youtube [VOD] 聯合國將一個新獎項頒給了一名中國企業家？董明珠獲頒首屆UNEP Cool Coalition全球可持續製冷領導者個人獎項 #全球製冷降溫承諾大會 #鳳凰點評 #董明珠 #格力電器
+http://ncncha.cloudns.ch:9977/play?id=DZLgfRzvkgA&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 蘇貞昌打斷川伯致詞還用力拍肩 互動插曲微妙牽動新北選情？#少康戰情室 202609018-4 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 蘇貞昌打斷川伯致詞還用力拍肩 互動插曲微妙牽動新北選情？#少康戰情室 202609018-4 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 蘇貞昌打斷川伯致詞還用力拍肩 互動插曲微妙牽動新北選情？#少康戰情室 202609018-4 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
+http://ncncha.cloudns.ch:9977/play?id=ZFcIuh1lbig&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 謝典霖父子遭羈押！母百萬交保成彰化破口！謝家南霸天要倒台了？政三代受重擊恐一屍多命影響多方選情！【#大白話說新聞】#謝典霖 #餐敘 #賄選 #彰化議長 #重罪 #陳貞妃" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 謝典霖父子遭羈押！母百萬交保成彰化破口！謝家南霸天要倒台了？政三代受重擊恐一屍多命影響多方選情！【#大白話說新聞】#謝典霖 #餐敘 #賄選 #彰化議長 #重罪 #陳貞妃.png" group-title="youtube",youtube [VOD] 謝典霖父子遭羈押！母百萬交保成彰化破口！謝家南霸天要倒台了？政三代受重擊恐一屍多命影響多方選情！【#大白話說新聞】#謝典霖 #餐敘 #賄選 #彰化議長 #重罪 #陳貞妃
+http://ncncha.cloudns.ch:9977/play?id=EF7eRtGjcRE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 黃揚明揭關鍵：真正考驗是選票轉換率　洋流能複製韓流奇蹟？#少康戰情室 202609018-3 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 黃揚明揭關鍵：真正考驗是選票轉換率　洋流能複製韓流奇蹟？#少康戰情室 202609018-3 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之.png" group-title="youtube",youtube [VOD] 黃揚明揭關鍵：真正考驗是選票轉換率　洋流能複製韓流奇蹟？#少康戰情室 202609018-3 #沈富雄 #吳崢 #尹乃菁 #牛煦庭 #葉元之
+http://ncncha.cloudns.ch:9977/play?id=7PNkKasTbZI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 🔴LIVE：2026.09.19新聞大白話特報【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 🔴LIVE：2026.09.19新聞大白話特報【14:00全球開播】.png" group-title="youtube",youtube [VOD] 🔴LIVE：2026.09.19新聞大白話特報【14:00全球開播】
+http://ncncha.cloudns.ch:9977/play?id=9Gr-zL9oVW8&quality=360p
 #EXTINF:-1 tvg-name="中天娱乐频道" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐频道.png" group-title="youtube",中天娱乐频道
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
@@ -251,106 +241,6 @@ http://rihou.cc:555/tv/[Hv]中天新聞
 http://rihou.cc:555/tv/[Us]中天新闻
 #EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
 http://rihou.cc:555/tv/[Bx]中天新闻
-#EXTINF:-1 tvg-name="2月17日02:10亚精英赛_利雅得新月vs阿布扎比统一" tvg-logo="https://live.fanmingming.cn/tv/2月17日02:10亚精英赛_利雅得新月vs阿布扎比统一.png" group-title="冰茶体育",2月17日02:10亚精英赛_利雅得新月vs阿布扎比统一
-https://mgev.188766.xyz/play?migutoken=c2b002118a0a8c3781a4c8406c93935b&id=u3jCg8WZ928MrfTLvqNmhCbpmTHCVoVk8tOZsqSUv8Dl0PbvQ8lY142FZegnhX1B%2Bxb8a3%2BDQymx%2BKQx5ni1qIiGJ4EExRsXaTeD49t66QbevT8thnFYfsyr82Y2AWtGnfh%2Fe2Z84vjyX%2F2wfzZAPbSyNZK1hTuQEcxdTZ4%2B3FLZGxxOXZ2fyqpvqcRIGPDaaGAKb8fo5j8jx5d8AOJipxARFiMZACS4CRkHnzg5DtDPIX2MHMxJ4sfhC6yWpKYnSKzTZlH%2Bz85ZJvBJxwq2NGn8jfTxPpX55kMHsKXW0D3jEcaJqh27Xuu3oViVav%2F2hxlLt3tnR4d50rvJfNi4Dam1v89Pk%2FEzYwiqkWv9mcA5B4pZ46Q%2BUOJzI%2Bl4m3xpB1SbxcmQJqTzu%2FsUT%2BZAOQ%3D%3D&name=lmf7MV6h81upnX%2FkDhd%2BhfrMWKOUjwoK3sfLOKausTilEAshevdgFg6f2xxfWWVePUtfH2Tc52xODNSTmu%2BscJ80gHLc3vtAKTNR62wXvyI%3D
-#EXTINF:-1 tvg-name="2月17日02:10亚精英赛_巴格达警察vs杜海勒" tvg-logo="https://live.fanmingming.cn/tv/2月17日02:10亚精英赛_巴格达警察vs杜海勒.png" group-title="冰茶体育",2月17日02:10亚精英赛_巴格达警察vs杜海勒
-https://mgev.188766.xyz/play?migutoken=cb6564f3bf10e3e72d8e73faf9845cce&id=U5iQekAEV0OnhPO3QZ%2F0DpKBPBYfJhmEELkx14IBO2J%2FfR07197glTBZgDItvwTRUNo8ZLycn3e9zUv%2BuUMYlhnGgOJ9H3U038PxwpoeU%2Bj2UGu6%2F5wa4zV932O5ToZY849uNyESeu1U97fp05lfd5lSpAJsA8fMa%2BO7dtD%2FfawMbhg2zgR9ZpMrj%2BVQPN3TJAXZAHeXBKNfRKiOq0WgWZBzAyOAjkfpvtTOy0hFzeHvvbadRG2khwA6WihUbKR%2BJbY93RodWE9Hw3V0Y5For0O8SFZQ%2FGtEMQfz44sAvq%2F%2F7ongV0tMw0e03XjdIPBZGk9Pt7cnoMLkqSCVZJ%2FKyWy0tvkc5bwGYDe7xbNvtPWmzkCkZIJFe%2FV6Ypq81na%2BMvj4CaKbh6Qi7fW2Xkq39Q%3D%3D&name=%2BagtEky1C%2FhtkMW21dW%2BIB9f7NK0EB%2FYCKxJqCv2yhsU2%2BE9O2Os83JT6LPEbmmGqwYc7if3yJkMtOTGsZgmU%2FZXAZ1xVLY8qGtkXV1J66M%3D
-#EXTINF:-1 tvg-name="2月17日03:45_自由式滑雪女子大跳台_女子大跳台决赛：谷爱凌获得银牌 刘梦婷第7" tvg-logo="https://live.fanmingming.cn/tv/2月17日03:45_自由式滑雪女子大跳台_女子大跳台决赛：谷爱凌获得银牌 刘梦婷第7.png" group-title="冰茶体育",2月17日03:45_自由式滑雪女子大跳台_女子大跳台决赛：谷爱凌获得银牌 刘梦婷第7
-https://mgev.188766.xyz/play?migutoken=086c678b7eb02bba570f610de9469817&id=pv5BZy6KeriZ8BSaBloX4TdrJYKR99JRFtph3ehKulSti%2FAbB0M2ZrJwE0Bgt2j1udHItQYiNg28npJMXVkG%2BixiAYdg%2FaqE6r2ZYaRcYqUkPIPsK8HAsPT%2FlcvC6%2BPi4zOm8JEfJlDv1UK1MXR2eXyp2p1W6xfo1%2Fultgn%2FqYcVyrJ7qfSRC1C9UGrT6b6Eab6i1gWouhlONR%2Br4sio7nOE4K98fvHul9TCBNGMlXLIt4h2erCq4Af3hM6UN%2F3QWbPXNNzhY%2BRvEsi06WEiw8Df%2FoMovEb2WCRj67HxbkM%3D&name=9cDVHtcbACcqMu7iK310zNVDWhzfTcxRsA9ll9RwvVCwzzFym0HghuznWJCnuqW2Rd64l2rB%2BNm5lYTQKYyNC434E9P0f1397alJxz1sZWuvCog71NGmuozP%2B8Dyi9s77gEEFp%2BDLtPaAcnTnGDzv%2FURPGhrAzT8Nogx8dzC1Xw%3D
-#EXTINF:-1 tvg-name="2月17日03:50西甲_吉罗纳vs巴萨" tvg-logo="https://live.fanmingming.cn/tv/2月17日03:50西甲_吉罗纳vs巴萨.png" group-title="冰茶体育",2月17日03:50西甲_吉罗纳vs巴萨
-https://mgev.188766.xyz/play?migutoken=c6811017269a71f30c5d53726644ce17&id=c4I2gaAdMoEN5foXujCnnm1L%2FHZTRIhhtcc2qq%2BShE3xIreHUVVxHsWC7VsLVs1o6A%2B%2FAhG6RNoK0EZaBlNW%2Br%2FzaWBsYl1uyBlCkxEU%2B7%2FEHBb7WFY%2Bh9QLxjhMwUrArDwmTMSg%2Btba0KV9GHSd%2FNRvjQmLb0ZN59DMcX5URsU8zRxZeWyU96SXwWkWHcvVzL543c2WybbTjuzN0Uvw91nzgpd1mmwOs98G3MvyjjcODRPAiyznvD1otndR0vkqaTjrX8YWU93X2h%2BoDLmVwxAGW0VIZr4MLht6ylxGFfiCP1VFjwMMSfDek0Nzj6UFyf1t2y%2FvnpTuWjna0lKuolJqvVEHKAIurPXWVQNJQ9z6xyA7LlNpqwji89dHurQs0j8%2FIbPLQXxpfwqlR1pmmw%3D%3D&name=v5jXJlP228hE%2BImAnBNhKX4LOmVC9AM5VDe7ZQgm%2FrqQgLXzxiA22MEtDEKPBGsGnTIXJjWB6gkzER0vDkPETA%3D%3D
-#EXTINF:-1 tvg-name="2月17日15:10_WTA1000迪拜站1/16决赛_格拉切娃vs佩古拉" tvg-logo="https://live.fanmingming.cn/tv/2月17日15:10_WTA1000迪拜站1/16决赛_格拉切娃vs佩古拉.png" group-title="冰茶体育",2月17日15:10_WTA1000迪拜站1/16决赛_格拉切娃vs佩古拉
-https://mgev.188766.xyz/play?migutoken=f106c4a9a2ae6f4be40c462a27f43b4c&id=bcC3w8Fq2cuzYEsSz9tYTxFnZO%2B0QG5pjfp4qltHZyLWFPoGq4YL0td%2FsTGhvEbh9omM3%2B6h%2FzbZA1IqXBey2Aunpktpo2mqfWlpFqIY8O5LZ0WqOw%2FMcwuiYeXyisrln6yfb2iPTFFZ%2FW78gCeJm%2BKE7wUFu0BqgMAkCv4J0sABF6aowloSVzS881yGmPLcCmOJ4jt%2FZFyeVRgETt3fQEzepPeapcgwTXS13rGP7IdS1%2BKUF0e5W6f7hwZ%2BFcFLqEZeXapglxGWnLS0NWfoBl%2BX%2FUsUywPchnexsL7JJw0%3D&name=7tZSYEftZ%2FXGyVVdAJFbrrOOdIZpHLVS4ddpFkhs%2BL3NhwM7URrQtr71JFT6tq391M1ZDmHFqCXbMrLgFDelNXI0YKxunVzn1lqybcC6EBorRRT%2FNUzSu3OYSQ1tGSVl
-#EXTINF:-1 tvg-name="2月17日16:40_WTA1000迪拜站1/16决赛_约维奇vs施内德" tvg-logo="https://live.fanmingming.cn/tv/2月17日16:40_WTA1000迪拜站1/16决赛_约维奇vs施内德.png" group-title="冰茶体育",2月17日16:40_WTA1000迪拜站1/16决赛_约维奇vs施内德
-https://mgev.188766.xyz/play?migutoken=f540b571cc2a3d4d2bc7e9f50c59ebba&id=y63nPti6EMSfD6W0fbGfbQ0DItW8ddKyHQs9rMKPYRT7oghhI6nNqHrlLNhsOhhULNHP%2BWAQjlKXZggzXZ8B8lIZ1M%2BNnwBWop%2B8PPYoPMRd%2BGwl4rdxhHetjxdDGPy%2ByLvW4S78%2F1zwx6yyeVbz2TtCuje02a01iyfzZ6I0UaDHNIAFMIXl80afvBD2iarHzS6d9TccRO0ePbQbdcux2j%2FbN4aaxk9a9js0SB0rgYdwGOe3GXV0VUAZo2dhpqmaryisYrmUIoVFdmFIrhxcyDiEE3r85wRGzu2QJbzxr8g%3D&name=qMYTU0i9MBexWVeK%2B6EdTYsgsU5SIJs7JDCshvJ2zIu6ISwKuQFKOjTRUsHHPHe9s%2F3GMw1I0cIVeSD4E51jZRRBw53b6X2H7H%2FjmTkVtzU%3D
-#EXTINF:-1 tvg-name="2月17日17:45亚精英赛_町田泽维亚vs成都蓉城" tvg-logo="https://live.fanmingming.cn/tv/2月17日17:45亚精英赛_町田泽维亚vs成都蓉城.png" group-title="冰茶体育",2月17日17:45亚精英赛_町田泽维亚vs成都蓉城
-https://mgev.188766.xyz/play?migutoken=d06af6ec11647ea23d5f8a3209e901f8&id=cDdBbHTqis2pIIZVyOYQnB12THQmLIdTmhMVEt9dBPS7NobQwWm8%2BTQw4oEEWviVo0cpOO%2FBSFKY5U2MwTqBxitycl7i03khl%2BEr58bTk6fZdYPETA1X0wJezrP9ru7gQUj0ICkGVjr6yYUVm52corTAZ2g025Q%2BSt71E4DhuODQDJCZTvC%2BRKTyMFIGVROsrScdvreV0zWaqIkXyQDdqPWk9GUFfPGhlTltEyXieegSxM87iX4QHhFV%2FIHzxGLPRuXUnIMgTDtvLr6aGTJgCuGwh%2BNzatQexFIKeu6vqij9gKIlm2S7WQ%2FnNeWwVMVv0VWCUPbheTjbiMfGSNobMQM4GRIbiIZXAQjzk1a1DWX2ee6v27UBiAqZv%2F7rfZCBQ%2BR0rearrQ29%2FTsIrd%2BnUw%3D%3D&name=GT3f26m6g7BbsRQJCepja%2BfiMWT4IfFfrcVN7Z3jdGuKax%2BPklN2bd4ztCpF7AD3dJKsZkr%2Bqogy7Yp2qZSj8BiyUV%2FuUHc8C8D2O6l0%2BEA%3D
-#EXTINF:-1 tvg-name="2月17日17:55亚精英赛_FC首尔vs广岛三箭" tvg-logo="https://live.fanmingming.cn/tv/2月17日17:55亚精英赛_FC首尔vs广岛三箭.png" group-title="冰茶体育",2月17日17:55亚精英赛_FC首尔vs广岛三箭
-https://mgev.188766.xyz/play?migutoken=4ddd60ea262d0b23bc799cd09d7ee1b7&id=vF7W4%2Br5lj7A1yy2ShXaWBnXohFaTZKW6HhEpfDjLALg0C798o7yNgmdoocUv0%2Bu%2FIVqUmmcvykYsAAcHfvNBzSLepa1YRXSK7%2BcjQzHQbB1q%2FITLQfnKDxE5k2OH425lOsdE89fE7Oj3fjfa8sMaPqcS1idACGPy7ceQmLYzGFanhB6%2BcYO%2F6WWaJ%2Bxfsyj0qELCdvBBB8iMn1j1stcKVVO7RIrhq0JIxZ2ujzNNV73gQLsVWa7FcfDmE1dqQh4dT5XjikqBQ%2F7FJ6ENeLACRIqxrgEK%2BFZmWnGoOxPMK97XCkm1OX7X1bTxh8R369s%2Fd0cYbE5O38CovvgpApvbssxOm0VONCrvHqopuxfai7OaZn25squAmyejPzOoNJqyAlYvSGPrxN6SMBEoYKZTw%3D%3D&name=fsRn%2FlnAyEQnUBkfbS5%2Bm4y1m3Xv%2BMgFb8MajsnQBbp2Rzj32FK1qYZzPDx%2BthVGezjvZCIyM%2FU5fGyZGK1qTube9KY2xCNzTQcL37scRkw%3D
-#EXTINF:-1 tvg-name="2月17日18:45_WTA1000迪拜站1/16决赛_高芙vs卡林斯卡娅" tvg-logo="https://live.fanmingming.cn/tv/2月17日18:45_WTA1000迪拜站1/16决赛_高芙vs卡林斯卡娅.png" group-title="冰茶体育",2月17日18:45_WTA1000迪拜站1/16决赛_高芙vs卡林斯卡娅
-https://mgev.188766.xyz/play?migutoken=0f375abe277e10ab0d9e14bc28e5a46e&id=LBvYsJ05iPY8V2taBEuj4KVWRrary1cRjgRHjYig0g5UVVY3QxCv74DNlkPX3yRVqQ6aWRpQrrjLpOxNIacQetLWq%2Bxf4HVNCYf0MyfeqsMIkgwNMsk6GtMKuUEsseXMoHlms3BsXQkcc%2FHiwid6U%2FRhDBJ30CZg%2FG%2BNoI7Y1vNWFhwFGJruEYC01nUS6mgXV%2FaZLb%2F1wZb%2BFtNExuYe2pIXdv35aYcLS2vZOQaLc98jwJJp5ifPaElbNz5%2BPHOOFhpBL8dyj8QaHmBChWRHwufGk7ciFueqDBxFMN66ZfI%3D&name=UDXjO%2B8Yfk%2Fa%2BcNSh7sFQIBg6%2BE8FdnKkm9ELWqAiKlB%2FKjKKEfiiLnWBeoWQM72yVvN2qDSQXkswVYFCDeQhz2yukzapuXqO5Deb8rWPyc4Vx6ut5cqOn8LsGkHWS8E
-#EXTINF:-1 tvg-name="2月17日20:05亚精英赛_武里南联vs上海申花" tvg-logo="https://live.fanmingming.cn/tv/2月17日20:05亚精英赛_武里南联vs上海申花.png" group-title="冰茶体育",2月17日20:05亚精英赛_武里南联vs上海申花
-https://mgev.188766.xyz/play?migutoken=9fffa11d6570c326226d08f639ec3632&id=kJPSzqArY%2FqxQpOw2isbJWS%2F3th1A9zZ91wxSIUaTPG33pe9%2Bqe%2F0vzNxCxJlDK4HZJHRpj6sfpN4IhpU4Ba0jCuf6llR87Uiw0RubkKnApgx9at%2FMyXo1dJjqFWeYOEf2r0WxhOLP3SceC0FBkWynJpEZR56eEKHri%2BxM446ck48wlUJU1jpFPRh4UxDcArFxcgi8aYfli1sSAQAGH6hk3fcTdq%2F3YIPiSGsDSGCnlogfidvSRMj%2Fhmt7P3znCfBYsVXjL59i25PB4jyRO%2FSeKLgLRyE87iNcDxK1JdAqLTiN%2BAHuUOWEF1lPEcXMw9E0FqeVhW%2B5X22nuiYm2ws5tlXZ3NvwhKF5BO7u2MafmaqworEFV2hy9ITEyY8lhx3l%2BvUTVmWOCcvllUQbyqWA%3D%3D&name=PtvvkS2TztzbRlIEfc4lud3bsE7qUsR1JGQn9CfAhfQ%2B1HWcMhzmkrNTxXJzWjzKVehl2ZsVhIvm8O%2BPeN1s76gxrMpd2d4erZ4aQUEx6FM%3D
-#EXTINF:-1 tvg-name="2月17日20:10亚精英赛_柔佛新山vs神户胜利船" tvg-logo="https://live.fanmingming.cn/tv/2月17日20:10亚精英赛_柔佛新山vs神户胜利船.png" group-title="冰茶体育",2月17日20:10亚精英赛_柔佛新山vs神户胜利船
-https://mgev.188766.xyz/play?migutoken=16c72b460e3ca4b56db91cd3e57be184&id=pp0YDoDRPn4ewSc4iR9SyahOCdsUX%2Fgw0AjnarQ0%2FvWz7oftuD48d3pmMuQS0xBAC8YGDDoJade%2FvkWxHz6qzBthF9Jf9Ofc5gG3IaXdyDTlhjn84Mv%2BwKwrp2jNKimFk%2BE3GVN8nFmE00x5XEzjiREm%2By43HicOCtc%2BRj5GjGRnHZvkESxDxIgDaqHEDys8rm5q9srtopwUFteLB272ugFNTOyTsDPLYSzUAywa185Sy0M0Ks%2BIn0U4zM0zE1IBjr5Q%2FVKWGKqeTTNR0H9inhJvytPMyhrWhbhWIWNkn7yVl%2BttDEQ%2FSddfHSeCguEQVWbyWTKv82hbCM0WifSDuPIh1dsru98oJrg5jfW28VYSV0i8CW6BVxXL914rDmSe4ztR5PVfX7zOR%2BL%2B5xts0w%3D%3D&name=kUk6lVE218jJsz8IHbGcQWoXrRXSqpxI6n2WSdgnCSfr4ExlDw9aCXbGSTy5NiYP%2Bmbr88RQe5EkIoFvqm9oKoOjpqq9I4kihxwR92j3X3E%3D
-#EXTINF:-1 tvg-name="2月17日23:10_WTA1000迪拜站1/16决赛_莱巴金娜vs比勒尔" tvg-logo="https://live.fanmingming.cn/tv/2月17日23:10_WTA1000迪拜站1/16决赛_莱巴金娜vs比勒尔.png" group-title="冰茶体育",2月17日23:10_WTA1000迪拜站1/16决赛_莱巴金娜vs比勒尔
-https://mgev.188766.xyz/play?migutoken=fcc4ab7f150b5d53af06f34d676ebab4&id=gswzGwdthU5HiVgEkeaf8rwZjJe2Sxrblg61%2BfGR4y2KfROtH8wkOLsFipZ6Ov8HcrIrXThFV0n8H1e2vNPov9RAHo3nvluQ1928p47FOELodtNVqstDbj5zoh5QOlBkR9VwZcoXMISvlmrdbSwTPkAxfm9emaU5vvIQ8IDzb9AnRm2RnRIsqglZO%2FtNnOkJqhIbHg8Bga86Ned1REELL8LhFaFkaBtZHMbfOzKNBHC0kSErZnoklsCeplg%2B%2FzEuPzxtDZaSkzDrkbqQx4qm3Ihe7Z2uSH92gac1JHlQy%2Bw%3D&name=TUEE8TwJ24X2V2Ql1TdMfiSegEvFQOFe0o5J22QQ18L%2BaRmv1SbtQi7ZSuSF7wH9ZghyW%2B9NQvYcWVmmUrxwZLnjf12EDXKBs9GApuz9XmZxgw%2BWDkNA7k0X9aukutPd
-#EXTINF:-1 tvg-name="2月17日23:55亚冠二级_迪拜祈祷vs扎瓦拉" tvg-logo="https://live.fanmingming.cn/tv/2月17日23:55亚冠二级_迪拜祈祷vs扎瓦拉.png" group-title="冰茶体育",2月17日23:55亚冠二级_迪拜祈祷vs扎瓦拉
-https://mgev.188766.xyz/play?migutoken=9a9e6bb34e8b6c8d853a0b3fd5a62772&id=oz6iLz0pSKtkLS1zWiJRaXWiPIAimfExO%2F6CNw%2F66sSRK4Jh7T8%2BNaBvhFJQnVzuoO2Bfa9CkY7ELsEfEXoCKtapUUdfWPKaWqT9dFTWDh0ebI7SMs67pcZ6ze%2F2Hqi0PojPzQHUexVbjpYX5sfsxqpnpdOyNySkBCliGro%2FhmopShmAk2%2BHh1RB8oaXtPt4cAeWN0C%2BFtrVApsxDJG4%2FGMSdFY%2Bz7q3PKUp5YLAuU4ARV6SlG3pLqvUj8s0d5QWLXwpFZdRpgThrmPUIxpQEhYiK7EwrFKD05JPR5bljXODCi8lVFbKiQWS7z5CFCgS1f0Ody3cYgAq3r6zq%2F8IzS0HqkfkupyECmFrwRdSM5SFTOmF52Mzp1qdRqzuobcDiiDRYUpsBnm%2F9fprr9ziKg%3D%3D&name=13j%2FG35GWsHT5OOnP7G%2B3G9dqKwIKG%2BTcLm4FU6XyhXM31nw4WUVbN5JHAdTBYaoy1Ih4qB1zHwyuHaQLdXouJeKxWYXFwkMu4tjG0o1eAU%3D
-#EXTINF:-1 tvg-name="2月17日23:55亚精英赛_加拉法vs拖拉机" tvg-logo="https://live.fanmingming.cn/tv/2月17日23:55亚精英赛_加拉法vs拖拉机.png" group-title="冰茶体育",2月17日23:55亚精英赛_加拉法vs拖拉机
-https://mgev.188766.xyz/play?migutoken=5b934f11a583b874648ef08bf9c3c8be&id=IKDi%2FcRVIhKZ5h%2FfVhWtraSrKA3WxdRoBeGejBm977sLJIxabuMA8jnkfzRhB3mOGm54QGnpkxs5EKRS6qYnXkeQGYMLr9afsCjij3F1j48WsC%2FwPL3jfvZtKz32nHrXzlrNATvGSrYsgDaGmjycJ6PC4kxECAjlLjykn1I0bHPnWLnVjj91fcBDzyTLlUgVU2VPx8y10BKjKT1iFsTwe7XoqTDcQ9k1ZuBQMVqrTIgQ3I6K4BgQ9KBkWyNftRefYXulWhRgEiTmPTn8lKU8H1Kb3LnxhwMeYNo6LaRpXBrrQHLikZqBX9cK2doSS5P6lCQAz2MJkmJ3I%2Fe7XYdQrZFxy5Yumoc0eVDu8z4y4b9hGvdTSPgZPNSgliqGjzJnLV589REqvkcQZTLK3u6Ayg%3D%3D&name=ZmbCq1b2xCAxfNskWV2DBfUWbTNpG9j9qGWLrzP7yKRvADx3P9duplFod86m05AMjqFSNpIWB1F6dH6OmYFViQ%3D%3D
-#EXTINF:-1 tvg-name="2月17日23:55亚精英赛_萨德vs吉达联合" tvg-logo="https://live.fanmingming.cn/tv/2月17日23:55亚精英赛_萨德vs吉达联合.png" group-title="冰茶体育",2月17日23:55亚精英赛_萨德vs吉达联合
-https://mgev.188766.xyz/play?migutoken=cd7f22db22747443af52f073092a5256&id=MdiPvI2l%2BPilK8qK5Ia2KY3vQSSPyseiqx3neLzYjNm696kPTFbTq7SEFZg%2FZ3d0FfiTpDKE3LzToJ7QRirLezz78rrV77MqS9EInR12v1dCXMOnq4qruY9dtKmjySrQ0XcB%2BkmXd%2FzzurMO0zEJkChu81HbfTTMocDLnQ2UKh2vxY%2BgWs2uYhgbUgb9KHeWaYkboFKCC669aO%2FeAJXScVw9I63%2FMeB9mJWOkSx7zCkp%2B6Cnbb8EniqjbJU63mj074yz0hBAspfXNhLmbTTWiBww0WUsDz7rnFz4Wu%2FUXchWxuc6D9JKK2Y0AxDdaZQtvTDUjkv9moNxzOs5eaK%2BWSmokSLNQ3Tga7b%2FF09ZuTHMbI1yrnpxV%2FioQ%2BLJoHUx85UjJ1K16nP9iXEGQaBzcg%3D%3D&name=rXF1odVqHZJccVvOiymM3U2ydk5A2v21bhcEE3Aeyu7MIwHBERTXZrVu74Ni9anRjo%2Bh49MU62t3B%2BYptR2d%2FQ%3D%3D
-#EXTINF:-1 tvg-name="2月18日00:30_WTA1000迪拜站1/16决赛_伊埃拉vs鲍里妮" tvg-logo="https://live.fanmingming.cn/tv/2月18日00:30_WTA1000迪拜站1/16决赛_伊埃拉vs鲍里妮.png" group-title="冰茶体育",2月18日00:30_WTA1000迪拜站1/16决赛_伊埃拉vs鲍里妮
-https://mgev.188766.xyz/play?migutoken=3b70ddc33e759c7fcc0359dc5f92c9fa&id=s0ecMKpBXmVxwf61apQDXYisd7DuJvOE2RHAPzDpE64dP1GkseJpeYiHqS3mRt4rFEZti3A8Zp%2BcIebcR8wp3OjzRrlxUXb1QVOfXODAMGRfSHgm5qhcKWg2OzWYT34xOaeWpqqNUREPdfqEAD9y6sRlVlKzoV8CLPIXTwnw7tGHEc0Ppro5m0WOaDsH2PwXR8rAcix1Hk%2FPbrco5%2FqJbePUc3z6O%2B597gnoYMTDD5zCjUZ2%2Bs6f8dLmaEWtLvonRDp4oU1WVb3gVGuv1KQE4BBFTN61ZQbNWuzXPMuDLG0%3D&name=ouAJx79rlJmauEpyowZagop0WUvOPW4LFj4S4oMwo0liBllg0gRRquDSqwL6Nqcz6B4bKYYOpMTrrG4VfMDTYMJBsF87f1582t%2Bil1%2BpIdU%3D
-#EXTINF:-1 tvg-name="2月18日01:30欧冠_加拉塔萨雷vs尤文" tvg-logo="https://live.fanmingming.cn/tv/2月18日01:30欧冠_加拉塔萨雷vs尤文.png" group-title="冰茶体育",2月18日01:30欧冠_加拉塔萨雷vs尤文
-https://mgev.188766.xyz/play?migutoken=2d1fe1fd9c50aab5d5cc98e44c09e313&id=e3ueGj%2BGcPzwGiI9kJCxIbi67vS8l3hfr3XpZ1tjog3qbMjsmW4dBjMVlSS4iGLxI3hKx4rxRKfohCYzhTRcIPyG%2FKCVqNAtMgBLmH7ezMeI6zjuuSPcfztBbt6hOpc3X9iDGCLrpUXHA2gG7q2eEZ15BvJ5791M9OyStCw7jmzeMKQQWNelD9RZmBzL2By3hN0LoWFOCndOoHtNOY2IDJ1JEHRTUx5t4Rg8VEblfzs1e5y3CP278PuRCsJLk1ffhBlclbadqA%2FOIuLDL51l0gJeQaxNyrvkzDHYUDy1ayVuaeBjO5qLJkWKAhURzW8u6GdAgBcGP%2B%2FjBl9bUrmmUCXmL%2FV67DCP4WoY53IUXiahMBKzF5kNhMseweNnnpCP1dDmcoJ2XiZg8SCkNerGPQ%3D%3D&name=Z8AxTCnf9QSI0%2BgOP1KlsdP8LEdqG%2B2CJhz%2Fcjs%2F%2BtOlk5qxfzXDtSYtVBiPYwdjrJbUM2uVCqyX2RM%2FcliZSA%3D%3D
-#EXTINF:-1 tvg-name="2月18日02:10亚冠二级_胡塞因vs德黑兰独立" tvg-logo="https://live.fanmingming.cn/tv/2月18日02:10亚冠二级_胡塞因vs德黑兰独立.png" group-title="冰茶体育",2月18日02:10亚冠二级_胡塞因vs德黑兰独立
-https://mgev.188766.xyz/play?migutoken=129395398bc9246f48024b1705337f91&id=wrOd1jRLgtZnHQB%2F6repXhPuYaxwauGssYMMTYjA0bt0HaJ%2F1xf3Clp1udtTJ49CMgUpQDN7PMtY9gR5UmKBzWJec3ueQYwCKEXOHwz5%2BzR03T6NWYWsA3nJKU4JheRfAI71SJyGAwS4bhBPpC9R3XIC0WS66ERuNW%2BV3mmI4R0OyZjswzQkETyIWFkK4zp%2BiyMtSP61DC1GVLgUfTbkoC%2FVIn44zZM3MrjR9plNWaaq0zo4VB8ngVYWzEVWdiP1AcraqJLUrtOxczIk6fxWBD%2BigekS5D%2FyuCvDWRAW%2FSQlfTGdNf%2FgArPENLg4NsMBXO1I05%2Bv086eWJIk8N3kwXsHyvoRsLiIue6Ptjqm%2BlBW8fuejcxS1nYhJNUPU%2FhkQI5BQ5DekySd9A1eiTQPcg%3D%3D&name=7Req%2BcPCYg16VGq%2BN%2B1XpSMPKbZmc4RYsMhRtPRakMc7cRnEhb2HJal2L8dXVwzhQO%2BlfJXgjjpiLrxGtwJYrRkMnKeBX3ll2EW5Mt4TrEo%3D
-#EXTINF:-1 tvg-name="2月18日03:45欧冠_本菲卡vs皇马" tvg-logo="https://live.fanmingming.cn/tv/2月18日03:45欧冠_本菲卡vs皇马.png" group-title="冰茶体育",2月18日03:45欧冠_本菲卡vs皇马
-https://mgev.188766.xyz/play?migutoken=1373630ec186c8961a2da3f9ae24b169&id=n12FgxoMNVDTihziJaTnVXXw69C5%2FcH8AW9S0dAxzFqygsAEEEkvlXSquDvbX4q%2B6eMoCqhXo3TvLwqcSaBIbu%2BBiV%2Bilch72Y2h%2FL3hCU9iyWb0vNhBG9wCdBfcJvDwl%2BX8BSYi3Z4i1l96pjvtvRP1uNEiR5G4vwT8DR8VgdkeVOK7u%2BXUorNe6GudT83oDz2VJKB8Puqyd61FDyREbmNf6H3T9BvMaZYBLQRd7UcvCcDCaVmxKxUsuHjG0Re%2Fil0y33dKyxqCyyIp9VHaZDQLlsb43iwiiWKSLOs9uHpdbhvLfkXAEBgJrRd33wN6OH2xrAtamnH4FU1jXnbmcpBG643mQSuYBrYNz%2FRmdiBnbyAlu2hHiun7pNgZiRl09lrP0O6eu7XHn3%2FPbl4glQ%3D%3D&name=oyq1DONVaUEZccOkHq7B8O8h8bEq3wLdImj0d%2Fp2L%2FrAVjl8Or1CNHVYCgsrRNDycJgyBYrGsBnP3wNeXgcerQ%3D%3D
-#EXTINF:-1 tvg-name="2月18日03:50欧冠_多特蒙德vs亚特兰大" tvg-logo="https://live.fanmingming.cn/tv/2月18日03:50欧冠_多特蒙德vs亚特兰大.png" group-title="冰茶体育",2月18日03:50欧冠_多特蒙德vs亚特兰大
-https://mgev.188766.xyz/play?migutoken=cc4b059cc3d30b9d6ead0e57ecbf5b6a&id=PDZgcT4ZIAH1bfcEii3Q74yrII91kFB6Fmcj7hGV6u6OHCS9C5j7pwa1KonIDFrPyC6HaCjqlaZjx8FeVbO5eNsKj01kwGp3wlvhT3pZQNqBaeIMnV2lAYrmDyazGX5RvNaV5sY6HIeAubwfj1Nf5Vnu2UDcoXKHAljeVzQanlqn1gbMGwshCAiuTXhBipxOxVqBbEfqKcCMgwmo4DDbQzpemR%2BOzdbhlp6tE1Np39qNXxaDHHM2SJBCixhVjcNcfPPEtrwCNDQ0KVClqnBymSR0W1esmnd83toeP%2B7Ff6Ei6IIxM0S8Aku%2Fs3bWnzXwn0OCEXztM%2B0SuvVt8Ll9xcffFMXmaT%2BR43SqPc2sJHnsqMzCZnK07s%2FaY8Fff4DksinMGmsBfXqdLernnipddQ%3D%3D&name=lgBhl9wBL8U3ZWMuFxLHUtF84R9JWaL53Blwwp1v6KFOzWs1zEeoU5LpBZ1bgOeY6%2FJShMYAkGa4wlQRHOd1ng%3D%3D
-#EXTINF:-1 tvg-name="2月18日03:50欧冠_摩纳哥vs巴黎圣日耳曼" tvg-logo="https://live.fanmingming.cn/tv/2月18日03:50欧冠_摩纳哥vs巴黎圣日耳曼.png" group-title="冰茶体育",2月18日03:50欧冠_摩纳哥vs巴黎圣日耳曼
-https://mgev.188766.xyz/play?migutoken=50b0a80a8efe614b739bfe218d6a97a9&id=P%2BvOhU%2FMBCqLsJ0Xa2qtDpad917sbeepNh1%2FENxUmtNRuVfxp7VxXUfv1e%2B1HX6Xv3Yl857y%2FgM8vUMMuMStNDKWf7oByQ%2FaBOgZeRbrDgjtZhNkB%2BPgXrOiLImhF3M7RgD3AAIMnu5BiBv%2FUJ5aLZ4mR%2BTHzdakIQYEgG4rNl%2BLXmwt%2FhYvq3EDJGXqZLKcz3%2BTeoh2PavmfiCB7g3AVyKlEGIOmaZrQCjIXouOIucO%2FtDuItPI2x3VUFfD1voN0a7fnChHBQ4DodMgdBmruM6wWoeALwOp8hhIcp%2B0qb41P5kpSIeTw%2B6W0rIPfXrJ%2BwfjcmR7w7AVRFez%2Fnm04a5vZVWGN7aLcQGy6IJV37TwoT8QbDmtvmQKGNaZ6xN4HtskbBm9QyY5sZa3oqthRA%3D%3D&name=nXsWJ7x3keW95quWZLUCuf5RsqZpDhGhKLruja0ou0lKEL%2B41%2Fuqj4DnBXG%2BmaArPonnHHx9Y8Ev0NxTbzAJdN8WMnjbZcRIjPG13gjCnOo%3D
-#EXTINF:-1 tvg-name="2月18日15:00_WTA1000迪拜站_WTA1000迪拜站 第4日" tvg-logo="https://live.fanmingming.cn/tv/2月18日15:00_WTA1000迪拜站_WTA1000迪拜站 第4日.png" group-title="冰茶体育",2月18日15:00_WTA1000迪拜站_WTA1000迪拜站 第4日
-https://mgev.188766.xyz/play?migutoken=5b31337112f231d28059ff8744be27e0&id=j86n0FIPG6oVltm3pKCPNleFIhSANcr9QojDC48lMKx01uLj0LPvhMmokrmm6p8aWGULngD6N5mgXcG7B1lPGXAso2Lq0gRtD18l%2BiBl1h0%2Bf%2FBEWY9nX5FxTyt7sMgyVIqMADJ0qbO8JKpOWjM7m0fmLyZh2G%2FYebGJ0lE0h0KBKN4duJFbj9w30t2BR9S8WD2bLn5CqAqwOnBaCuk7sZF%2BUjtNa9VpqwTNwWhfbBHX6cvRkETGGKrHlMVD2xy%2BEZlXUSNaEeImpKslWx42yUt%2BGW%2FAZYsvv3Xf8TxL6hc%3D&name=8zS46jxs8I2HPxk3Pr8s1QolPAnivjyfuo5BJSBb6ZCZpkbLorR7IN9WwTlTyTxC5Gr1qW1M4iHVbAHGydaY20UDPoZC6HK%2BdvM0%2Bu3rg8s%3D
-#EXTINF:-1 tvg-name="2月18日15:00_WTA1000迪拜站_WTA1000迪拜站 第4日 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/2月18日15:00_WTA1000迪拜站_WTA1000迪拜站 第4日 赛场原声.png" group-title="冰茶体育",2月18日15:00_WTA1000迪拜站_WTA1000迪拜站 第4日 赛场原声
-https://mgev.188766.xyz/play?migutoken=d40c2ef876674122ba5e877dbda6c8ad&id=G8ySS2ylWhBXqDxL%2B1jryQWfaRRXqOXg7pxdfFp%2Fm%2Fl%2FlGisJeP0PKVdKACAu6WUq9lFndmfOLtC7PLheTS5OsPtXV7WhLQxT08ApXAlyW%2FMXe2CU62mo92drM1wu6oFYw%2Fxfkuni28Jhd61roTjLcqinzMKp%2FbPVqSs%2BZ0attmYIuL8aP2uQk8bM0cqYx5zYzLvaGC57PmfDIzuUi4pg%2FYcU6KomyW8fvwYpZ7TBP47KyY9cKCFE40uea5dpnJEzlgmswWpefNL5vCPs8gDXNhrdSjwGI8jMD%2F1kL9CkrA%3D&name=nhe4EjP3M3ftXLEevUjdSy2aPgTAdbCneKAcW%2FrJ2SIvCyp29ALS%2BWHhoSEtG6JLfiBqLvQEj9wUg1jOH1sFIWodOpR7RISzY%2FuHbcjQvUYJCK3dpYwdgav3D%2F2lGRSU
-#EXTINF:-1 tvg-name="2月18日15:10_WTA1000迪拜站1/8决赛_曾丽美vs阿尼西莫娃" tvg-logo="https://live.fanmingming.cn/tv/2月18日15:10_WTA1000迪拜站1/8决赛_曾丽美vs阿尼西莫娃.png" group-title="冰茶体育",2月18日15:10_WTA1000迪拜站1/8决赛_曾丽美vs阿尼西莫娃
-https://mgev.188766.xyz/play?migutoken=66c21898512ad939590ac91b8a6a26b1&id=PHWFr04i3DDRmcG7h%2FtULxg6sgR1Po6EuAODtDrzpV5lCfbFnYA7Vcte0v0iY8SGw11MKndOGJ5kADLg6acUro0kP69S7zJFd4%2BvUDrOgIpuOrL%2Bj%2BXU9RXr%2FTBxfQ39Rr%2B9fiQ%2B2992O%2BX5IhLGWbVTaPaEQUs3oxuHoyarihurpVz9aaZpV6JFEUg5wSvK8pRwzjxdPvXtW8AqhbBc8cbHtcGi1YnCtP9kocx%2FL6UeOazZN600uEPvNt89iz4y%2Faw2Y342qabAeq8g22hcY%2BFu3Z%2BF9M1XcdW9wA50MvE%3D&name=iyJOcxPiTpm98KsUFFM9I06xIQaERyzmgi2n2qehb%2F8qbZcoV56nPLUHDlNrvdaJl19kxXUryaXzaUirNo0J5xq5mnbAPvIQK0fem4Cr6FAs725K5HD%2BYG16AnZsUvma
-#EXTINF:-1 tvg-name="2月18日16:40_WTA1000迪拜站1/8决赛_米拉·安德列娃vs克里斯蒂安" tvg-logo="https://live.fanmingming.cn/tv/2月18日16:40_WTA1000迪拜站1/8决赛_米拉·安德列娃vs克里斯蒂安.png" group-title="冰茶体育",2月18日16:40_WTA1000迪拜站1/8决赛_米拉·安德列娃vs克里斯蒂安
-https://mgev.188766.xyz/play?migutoken=2635d1a0d3ff0cfd8e215ef7c84aa5b6&id=9PzKcDEHld7T1GTB6o5T947GO7IFyiNYBA%2F%2BK1MhoBbpKeEM0Qcmcfl955IiaFbZCxeNMN3FCjLNQTQCRTFn7ZCIcNPEWkZnKi2DHJq4kaee43QqMU1QGpY2tgL5rHqyckP6s1XZ2A09k0Y1T5skETbn4uKGzEQCZlY0XwfXWqfiLWNz2DC2IuE3eC6tAquB%2Fy2LNT7uLZC5AaitPu%2BfLh%2Fhj4eB2jlBEvO4INFRi2Movyhpjo9sxhFUAHVbuYII55ZlDsQ4FNJSTv9TfOLEbcBM1cs1qqppYs8Cf5O5Pzo%3D&name=UmB2zhoy3iT5Jr22%2B%2FMdSumDFEcF9ZVwcJzW9G4JWGpcZFhuCOvauFY4%2FHaIvwRYZRbgHvVO7VZ3e84NHyD21GnGy2I580tzqmPun4sfvdDsuOvrCKALH0C%2BVPZhrX2e
-#EXTINF:-1 tvg-name="2月18日17:45亚精英赛_上海海港vs蔚山HD" tvg-logo="https://live.fanmingming.cn/tv/2月18日17:45亚精英赛_上海海港vs蔚山HD.png" group-title="冰茶体育",2月18日17:45亚精英赛_上海海港vs蔚山HD
-https://mgev.188766.xyz/play?migutoken=fbf3f83a0c8cbc58caccac0840658232&id=oR2sogCPZucS2819PIkROcV1VSfoVWK6h2q6NbsiqK84GCAE5Ly52WpiV1FCYEgHowsoSQS6N%2FS6pbQd4c6ExbWVKaQLK1YCgcxS1MrStreu4CMGx9YugYyQYmAb7XPBzgd%2BgG7ceN6HCRpNgTIB22sf2El0CRm%2B%2BvmfhRT5bDnlBvGIEmZRS4nG9bBgwKqvoF4n9LH4uEyJtV%2BWOC087yU%2B8Taf%2BEktZ%2F7mfvJTJ1wiAH%2B0DhEZw5NyfWTdnhIerv76vLCPyY9V95%2BtKV1qqfP1u7IVLd8nuO%2FzMGfTp21DkiVcAOhVdHX1mRvdndq5Kc2dqbUZyi03yMzIlX3BDSKkLDVwkjqpzGaUbUs9sGDsfm19jH4SMec7wiB3GSDXodkO0XyLUoMm6ppwXtxtEA%3D%3D&name=xuuhkX8LMSwrj4IWoU%2FD7V2qJ0tKTXQWSvUxrN7u9iA%2BJOlQDsh8XeQvPXqid2UVna%2Fsv0soE7bnydKUF46beQBsaUYIhvcZkJAzQ1T8BrA%3D
-#EXTINF:-1 tvg-name="2月18日17:55亚精英赛_墨尔本城vs江原FC" tvg-logo="https://live.fanmingming.cn/tv/2月18日17:55亚精英赛_墨尔本城vs江原FC.png" group-title="冰茶体育",2月18日17:55亚精英赛_墨尔本城vs江原FC
-https://mgev.188766.xyz/play?migutoken=43a92bb734dd92688fac03edaee0b745&id=S%2Bg3ShNIO2OjsePYHzk1%2FWcwIdMeZPnN31j7eMnvZVtxx5vN2dLkW%2BlKQlvLRYu7iQJUSSnhE06Gp8osl0gEUwhbQNCn4bAjkGBv%2BLYMr%2FpP7wOUr6EOKKOZGwwI2k9D3Z1K4ypd83TrizQ%2BsDsObjdvr81A17hxYnVk4SnDTTaRh0bar8TOEI9AO6xrFtyN%2FyZJLzqDPUS2LPfskMIXgFOfPbqHyol%2FF3lkUL95WMK7nutmU4s8VX3sauN75etalkB7delJIpN%2BzDGkzOtLyvVXDAJf9oj1zwYgR2UouV9gbH9tBMy5y3ZoDNwI8%2B5hz2trDc8%2FMcA2DW1oTkYiX99htjmyg%2BJDMfb4aa38JFu4r1Oqs6qgMJ73xoVEQrPfwqDXPFNxkXVnweHBcoGUTA%3D%3D&name=WRMGpbEuAl%2F9HTuVw4FVdlD71FGOyqDQovuc132wCm1CZrXPTCxyA2%2B4rXXZvuluhqURM65ywwodFL2AyNrh03WSAOhX56y3ZmquC7cSnK4%3D
-#EXTINF:-1 tvg-name="2月18日20:10亚冠二级_万隆vs拉查武里" tvg-logo="https://live.fanmingming.cn/tv/2月18日20:10亚冠二级_万隆vs拉查武里.png" group-title="冰茶体育",2月18日20:10亚冠二级_万隆vs拉查武里
-https://mgev.188766.xyz/play?migutoken=07c90d10e348d76f290a17be4cb7b34c&id=XeqlxA1s5zR4alzd8UvWAQvi3NMR3nJdNizzE0iUvI%2Be96hp5tQ0U3hitrNoQsV8gvFh4x%2FTl0PqBFDJh131syR5r3CtFOUOwQqzmXcsYWr%2Bzsl%2BEn2CUhWBTr%2BYS1cApyvC1XNjTxiHV8O6i6QkuuzC5CMRh3uwCj4hoKK0reaWFlcLtDz33ExwUYdRENz72OMbW78KXz7zYuSiNvXT20knJaLK2ICqCCx1eGyniaRxwWAwxlQM20MiUJnjefOot6H91zl%2BjBlHL04YKDEb35HeLjX8B%2F%2FNG7gMqx3jf9tG2YH7LIFvk2DkI3ZsVT%2Fbb4FrTPrGGxO1dy8LlOz6FkIMCkgpfB8vp3uezTlrvZ1FDxGBCRqPDqC3%2BCX0GuwDT1Ov8cU4Dye8on7qB8cRvg%3D%3D&name=5SUGukshf3229z2NudJAVae7DqpcdZti1lK%2B4f7t7aRlE2qqucX6kT%2FP%2B%2FAcdmMnylIYEOlun0g3UJzZTVFhjg%3D%3D
-#EXTINF:-1 tvg-name="2月18日22:00_F1_2026赛季F1巴林第二轮冬测第一日 蔡黄思桐" tvg-logo="https://live.fanmingming.cn/tv/2月18日22:00_F1_2026赛季F1巴林第二轮冬测第一日 蔡黄思桐.png" group-title="冰茶体育",2月18日22:00_F1_2026赛季F1巴林第二轮冬测第一日 蔡黄思桐
-https://mgev.188766.xyz/play?migutoken=811478714bbbd29cb0f43c8501ca75ea&id=NcDkvJ5sQaZBvKqIAowQZeVIRulUo21CKQCMUD0yOnPAJF07j0kjvvEZPP2emlXsKVVb0NR0LK0DhCaGE2oYYDbWR27kKSsCMz9MvsJOltzrg%2F%2FFlz66uyfECJcXEzsMT3lqLz67Eg96DOdgBJj6VnDaW0LnQAk30DvrfwLkV%2BLiOuqDBm8oTAsGSwWBAEjxemqZ5nWrYQB9sr3qpNdKVEF0sIuShTtT2CCtKp%2Bgz%2Fw0Z%2B9Z7pElhD6UWHvkoJ6eVWSxFBhHxjQjIVtD%2Bihmfx3IqBOSSwbDwqEN8Y797u0%3D&name=HiATO8QR68ES3m4cMEoLM5FdkKqRhT3WqZVS%2FtYE%2BFjyVv2g0%2FWYoKTKTv99kmCQ0GSQYDpG6wgtkJlWJbeW732bg801MtRXAn76z%2Bj5xtfF5d2runHuCO3fBCnH6rYN
-#EXTINF:-1 tvg-name="2月18日23:10_WTA1000迪拜站1/8决赛_高芙vs梅尔滕斯" tvg-logo="https://live.fanmingming.cn/tv/2月18日23:10_WTA1000迪拜站1/8决赛_高芙vs梅尔滕斯.png" group-title="冰茶体育",2月18日23:10_WTA1000迪拜站1/8决赛_高芙vs梅尔滕斯
-https://mgev.188766.xyz/play?migutoken=4a67273ee06ca8a2cb04c3ebb52ded38&id=t27hxF8n747wwcAOi9ShT9fWfHm6QFMuEMluxVRMrNidKYLfYPZqoirD7T5RHHGALQc20E1MMgyokoi8V7PxjO9Lz8aoxaQ5lbLVXhsE8yK2qxKrqNGCRHidpGt7LEE4B0As56KNY0OGrz4Cp5ie11lDe2eujUoAu1kmqEBgfWiW6G%2FczdwilE7ZH%2F3tvmxhzicbq5YhgvXwPgz0ZV4s2TrsWiofbRX46WU3RPb4hl%2B1VqcgS3%2BKUICeRkMR0LkrywUu9iaf5WMHUAfcZVjsAXIWiuTg%2FNRh5bFDTKffD3U%3D&name=qqAv%2FPIh2n1bT4oCmqNkDKCg6%2FuZPjyi4hbXasjaaxV%2FFKdyJ3F%2FTSBuGopJzERLxPQPYQu2mYXk%2Fw2AV5ZOvzIymdjWnENQuu7rMLTI9vs%3D
-#EXTINF:-1 tvg-name="2月19日01:30欧冠_卡拉巴克vs纽卡斯尔联" tvg-logo="https://live.fanmingming.cn/tv/2月19日01:30欧冠_卡拉巴克vs纽卡斯尔联.png" group-title="冰茶体育",2月19日01:30欧冠_卡拉巴克vs纽卡斯尔联
-https://mgev.188766.xyz/play?migutoken=f86040ba47867d6fa7b8bab6c629eca4&id=A6sQ%2BkEtVJdrcCFwyxOYeUikFCj7A4ZRL0%2BdKUPJNBIipOPuKDLD6UqOlv1pyo%2BxjoDAAPRIe3wxi8C7M4B2lcG%2BWg9NlUJOfDO%2B63HoHxaCm0thW5HJGgXc00IuC3i7KfIIybO%2F2DFMojyrLwIZypPW5Pgx4HxoXm0S%2FxGlXh6zDVRSlikygnyMxxMGThTG4zB%2FRZXjbpFJjoS9vV4XMhJN9FR7ioa5y9lAtAU%2BwsG6daw4vmu6sirM8AJlgdAEErbG%2BbcAXXGR90S1ihVqapH2Sl8x8H3fJwqN9yar29uxDe1HZ3D%2Bcv342TRshvmRZaSjt4rE5oCUYOAY4JL2n6bYlrocTvhtbCNa8tFiUJhusMoC1CRu8eXwPiqK3lvLmfla%2BnhBStwvoPJCMzmVkw%3D%3D&name=bcJoQpANJOeYJLeyhCo%2Bvqx7NVW47hLOsIDTas0CowjqeIC1I6KsDvEHVX%2ByrZbT89IDmrZQfc1KQ7%2FayNktlZgOVuB0H%2B2oSyoD9ek1bOg%3D
-#EXTINF:-1 tvg-name="2月19日01:45_WTA1000迪拜站1/8决赛_科斯蒂亚vs伊埃拉" tvg-logo="https://live.fanmingming.cn/tv/2月19日01:45_WTA1000迪拜站1/8决赛_科斯蒂亚vs伊埃拉.png" group-title="冰茶体育",2月19日01:45_WTA1000迪拜站1/8决赛_科斯蒂亚vs伊埃拉
-https://mgev.188766.xyz/play?migutoken=6023e83dcf74828289709f51f909daf3&id=KqgSkGdNh093LBiPOGFkcFyMKqzYnA9PUCvQIkGi1Ty9YMvHIaGUEu43A51W0ZeqKvi%2BYZO6o1KGesIt0lDkuscyBTuowPIbSpu%2BiNZHW2YPynPTkDW5TNzxwzmXG5xN00eFk8F%2FG71wie%2B%2FSy9j1nQfm6DYJ0f4BRy2WqUfPihDA6%2FKLD8lsiKpm06pxEukCLAg4stbtdgDvzDpixwkq68WhCfiDNfaI4Yh5FAy6Q0KrsihqkWZuQDgrSBxNaFlRnAYYoV%2B7K4QcMPoOnL8Vi8JUrtIXVC6PJ6Hp5ZOAoQ%3D&name=dGYGeBXJ1BN%2F%2BR7XXFwlvvZenfZXcCkjHnUyiHFZ1ZskTH90hC1jWRiAKqfoLIEMriUSdIjsxDNxOhMREXtz9b2Lt1227QriZ9XLjM53HhMx6NED%2FuysOf7VwYMnSrY4
-#EXTINF:-1 tvg-name="2月19日02:10亚冠二级_利雅得胜利vs阿卡达格" tvg-logo="https://live.fanmingming.cn/tv/2月19日02:10亚冠二级_利雅得胜利vs阿卡达格.png" group-title="冰茶体育",2月19日02:10亚冠二级_利雅得胜利vs阿卡达格
-https://mgev.188766.xyz/play?migutoken=a92c45b8c4308bce27f8a01ec78f6711&id=WvpaBrZD%2BUX3yAACzI7rC1n6K5OFTZYUtOYVuUFiI3DwbyzQV84kLBih8QC0l3ZQXG3qIPRm1OagEZj3ZCo8yE4JF1fxjhrDfKWCzhzC%2FE3DWNaWFHTITTCIQd%2FJ%2BF55jH9ky4VZB71X%2FAZcFJW2tL98FO0XqQSQ%2F5b%2BkP777UGUfjj3%2Bp8yrTfW5QclCHPPGYUugR9EAyta36tT9MJIXTYfzO7alXvUyNMmah4HUiwTjh%2FX00E9kCrHHCsMfIdlg9GofiZRi1scuYCKU2OfZzUYijueUbucH1q8O4oyHUZC%2FzSJOJ0oIt0XNoUxFGSYAASijjCBYor610VMgQLbYpUTm4t6Yuk6AnxFrs%2BoX7ZiIs60vYb%2Fv9%2FNDUbAwBGVN7uSvgS7K10UoGb4QSN6IA%3D%3D&name=YqOLZxAOPDPt61ywPvPh9eFa6sBFaUHaocG%2FQNQtzjnnSIlN65Y6VH53e5r%2B8ArjN%2FNX1Bgik5O%2BV0uXyy94xi4pbwRCLTpDwUZdULNBCrg%3D
-#EXTINF:-1 tvg-name="2月19日02:10亚冠二级_多哈国民vs塞帕罕" tvg-logo="https://live.fanmingming.cn/tv/2月19日02:10亚冠二级_多哈国民vs塞帕罕.png" group-title="冰茶体育",2月19日02:10亚冠二级_多哈国民vs塞帕罕
-https://mgev.188766.xyz/play?migutoken=363930fa42e1b921dca1d18d4df90ef6&id=zVZCQuZj8scB%2BhrqmZMy%2F2DQtXZm5LwrkrW5SPYU%2FcI57YiBydMxr%2ByQIsLZFhl8FJHBT7VCu93sLHoz1fsUM5qUcfvH4qI4o1t6HqtdaxaKnekjA1v4WEVTcaw%2FEmVJHCCYQr9nRsqo%2FGUAixvO27HMyagrcZ9TvCrzGlT7GJ4v1e0G4Bg9FakyKR95IoneBsljYRpwWeoai5XdGXwTDWQqzycT6A2TJyg9SHb4GmwSCeeo7WvOiBZraSjAs9Wa2c09v0y%2Fru049YnEID%2B0B9Fgah7xRnBVQLx4jEJZmVULpR2vg0A8OOFiHBKn2D0cO1EfwT8TdhUa0BaTVs7Mz3YXhsNDtQnWRMqEUdJdNdyuRHCgYBGmtyWOV8egL6iKEk6VWCBOt%2Bkhv4eUw6IWpg%3D%3D&name=V71bocp9Y6wF9PmWdIA%2BOblkSZi8hd0sQf6FnWGI%2FsXVoic%2BxiUrJiscGtvoQf3xUpO5Lv25bcA9bFm4jufxVEgYpPsyFz%2FTY5hRIHy%2Fvrk%3D
-#EXTINF:-1 tvg-name="2月19日03:50欧冠_博德闪耀vs国米" tvg-logo="https://live.fanmingming.cn/tv/2月19日03:50欧冠_博德闪耀vs国米.png" group-title="冰茶体育",2月19日03:50欧冠_博德闪耀vs国米
-https://mgev.188766.xyz/play?migutoken=4427edf00b45327daf4cdc2efb07ddf6&id=GVh9OUUAOtuzMof1%2BEJjPioS7qj6jKwf7dgdFQY1i1TquUTU4kJjDINDCIzTeVYU3srt6K6%2B9CqALAnHHYazF0T5%2BXzcfVma3GPJaDSkaRpHc%2BA%2FcM0jSIGJGVKWVB0NzlBV%2BGxB3QAJYM%2FVqiIRLgcrZJPxJbnF6FtrdOh1WCPnIqIDUZJ%2FR3LKuuwE2lfsAmHFFY28XTeCvIQVWD9z00JYl7PPHhYVUL4So6mAYlR%2B0HTCU%2B55kJe%2BJgYlGeUoKv7euDGfma%2FrOGYvQ%2BDnWkm5sbxTnEEUKQm8zCdzS5szLY1gcfNn4YOF%2Bo5ebQMoA%2FvRUT6GN6iktSy33oJZ%2FXZgnji2TmysqW5dnSFQXBPuEgr%2F155QWVKfg%2BMbCT%2FDoUoCU8od%2FYNPu5jUv0r7fA%3D%3D&name=C%2BQ8%2Br1RAwPXP%2FzK7EWFG1GPIINpRuwdmNUbcVsRNh7U7IVdXlmxSQOqJqAEodPsqoegjInCKpCpGH5WXoi9gA%3D%3D
-#EXTINF:-1 tvg-name="2月19日03:51_短道速滑女子3000米接力_女子3000米接力决赛: 中国队B组第一完赛" tvg-logo="https://live.fanmingming.cn/tv/2月19日03:51_短道速滑女子3000米接力_女子3000米接力决赛: 中国队B组第一完赛.png" group-title="冰茶体育",2月19日03:51_短道速滑女子3000米接力_女子3000米接力决赛: 中国队B组第一完赛
-https://mgev.188766.xyz/play?migutoken=29aa0e9d0c2aa35138223291ac059c8a&id=Hl7eRBuv1pjrU8XRriGSE00elEYdDFQ5cIYSZE1Afla4c6DpWCjYu8vtiIvdOwpspD%2FEt3eyQEBGqTpMrgEBp44ooGkOFm6sMWXgmjtsMZIccqZbXtpjGGtmJsqz9YMVpwS7CCbq3lVCMUr7eGVrh1NrKdmWNlNI6B8ol%2FVfn1KlfZcCUusWyqNo5SemYjICyfmBQkSTiBcDDuCb3ZZYvxsO3L7YlI0Cdowd1%2BTG7LpXK2bEqH3f%2B6iiY2MJnLz403PcalqWXHHywMZM9KZ6anuDk5UPhPAJ39MfUxIEe0U%3D&name=rvBXskEYPYTG2VNtxq1srzM5jiO5Do7iIERdNilTffnjK1jduiKiGmym7cSOfB7fje9g%2BHrWznGuSssyioIAcEYDXsNdxbbL0zyT2gxZGcBnBzmI1lFD1W839eYTuui1hNQ8PblqE4K7tk8hOQSbjUGRAaduCY0iMYZMTXTTaDg%3D
-#EXTINF:-1 tvg-name="2月19日03:55欧冠_奥林匹亚科斯vs勒沃库森" tvg-logo="https://live.fanmingming.cn/tv/2月19日03:55欧冠_奥林匹亚科斯vs勒沃库森.png" group-title="冰茶体育",2月19日03:55欧冠_奥林匹亚科斯vs勒沃库森
-https://mgev.188766.xyz/play?migutoken=b45fd874c066f6e8859d5c219b401ec6&id=wPuStiTYi45J%2B5ji1wqNX3Ivc6skLZOzhmDmp5dpaD0vZDKJoL77u2P%2BhibA8KkLfMzBk9v0%2BAnbmhr1gCDoZFEMNWa9Pv9YR4MdKdd2SUGo4rYIUI3awlEElH08Y9fkdlKpamy5kxCl3CjJ%2FwpKNOogtp%2FI6WXgoLwy4cWYo0%2BceGp4xPv4jlDcnbLs50V0iC6ZlOofVpcUPEOwPO645PLcRRLNSbcaX9GShBcaXnnZw%2BvQDEYSvPlZgQWiZ2%2FZzCfCSG8UxI1FmCqoBKJtTlRFtFXvysEjDQpWq6H1D8jHcpMr%2FCh6HASEFAZHrEzKPA8Cz2BPqE9k7ft4utUIZbrp8Db5Imv3%2Bo9GCCnV7jHMSGKOh9bWUJaJVPeS66TdQT3N5fPseDKf1487VJHVOQ%3D%3D&name=MVB1oZ%2B%2BRutlyTF%2FNF%2Bq0KEm7hDaU7YsYDoScaGq5lkP%2F%2FCgIwNAF39ObQI5MPC3pk%2BEE%2Bj6kNh%2Bd33F3ULNnEPt6eTTBkhlV%2B%2BlKfLvg1c%3D
-#EXTINF:-1 tvg-name="2月19日03:55欧冠_布鲁日vs马竞" tvg-logo="https://live.fanmingming.cn/tv/2月19日03:55欧冠_布鲁日vs马竞.png" group-title="冰茶体育",2月19日03:55欧冠_布鲁日vs马竞
-https://mgev.188766.xyz/play?migutoken=4bf9f807b8a1b1437e82fe5de3557599&id=jNJSyByqS77CPx8nvaeaSQigKFrbhfoQ%2FYZNU0U1%2F8BgY0bPZP1difVWPsmaHoZOtyXB367irMpCveAz%2F5WMq2rvLPrymViNGR8eozeeeLAFny8d1qeGRZjhNcbR%2BexfGSVEVk73feE6VG1QUFYtbZ71YviQwCKSTXis%2Fz9xhY7mBwkqXQsNiR1n7C3qoaiDfYJAcCrP8cq%2BhJpJLs23yvB8MFRhfEhZnUl5vV9uovNFl2vDcWgzgWItL8kgnCa5uOPaLsXLN4lgV9kPue%2Bdnka%2FhiH3cbGRxwEjn9PFqhywz1oJrsGEVnWxLhnnRog0evMbUJc9OI1ixmdPHud8%2F6XwH8%2BLzK1xhlp5h9IcLmFjR5ZY1RsGnIB2T9e2YeL%2BXBTY8RtXcvonLbv5TXCF2g%3D%3D&name=9Jtqf8z8lPyV4NRfJhTc7kqA9iJQlI%2FG%2BzawR9laLOyHMf2zyzPQVOpjOYYMV%2FPJn4QbUwZBZzYhsKv%2BcsvJ8g%3D%3D
-#EXTINF:-1 tvg-name="2月19日03:55欧女冠_阿森纳女足vs旧海弗莱鲁汶女足" tvg-logo="https://live.fanmingming.cn/tv/2月19日03:55欧女冠_阿森纳女足vs旧海弗莱鲁汶女足.png" group-title="冰茶体育",2月19日03:55欧女冠_阿森纳女足vs旧海弗莱鲁汶女足
-https://mgev.188766.xyz/play?migutoken=e275703a037f6dc4bcc8db4ad8b5cb64&id=S3YSeHbNF8Oz9smZxliECcVhXPGqZu8suZ85m21I%2FoPaI88CqE%2B1ysB8vu%2Bn%2F0pu4VwGuI8zmTQuhjjmKbxyKlAXK5YICzMk10Ukm5DGx8j%2Fq74KWI6V8biEINeXAy4ep6%2BnKgDm5eqbTnlYkK4Mwylb1Ov1EEbXbnuIqCetFYavWXXpppTHEh20aYZGDMjFxNCcUTcInav0SytlubqHDtgwubPMpMxwXdPxGgfHAIpeYKk3A5ei2b6Hk98aAPEre9PG0EnyB%2BXm7zSxlgyHQQI%2F2u5vlXiMD4U%2FjNuWaEs07IUPJpKv3HilNH0D9%2Fxvhit6tdE3%2B0BuuFAWCzi2TQiIQe%2BoxvuaWmIIulUj8EWOiNE2OpzrrJxwXUEBsh6ab7GktO4BM63LorDs1vc9Rw%3D%3D&name=EbZqrHcB4G4fYheF2KhTMDkM8pSCXSujgEsXzEO9%2FERixM1pknIcWdd%2B%2Bj7k7VajvrWo%2FlrdwncU3dCi2Xdm8N79GZez7wTTA%2BmT2GY%2B7wFOnMxAvJqIVkiZC45azTZZ
-#EXTINF:-1 tvg-name="2月19日10:00_NCAA篮球_NCAA篮球 圣玛丽大学vs西雅图大学" tvg-logo="https://live.fanmingming.cn/tv/2月19日10:00_NCAA篮球_NCAA篮球 圣玛丽大学vs西雅图大学.png" group-title="冰茶体育",2月19日10:00_NCAA篮球_NCAA篮球 圣玛丽大学vs西雅图大学
-https://mgev.188766.xyz/play?migutoken=0bd577760769cfee0e1c8dd6a837fa8f&id=fZYf9mnuyLOCvFim4DEVUyIA3MRrTrufTHVtJYchxTdUemBu%2F7%2FgKzWngMXyVKwBP6yiza242fT55wAypk5uP7e%2Fc6B9NhC%2Fg7MBafj%2FTMVgpavE7Zcl6nuq8UJFy9CmrmwV7mDrLq2TsJVGUdfF4dIaab4qaH22tmJoti5AAem4V6SLzahK7nF5W%2BdyTNP%2FG6A86NCXoS3vRDlvJwnbS5YWtyGL8njQSAwDL%2F0Odq0Xq36nvMSb1g%2F3o3ewJv5u5bCbCBBl%2B2Fn1%2BHaGu3%2BAj65ZrZ4GyR2N96jaVdCECDA%2Bkt3av5MC2SBIBfDG%2FaQ&name=%2B9w24unvcWgqbBvJaLgodFIHETKrbGTJY%2F6DRIPqpQXxotWgdGyTyq8ls18Ur5IuTqLMV65pOpl%2BxS2kVYg%2BcY0jDY3A5tBky73eKdW5EdOI15GFEsNuV1xsezfAqulF
-#EXTINF:-1 tvg-name="2月19日10:00_NCAA篮球_NCAA篮球 圣玛丽大学vs西雅图大学 英文原音" tvg-logo="https://live.fanmingming.cn/tv/2月19日10:00_NCAA篮球_NCAA篮球 圣玛丽大学vs西雅图大学 英文原音.png" group-title="冰茶体育",2月19日10:00_NCAA篮球_NCAA篮球 圣玛丽大学vs西雅图大学 英文原音
-https://mgev.188766.xyz/play?migutoken=2c0330fe0d02922175008fc0739d9339&id=gkI%2FyhoPCuJJQ1jJiC61FXkNpkN85zcqJiysJNj%2Bk%2BSTxjeNtW4A4yyRRdxqHpYAFp010phZ1u8A4o%2Bap%2Fua4W1sfhxN5Di1zsX7jw0vBl2wsRcEKrWlzq3kh3vH9CYmqkLIcWIRkoLDxX1tCEeQ3%2BIbjOO43DQ3ZRTmgQa%2FQ9DUKrVVzqMqUIGKG2KsqpwuDKo9bru1qTyM1iI2Lped7ODEt8sQqJaG270W%2B8MX3OyJp3w8BL2h6Wyf9kSWApbY7IZXHLyZbHaeH97eCZ2k7%2BVHhoxiEWRR%2BJ%2Fp96XY7u2jd9dpj9xpkoZS3YLU0o4p&name=6tO2xWyFfH515TPljns7JfYuV9PQondPQPDmslPqpDB0HOe2FV0rrf03Wn0aVX8zSxL4FmbduLe%2BR5xvR4XHaj2SeJN1wAAm3nFfYONNny51Ik9wJdEp1fXbW8tkY7UsOyHkXCXdjPb0YqZm0VEBtw%3D%3D
-#EXTINF:-1 tvg-name="2月19日12:00_NBA经典赛_NBA常规赛精彩回顾：哈登骑士首秀23+8携手米切尔客场取胜" tvg-logo="https://live.fanmingming.cn/tv/2月19日12:00_NBA经典赛_NBA常规赛精彩回顾：哈登骑士首秀23+8携手米切尔客场取胜.png" group-title="冰茶体育",2月19日12:00_NBA经典赛_NBA常规赛精彩回顾：哈登骑士首秀23+8携手米切尔客场取胜
-https://mgev.188766.xyz/play?migutoken=ddc04c2f74d0a8ab54f4d991efb8bca8&id=7vC3HzKoTzUhpkLJ%2FSH%2BIcre28VIE5ZPR8plIyRie5A9PNrw9iC8FyysxcU9o5hXXAVxhPxcJWVLFcWC32RkPdhloNNmXvRGUtZrnmTyEQ37Q42bN0KD68HM0Zca0SU16MWigM8%2FQdzyqtlxII%2BovsoLptzK7pP4wFAY5p4qtFmjbMuAvR%2BmlewexJDUTaHHXNBvAITtyqrSLbkqzgUHOk1iqP5AWAU6yHpEZRfP2Q5kFAz9vPlgXX46EA4YKLzktdD03ME3G63HPMEpL6sHptIhCZlHl0DgSx5qeJeCxYfI%2F5JdNEfVuOCcfpxJQW2N&name=gWNBS6lhtkufX%2BJ2JQ2EZ3HTQmh%2B%2BJhRYecKMnsICuudq87LDgmmOJ6EsjWpOH5ribhWBhAKlhsm3SXXOS9D1KW8IZGDgnpxjpn4B%2BQWn6PJbHwUO9q92w05Wf3BM%2Blqux3YzT%2FVVwA6Jp1ciPBNcFqqSNRiDf34wNPKmsN0658%3D
-#EXTINF:-1 tvg-name="2月19日14:00_NBA经典赛_NBA常规赛精彩回顾：莱昂纳德55分生涯得分新高" tvg-logo="https://live.fanmingming.cn/tv/2月19日14:00_NBA经典赛_NBA常规赛精彩回顾：莱昂纳德55分生涯得分新高.png" group-title="冰茶体育",2月19日14:00_NBA经典赛_NBA常规赛精彩回顾：莱昂纳德55分生涯得分新高
-https://mgev.188766.xyz/play?migutoken=ef0baf7e152ff9b1a49b45749f6f2769&id=XpbWDMrVCM3%2FdAXnPzHn4iEbjZU7VJwXgnf%2FO%2FHAKz0tKQAxDqsMJLHLyDwi2jrj74Z71c2RAKYlSlZ%2FzW8OoXwGcWNF1yXX31WNVHvHvCBZCyP3uB7q5aDWjrNKXrEoz%2ByPyRBiihZvHHXGFQAm9j81h%2Bph7%2B%2Bgq9l%2FsBFvZ5Wefw9DXGacm%2FHVFvUvxDGLwjy41MIGM8Fsy1%2BNJe%2FY2MQ%2BdMt3A%2FXzN8ZWu7DA8pNYbKv%2BSD7qx1nemd2IlIx%2FCys5nM3J%2BahihCpBLT5UB45geva693UCfRCQUsFwmEoer4XoLD2jUdQiiFj2mDZJ&name=TwrdJmNzd95kAZiV9XmwLyhw3E81npKrF5LgHgMv8u9NEPPV%2B9w%2BrA5ol0ZBWdc9OfLYzqrKdWLRAT%2FCwATIBpi19qwGyrzNO0MBRLjF3ohm8vdf0LusncwqhysVLxsqkmHMM7C6mgE3ldcB1AThkw%3D%3D
-#EXTINF:-1 tvg-name="2月19日16:00_NBA经典赛_NBA常规赛精彩回顾：莱昂纳德55分生涯得分新高" tvg-logo="https://live.fanmingming.cn/tv/2月19日16:00_NBA经典赛_NBA常规赛精彩回顾：莱昂纳德55分生涯得分新高.png" group-title="冰茶体育",2月19日16:00_NBA经典赛_NBA常规赛精彩回顾：莱昂纳德55分生涯得分新高
-https://mgev.188766.xyz/play?migutoken=b413eade00ce672d6b4d18423d47c5be&id=5IekTAggkf5gX%2FXeGGjXQ1Br9OE9QgDAx8V5DC%2FL0Yk0zYfqpqZX2cn417XiKDdYqhWINyxU%2BLCtgyFmLeNWnXUDT66DoInX7JnboeXNQf3HoXz5M2hkfGvrT7US88PHk%2FeU2lUzLTAaHw%2B8sY7SDnGKe9wbUi6LOGDb4ssIfI3At7KIgRHXdOtHcCTTtY9tbWnkqB%2BhggdI53Ri1zNgG9O%2FIl3%2Fr99oRlPwwYlcmudDLKdkuGI6ETsbrRwyLLHOhSV3WCFJoUfhXmUgxx2j4d8vfzgInRemPAOEFPqzbEEqwV2ySs%2FcdlvbjmzpKnll&name=WyPD3eJEnvmux7y4JVCxavH%2FOoCeeu7dVVnQqUBgLSPipg4LCcIPgVaRGSvW5cmeSkS2fLVWDlqDKkxtV2VcLmQJIC7FtuCKvzEX7WC9yxiEW4dgIZEc5viSIjvb2n%2BCblNImwa5tnW4NiUqzkQxmQ%3D%3D
-#EXTINF:-1 tvg-name="2月19日18:00_NBA经典赛_NBA常规赛精彩回顾： 火箭错失绝杀鹈鹕完成25分大逆转" tvg-logo="https://live.fanmingming.cn/tv/2月19日18:00_NBA经典赛_NBA常规赛精彩回顾： 火箭错失绝杀鹈鹕完成25分大逆转.png" group-title="冰茶体育",2月19日18:00_NBA经典赛_NBA常规赛精彩回顾： 火箭错失绝杀鹈鹕完成25分大逆转
-https://mgev.188766.xyz/play?migutoken=f262d6b841801a2f892aad67ea32ce06&id=x5%2Fs4exJjZ1cqoiQjJAfSpFIcSAytYUxfHiEejcanXFL%2Fj9Jd6a0WCQ7IlLHYKbkXOz7Hkd7AaMTAQUKjYIJnY1oFFbF8ZGMary2JGXYtTbilSHh9tP1qoE%2BxrIHkkv%2FvYqopNxKeGXq4pLz2VCGE%2BZSm1h%2BlDJwSZTCgk2AE91DK3xW0gC1DT1E4FnH5%2F79V7jM%2FwO0UmNvc8gJUOJyzieMGbYDQwtqQIVTtlw8SmsMX6RmNNcTdlU9zXJrZ8Vcp6hOAalS6gJ6gHEiTiON9ZIO9y1B65XPXmdqc0V%2FXOyL%2FtamPJLZtmJy%2FxMgd3Fl&name=BgG5NAhXeD1QWJbEbWcsiN02mMsSWOu0WKP3JFKMtp8FcjNHI%2Fj71l2cIVpIiYtE28VUeR7hwmjUCrQO%2BSYpbGLNakl6zWRu2AGcx3ApQc2FbCVSbMbgexmqP48UZzNFpPRQ5oSF9UgzSsn4plAJBt6%2BkOVMDtaBrfYQZhuYa%2Bs%3D
-#EXTINF:-1 tvg-name="2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛" tvg-logo="https://live.fanmingming.cn/tv/2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛.png" group-title="冰茶体育",2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛
-https://mgev.188766.xyz/play?migutoken=db2f7e0b6a945fa383392fcfcf439794&id=SA%2FSPousk9sbv273xDYlpFVXjhqW%2F8fwZI6inumOPDIK6VZBQjTOmUme7Xv%2Fks0ZdKa4L%2B31EvnWkF5NQwEzOUNSZb612Ju6oKyTMgcIjbzYmo5oSFOYaz7FfsIsLXKCpDF9jpuMTIc1n2bjv62e7R1P8jlJD3mO2jbbJTVFlEuWROqFYfj%2FiGiHlhnm7pqnOIEijH7zxOZxAihe7gkeSgnl7SjqdYf2OxqIVhXe2jYDbU7C%2B1cKM4Mr7rukeJy5APUdZJ3lh2a2GDnSWSHlXvSyO4oF2Wg2HrzlDlsbae9QYsK3FCDSMhAhzwH5Tp9j&name=rsM4okksb348En7u0RvDUHpwe1gRS3k3SOqzX3JSFfoNzZqLsIa3912O3AN2ckEKfJZ2G6xYxy0YfkgY7gIFJGgrkwk3ug2ETZYBeM2RiFA%3D
-#EXTINF:-1 tvg-name="2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛 英文原音" tvg-logo="https://live.fanmingming.cn/tv/2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛 英文原音.png" group-title="冰茶体育",2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛 英文原音
-https://mgev.188766.xyz/play?migutoken=59115231a71b5c3d74da97258f3380d1&id=YgUfpwsY%2F19QOkawhK%2F%2BglnTaidpNk6%2FH9JBCAf9UJxOAfCvw9MPxenPK5dfRbnlSQOikfvz%2BggqEYFbbaBwGFq5GOLRZ4%2Frk2QWWkRTBBnVzrKj67bTR0%2Fmd2a7ehZ3Cb7HGlYcPqdyQbKGBHj%2FxkgJB%2BaptxJFBTJ07WMTHy7B2hODdl6oKVcZxkPjhlhA%2Fdh3zqqIitRLEUjrm1Z5eii9O1Gosv%2B2hqB8ASwyDDpcIBcapOrk5ijWw4VWKArqGkHpjKNUZCoD1ClTgXuWL6vWqSVOIYszOsYPFlx10lrjL9gxEig3IbK3o11CbY7U&name=%2FM93NHNCGX%2FmanoAA8Q8PdSh0k4QdeyYakpzHd%2BgtSBcvJsOybLWWEoqeiSUFSQwqtKusONt%2F3qliurl9rcR%2BbDzb4N5yTc6VwwT7REvBOg0bcb0rMxyPxRT7knaXJKh
-#EXTINF:-1 tvg-name="2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛 赛场原声" tvg-logo="https://live.fanmingming.cn/tv/2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛 赛场原声.png" group-title="冰茶体育",2月19日18:00_WTA1000迪拜站_WTA1000迪拜站 1/4决赛 赛场原声
-https://mgev.188766.xyz/play?migutoken=70ab6691c3434107d56b220db61f3a62&id=6kphjb8cUOx%2FbjsHNtvqNwMnlKQVJHu4XNCOQYuPKUZPgRzkSfQ5vx%2BxDve2jSO5r0L86mtAuVoow7CflGpw9ReAdr8zju39jmdLVyybwGyjCHZPHTc2aSzUIgtZDLyX9V%2FXxkWbMSOeKgQxoq5wxHMNa9kMhlfcy%2FZ1ILwWL2ToTP3T%2FQDOiu%2FEfI%2B0n11qbv42bDWE7RodJl4cU%2ByIqHzBQoZgu7FxwtNPWFpcbR0vSJVK4YGvTdev7yiK0UFnjW33ufiHfzkjsZkTFtqARoWNFuRdmHwI7%2BKTviZhasIHpepj6rbzyfDtnK3hatI5&name=vfGAwPGHWCxqIX9JdyYCnMOyV2sYYwX5ltKFC3exMcqFQnEN7JNEGxwx%2B97V3CWiEKHnkS2PD3KJA9zBTufs92VuGujfE8bugl5zZHFsIOSUqoJey61xUeoITWhTe%2B2S
-#EXTINF:-1 tvg-name="2月19日20:00_NBA经典赛_NBA常规赛精彩回顾： 火箭错失绝杀鹈鹕完成25分大逆转" tvg-logo="https://live.fanmingming.cn/tv/2月19日20:00_NBA经典赛_NBA常规赛精彩回顾： 火箭错失绝杀鹈鹕完成25分大逆转.png" group-title="冰茶体育",2月19日20:00_NBA经典赛_NBA常规赛精彩回顾： 火箭错失绝杀鹈鹕完成25分大逆转
-https://mgev.188766.xyz/play?migutoken=5c3cd24cde2d190b272a6ae07550159b&id=K1Ykyvz8qJidLBHnpjoRjTP2XUiRAB3yyHJuw1JK%2F6TcmxlrdY35FvZAbbV8%2BFrS6LBHcxYGPEBH70a8kQKP0F8nzB4IeqMrVp1j7TCq2hvvkgRZmnP3PMFTfXlbzp3gibk4hof2lXxFraQLXztdK6GTlbSFUQHtBzotv1MJW%2BuMzbhT82c3WqqfkqRfD0q8eItk%2FcKUB4qpikxnYdjFYCSiSbmRhVNFODaDCuNvuZoHoM7YbVrGHDFwfY9nmDwf7ZlndAvVDcpefI4aMDnuTl2uWtELI2Bn72aDv8YddRcO1WQV%2FDQBjSv%2BXc37hmXx&name=dgjW9HECmU9rSqmBS1TPCVVZzWleFu29KLPNdPyZOETzrQqjyQ6LWsopsnW0MbGeLIBX7E3ipxFShYyPAO7owVdNfoLxMGH488U9%2FQ6t0xzHC%2FQwTf1UjrN%2BH%2Bt19pHJP7zKo004vAbfETAAo55AlyyNyB%2FARuap%2Bmcq1%2BelUDg%3D
-#EXTINF:-1 tvg-name="2月19日22:00_F1_2026赛季F1巴林第二轮冬测第二日 金昊楠" tvg-logo="https://live.fanmingming.cn/tv/2月19日22:00_F1_2026赛季F1巴林第二轮冬测第二日 金昊楠.png" group-title="冰茶体育",2月19日22:00_F1_2026赛季F1巴林第二轮冬测第二日 金昊楠
-https://mgev.188766.xyz/play?migutoken=d58874c983f23992922063144822fba0&id=EV9xAgpEETFCYElLSqc9O29Dl4gTG7JYzNKqYYHm7ENt%2FBc0hS9YngO1Ki5PlPiwKtEuvhBl1M7kDx3bHqkoF3F74L%2B1zr2s7TIsJJm8DoC3i8I84ddUEmaXQT2J2%2F7eglk%2BbK%2BllUW5HB46qxClrmTQEdItEVBDWcFRvK%2BGQ%2FgBqjNlGf6H%2Fm6YvcrRXHxvo%2FFVRUh0Tpg6cVMWE3tt2s46woP1MIXllnTOlZ7zx0pPWl0vmda%2Bs5%2BEwn5L%2Bw%2BfMLMYXz%2FnqqNeB0TLtdY6cQvJQkAcGLoNmtlvzDCuyj9CmzXEZcPwjVkf7ajKWV6n&name=KDfqHW%2FbmgLvqJWezkBGb%2FuFdnZiXhttoCjMYsaN%2B9vgZ019aCgc6aIo6v63v3q7X0xj1Nk%2FeuiT03aT%2B9CLCPiTyzdYN9yJxXM9ctTUBRPNzVZo0oRSTG98FwYEnFMo
 #EXTINF:-1 tvg-name="⬇️刘德华<今日>演唱会精彩片段⬇️" tvg-logo="https://live.fanmingming.cn/tv/⬇️刘德华<今日>演唱会精彩片段⬇️.png" group-title="冰茶体育",⬇️刘德华<今日>演唱会精彩片段⬇️
 http://rihou.cc:555/tv/t
 #EXTINF:-1 tvg-name="人民日报抖播" tvg-logo="https://live.fanmingming.cn/tv/人民日报抖播.png" group-title="冰茶体育",人民日报抖播
@@ -369,166 +259,6 @@ http://rihou.cc:555/tv/[mv]今日演下
 http://rihou.cc:555/tv/[mv]今日演中
 #EXTINF:-1 tvg-name="北京日报直播" tvg-logo="https://live.fanmingming.cn/tv/北京日报直播.png" group-title="冰茶体育",北京日报直播
 video://https://live.douyin.com/678544089361
-#EXTINF:-1 tvg-name="咪视界-1-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-1-冰茶专用.png" group-title="冰茶体育",咪视界-1-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000005308&token=524a94bb524a94bb524a94bb524a94bb
-#EXTINF:-1 tvg-name="咪视界-1-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-1-移动或影视专用.png" group-title="冰茶体育",咪视界-1-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000005308&token=524a94bb524a94bb524a94bb524a94bb&client=ys
-#EXTINF:-1 tvg-name="咪视界-10-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-10-冰茶专用.png" group-title="冰茶体育",咪视界-10-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000031494&token=52730e9652730e9652730e9652730e96
-#EXTINF:-1 tvg-name="咪视界-10-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-10-移动或影视专用.png" group-title="冰茶体育",咪视界-10-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000031494&token=52730e9652730e9652730e9652730e96&client=ys
-#EXTINF:-1 tvg-name="咪视界-11-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-11-冰茶专用.png" group-title="冰茶体育",咪视界-11-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000000097&token=f2e38655f2e38655f2e38655f2e38655
-#EXTINF:-1 tvg-name="咪视界-11-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-11-移动或影视专用.png" group-title="冰茶体育",咪视界-11-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000000097&token=f2e38655f2e38655f2e38655f2e38655&client=ys
-#EXTINF:-1 tvg-name="咪视界-12-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-12-冰茶专用.png" group-title="冰茶体育",咪视界-12-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000002019&token=f2e46e1df2e46e1df2e46e1df2e46e1d
-#EXTINF:-1 tvg-name="咪视界-12-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-12-移动或影视专用.png" group-title="冰茶体育",咪视界-12-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000002019&token=f2e46e1df2e46e1df2e46e1df2e46e1d&client=ys
-#EXTINF:-1 tvg-name="咪视界-13-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-13-冰茶专用.png" group-title="冰茶体育",咪视界-13-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000002809&token=f2e48c06f2e48c06f2e48c06f2e48c06
-#EXTINF:-1 tvg-name="咪视界-13-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-13-移动或影视专用.png" group-title="冰茶体育",咪视界-13-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000002809&token=f2e48c06f2e48c06f2e48c06f2e48c06&client=ys
-#EXTINF:-1 tvg-name="咪视界-14-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-14-冰茶专用.png" group-title="冰茶体育",咪视界-14-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000003915&token=f2e50441f2e50441f2e50441f2e50441
-#EXTINF:-1 tvg-name="咪视界-14-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-14-移动或影视专用.png" group-title="冰茶体育",咪视界-14-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000003915&token=f2e50441f2e50441f2e50441f2e50441&client=ys
-#EXTINF:-1 tvg-name="咪视界-15-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-15-冰茶专用.png" group-title="冰茶体育",咪视界-15-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000004193&token=f2e55b8ef2e55b8ef2e55b8ef2e55b8e
-#EXTINF:-1 tvg-name="咪视界-15-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-15-移动或影视专用.png" group-title="冰茶体育",咪视界-15-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000004193&token=f2e55b8ef2e55b8ef2e55b8ef2e55b8e&client=ys
-#EXTINF:-1 tvg-name="咪视界-16-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-16-冰茶专用.png" group-title="冰茶体育",咪视界-16-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000005837&token=f2e5e97ef2e5e97ef2e5e97ef2e5e97e
-#EXTINF:-1 tvg-name="咪视界-16-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-16-移动或影视专用.png" group-title="冰茶体育",咪视界-16-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000005837&token=f2e5e97ef2e5e97ef2e5e97ef2e5e97e&client=ys
-#EXTINF:-1 tvg-name="咪视界-17-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-17-冰茶专用.png" group-title="冰茶体育",咪视界-17-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000006077&token=f2e64051f2e64051f2e64051f2e64051
-#EXTINF:-1 tvg-name="咪视界-17-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-17-移动或影视专用.png" group-title="冰茶体育",咪视界-17-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000006077&token=f2e64051f2e64051f2e64051f2e64051&client=ys
-#EXTINF:-1 tvg-name="咪视界-18-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-18-冰茶专用.png" group-title="冰茶体育",咪视界-18-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000006658&token=f2e6569af2e6569af2e6569af2e6569a
-#EXTINF:-1 tvg-name="咪视界-18-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-18-移动或影视专用.png" group-title="冰茶体育",咪视界-18-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000006658&token=f2e6569af2e6569af2e6569af2e6569a&client=ys
-#EXTINF:-1 tvg-name="咪视界-19-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-19-冰茶专用.png" group-title="冰茶体育",咪视界-19-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000009788&token=f2e7b7d5f2e7b7d5f2e7b7d5f2e7b7d5
-#EXTINF:-1 tvg-name="咪视界-19-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-19-移动或影视专用.png" group-title="冰茶体育",咪视界-19-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000009788&token=f2e7b7d5f2e7b7d5f2e7b7d5f2e7b7d5&client=ys
-#EXTINF:-1 tvg-name="咪视界-2-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-2-冰茶专用.png" group-title="冰茶体育",咪视界-2-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000005969&token=524aabfc524aabfc524aabfc524aabfc
-#EXTINF:-1 tvg-name="咪视界-2-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-2-移动或影视专用.png" group-title="冰茶体育",咪视界-2-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000005969&token=524aabfc524aabfc524aabfc524aabfc&client=ys
-#EXTINF:-1 tvg-name="咪视界-20-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-20-冰茶专用.png" group-title="冰茶体育",咪视界-20-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000010833&token=f2f1bb20f2f1bb20f2f1bb20f2f1bb20
-#EXTINF:-1 tvg-name="咪视界-20-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-20-移动或影视专用.png" group-title="冰茶体育",咪视界-20-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000010833&token=f2f1bb20f2f1bb20f2f1bb20f2f1bb20&client=ys
-#EXTINF:-1 tvg-name="咪视界-21-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-21-冰茶专用.png" group-title="冰茶体育",咪视界-21-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000011297&token=f2f219b7f2f219b7f2f219b7f2f219b7
-#EXTINF:-1 tvg-name="咪视界-21-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-21-移动或影视专用.png" group-title="冰茶体育",咪视界-21-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000011297&token=f2f219b7f2f219b7f2f219b7f2f219b7&client=ys
-#EXTINF:-1 tvg-name="咪视界-22-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-22-冰茶专用.png" group-title="冰茶体育",咪视界-22-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000011518&token=f2f22403f2f22403f2f22403f2f22403
-#EXTINF:-1 tvg-name="咪视界-22-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-22-移动或影视专用.png" group-title="冰茶体育",咪视界-22-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000011518&token=f2f22403f2f22403f2f22403f2f22403&client=ys
-#EXTINF:-1 tvg-name="咪视界-23-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-23-冰茶专用.png" group-title="冰茶体育",咪视界-23-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000012558&token=f2f298def2f298def2f298def2f298de
-#EXTINF:-1 tvg-name="咪视界-23-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-23-移动或影视专用.png" group-title="冰茶体育",咪视界-23-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000012558&token=f2f298def2f298def2f298def2f298de&client=ys
-#EXTINF:-1 tvg-name="咪视界-24-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-24-冰茶专用.png" group-title="冰茶体育",咪视界-24-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000012616&token=f2f29c21f2f29c21f2f29c21f2f29c21
-#EXTINF:-1 tvg-name="咪视界-24-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-24-移动或影视专用.png" group-title="冰茶体育",咪视界-24-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000012616&token=f2f29c21f2f29c21f2f29c21f2f29c21&client=ys
-#EXTINF:-1 tvg-name="咪视界-25-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-25-冰茶专用.png" group-title="冰茶体育",咪视界-25-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000015470&token=f2f3f270f2f3f270f2f3f270f2f3f270
-#EXTINF:-1 tvg-name="咪视界-25-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-25-移动或影视专用.png" group-title="冰茶体育",咪视界-25-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000015470&token=f2f3f270f2f3f270f2f3f270f2f3f270&client=ys
-#EXTINF:-1 tvg-name="咪视界-26-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-26-冰茶专用.png" group-title="冰茶体育",咪视界-26-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000015560&token=f2f3f612f2f3f612f2f3f612f2f3f612
-#EXTINF:-1 tvg-name="咪视界-26-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-26-移动或影视专用.png" group-title="冰茶体育",咪视界-26-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000015560&token=f2f3f612f2f3f612f2f3f612f2f3f612&client=ys
-#EXTINF:-1 tvg-name="咪视界-27-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-27-冰茶专用.png" group-title="冰茶体育",咪视界-27-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000017678&token=f2f4e2b8f2f4e2b8f2f4e2b8f2f4e2b8
-#EXTINF:-1 tvg-name="咪视界-27-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-27-移动或影视专用.png" group-title="冰茶体育",咪视界-27-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000017678&token=f2f4e2b8f2f4e2b8f2f4e2b8f2f4e2b8&client=ys
-#EXTINF:-1 tvg-name="咪视界-28-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-28-冰茶专用.png" group-title="冰茶体育",咪视界-28-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000019839&token=f2f5d27df2f5d27df2f5d27df2f5d27d
-#EXTINF:-1 tvg-name="咪视界-28-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-28-移动或影视专用.png" group-title="冰茶体育",咪视界-28-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000019839&token=f2f5d27df2f5d27df2f5d27df2f5d27d&client=ys
-#EXTINF:-1 tvg-name="咪视界-29-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-29-冰茶专用.png" group-title="冰茶体育",咪视界-29-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000021904&token=f3004a65f3004a65f3004a65f3004a65
-#EXTINF:-1 tvg-name="咪视界-29-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-29-移动或影视专用.png" group-title="冰茶体育",咪视界-29-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000021904&token=f3004a65f3004a65f3004a65f3004a65&client=ys
-#EXTINF:-1 tvg-name="咪视界-3-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-3-冰茶专用.png" group-title="冰茶体育",咪视界-3-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000007218&token=524b79d7524b79d7524b79d7524b79d7
-#EXTINF:-1 tvg-name="咪视界-3-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-3-移动或影视专用.png" group-title="冰茶体育",咪视界-3-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000007218&token=524b79d7524b79d7524b79d7524b79d7&client=ys
-#EXTINF:-1 tvg-name="咪视界-30-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-30-冰茶专用.png" group-title="冰茶体育",咪视界-30-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000023434&token=f30120bbf30120bbf30120bbf30120bb
-#EXTINF:-1 tvg-name="咪视界-30-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-30-移动或影视专用.png" group-title="冰茶体育",咪视界-30-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000023434&token=f30120bbf30120bbf30120bbf30120bb&client=ys
-#EXTINF:-1 tvg-name="咪视界-31-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-31-冰茶专用.png" group-title="冰茶体育",咪视界-31-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000025380&token=f302064ff302064ff302064ff302064f
-#EXTINF:-1 tvg-name="咪视界-31-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-31-移动或影视专用.png" group-title="冰茶体育",咪视界-31-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000025380&token=f302064ff302064ff302064ff302064f&client=ys
-#EXTINF:-1 tvg-name="咪视界-32-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-32-冰茶专用.png" group-title="冰茶体育",咪视界-32-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000027691&token=f302fa70f302fa70f302fa70f302fa70
-#EXTINF:-1 tvg-name="咪视界-32-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-32-移动或影视专用.png" group-title="冰茶体育",咪视界-32-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000027691&token=f302fa70f302fa70f302fa70f302fa70&client=ys
-#EXTINF:-1 tvg-name="咪视界-33-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-33-冰茶专用.png" group-title="冰茶体育",咪视界-33-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000031669&token=f30e5762f30e5762f30e5762f30e5762
-#EXTINF:-1 tvg-name="咪视界-33-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-33-移动或影视专用.png" group-title="冰茶体育",咪视界-33-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000031669&token=f30e5762f30e5762f30e5762f30e5762&client=ys
-#EXTINF:-1 tvg-name="咪视界-34-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-34-冰茶专用.png" group-title="冰茶体育",咪视界-34-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011518&token=87d6d6c487d6d6c487d6d6c487d6d6c4
-#EXTINF:-1 tvg-name="咪视界-34-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-34-移动或影视专用.png" group-title="冰茶体育",咪视界-34-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011518&token=87d6d6c487d6d6c487d6d6c487d6d6c4&client=ys
-#EXTINF:-1 tvg-name="咪视界-35-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-35-冰茶专用.png" group-title="冰茶体育",咪视界-35-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011519&token=87d6d6c587d6d6c587d6d6c587d6d6c5
-#EXTINF:-1 tvg-name="咪视界-35-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-35-移动或影视专用.png" group-title="冰茶体育",咪视界-35-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011519&token=87d6d6c587d6d6c587d6d6c587d6d6c5&client=ys
-#EXTINF:-1 tvg-name="咪视界-36-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-36-冰茶专用.png" group-title="冰茶体育",咪视界-36-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011520&token=87d6d6db87d6d6db87d6d6db87d6d6db
-#EXTINF:-1 tvg-name="咪视界-36-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-36-移动或影视专用.png" group-title="冰茶体育",咪视界-36-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011520&token=87d6d6db87d6d6db87d6d6db87d6d6db&client=ys
-#EXTINF:-1 tvg-name="咪视界-37-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-37-冰茶专用.png" group-title="冰茶体育",咪视界-37-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011521&token=87d6d6dc87d6d6dc87d6d6dc87d6d6dc
-#EXTINF:-1 tvg-name="咪视界-37-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-37-移动或影视专用.png" group-title="冰茶体育",咪视界-37-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011521&token=87d6d6dc87d6d6dc87d6d6dc87d6d6dc&client=ys
-#EXTINF:-1 tvg-name="咪视界-38-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-38-冰茶专用.png" group-title="冰茶体育",咪视界-38-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011522&token=87d6d6dd87d6d6dd87d6d6dd87d6d6dd
-#EXTINF:-1 tvg-name="咪视界-38-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-38-移动或影视专用.png" group-title="冰茶体育",咪视界-38-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011522&token=87d6d6dd87d6d6dd87d6d6dd87d6d6dd&client=ys
-#EXTINF:-1 tvg-name="咪视界-4-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-4-冰茶专用.png" group-title="冰茶体育",咪视界-4-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000008001&token=524be68e524be68e524be68e524be68e
-#EXTINF:-1 tvg-name="咪视界-4-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-4-移动或影视专用.png" group-title="冰茶体育",咪视界-4-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000008001&token=524be68e524be68e524be68e524be68e&client=ys
-#EXTINF:-1 tvg-name="咪视界-5-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-5-冰茶专用.png" group-title="冰茶体育",咪视界-5-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000008176&token=524beb2d524beb2d524beb2d524beb2d
-#EXTINF:-1 tvg-name="咪视界-5-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-5-移动或影视专用.png" group-title="冰茶体育",咪视界-5-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000008176&token=524beb2d524beb2d524beb2d524beb2d&client=ys
-#EXTINF:-1 tvg-name="咪视界-6-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-6-冰茶专用.png" group-title="冰茶体育",咪视界-6-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000008379&token=524bf2b2524bf2b2524bf2b2524bf2b2
-#EXTINF:-1 tvg-name="咪视界-6-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-6-移动或影视专用.png" group-title="冰茶体育",咪视界-6-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000008379&token=524bf2b2524bf2b2524bf2b2524bf2b2&client=ys
-#EXTINF:-1 tvg-name="咪视界-7-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-7-冰茶专用.png" group-title="冰茶体育",咪视界-7-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000010129&token=52565f1e52565f1e52565f1e52565f1e
-#EXTINF:-1 tvg-name="咪视界-7-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-7-移动或影视专用.png" group-title="冰茶体育",咪视界-7-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000010129&token=52565f1e52565f1e52565f1e52565f1e&client=ys
-#EXTINF:-1 tvg-name="咪视界-8-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-8-冰茶专用.png" group-title="冰茶体育",咪视界-8-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000010948&token=52567d6352567d6352567d6352567d63
-#EXTINF:-1 tvg-name="咪视界-8-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-8-移动或影视专用.png" group-title="冰茶体育",咪视界-8-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000010948&token=52567d6352567d6352567d6352567d63&client=ys
-#EXTINF:-1 tvg-name="咪视界-9-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-9-冰茶专用.png" group-title="冰茶体育",咪视界-9-冰茶专用
-https://msj.188766.xyz/play?id=3000000001000028638&token=52682c7a52682c7a52682c7a52682c7a
-#EXTINF:-1 tvg-name="咪视界-9-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界-9-移动或影视专用.png" group-title="冰茶体育",咪视界-9-移动或影视专用
-https://msj.188766.xyz/play?id=3000000001000028638&token=52682c7a52682c7a52682c7a52682c7a&client=ys
-#EXTINF:-1 tvg-name="咪视界4K-1-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界4K-1-冰茶专用.png" group-title="冰茶体育",咪视界4K-1-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000005180&token=f2e5cfcbf2e5cfcbf2e5cfcbf2e5cfcb
-#EXTINF:-1 tvg-name="咪视界4K-1-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界4K-1-移动或影视专用.png" group-title="冰茶体育",咪视界4K-1-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000005180&token=f2e5cfcbf2e5cfcbf2e5cfcbf2e5cfcb&client=ys
-#EXTINF:-1 tvg-name="咪视界4K-2-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界4K-2-冰茶专用.png" group-title="冰茶体育",咪视界4K-2-冰茶专用
-https://msj.188766.xyz/play?id=3000000010000015686&token=f2f3fa17f2f3fa17f2f3fa17f2f3fa17
-#EXTINF:-1 tvg-name="咪视界4K-2-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/咪视界4K-2-移动或影视专用.png" group-title="冰茶体育",咪视界4K-2-移动或影视专用
-https://msj.188766.xyz/play?id=3000000010000015686&token=f2f3fa17f2f3fa17f2f3fa17f2f3fa17&client=ys
 #EXTINF:-1 tvg-name="往日少年家驹" tvg-logo="https://live.fanmingming.cn/tv/往日少年家驹.png" group-title="冰茶体育",往日少年家驹
 https://sns-video-default.xhscdn.com/stream/1/110/258/01e927e7581658b7010370019ac3e18182_258.mp4
 #EXTINF:-1 tvg-name="旧日的足迹版" tvg-logo="https://live.fanmingming.cn/tv/旧日的足迹版.png" group-title="冰茶体育",旧日的足迹版
@@ -543,8 +273,90 @@ video://https://live.douyin.com/596554118511
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-name="辽宁日报抖页" tvg-logo="https://live.fanmingming.cn/tv/辽宁日报抖页.png" group-title="冰茶体育",辽宁日报抖页
 video://https://live.douyin.com/728163755446
-#EXTINF:-1 tvg-name="12月09日_咪咕老封号_咪咕体育看咪视界" tvg-logo="https://live.fanmingming.cn/tv/12月09日_咪咕老封号_咪咕体育看咪视界.png" group-title="河南频道",12月09日_咪咕老封号_咪咕体育看咪视界
-https://188766.xyz/yu
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1
+http://192.168.10.193:8123/TVOD/3000000001000005308.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-10" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-10.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-10
+http://192.168.10.193:8123/TVOD/3000000001000031494.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-11" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-11.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-11
+http://192.168.10.193:8123/TVOD/3000000010000005837.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-12" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-12.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-12
+http://192.168.10.193:8123/TVOD/3000000020000011518.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-13" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-13.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-13
+http://192.168.10.193:8123/TVOD/3000000020000011519.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-14" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-14.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-14
+http://192.168.10.193:8123/TVOD/3000000020000011520.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-15" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-15.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-15
+http://192.168.10.193:8123/TVOD/3000000020000011521.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-16" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-16.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-16
+http://192.168.10.193:8123/TVOD/3000000020000011522.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-2" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-2.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-2
+http://192.168.10.193:8123/TVOD/3000000001000005969.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-24" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-24.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-24
+http://192.168.10.193:8123/TVOD/3000000010000000097.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-25" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-25.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-25
+http://192.168.10.193:8123/TVOD/3000000010000002019.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-26" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-26.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-26
+http://192.168.10.193:8123/TVOD/3000000010000002809.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-27" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-27.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-27
+http://192.168.10.193:8123/TVOD/3000000010000003915.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-28" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-28.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-28
+http://192.168.10.193:8123/TVOD/3000000010000004193.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-29" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-29.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-29
+http://192.168.10.193:8123/TVOD/3000000010000006077.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-3" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-3.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-3
+http://192.168.10.193:8123/TVOD/3000000001000007218.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-30" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-30.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-30
+http://192.168.10.193:8123/TVOD/3000000010000006658.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-31" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-31.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-31
+http://192.168.10.193:8123/TVOD/3000000010000009788.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-32" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-32.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-32
+http://192.168.10.193:8123/TVOD/3000000010000010833.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-33" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-33.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-33
+http://192.168.10.193:8123/TVOD/3000000010000011297.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-34" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-34.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-34
+http://192.168.10.193:8123/TVOD/3000000010000011518.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-35" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-35.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-35
+http://192.168.10.193:8123/TVOD/3000000010000012558.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-36" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-36.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-36
+http://192.168.10.193:8123/TVOD/3000000010000012616.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-37" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-37.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-37
+http://192.168.10.193:8123/TVOD/3000000010000015470.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-38" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-38.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-38
+http://192.168.10.193:8123/TVOD/3000000010000015560.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-39" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-39.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-39
+http://192.168.10.193:8123/TVOD/3000000010000017678.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-4" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-4.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-4
+http://192.168.10.193:8123/TVOD/3000000001000008001.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-40" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-40.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-40
+http://192.168.10.193:8123/TVOD/3000000010000019839.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-41" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-41.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-41
+http://192.168.10.193:8123/TVOD/3000000010000021904.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-42" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-42.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-42
+http://192.168.10.193:8123/TVOD/3000000010000023434.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-43" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-43.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-43
+http://192.168.10.193:8123/TVOD/3000000010000025380.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-44" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-44.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-44
+http://192.168.10.193:8123/TVOD/3000000010000027691.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-45" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-45.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-45
+http://192.168.10.193:8123/TVOD/3000000010000031669.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-5" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-5.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-5
+http://192.168.10.193:8123/TVOD/3000000001000008176.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-6" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-6.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-6
+http://192.168.10.193:8123/TVOD/3000000001000008379.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-7" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-7.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-7
+http://192.168.10.193:8123/TVOD/3000000001000010129.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-8" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-8.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-8
+http://192.168.10.193:8123/TVOD/3000000001000010948.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-9" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-9.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-9
+http://192.168.10.193:8123/TVOD/3000000001000028638.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="咪视通",睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="咪视通",睛彩广场舞.png" group-title="河南频道",tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩广场舞.png" group-title="咪视通",睛彩广场舞
+http://192.168.10.193:8123/TVOD/睛彩广场舞.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="咪视通",睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="咪视通",睛彩竞技.png" group-title="河南频道",tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩竞技.png" group-title="咪视通",睛彩竞技
+http://192.168.10.193:8123/TVOD/睛彩竞技.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="咪视通",睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="咪视通",睛彩篮球.png" group-title="河南频道",tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩篮球.png" group-title="咪视通",睛彩篮球
+http://192.168.10.193:8123/TVOD/睛彩篮球.m3u8?token=itv
+#EXTINF:-1 tvg-name="tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="咪视通",睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="咪视通",睛彩青少.png" group-title="河南频道",tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/睛彩青少.png" group-title="咪视通",睛彩青少
+http://192.168.10.193:8123/TVOD/睛彩青少.m3u8?token=itv
 #EXTINF:-1 tvg-name="咪咕视频-1" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-1.png" group-title="河南频道",咪咕视频-1
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="咪咕视频-10" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频-10.png" group-title="河南频道",咪咕视频-10
@@ -627,10 +439,6 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=200000000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270003&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞.png" group-title="河南频道",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270005&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩广场舞-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞-冰茶专用.png" group-title="河南频道",睛彩广场舞-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011523&token=87d6d6de87d6d6de87d6d6de87d6d6de
-#EXTINF:-1 tvg-name="睛彩广场舞-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩广场舞-移动或影视专用.png" group-title="河南频道",睛彩广场舞-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011523&token=87d6d6de87d6d6de87d6d6de87d6d6de&client=ys
 #EXTINF:-1 tvg-name="睛彩河北" tvg-logo="https://live.fanmingming.cn/tv/睛彩河北.png" group-title="河南频道",睛彩河北
 http://106.116.241.206:9999/rtp/239.254.200.27:6000
 #EXTINF:-1 tvg-name="睛彩河南曲艺" tvg-logo="https://live.fanmingming.cn/tv/睛彩河南曲艺.png" group-title="河南频道",睛彩河南曲艺
@@ -645,10 +453,6 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技.png" group-title="河南频道",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270001&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩竞技-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-冰茶专用.png" group-title="河南频道",睛彩竞技-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011528&token=87d6d6e387d6d6e387d6d6e387d6d6e3
-#EXTINF:-1 tvg-name="睛彩竞技-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩竞技-移动或影视专用.png" group-title="河南频道",睛彩竞技-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011528&token=87d6d6e387d6d6e387d6d6e387d6d6e3&client=ys
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
@@ -661,10 +465,6 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=200000000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270002&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球.png" group-title="河南频道",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270006&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩篮球-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-冰茶专用.png" group-title="河南频道",睛彩篮球-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011529&token=87d6d6e487d6d6e487d6d6e487d6d6e4
-#EXTINF:-1 tvg-name="睛彩篮球-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩篮球-移动或影视专用.png" group-title="河南频道",睛彩篮球-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011529&token=87d6d6e487d6d6e487d6d6e487d6d6e4&client=ys
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
@@ -673,7 +473,3 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=300000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000068&livemode=1&stbId=yu&mode=1
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="河南频道",睛彩青少
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=yu&mode=1
-#EXTINF:-1 tvg-name="睛彩青少-冰茶专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少-冰茶专用.png" group-title="河南频道",睛彩青少-冰茶专用
-https://msj.188766.xyz/play?id=3000000020000011525&token=87d6d6e087d6d6e087d6d6e087d6d6e0
-#EXTINF:-1 tvg-name="睛彩青少-移动或影视专用" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少-移动或影视专用.png" group-title="河南频道",睛彩青少-移动或影视专用
-https://msj.188766.xyz/play?id=3000000020000011525&token=87d6d6e087d6d6e087d6d6e087d6d6e0&client=ys
