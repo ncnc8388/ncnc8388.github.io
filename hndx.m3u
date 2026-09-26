@@ -112,9 +112,9 @@ http://118.251.18.140:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.251.18.140:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.30.71:8188/udp/239.76.253.134:9000
+http://58.46.28.201:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.30.71:8188/udp/239.76.246.134:1234
+http://58.46.28.201:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -124,7 +124,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰中文欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文欣赏.png" group-title="港澳频道",凤凰中文欣赏
 http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.120:8188/udp/239.1.1.126:8126
+http://110.178.145.69:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.206:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -140,7 +140,7 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.120:8188/udp/239.1.1.127:8127
+http://110.178.145.69:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -152,9 +152,9 @@ http://118.251.18.140:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.251.18.140:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.30.71:8188/udp/239.76.253.135:9000
+http://58.46.28.201:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.30.71:8188/udp/239.76.246.135:1234
+http://58.46.28.201:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -177,56 +177,60 @@ http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／洪申翰稱中華台北不是矮化　陳以信：賴當年可不是這樣說／澤倫斯基拋能源停火：若俄停手烏願暫停反擊　#新聞大白話 #少康戰情室 #國民大會 #國民開小會" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／洪申翰稱中華台北不是矮化　陳以信：賴當年可不是這樣說／澤倫斯基拋能源停火：若俄停手烏願暫停反擊　#新聞大白話 #少康戰情室 #國民大會 #國民開小會.png" group-title="youtube",youtube [LIVE] 【LIVE】#TVBS政經說　政論24小時互動直播／洪申翰稱中華台北不是矮化　陳以信：賴當年可不是這樣說／澤倫斯基拋能源停火：若俄停手烏願暫停反擊　#新聞大白話 #少康戰情室 #國民大會 #國民開小會
 http://ncncha.cloudns.ch:9977/play?id=Cb5MRzy0aiQ&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【全球大爆卦#LIVE】川普國是訪問規格迎接習近平!兩國元首夫婦出席歡迎儀式!國宴星光熠熠聽習致詞!打伊朗7個月要找中國幫忙收場?@全球大視野Global_Vision" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【全球大爆卦#LIVE】川普國是訪問規格迎接習近平!兩國元首夫婦出席歡迎儀式!國宴星光熠熠聽習致詞!打伊朗7個月要找中國幫忙收場?@全球大視野Global_Vision.png" group-title="youtube",youtube [LIVE] 【全球大爆卦#LIVE】川普國是訪問規格迎接習近平!兩國元首夫婦出席歡迎儀式!國宴星光熠熠聽習致詞!打伊朗7個月要找中國幫忙收場?@全球大視野Global_Vision
+http://ncncha.cloudns.ch:9977/play?id=IZhmlMVGkBM&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【直播LIVE】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【直播LIVE】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普.png" group-title="youtube",youtube [LIVE] 【直播LIVE】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普
 http://ncncha.cloudns.ch:9977/play?id=f21FIOUXkL8&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】  習近平希望美國對台灣「審慎」 閉門會談台灣就被擺上桌美中競合？ #少康戰情室 20260925" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】  習近平希望美國對台灣「審慎」 閉門會談台灣就被擺上桌美中競合？ #少康戰情室 20260925.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】  習近平希望美國對台灣「審慎」 閉門會談台灣就被擺上桌美中競合？ #少康戰情室 20260925
-http://ncncha.cloudns.ch:9977/play?id=zJ1JO2MYe2s&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】川習特別互動 中美當場攤牌【#新聞大白話】20260925 #字幕版 #川習會 # 習近平 #川普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】川習特別互動 中美當場攤牌【#新聞大白話】20260925 #字幕版 #川習會 # 習近平 #川普.png" group-title="youtube",youtube [VOD] 【SUB】川習特別互動 中美當場攤牌【#新聞大白話】20260925 #字幕版 #川習會 # 習近平 #川普
-http://ncncha.cloudns.ch:9977/play?id=8q9gJVTUtj4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】美最頂規迎習 高市忿恨不平？【#新聞大白話】20260925 #字幕版 #川習會 # 習近平 #高市" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】美最頂規迎習 高市忿恨不平？【#新聞大白話】20260925 #字幕版 #川習會 # 習近平 #高市.png" group-title="youtube",youtube [VOD] 【SUB】美最頂規迎習 高市忿恨不平？【#新聞大白話】20260925 #字幕版 #川習會 # 習近平 #高市
-http://ncncha.cloudns.ch:9977/play?id=Wy4OxaBH8jM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】華郵：公開軟性外交變私人聚會 川習夫婦換裝赴國宴暗藏較勁？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】華郵：公開軟性外交變私人聚會 川習夫婦換裝赴國宴暗藏較勁？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 【完整版上集】華郵：公開軟性外交變私人聚會 川習夫婦換裝赴國宴暗藏較勁？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
-http://ncncha.cloudns.ch:9977/play?id=yd9kc7fbINU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】韓國瑜要來了！李四川預告將合體藍營3大咖  雙北迎戰洋流？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】韓國瑜要來了！李四川預告將合體藍營3大咖  雙北迎戰洋流？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 【完整版下集】韓國瑜要來了！李四川預告將合體藍營3大咖  雙北迎戰洋流？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
-http://ncncha.cloudns.ch:9977/play?id=AWZ19i4tSvQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】川習交好台灣被晾在一旁 戰略穩定下的台海變數賴政府如何接招？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】川習交好台灣被晾在一旁 戰略穩定下的台海變數賴政府如何接招？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 【完整版中集】川習交好台灣被晾在一旁 戰略穩定下的台海變數賴政府如何接招？#少康戰情室 20260925#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
-http://ncncha.cloudns.ch:9977/play?id=ivJF9ZYbsPU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】第一夫人外交 彭麗媛震撼一幕｜紅旗PK野獸！習近平訪美用車大解謎｜20260925｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】第一夫人外交 彭麗媛震撼一幕｜紅旗PK野獸！習近平訪美用車大解謎｜20260925｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】第一夫人外交 彭麗媛震撼一幕｜紅旗PK野獸！習近平訪美用車大解謎｜20260925｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=xTNeSdSn-eo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】習訪美「傳沒帶CEO」? 陸企0隨行vs美企巨頭雲集？｜習川熱聊 高市早苗淪棄婦｜20260925｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】習訪美「傳沒帶CEO」? 陸企0隨行vs美企巨頭雲集？｜習川熱聊 高市早苗淪棄婦｜20260925｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】習訪美「傳沒帶CEO」? 陸企0隨行vs美企巨頭雲集？｜習川熱聊 高市早苗淪棄婦｜20260925｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=ri_s3PTo2FA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】荷蘭急了 ASML不能卡中國｜任正非重磅 華為強強聯合｜聯大演說 伊朗總統斥美恐怖主義｜20260925｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】荷蘭急了 ASML不能卡中國｜任正非重磅 華為強強聯合｜聯大演說 伊朗總統斥美恐怖主義｜20260925｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】荷蘭急了 ASML不能卡中國｜任正非重磅 華為強強聯合｜聯大演說 伊朗總統斥美恐怖主義｜20260925｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=81yebp4tLN0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】高規迎習近平 美軍真的跪了｜川普大讚與習近平交情 國宴突提「中華民國國父」｜20260925｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】高規迎習近平 美軍真的跪了｜川普大讚與習近平交情 國宴突提「中華民國國父」｜20260925｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】高規迎習近平 美軍真的跪了｜川普大讚與習近平交情 國宴突提「中華民國國父」｜20260925｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=cW_Az1jJckU&quality=360p
+#EXTINF:-1 tvg-name="youtube [LIVE] 🔴LIVE：2026.09.26 新聞大白話特報【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴LIVE：2026.09.26 新聞大白話特報【14:00全球開播】.png" group-title="youtube",youtube [LIVE] 🔴LIVE：2026.09.26 新聞大白話特報【14:00全球開播】
+http://ncncha.cloudns.ch:9977/play?id=BBTHU9Ah598&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全球大爆卦#LIVE】川普國是訪問規格迎接習近平!兩國元首夫婦出席歡迎儀式!國宴星光熠熠聽習致詞!打伊朗7個月要找中國幫忙收場?@全球大視野Global_Vision" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全球大爆卦#LIVE】川普國是訪問規格迎接習近平!兩國元首夫婦出席歡迎儀式!國宴星光熠熠聽習致詞!打伊朗7個月要找中國幫忙收場?@全球大視野Global_Vision.png" group-title="youtube",youtube [VOD] 【全球大爆卦#LIVE】川普國是訪問規格迎接習近平!兩國元首夫婦出席歡迎儀式!國宴星光熠熠聽習致詞!打伊朗7個月要找中國幫忙收場?@全球大視野Global_Vision
+http://ncncha.cloudns.ch:9977/play?id=IZhmlMVGkBM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】習川會"兆元宴" 青鳥全惦惦?!館長怒噴:只會欺負自己人" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】習川會"兆元宴" 青鳥全惦惦?!館長怒噴:只會欺負自己人.png" group-title="youtube",youtube [VOD] 【全程字幕】習川會"兆元宴" 青鳥全惦惦?!館長怒噴:只會欺負自己人
+http://ncncha.cloudns.ch:9977/play?id=3OPlmUzP4us&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】首站台選基隆!朱立倫"三字評論"新竹縣藍白破局 喊話"這樣做"" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】首站台選基隆!朱立倫"三字評論"新竹縣藍白破局 喊話"這樣做".png" group-title="youtube",youtube [VOD] 【全程字幕】首站台選基隆!朱立倫"三字評論"新竹縣藍白破局 喊話"這樣做"
+http://ncncha.cloudns.ch:9977/play?id=bPyB9SeLa9Y&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【戰情不斷電】川普機場迎習近平！陸學者曝「2關鍵原因」　台灣問題成川習會重點 #少康戰情室" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【戰情不斷電】川普機場迎習近平！陸學者曝「2關鍵原因」　台灣問題成川習會重點 #少康戰情室.png" group-title="youtube",youtube [VOD] 【戰情不斷電】川普機場迎習近平！陸學者曝「2關鍵原因」　台灣問題成川習會重點 #少康戰情室
+http://ncncha.cloudns.ch:9977/play?id=8AGORhLRwno&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播LIVE】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播LIVE】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播LIVE】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普
 http://ncncha.cloudns.ch:9977/play?id=f21FIOUXkL8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】習近平同特朗普舉行茶敘‼️並一同參觀美國國家檔案館【現場畫面】｜鄭浩、蘇浩、王文點評 鳳凰記者現場報道 #鳳凰衛視 #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】習近平同特朗普舉行茶敘‼️並一同參觀美國國家檔案館【現場畫面】｜鄭浩、蘇浩、王文點評 鳳凰記者現場報道 #鳳凰衛視 #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播回顧】習近平同特朗普舉行茶敘‼️並一同參觀美國國家檔案館【現場畫面】｜鄭浩、蘇浩、王文點評 鳳凰記者現場報道 #鳳凰衛視 #習近平 #特朗普
-http://ncncha.cloudns.ch:9977/play?id=o046JnVL9eA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】習近平圓滿結束對美國國事訪問行程‼️將乘專機離開美國 美方官員到機場歡送【現場畫面】#鳳凰衛視 #phoenixtv #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】習近平圓滿結束對美國國事訪問行程‼️將乘專機離開美國 美方官員到機場歡送【現場畫面】#鳳凰衛視 #phoenixtv #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播回顧】習近平圓滿結束對美國國事訪問行程‼️將乘專機離開美國 美方官員到機場歡送【現場畫面】#鳳凰衛視 #phoenixtv #習近平 #特朗普
+#EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】習特會釋放新訊號‼️中美“良性競爭”邊界在哪？白宮國宴細節拉滿：拆解特朗普破格示好背後玄機！｜金燦榮、鄭浩點評 鳳凰記者在現場 #鳳凰衛視 #phoenixtv #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】習特會釋放新訊號‼️中美“良性競爭”邊界在哪？白宮國宴細節拉滿：拆解特朗普破格示好背後玄機！｜金燦榮、鄭浩點評 鳳凰記者在現場 #鳳凰衛視 #phoenixtv #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播回顧】習特會釋放新訊號‼️中美“良性競爭”邊界在哪？白宮國宴細節拉滿：拆解特朗普破格示好背後玄機！｜金燦榮、鄭浩點評 鳳凰記者在現場 #鳳凰衛視 #phoenixtv #習近平 #特朗普
+http://ncncha.cloudns.ch:9977/play?id=1Jf5ajhz-Kc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】習近平圓滿結束對美國國事訪問行程‼️乘專機離開美國 美方官員到機場歡送【現場畫面】#鳳凰衛視 #phoenixtv #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】習近平圓滿結束對美國國事訪問行程‼️乘專機離開美國 美方官員到機場歡送【現場畫面】#鳳凰衛視 #phoenixtv #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播回顧】習近平圓滿結束對美國國事訪問行程‼️乘專機離開美國 美方官員到機場歡送【現場畫面】#鳳凰衛視 #phoenixtv #習近平 #特朗普
 http://ncncha.cloudns.ch:9977/play?id=YBqGHrlOEPk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 中企夢幻天團缺席習川會 郭正亮說出中國不想告訴美國的秘密" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 中企夢幻天團缺席習川會 郭正亮說出中國不想告訴美國的秘密.png" group-title="youtube",youtube [VOD] 中企夢幻天團缺席習川會 郭正亮說出中國不想告訴美國的秘密
-http://ncncha.cloudns.ch:9977/play?id=En2Fci1ZyCw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 加拿大總理模擬與美軍開戰？以色列在聯合國對伊朗挑釁【#新聞大白話】20260925-12│#賴岳謙 #吳崇涵 #黃征輝" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 加拿大總理模擬與美軍開戰？以色列在聯合國對伊朗挑釁【#新聞大白話】20260925-12│#賴岳謙 #吳崇涵 #黃征輝.png" group-title="youtube",youtube [VOD] 加拿大總理模擬與美軍開戰？以色列在聯合國對伊朗挑釁【#新聞大白話】20260925-12│#賴岳謙 #吳崇涵 #黃征輝
-http://ncncha.cloudns.ch:9977/play?id=A6DNd-jcYZM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普茶會款待習近平 同訪國家檔案館 習近平是否施壓停止對台軍售｜原音呈現LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普茶會款待習近平 同訪國家檔案館 習近平是否施壓停止對台軍售｜原音呈現LIVE.png" group-title="youtube",youtube [VOD] 川普茶會款待習近平 同訪國家檔案館 習近平是否施壓停止對台軍售｜原音呈現LIVE
-http://ncncha.cloudns.ch:9977/play?id=ZYnArO9lszo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川習會前高市急卡位！台灣成美中菜單「川普重心全放中國」郭正亮：華府此刻更怕習不來！【#全球大白話】分段精選｜#郭正亮 #川習會 #高市早苗" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川習會前高市急卡位！台灣成美中菜單「川普重心全放中國」郭正亮：華府此刻更怕習不來！【#全球大白話】分段精選｜#郭正亮 #川習會 #高市早苗.png" group-title="youtube",youtube [VOD] 川習會前高市急卡位！台灣成美中菜單「川普重心全放中國」郭正亮：華府此刻更怕習不來！【#全球大白話】分段精選｜#郭正亮 #川習會 #高市早苗
-http://ncncha.cloudns.ch:9977/play?id=jB5DUGprfX0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 李四川打”4大王牌”造勢、喊29區都本命區 全面接棒新北藍天？【#今日精華搶先看】少康戰情室 20260925｜#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 李四川打”4大王牌”造勢、喊29區都本命區 全面接棒新北藍天？【#今日精華搶先看】少康戰情室 20260925｜#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 李四川打”4大王牌”造勢、喊29區都本命區 全面接棒新北藍天？【#今日精華搶先看】少康戰情室 20260925｜#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
-http://ncncha.cloudns.ch:9977/play?id=n-fuE8U9QOI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 柯志恩酸賴瑞隆：快沒存在感了 綠營小雞拉”洋流”港都撐聲量？【#今日精華搶先看】少康戰情室 20260925｜#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯志恩酸賴瑞隆：快沒存在感了 綠營小雞拉”洋流”港都撐聲量？【#今日精華搶先看】少康戰情室 20260925｜#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 柯志恩酸賴瑞隆：快沒存在感了 綠營小雞拉”洋流”港都撐聲量？【#今日精華搶先看】少康戰情室 20260925｜#沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
-http://ncncha.cloudns.ch:9977/play?id=CeF3pQLbKz0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 台北市長蔣萬安 出席商圈嘉年華開幕LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台北市長蔣萬安 出席商圈嘉年華開幕LIVE.png" group-title="youtube",youtube [VOD] 台北市長蔣萬安 出席商圈嘉年華開幕LIVE
+http://ncncha.cloudns.ch:9977/play?id=U6g30yRRuns&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 台北市長蔣萬安 出席商圈嘉年華開幕LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 台北市長蔣萬安 出席商圈嘉年華開幕LIVE.png" group-title="youtube",youtube [VOD] 台北市長蔣萬安 出席商圈嘉年華開幕LIVE
+http://ncncha.cloudns.ch:9977/play?id=-Hx8Es3AaPU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 喊王偉忠訪沈伯洋是幫兇 趙少康秒嗆沈富雄：我反對！ #少康戰情室 20260925-3 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 喊王偉忠訪沈伯洋是幫兇 趙少康秒嗆沈富雄：我反對！ #少康戰情室 20260925-3 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 喊王偉忠訪沈伯洋是幫兇 趙少康秒嗆沈富雄：我反對！ #少康戰情室 20260925-3 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
+http://ncncha.cloudns.ch:9977/play?id=RQnXYtMZ7yY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 喪屍煙彈入侵校園？！青少年染毒真相 3年暴增62%！【#大白話說新聞】#電子煙 #喪屍煙彈 #校園毒品 #青少年染毒 #依托咪酯" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 喪屍煙彈入侵校園？！青少年染毒真相 3年暴增62%！【#大白話說新聞】#電子煙 #喪屍煙彈 #校園毒品 #青少年染毒 #依托咪酯.png" group-title="youtube",youtube [VOD] 喪屍煙彈入侵校園？！青少年染毒真相 3年暴增62%！【#大白話說新聞】#電子煙 #喪屍煙彈 #校園毒品 #青少年染毒 #依托咪酯
+http://ncncha.cloudns.ch:9977/play?id=bx8gnPu4JjI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 國安高層緊盯川習會！賴清德緊張了？陸官媒稱中美談經貿.AI.反台獨 對台軍售恐卡更死？川普態度模糊 國民黨促中央給軍購延宕交代【#大白話說新聞】#川習會 #川普 #習近平 #台灣問題 #軍售" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 國安高層緊盯川習會！賴清德緊張了？陸官媒稱中美談經貿.AI.反台獨 對台軍售恐卡更死？川普態度模糊 國民黨促中央給軍購延宕交代【#大白話說新聞】#川習會 #川普 #習近平 #台灣問題 #軍售.png" group-title="youtube",youtube [VOD] 國安高層緊盯川習會！賴清德緊張了？陸官媒稱中美談經貿.AI.反台獨 對台軍售恐卡更死？川普態度模糊 國民黨促中央給軍購延宕交代【#大白話說新聞】#川習會 #川普 #習近平 #台灣問題 #軍售
+http://ncncha.cloudns.ch:9977/play?id=SPGG5hqC2dQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 從飛虎隊到「工合」川普重提美中並肩抗戰 川習二會後出現轉調？ #少康戰情室 20260925-2 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 從飛虎隊到「工合」川普重提美中並肩抗戰 川習二會後出現轉調？ #少康戰情室 20260925-2 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 從飛虎隊到「工合」川普重提美中並肩抗戰 川習二會後出現轉調？ #少康戰情室 20260925-2 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
+http://ncncha.cloudns.ch:9977/play?id=PcEkE-HZsLQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 朱立倫赴基隆掃街站台謝國樑 曝昔日情誼"他是我最好的老師" 市場支持者簇擁熱情相挺 沿途加油聲不絕於耳" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 朱立倫赴基隆掃街站台謝國樑 曝昔日情誼"他是我最好的老師" 市場支持者簇擁熱情相挺 沿途加油聲不絕於耳.png" group-title="youtube",youtube [VOD] 朱立倫赴基隆掃街站台謝國樑 曝昔日情誼"他是我最好的老師" 市場支持者簇擁熱情相挺 沿途加油聲不絕於耳
+http://ncncha.cloudns.ch:9977/play?id=VN1VgT8nqiY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 柯志恩稱藍白合破局不影響高雄 會合體柯文哲、黃國昌翻轉港都？ #少康戰情室 20260925-4 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 柯志恩稱藍白合破局不影響高雄 會合體柯文哲、黃國昌翻轉港都？ #少康戰情室 20260925-4 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵.png" group-title="youtube",youtube [VOD] 柯志恩稱藍白合破局不影響高雄 會合體柯文哲、黃國昌翻轉港都？ #少康戰情室 20260925-4 #沈富雄 #吳崢 #尹乃菁 #費鴻泰 #洪孟楷 #吳崇涵
+http://ncncha.cloudns.ch:9977/play?id=CkEwUgNlTo4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋連假拚選 永春市場掃街LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋連假拚選 永春市場掃街LIVE.png" group-title="youtube",youtube [VOD] 沈伯洋連假拚選 永春市場掃街LIVE
+http://ncncha.cloudns.ch:9977/play?id=Sq_6-G5b-Ww&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 現場畫面｜特朗普親自向習近平介紹美國歷史‼️習近平訪美最後一站 特朗普夫婦陪同參觀美國國家檔案館！離開前習特再握手交談 #鳳凰衛視 #習近平 #特朗普 #習特會" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場畫面｜特朗普親自向習近平介紹美國歷史‼️習近平訪美最後一站 特朗普夫婦陪同參觀美國國家檔案館！離開前習特再握手交談 #鳳凰衛視 #習近平 #特朗普 #習特會.png" group-title="youtube",youtube [VOD] 現場畫面｜特朗普親自向習近平介紹美國歷史‼️習近平訪美最後一站 特朗普夫婦陪同參觀美國國家檔案館！離開前習特再握手交談 #鳳凰衛視 #習近平 #特朗普 #習特會
 http://ncncha.cloudns.ch:9977/play?id=Ofw1CcXjWtA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 現場畫面｜習特茶敘談中美關係‼️習近平預期今年還會再見兩次、當面邀特朗普夫婦訪華👏特朗普：期待與主席的更多見面 #鳳凰衛視 #習近平 #特朗普 #習特會" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場畫面｜習特茶敘談中美關係‼️習近平預期今年還會再見兩次、當面邀特朗普夫婦訪華👏特朗普：期待與主席的更多見面 #鳳凰衛視 #習近平 #特朗普 #習特會.png" group-title="youtube",youtube [VOD] 現場畫面｜習特茶敘談中美關係‼️習近平預期今年還會再見兩次、當面邀特朗普夫婦訪華👏特朗普：期待與主席的更多見面 #鳳凰衛視 #習近平 #特朗普 #習特會
 http://ncncha.cloudns.ch:9977/play?id=z_AS7RmnDac&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 現場畫面｜習近平圓滿結束對美國事訪問 乘專機離美‼️美國政府高級官員赴機場送行 儀仗隊列隊歡送、機場鳴放21響禮炮👏 #鳳凰衛視 #習近平 #特朗普 #習特會" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場畫面｜習近平圓滿結束對美國事訪問 乘專機離美‼️美國政府高級官員赴機場送行 儀仗隊列隊歡送、機場鳴放21響禮炮👏 #鳳凰衛視 #習近平 #特朗普 #習特會.png" group-title="youtube",youtube [VOD] 現場畫面｜習近平圓滿結束對美國事訪問 乘專機離美‼️美國政府高級官員赴機場送行 儀仗隊列隊歡送、機場鳴放21響禮炮👏 #鳳凰衛視 #習近平 #特朗普 #習特會
 http://ncncha.cloudns.ch:9977/play?id=zHxcyxfUuV0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 習近平結束三天對美國是訪問 習川會未完待續  雙方約好年底再見" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習近平結束三天對美國是訪問 習川會未完待續  雙方約好年底再見.png" group-title="youtube",youtube [VOD] 習近平結束三天對美國是訪問 習川會未完待續  雙方約好年底再見
-http://ncncha.cloudns.ch:9977/play?id=VNrjf62qyck&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 習近平講賽考斯殷玉珍故事 日本媒體不滿高市訪美低規？【#新聞大白話】20260925-11│#賴岳謙 #吳崇涵 #黃征輝" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習近平講賽考斯殷玉珍故事 日本媒體不滿高市訪美低規？【#新聞大白話】20260925-11│#賴岳謙 #吳崇涵 #黃征輝.png" group-title="youtube",youtube [VOD] 習近平講賽考斯殷玉珍故事 日本媒體不滿高市訪美低規？【#新聞大白話】20260925-11│#賴岳謙 #吳崇涵 #黃征輝
-http://ncncha.cloudns.ch:9977/play?id=V-04EsqyS_M&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 習近平警告見效! 盧比歐改口"140億軍售歸零"? #shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習近平警告見效! 盧比歐改口"140億軍售歸零"? #shorts.png" group-title="youtube",youtube [VOD] 習近平警告見效! 盧比歐改口"140億軍售歸零"? #shorts
+http://ncncha.cloudns.ch:9977/play?id=C2icH9cIOU4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 豆花賄選綠送300元蛋無罪?前民進黨共諜掛沈伯洋看板?【#新聞大白話】20260926-2│#康仁俊 #凌濤 #李永萍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 豆花賄選綠送300元蛋無罪?前民進黨共諜掛沈伯洋看板?【#新聞大白話】20260926-2│#康仁俊 #凌濤 #李永萍.png" group-title="youtube",youtube [VOD] 豆花賄選綠送300元蛋無罪?前民進黨共諜掛沈伯洋看板?【#新聞大白話】20260926-2│#康仁俊 #凌濤 #李永萍
+http://ncncha.cloudns.ch:9977/play?id=3vvA0QNqNcY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 賴清德執政助長惡人S好人?月薪600雞排打臉均薪7.4萬【#新聞大白話】20260926-1│#康仁俊 #凌濤 #李永萍" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 賴清德執政助長惡人S好人?月薪600雞排打臉均薪7.4萬【#新聞大白話】20260926-1│#康仁俊 #凌濤 #李永萍.png" group-title="youtube",youtube [VOD] 賴清德執政助長惡人S好人?月薪600雞排打臉均薪7.4萬【#新聞大白話】20260926-1│#康仁俊 #凌濤 #李永萍
+http://ncncha.cloudns.ch:9977/play?id=UC7SClQyrXk&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 還記得這一幕...雲端孫女長大了! 阿拉貝拉中文問候習近平夫婦反應曝! 直擊盤髮露背長禮服現身晚宴" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 還記得這一幕...雲端孫女長大了! 阿拉貝拉中文問候習近平夫婦反應曝! 直擊盤髮露背長禮服現身晚宴.png" group-title="youtube",youtube [VOD] 還記得這一幕...雲端孫女長大了! 阿拉貝拉中文問候習近平夫婦反應曝! 直擊盤髮露背長禮服現身晚宴
+http://ncncha.cloudns.ch:9977/play?id=tz1DlN8V9Gc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 🔴LIVE：2026.09.26 新聞大白話特報【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 🔴LIVE：2026.09.26 新聞大白話特報【14:00全球開播】.png" group-title="youtube",youtube [VOD] 🔴LIVE：2026.09.26 新聞大白話特報【14:00全球開播】
+http://ncncha.cloudns.ch:9977/play?id=BBTHU9Ah598&quality=360p
 #EXTINF:-1 tvg-name="中天娱乐频道" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐频道.png" group-title="youtube",中天娱乐频道
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
