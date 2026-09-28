@@ -108,9 +108,9 @@ http://118.248.155.220:8889/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.248.155.220:8889/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.30.42:8188/udp/239.76.253.134:9000
+http://118.251.18.140:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.30.42:8188/udp/239.76.246.134:1234
+http://118.251.18.140:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
@@ -120,7 +120,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=27
 #EXTINF:-1 tvg-name="凤凰中文欣赏" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文欣赏.png" group-title="港澳频道",凤凰中文欣赏
 http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.185:8188/udp/239.1.1.126:8126
+http://110.178.145.216:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.206:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -136,7 +136,7 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰电影频道" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影频道.png" group-title="港澳频道",凤凰电影频道
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.185:8188/udp/239.1.1.127:8127
+http://110.178.145.216:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -144,9 +144,9 @@ http://118.248.155.220:8889/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.248.155.220:8889/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.30.42:8188/udp/239.76.253.135:9000
+http://118.251.18.140:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.30.42:8188/udp/239.76.246.135:1234
+http://118.251.18.140:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -167,56 +167,60 @@ http://ncncha.cloudns.ch:9977/play?id=HvWkyIEZndI&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 #EXTINF:-1 tvg-name=" 中天新聞" tvg-logo="https://live.fanmingming.cn/tv/ 中天新聞.png" group-title="youtube", 中天新聞
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平圓滿結束對美國事訪問｜習近平：此訪非常成功 感謝美方最高禮遇｜特朗普：中美應就經貿和人工智能保持對話｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平圓滿結束對美國事訪問｜習近平：此訪非常成功 感謝美方最高禮遇｜特朗普：中美應就經貿和人工智能保持對話｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平圓滿結束對美國事訪問｜習近平：此訪非常成功 感謝美方最高禮遇｜特朗普：中美應就經貿和人工智能保持對話｜24-hour live news｜24小时直播间#鳳凰衛視
+#EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】中美雙方11月底前舉行AI對話｜特朗普預計美伊將在幾天內重啟談判｜大熊貓“平平”“福雙”抵達亞特蘭大動物園｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】中美雙方11月底前舉行AI對話｜特朗普預計美伊將在幾天內重啟談判｜大熊貓“平平”“福雙”抵達亞特蘭大動物園｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】中美雙方11月底前舉行AI對話｜特朗普預計美伊將在幾天內重啟談判｜大熊貓“平平”“福雙”抵達亞特蘭大動物園｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=Ry--eMIjYLQ&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】中美共管高市？日本驚弓之鳥？【#新聞大白話】20260927 #字幕版 #川普 #習近平 #高市早苗" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】中美共管高市？日本驚弓之鳥？【#新聞大白話】20260927 #字幕版 #川普 #習近平 #高市早苗.png" group-title="youtube",youtube [VOD] 【SUB】中美共管高市？日本驚弓之鳥？【#新聞大白話】20260927 #字幕版 #川普 #習近平 #高市早苗
-http://ncncha.cloudns.ch:9977/play?id=OB0YWBD_Mts&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】中美清單對錶 美以軍艦戰損?【#新聞大白話】20260927 #字幕版 #川普 #習近平 #軍艦" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】中美清單對錶 美以軍艦戰損?【#新聞大白話】20260927 #字幕版 #川普 #習近平 #軍艦.png" group-title="youtube",youtube [VOD] 【SUB】中美清單對錶 美以軍艦戰損?【#新聞大白話】20260927 #字幕版 #川普 #習近平 #軍艦
-http://ncncha.cloudns.ch:9977/play?id=-YEaSFeBfqk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集20260926】川習會是美中歷史性轉折？ 美對台軍售如沈默羔羊 #tvbs文茜的世界周報  202600926" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集20260926】川習會是美中歷史性轉折？ 美對台軍售如沈默羔羊 #tvbs文茜的世界周報  202600926.png" group-title="youtube",youtube [VOD] 【完整版上集20260926】川習會是美中歷史性轉折？ 美對台軍售如沈默羔羊 #tvbs文茜的世界周報  202600926
-http://ncncha.cloudns.ch:9977/play?id=u5DrsC2ZL3w&quality=360p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【🔴LIVE直播中】貍貓換太子喊卡蔣萬安說話了｜學歷&amp;教師節放假燒向蘇巧慧｜盧秀燕談洋流直言這2人勝選｜張啓楷競總成立藍白大咖助威｜何織羽報新聞 20260928 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【🔴LIVE直播中】貍貓換太子喊卡蔣萬安說話了｜學歷&amp;教師節放假燒向蘇巧慧｜盧秀燕談洋流直言這2人勝選｜張啓楷競總成立藍白大咖助威｜何織羽報新聞 20260928 @中天新聞CtiNews.png" group-title="youtube",youtube [LIVE] 【🔴LIVE直播中】貍貓換太子喊卡蔣萬安說話了｜學歷&amp;教師節放假燒向蘇巧慧｜盧秀燕談洋流直言這2人勝選｜張啓楷競總成立藍白大咖助威｜何織羽報新聞 20260928 @中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=qOHjvQUtKb0&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 🔴LIVE：2026.09.28 新聞大白話【14:00全球開播】" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴LIVE：2026.09.28 新聞大白話【14:00全球開播】.png" group-title="youtube",youtube [LIVE] 🔴LIVE：2026.09.28 新聞大白話【14:00全球開播】
+http://ncncha.cloudns.ch:9977/play?id=8m-RoE1-nD8&quality=720p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】川普鬆口:與習近平討論台灣他理解我的立場 川習會埋伏筆？ #少康戰情室 20260927#沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】川普鬆口:與習近平討論台灣他理解我的立場 川習會埋伏筆？ #少康戰情室 20260927#沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷.png" group-title="youtube",youtube [VOD] 【完整版上集】川普鬆口:與習近平討論台灣他理解我的立場 川習會埋伏筆？ #少康戰情室 20260927#沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷
 http://ncncha.cloudns.ch:9977/play?id=4OWOGvpjLvg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集20260926】川普聯大通牒「摧毀伊朗」 場邊美伊正悄啟談判 #TVBS文茜的世界周報-歐洲版  20260926" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集20260926】川普聯大通牒「摧毀伊朗」 場邊美伊正悄啟談判 #TVBS文茜的世界周報-歐洲版  20260926.png" group-title="youtube",youtube [VOD] 【完整版下集20260926】川普聯大通牒「摧毀伊朗」 場邊美伊正悄啟談判 #TVBS文茜的世界周報-歐洲版  20260926
-http://ncncha.cloudns.ch:9977/play?id=P2TVMw_V2ME&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】蔣萬安"本命區" 宮廟董座挺沈伯洋、獲贈甘蔗超多節 掀破窗效應? #少康戰情室 20260927 #沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】蔣萬安"本命區" 宮廟董座挺沈伯洋、獲贈甘蔗超多節 掀破窗效應? #少康戰情室 20260927 #沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷.png" group-title="youtube",youtube [VOD] 【完整版下集】蔣萬安"本命區" 宮廟董座挺沈伯洋、獲贈甘蔗超多節 掀破窗效應? #少康戰情室 20260927 #沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷
 http://ncncha.cloudns.ch:9977/play?id=a7iaZ847g5s&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】陸公布川習會8點共識 300億美元降稅安排、重申二戰盟友？ #少康戰情室 20260927#沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】陸公布川習會8點共識 300億美元降稅安排、重申二戰盟友？ #少康戰情室 20260927#沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷.png" group-title="youtube",youtube [VOD] 【完整版中集】陸公布川習會8點共識 300億美元降稅安排、重申二戰盟友？ #少康戰情室 20260927#沈富雄 #吳崢 #葉元之 #李柏毅 #侯漢廷
 http://ncncha.cloudns.ch:9977/play?id=DTx52q2hixw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】中國004型航艦 艦身比福特號還長 | 美製神話崩 波音曝致命盲區 20260927｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】中國004型航艦 艦身比福特號還長 | 美製神話崩 波音曝致命盲區 20260927｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】中國004型航艦 艦身比福特號還長 | 美製神話崩 波音曝致命盲區 20260927｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=g6-BSU5B3iE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】中國基建提速 四條高鐵東西南北開通 | 八縱八橫再織密 中國1150公里高鐵開通 20260927｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】中國基建提速 四條高鐵東西南北開通 | 八縱八橫再織密 中國1150公里高鐵開通 20260927｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】中國基建提速 四條高鐵東西南北開通 | 八縱八橫再織密 中國1150公里高鐵開通 20260927｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=VSHjwfOrTIs&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】川普邀普丁去G20 克宮秒回:會考慮 | 俄軍大暴走 基輔遭毀滅性轟炸 20260927｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】川普邀普丁去G20 克宮秒回:會考慮 | 俄軍大暴走 基輔遭毀滅性轟炸 20260927｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】川普邀普丁去G20 克宮秒回:會考慮 | 俄軍大暴走 基輔遭毀滅性轟炸 20260927｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=-Z7WT48I5wE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】德政壇內耗 梅爾茨民調滑鐵盧 | 中方定調 AI與稀土寸土不讓 20260927｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】德政壇內耗 梅爾茨民調滑鐵盧 | 中方定調 AI與稀土寸土不讓 20260927｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】德政壇內耗 梅爾茨民調滑鐵盧 | 中方定調 AI與稀土寸土不讓 20260927｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=XaZPunaxOQw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】又抓到美軍無人潛航器 伊朗革命衛隊曝畫面 20260928" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】又抓到美軍無人潛航器 伊朗革命衛隊曝畫面 20260928.png" group-title="youtube",youtube [VOD] 【每日必看】又抓到美軍無人潛航器 伊朗革命衛隊曝畫面 20260928
+http://ncncha.cloudns.ch:9977/play?id=JZMtTpXNwOE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】澤倫斯基曝移交北韓戰俘 南韓政府要求道歉｜為何公開戰俘去向?提醒盟友北韓直接參加俄烏戦爭 20260928" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】澤倫斯基曝移交北韓戰俘 南韓政府要求道歉｜為何公開戰俘去向?提醒盟友北韓直接參加俄烏戦爭 20260928.png" group-title="youtube",youtube [VOD] 【每日必看】澤倫斯基曝移交北韓戰俘 南韓政府要求道歉｜為何公開戰俘去向?提醒盟友北韓直接參加俄烏戦爭 20260928
+http://ncncha.cloudns.ch:9977/play?id=DEkNkRUi40o&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】青年運動控沙國空襲1天26次 沙烏地捲入衝突中心 20260928" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】青年運動控沙國空襲1天26次 沙烏地捲入衝突中心 20260928.png" group-title="youtube",youtube [VOD] 【每日必看】青年運動控沙國空襲1天26次 沙烏地捲入衝突中心 20260928
+http://ncncha.cloudns.ch:9977/play?id=5jOOgBcULH4&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】習特會釋放新訊號‼️中美“良性競爭”邊界在哪？白宮國宴細節拉滿：拆解特朗普破格示好背後玄機！｜金燦榮、鄭浩點評 鳳凰記者在現場 #鳳凰衛視 #phoenixtv #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】習特會釋放新訊號‼️中美“良性競爭”邊界在哪？白宮國宴細節拉滿：拆解特朗普破格示好背後玄機！｜金燦榮、鄭浩點評 鳳凰記者在現場 #鳳凰衛視 #phoenixtv #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播回顧】習特會釋放新訊號‼️中美“良性競爭”邊界在哪？白宮國宴細節拉滿：拆解特朗普破格示好背後玄機！｜金燦榮、鄭浩點評 鳳凰記者在現場 #鳳凰衛視 #phoenixtv #習近平 #特朗普
 http://ncncha.cloudns.ch:9977/play?id=1Jf5ajhz-Kc&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 【直播回顧】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【直播回顧】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普.png" group-title="youtube",youtube [VOD] 【直播回顧】習近平訪美最後一日全記錄‼️同特朗普夫婦茶敘、參觀美國國家檔案館👏圓滿結束國事訪問乘專機離美【現場畫面】#鳳凰衛視 #習近平 #特朗普
 http://ncncha.cloudns.ch:9977/play?id=f21FIOUXkL8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【🔴LIVE直播中】張雅婷播報最熱門新聞 30分鐘一次滿足｜今日最熱門 20260928  @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【🔴LIVE直播中】張雅婷播報最熱門新聞 30分鐘一次滿足｜今日最熱門 20260928  @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【🔴LIVE直播中】張雅婷播報最熱門新聞 30分鐘一次滿足｜今日最熱門 20260928  @中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=atZG9ym4I78&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【🔴LIVE直播中】貍貓換太子喊卡蔣萬安說話了｜學歷&教師節放假燒向蘇巧慧｜盧秀燕談洋流直言這2人勝選｜張啓楷競總成立藍白大咖助威｜何織羽報新聞 20260928 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【🔴LIVE直播中】貍貓換太子喊卡蔣萬安說話了｜學歷&教師節放假燒向蘇巧慧｜盧秀燕談洋流直言這2人勝選｜張啓楷競總成立藍白大咖助威｜何織羽報新聞 20260928 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【🔴LIVE直播中】貍貓換太子喊卡蔣萬安說話了｜學歷&教師節放假燒向蘇巧慧｜盧秀燕談洋流直言這2人勝選｜張啓楷競總成立藍白大咖助威｜何織羽報新聞 20260928 @中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=qOHjvQUtKb0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 參選前後大不同! 短短數月判若兩人看清"雙面沈伯洋"!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 參選前後大不同! 短短數月判若兩人看清"雙面沈伯洋"!.png" group-title="youtube",youtube [VOD] 參選前後大不同! 短短數月判若兩人看清"雙面沈伯洋"!
+http://ncncha.cloudns.ch:9977/play?id=kcuRzoughXw&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 尉遲琳嘉跨時空對話“詩仙”李白，揭秘他五赴安徽的秘密——原來不是風景絕，是人更親！#古井貢酒 #詩宴徽州 #喝古井天天樂 #古井貢酒年份原漿古20" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 尉遲琳嘉跨時空對話“詩仙”李白，揭秘他五赴安徽的秘密——原來不是風景絕，是人更親！#古井貢酒 #詩宴徽州 #喝古井天天樂 #古井貢酒年份原漿古20.png" group-title="youtube",youtube [VOD] 尉遲琳嘉跨時空對話“詩仙”李白，揭秘他五赴安徽的秘密——原來不是風景絕，是人更親！#古井貢酒 #詩宴徽州 #喝古井天天樂 #古井貢酒年份原漿古20
 http://ncncha.cloudns.ch:9977/play?id=GEW15lspH7s&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普:台海問題習近平明白我的立場 將軍白話翻譯川普難處  習川沒達成重大協議?!雷倩看見中美遊戲規則出現驚人變化" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普:台海問題習近平明白我的立場 將軍白話翻譯川普難處  習川沒達成重大協議?!雷倩看見中美遊戲規則出現驚人變化.png" group-title="youtube",youtube [VOD] 川普:台海問題習近平明白我的立場 將軍白話翻譯川普難處  習川沒達成重大協議?!雷倩看見中美遊戲規則出現驚人變化
-http://ncncha.cloudns.ch:9977/play?id=hVKuZG32vKg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川普卑躬屈膝與彭麗媛握手 習近平不保證對美解禁稀土【#新聞大白話】20260927-10│#楊永明 #聶建中 #黃征輝" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普卑躬屈膝與彭麗媛握手 習近平不保證對美解禁稀土【#新聞大白話】20260927-10│#楊永明 #聶建中 #黃征輝.png" group-title="youtube",youtube [VOD] 川普卑躬屈膝與彭麗媛握手 習近平不保證對美解禁稀土【#新聞大白話】20260927-10│#楊永明 #聶建中 #黃征輝
-http://ncncha.cloudns.ch:9977/play?id=WnnEQOrQoes&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 川習會談了台灣！習近平要求川普反台獨？川普：習近平了解我的立場！外交部：美國對台灣立場未變！【#大白話熱焦點】#川習會 #川普 #習近平 #台灣 #中國 #美國 #台海危機" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川習會談了台灣！習近平要求川普反台獨？川普：習近平了解我的立場！外交部：美國對台灣立場未變！【#大白話熱焦點】#川習會 #川普 #習近平 #台灣 #中國 #美國 #台海危機.png" group-title="youtube",youtube [VOD] 川習會談了台灣！習近平要求川普反台獨？川普：習近平了解我的立場！外交部：美國對台灣立場未變！【#大白話熱焦點】#川習會 #川普 #習近平 #台灣 #中國 #美國 #台海危機
-http://ncncha.cloudns.ch:9977/play?id=YmYKKjdhhMI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 川普問習近平要不要買點了 美軍官登時代引孫子兵法了【#新聞大白話】20260928-4│#介文汲 #邱毅 #李大中" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川普問習近平要不要買點了 美軍官登時代引孫子兵法了【#新聞大白話】20260928-4│#介文汲 #邱毅 #李大中.png" group-title="youtube",youtube [VOD] 川普問習近平要不要買點了 美軍官登時代引孫子兵法了【#新聞大白話】20260928-4│#介文汲 #邱毅 #李大中
+http://ncncha.cloudns.ch:9977/play?id=1JKUKnlg1FU&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 川習會談了台灣！習近平要求川普反台獨？川普：習近平了解我的立場！外交部：美國對台灣立場未變！【戰情室精選話題】#川習會 #川普 #習近平 #台灣 #中國 #美國 #台海危機" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 川習會談了台灣！習近平要求川普反台獨？川普：習近平了解我的立場！外交部：美國對台灣立場未變！【戰情室精選話題】#川習會 #川普 #習近平 #台灣 #中國 #美國 #台海危機.png" group-title="youtube",youtube [VOD] 川習會談了台灣！習近平要求川普反台獨？川普：習近平了解我的立場！外交部：美國對台灣立場未變！【戰情室精選話題】#川習會 #川普 #習近平 #台灣 #中國 #美國 #台海危機
 http://ncncha.cloudns.ch:9977/play?id=kognk8lQ8js&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 張啓楷競選總部成立  藍白黨魁助陣站台｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 張啓楷競選總部成立  藍白黨魁助陣站台｜LIVE.png" group-title="youtube",youtube [VOD] 張啓楷競選總部成立  藍白黨魁助陣站台｜LIVE
+http://ncncha.cloudns.ch:9977/play?id=gYm6SHkGsRo&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜特朗普給足頂級排面！罕見高規格迎習近平訪美 白宮晚宴中國元素拉滿：美承認華“獨一檔”地位？台海問題當面攤牌：中方要求美反“台獨”、中美定局新秩序？｜20260926 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜特朗普給足頂級排面！罕見高規格迎習近平訪美 白宮晚宴中國元素拉滿：美承認華“獨一檔”地位？台海問題當面攤牌：中方要求美反“台獨”、中美定局新秩序？｜20260926 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜特朗普給足頂級排面！罕見高規格迎習近平訪美 白宮晚宴中國元素拉滿：美承認華“獨一檔”地位？台海問題當面攤牌：中方要求美反“台獨”、中美定局新秩序？｜20260926 #鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=fAIvFODc49Y&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 現場畫面｜特朗普親自向習近平介紹美國歷史‼️習近平訪美最後一站 特朗普夫婦陪同參觀美國國家檔案館！離開前習特再握手交談 #鳳凰衛視 #習近平 #特朗普 #習特會" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場畫面｜特朗普親自向習近平介紹美國歷史‼️習近平訪美最後一站 特朗普夫婦陪同參觀美國國家檔案館！離開前習特再握手交談 #鳳凰衛視 #習近平 #特朗普 #習特會.png" group-title="youtube",youtube [VOD] 現場畫面｜特朗普親自向習近平介紹美國歷史‼️習近平訪美最後一站 特朗普夫婦陪同參觀美國國家檔案館！離開前習特再握手交談 #鳳凰衛視 #習近平 #特朗普 #習特會
 http://ncncha.cloudns.ch:9977/play?id=Ofw1CcXjWtA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 現場畫面｜習近平圓滿結束對美國事訪問 乘專機離美‼️美國政府高級官員赴機場送行 儀仗隊列隊歡送、機場鳴放21響禮炮👏 #鳳凰衛視 #習近平 #特朗普 #習特會" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場畫面｜習近平圓滿結束對美國事訪問 乘專機離美‼️美國政府高級官員赴機場送行 儀仗隊列隊歡送、機場鳴放21響禮炮👏 #鳳凰衛視 #習近平 #特朗普 #習特會.png" group-title="youtube",youtube [VOD] 現場畫面｜習近平圓滿結束對美國事訪問 乘專機離美‼️美國政府高級官員赴機場送行 儀仗隊列隊歡送、機場鳴放21響禮炮👏 #鳳凰衛視 #習近平 #特朗普 #習特會
 http://ncncha.cloudns.ch:9977/play?id=zHxcyxfUuV0&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 習川會讓高市政權崩潰 想求和北京?! 大使要日本別鬧 中等國家沒資格和大國說話 雷倩警告日:不知羞恥的領袖會帶來更多災難" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習川會讓高市政權崩潰 想求和北京?! 大使要日本別鬧 中等國家沒資格和大國說話 雷倩警告日:不知羞恥的領袖會帶來更多災難.png" group-title="youtube",youtube [VOD] 習川會讓高市政權崩潰 想求和北京?! 大使要日本別鬧 中等國家沒資格和大國說話 雷倩警告日:不知羞恥的領袖會帶來更多災難
-http://ncncha.cloudns.ch:9977/play?id=TdxpBKj0GDg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 習近平提航線秘密教育川普？紅旗17進駐北非阿爾及利亞【#新聞大白話】20260927-12│#楊永明 #聶建中 #黃征輝" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 習近平提航線秘密教育川普？紅旗17進駐北非阿爾及利亞【#新聞大白話】20260927-12│#楊永明 #聶建中 #黃征輝.png" group-title="youtube",youtube [VOD] 習近平提航線秘密教育川普？紅旗17進駐北非阿爾及利亞【#新聞大白話】20260927-12│#楊永明 #聶建中 #黃征輝
-http://ncncha.cloudns.ch:9977/play?id=rCZHjuMLiBM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 高市被逼急追著川普打電話？安倍老臣嘆喊美國爸爸可悲【#新聞大白話】20260927-11│#楊永明 #聶建中 #黃征輝" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 高市被逼急追著川普打電話？安倍老臣嘆喊美國爸爸可悲【#新聞大白話】20260927-11│#楊永明 #聶建中 #黃征輝.png" group-title="youtube",youtube [VOD] 高市被逼急追著川普打電話？安倍老臣嘆喊美國爸爸可悲【#新聞大白話】20260927-11│#楊永明 #聶建中 #黃征輝
-http://ncncha.cloudns.ch:9977/play?id=TzQarzUwkwk&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 矢板明夫狸貓換太子大翻車 沈伯洋切割賴清德青鳥好意？【#新聞大白話】20260928-2│#羅旺哲 #李明賢 #侯漢廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 矢板明夫狸貓換太子大翻車 沈伯洋切割賴清德青鳥好意？【#新聞大白話】20260928-2│#羅旺哲 #李明賢 #侯漢廷.png" group-title="youtube",youtube [VOD] 矢板明夫狸貓換太子大翻車 沈伯洋切割賴清德青鳥好意？【#新聞大白話】20260928-2│#羅旺哲 #李明賢 #侯漢廷
+http://ncncha.cloudns.ch:9977/play?id=w12Fo5p0IBw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 綠肥貓囂張稱賴清德是國姓？賴瑞隆被爆美濃大峽谷龍脈？【#新聞大白話】20260928-3│#羅旺哲 #李明賢 #侯漢廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 綠肥貓囂張稱賴清德是國姓？賴瑞隆被爆美濃大峽谷龍脈？【#新聞大白話】20260928-3│#羅旺哲 #李明賢 #侯漢廷.png" group-title="youtube",youtube [VOD] 綠肥貓囂張稱賴清德是國姓？賴瑞隆被爆美濃大峽谷龍脈？【#新聞大白話】20260928-3│#羅旺哲 #李明賢 #侯漢廷
+http://ncncha.cloudns.ch:9977/play?id=qRgia3Wu4lY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 美國突爆發罕見九月風暴了 川普坐不住開口要買稀土了【#新聞大白話】20260928-5│#介文汲 #邱毅 #李大中" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美國突爆發罕見九月風暴了 川普坐不住開口要買稀土了【#新聞大白話】20260928-5│#介文汲 #邱毅 #李大中.png" group-title="youtube",youtube [VOD] 美國突爆發罕見九月風暴了 川普坐不住開口要買稀土了【#新聞大白話】20260928-5│#介文汲 #邱毅 #李大中
+http://ncncha.cloudns.ch:9977/play?id=UIN22T0X3VU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 美軍英國基地爆恐怖攻擊了？德黑蘭下死手打末日之戰了？【#新聞大白話】20260928-6│#介文汲 #邱毅 #李大中" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 美軍英國基地爆恐怖攻擊了？德黑蘭下死手打末日之戰了？【#新聞大白話】20260928-6│#介文汲 #邱毅 #李大中.png" group-title="youtube",youtube [VOD] 美軍英國基地爆恐怖攻擊了？德黑蘭下死手打末日之戰了？【#新聞大白話】20260928-6│#介文汲 #邱毅 #李大中
+http://ncncha.cloudns.ch:9977/play?id=Aqt1Ge7LFX0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 蔣萬安站台謝國樑 基隆安樂市場掃街｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 蔣萬安站台謝國樑 基隆安樂市場掃街｜LIVE.png" group-title="youtube",youtube [VOD] 蔣萬安站台謝國樑 基隆安樂市場掃街｜LIVE
+http://ncncha.cloudns.ch:9977/play?id=xVUbFjButcM&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 賴清德酸學歷卻火烤蘇巧慧？全國教師給賴政府打2.37分【#新聞大白話】20260928-1│#羅旺哲 #李明賢 #侯漢廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 賴清德酸學歷卻火烤蘇巧慧？全國教師給賴政府打2.37分【#新聞大白話】20260928-1│#羅旺哲 #李明賢 #侯漢廷.png" group-title="youtube",youtube [VOD] 賴清德酸學歷卻火烤蘇巧慧？全國教師給賴政府打2.37分【#新聞大白話】20260928-1│#羅旺哲 #李明賢 #侯漢廷
+http://ncncha.cloudns.ch:9977/play?id=GLrfLmuqYg8&quality=360p
 #EXTINF:-1 tvg-name="中天娱乐频道" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐频道.png" group-title="youtube",中天娱乐频道
 http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="中天新闻欣赏" tvg-logo="https://live.fanmingming.cn/tv/中天新闻欣赏.png" group-title="youtube",中天新闻欣赏
