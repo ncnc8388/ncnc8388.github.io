@@ -173,95 +173,101 @@ class Spider(Spider):
     
     
     def categoryContent(self, tid, pg, filter, extend):
-      try:
-          page = max(1, int(pg))
-      except (TypeError, ValueError):
-          page = 1
+        try:
+            page = max(1, int(pg))
+        except (TypeError, ValueError):
+            page = 1
 
-      selected = {}
+        selected = {}
 
-      if tid:
-        tid = str(tid)
-        if tid.startswith('g_'):
-            selected['genre'] = [tid[2:]]
-        elif tid.startswith('t_'):
-            selected['category_dim_theme'] = [tid[2:]]
-        elif tid.startswith('r_'):
-            selected['category_dim_role'] = [tid[2:]]
-        elif tid.startswith('e_'):
-            selected['category_dim_epoch'] = [tid[2:]]
+        if tid:
+            tid = str(tid)
+            if tid.startswith('g_'):
+                selected['genre'] = [tid[2:]]
+            elif tid.startswith('t_'):
+                selected['category_dim_theme'] = [tid[2:]]
+            elif tid.startswith('r_'):
+                selected['category_dim_role'] = [tid[2:]]
+            elif tid.startswith('e_'):
+                selected['category_dim_epoch'] = [tid[2:]]
 
-      if not selected:
-        selected['genre'] = ['comic_series']
+        if not selected:
+            selected['genre'] = ['comic_series']
 
-      # ★ 补充完整字段，对齐红果1的 select_items 结构
-      for key in (
-        'category_dim_epoch',
-        'online_time',
-        'gender',
-        'category_dim_role',
-        'category_dim_theme'
-      ):
-        selected.setdefault(key, [])
-
-      if 'sort' not in selected:
-        selected['sort'] = ['hot_score']
-
-      if isinstance(extend, dict):
-        for name in (
-            'category_dim_art_style',
-            'category_dim_theme',
-            'category_dim_role',
+        # ★ 补充完整字段，对齐红果1的 select_items 结构
+        for key in (
             'category_dim_epoch',
-            'sort',
+            'online_time',
             'gender',
-            'creation_status',
-            'online_time'
+            'category_dim_role',
+            'category_dim_theme'
         ):
-            value = extend.get(name)
-            if value in (None, '', 'all'):
-                continue
+            selected.setdefault(key, [])
 
-            selected[name] = [
-                str(x)
-                for x in (
-                    value if isinstance(value, (list, tuple))
-                    else [value]
-                )
-                if str(x).strip()
-            ]
+        if 'sort' not in selected:
+            selected['sort'] = ['hot_score']
 
-      rows, has_more = self.relay.feed(page, selected)
+        if isinstance(extend, dict):
+            for name in (
+                'category_dim_art_style',
+                'category_dim_theme',
+                'category_dim_role',
+                'category_dim_epoch',
+                'sort',
+                'gender',
+                'creation_status',
+                'online_time'
+            ):
+                value = extend.get(name)
 
-      if has_more:
-        nxt = page + 1
-        cache_key = (
-            'hg_feed',
-            json.dumps(selected, ensure_ascii=False, sort_keys=True),
-            nxt
-        )
+                if value in (None, '', 'all'):
+                    continue
 
-        if not _CACHE.get(cache_key) and cache_key not in _PF_SET:
-            _PF_SET.add(cache_key)
+                selected[name] = [
+                    str(x)
+                    for x in (
+                        value if isinstance(value, (list, tuple))
+                        else [value]
+                    )
+                    if str(x).strip()
+                ]
 
-            def _prefetch():
-                try:
-                    self.relay.feed(nxt, selected)
-                finally:
-                    _PF_SET.discard(cache_key)
+        rows, has_more = self.relay.feed(page, selected)
 
-            threading.Thread(
-                target=_prefetch,
-                daemon=True
-            ).start()
+        if has_more:
+            nxt = page + 1
 
-      return {
-        'page': page,
-        'pagecount': page + (1 if has_more else 0),
-        'limit': len(rows),
-        'total': len(rows),
-        'list': _items(rows)
-      }
+            cache_key = (
+                'hg_feed',
+                json.dumps(
+                    selected,
+                    ensure_ascii=False,
+                    sort_keys=True
+                ),
+                nxt
+            )
+
+            if not _CACHE.get(cache_key) and cache_key not in _PF_SET:
+                _PF_SET.add(cache_key)
+
+                def _prefetch():
+                    try:
+                        self.relay.feed(nxt, selected)
+                    finally:
+                        _PF_SET.discard(cache_key)
+
+                threading.Thread(
+                    target=_prefetch,
+                    daemon=True
+                ).start()
+
+        return {
+            'page': page,
+            'pagecount': page + (1 if has_more else 0),
+            'limit': len(rows),
+            'total': len(rows),
+            'list': _items(rows)
+        }    
     def categoryContentx(self, tid, pg, filter, extend):
         try: page = max(1, int(pg))
         except (TypeError, ValueError): page = 1
