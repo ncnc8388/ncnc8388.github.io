@@ -1,38 +1,6 @@
 ｛
 "sites": [
     {
-      "key": "AQY",
-      "name": "🐬[追剧]爱奇艺 海豚影视接口完全免费，请勿上当受骗",
-      "type": 3,
-      "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "🐬[追剧]爱奇艺.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/爱奇艺.py"
-    },
-    {
-      "key": "YK",
-      "name": "🐬[追剧]优酷视频 海豚影视交流群 TG：@hshsjk9",
-      "type": 3,
-      "api": "https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"
-    },
-    {
-      "key": "YK",
-      "name": "🐬[追剧]优酷视频.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/优酷视频.py"
-    },
-    {
-      "key": "txvm",
-      "name": "🐬[追剧]腾讯视频",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/py/腾讯视频.py"
-    },
-    {
       "key":"xinguoguo",
       "name": "🐬新果果短",
       "type": 3,
