@@ -102,7 +102,7 @@ def _items(rows):
     walk(rows); return out
 
 class Spider(Spider):
-    def __init__(self, t4_api=""):
+    def __init__(self):
         self._cfg = {}
         self.relay = NativeRelay()
 
