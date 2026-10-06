@@ -194,13 +194,13 @@ class Spider(Spider):
         if 'sort' not in selected:
             selected['sort'] = ['hot_score']
 
-    if isinstance(extend, dict):
-        for name in ('category_dim_art_style', 'category_dim_theme', 'category_dim_role','category_dim_epoch', 'sort', 'gender', 'creation_status', 'online_time'):
-            value = extend.get(name)
-            if value in (None, '', 'all'): continue
-            selected[name] = [str(x) for x in (value if isinstance(value, (list, tuple)) else [value]) if str(x).strip()]
+        if isinstance(extend, dict):
+            for name in ('category_dim_art_style', 'category_dim_theme', 'category_dim_role','category_dim_epoch', 'sort', 'gender', 'creation_status', 'online_time'):
+                value = extend.get(name)
+                if value in (None, '', 'all'): continue
+                selected[name] = [str(x) for x in (value if isinstance(value, (list, tuple)) else [value]) if str(x).strip()]
 
-    rows, has_more = self.relay.feed(page, selected)
+        rows, has_more = self.relay.feed(page, selected)
     if has_more:
         nxt = page + 1
         cache_key = ('hg_feed', json.dumps(selected, ensure_ascii=False, sort_keys=True), nxt)
