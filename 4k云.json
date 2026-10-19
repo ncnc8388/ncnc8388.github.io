@@ -1,0 +1,546 @@
+{
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "homepage": "https://github.com/hjdhnx/hipy-server",
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
+  "homeLogo": "./img/logo500x200-1.png",
+  "spider": "",
+  "warningText": "欢迎使用4K云，祝您观影愉快",
+  "sites": [
+    {
+      "key": "新腾极4k",
+      "name": "💋奇迹云随缘💋真4k💋",
+      "type": 3,
+      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://101.201.171.207:6767/qijiyun4k0926/lib/奇迹xintx.js"
+    },
+    {
+      "key": "芒果弹幕",
+      "name": "💋4k原画💋臻彩💋",
+      "type": 3,
+      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+      "ext": "http://101.201.171.207:6767/qijiyun4k0926/lib/xinmg4k.js"
+    },
+    {
+      "key": "cms无敌",
+      "name": "❤️💚原盘独家4k试玩❤️💚",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/xf.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+    },
+    {
+      "key": "耦合",
+      "name": "👻xin💋🫥4k",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "jar": "http://101.201.171.207:6767/暗黑4kqijiA6/jar/yunhb.jar",
+      "ext": {
+        "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+        "dutoken": "http://101.201.171.207:6767/暗黑4kqijiA6/lib/bdqiyiT.txt",
+        "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+        "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+        "cookie": "http://101.201.171.207:6767/暗黑4kqijiA6/lib/yiT.txt",
+        "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+        "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
+        "site": "https://woog.nxog.eu.org/"
+      }
+    },
+    {
+      "key": "耦多合",
+      "name": "👻xin💙💋🫥4k",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_Mogg",
+      "jar": "http://101.201.171.207:6767/暗黑4kqijiA6/jar/yunhb.jar",
+      "ext": {
+        "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+        "dutoken": "http://101.201.171.207:6767/暗黑4kqijiA6/lib/bdqiyiT.txt",
+        "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+        "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+        "cookie": "http://101.201.171.207:6767/暗黑4kqijiA6/lib/yiT.txt",
+        "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+        "tuctoken": "http://127.0.0.1:9978/file/TVBox/tuctoken.txt",
+        "site": "https://tv.yydsys.cc/"
+      }
+    },
+    {
+      "key": "移动",
+      "name": "💋4k一绝雪💋臻彩💋",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/2.jpg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "HBGuaZi",
+      "name": "💋4k全聚🈴💋臻彩💋",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/yunhu0921.jar",
+      "type": 3,
+      "api": "csp_HBGuaZi"
+    },
+    {
+      "key": "高清点播",
+      "name": "💋4k高清🈴💋臻彩💋",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/gq.js"
+    },
+    {
+      "key": "枫叶影视",
+      "name": "💋4k风云决💋臻彩💋",
+      "type": 3,
+      "api": "csp_FengYe",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/5.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.vip1949.com/"
+    },
+    {
+      "key": "HBXingKong4K",
+      "name": "💃🕺独家|舞蹈💃🕺",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/yunhu0921.jar",
+      "type": 3,
+      "api": "csp_HBTangDou"
+    },
+    {
+      "key": "小y",
+      "name": "💋4k逆风💋臻彩💋",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/yunh8.jar",
+      "api": "http://101.201.171.207:6767/qijiyun4k0926/lib/yuny.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+    {
+      "key": "天视",
+      "name": "💋4k天使💋臻彩💋",
+      "type": 3,
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/yun7.jar",
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "http://101.201.171.207:6767/qijiyun4k0926/lib/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
+      }
+    },
+    {
+      "key": "剧圈99",
+      "name": "💋4k猛狮💋臻彩💋",
+      "type": 3,
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/yun7.jar",
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key": "独播JS",
+      "name": "💋4k独播💋臻彩💋",
+      "type": 3,
+      "api": "http://101.201.171.207:6767/qijiyun4k0926/lib/独播库.js",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/tx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "bubu_spider",
+      "name": "💋4k坤决💋臻彩💋",
+      "type": 3,
+      "api": "csp_DuoDuo",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/4.zip",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "host": "https://323433ssdfd.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+        "aid": "com.web.player",
+        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "sign": "ddtvf65f3a83d6d9ad6f"
+      }
+    },
+    {
+      "key": "枫叶影视",
+      "name": "💋4k御姐💋臻彩💋",
+      "type": 3,
+      "api": "csp_FengYe",
+      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.vip1949.com/"
+    },
+    {
+      "key": "大师兄",
+      "name": "💋4k师兄💋臻彩💋",
+      "type": 3,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "api": "csp_AppV6",
+      "playerType": 2,
+      "ext": "7lj763gg0939790h44298182lk5j9k99k2g4ih53jl9i376l514k16hilj0443400h9k4jgh8312j1912818glikl7lh1jk9k4222k1kg696igkk32ig6lhj3kl50j08lkl6j0h6gi7k2j31jj0k7i1784l25g757hhkl42i7jg68illihj867l82g53532j62i92kljhj5llh498k24796l57j55ji0ji2g22i501jl541j9j4i68i5j602744l10413k457hl80l91j5l44139j23g64h27k08l5509h202gl84338hi17082hkj5746g298j640i002jk1265h745j289303h6i6j6j15jgkg15485h8g935hk83g9g7j661l4i557jl56h6l0h40i5j9hkiig7066523l2h24gj9k1083g6l2gihh2j5hhgkgij04j8900jhg4l6731hkhij7kk2i594536563674gki85li59jhk79067964197h5k7k2641h03l45074jkkklhik123407146l1i0jk90k1hgl151076ig7i4gi0858h62j37lh8l4hl519ghi7g04h2h900jlj7ll333i736549624gjk8k508g9499gj3jj7050jjhgh4i57326j83301i0kkl88040ih52gj8j0gk0h4g5g7lh561k2gk6k7k56h01598ji23g27k3i17878j92k2gj1l5ih8h0jj73k94g9hl5g7h229i10g099k09l958h3hk18l72h1j43gg7177g4h7ll8987644383606klgh9h4ll42h7293k694kl20j539g6jl17ig655461138jgj7306i1296k3i03586k6l32j5hlik4051187741218271j8j4g3i1h6719877l10k1ijl220i8hlil3j3g129ll3k2i5164lkg12k253kk1h8j5l0gki49jg25hlii704l5ih74439hlj9jih5ki53242ijgh6359i8i5j4h2j2i4581l244j4ij728490hk0k34542916i2lig57836gg7kji3l160234i24hik5g18h790488748j680k5i0l885lj66kjk78j2i57i5021g283ik9g38g62259h1lgi811ihki506k5934g7h737hg9360lll98l4j8i049903l1354lg00019g0934h005h8jjkl60j91k7j74i96h8h26hk59i653209lgj07g1g298k48jllgh00l4i742gi72l27038157gji9j32gh0k5672167k2588h31967l3867g50k503ik403781ki72j47hh4363l0708k4g961k4hl8g4j35ilk143h3424010i165lj612h50k68l61ghl9h80kh874k14ggk2ilg018hi5l1g34262196lkl45ih981jkl42271l4232k93hk8ih3g814i6h63h0g64l300i42il1g0454921j12h4844ii714ih71lg172326009812833h62kj8009kijk5hhg763031235l45h78614l7h9k579h6lj290i98851gll70024834hgj2lg5hk3l905i346gij11kl5j9i7h5j5k12hl061l488k061564g398i2150h9j343901865h7567g874i1gghl5ihg8il8hh0650h6308l2i5053997g8g12g16l3l7h5lhlji71i1i23h0ljl1h14688h7g13987h548h33k34hi6h2i63h424jhl1kik26kl3h60662846j6j0749l8kh95018kl1971j5j5gjk9hg70542391j77hjj65l127627h6h8h0hi003i2hih6h0k9k878lj858k30iljgik0l9248jk25l4h701l6gllhkhi54g24g926jgj884266514056805k2h15hh442i3170ilik20h88i561k0682k04459i154i03ikglg6220i4jii1g32067il925g450k0i1241l3il2jjl6k186gjj53h611il59k650i4kjhi87i798hg6h01g306ig104145ig9h68i092ghhh59jig99j12383792452h44206glk62g67gj204hk874l5li8646g65i9085244i092g70ig9h8657kg0413466ii87k9i32hglh24hi2li7174735i520ik608ilg71292838j5k1h39271ghg5288g930lg6h75626l71h8h5g011k9l9lgk691i04166h7996g452kij4l4l72881k6kl5701jl707hi415j8h3k67576966g2k94k03k0lj31995h2j26hi69jhjji162625l50j7790093hli0jjkh1ll804i3lhh40lk4k240kh48k0k16l544hg033k594gh0l93682l86h35i1i36klhgjg90lkl54746i2k63481h37hilj3ikig52h0j80k5gj6h879lk6g8ll6k616966h59h42l24h824ljj77g6l03kg260i80h2g2k123251j22jg36k5j14781i6197929il9j03k16h4l1i78693g45k64j0jl0k58hj8493h76gj2202470ig12lh2llj2l5k5541k4h506i3hij81lg9i037jgk22i2l3j12j6l394h51ii2ll0022j292h8036767i835k47071jl9illl2gli06524g66984902j6j1h5g788019hl4712032977h41l0k36073ig880g2jgklh26k736180591639h4k2gjk9gl2071h685923kl5363l5lj0ll91901g12kk29hll4280h9h51870j721516j6g66i379g203932726h42g927h19733k237492l8j0jh148gl95048l5524j4j0l2445130153i802169102i14g586h8g64j2lk28492169li3292877837108k7i9557h3jk31il2lklg494lgl4j91jig614216ki68i2j140l1jg03lk16lljg039h21kj313h8jk79h99j2g89j327i7h9052h9hj71721jg927340956k6jl4i7k0430"
+    },
+    {
+      "key": "热播影视",
+      "name": "💋4k热播💋臻彩💋",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/tvkj.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "柠檬",
+      "name": "💋4k柠檬💋臻彩💋",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/柠檬.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "星芽2",
+      "name": "短剧星芽",
+      "type": 3,
+      "api": "http://8.148.229.212:802/tianyun4k/drpy_libs/drpy2.min.js",
+      "ext": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/qhXX5BDH"
+    },
+    {
+      "key": "酷狗",
+      "name": "酷狗┃音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "http://101.201.171.207:6767/qijiyun4k0926/jar/kugou.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "温馨提示1",
+      "name": "正版奇迹云",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "playerType": "1",
+      "searchable": 0
+    },
+    {
+      "key": "温馨提示2",
+      "name": "免费分享",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "playerType": "1",
+      "searchable": 0
+    },
+    {
+      "key": "温馨提示3",
+      "name": "严禁盗🈲用售卖",
+      "type": 3,
+      "api": "csp_PushGuard",
+      "playerType": "1",
+      "searchable": 0
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yQK",
+      "hosts": [
+        "ydd"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "16.5333"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "name": "云",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "cctv",
+    "cntv",
+    "wasu",
+    "bilibili",
+    "xigua",
+    "1905",
+    "1920i",
+    "1920l",
+    "mim3u8",
+    "laodim3u8",
+    "leduo",
+    "CL4K",
+    "ltnb",
+    "rx",
+    "renrenmi",
+    "wuduyun",
+    "xueren",
+    "naifeimi",
+    "miaoparty",
+    "miaoparty2",
+    "miaoparty3",
+    "xfy",
+    "xfyun",
+    "x1play",
+    "fuckapp",
+    "duoduozy",
+    "ftqp2",
+    "ftqp3",
+    "ftqp4",
+    "ftqp5"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "name": "华数2",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/华数2.m3u"
+          ]
+        },
+        {
+          "name": "杭州华数",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/杭州华数.m3u"
+          ]
+        },
+        {
+          "name": "云星日记直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://itvbox.cc/云星日记/Ipv4.txt"
+          ]
+        },
+        {
+          "name": "本地嗅探器直播",
+          "urls": [
+            "proxy://do=live&type=txt&ext=http://yun.yunqiji.vip/云vipzbtv.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
