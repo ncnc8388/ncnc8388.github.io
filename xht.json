@@ -214,6 +214,36 @@
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ASMR吧.py"
     },
     {
+      "key": "看看剧",
+      "name": "🐬[追剧]看看剧🔞",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/[伦理]X影视.py"
+    },
+    {
+      "key": "X影视",
+      "name": "🐬[追剧][伦理]X影视",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/看看剧.py"
+    },
+    {
+      "key": "两个BT影视",
+      "name": "🐬[追剧]两个BT影视",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/两个BT影视.py"
+    },
+    {
+      "key": "卧龙影院",
+      "name": "🐬[追剧][伦理]卧龙影院",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/[伦理]卧龙影院.py"
+    },
+    {
+      "key": "龙江影院",
+      "name": "🐬[追剧][伦理]龙江影院(关梯)",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/[伦理]龙江影院.py"
+    },
+    {
       "key": "吃瓜影院",
       "name": "🐬[追剧]吃瓜影院",
       "type": 3,
@@ -227,7 +257,7 @@
     },
     {
       "key": "PTT线上看",
-      "name": "🐬[追剧]PTT线上看",
+      "name": "🐬[追剧][伦理]PTT线上看",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/PTT线上看.py"
     },
@@ -338,12 +368,6 @@
       "name": "🐬[追剧]咕噜咕噜",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/咕噜咕噜.py"
-    },
-    {
-      "key": "ik4k影院",
-      "name": "🐬[追剧]ik4k影院(关梯)",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/ik4k影院.py"
     },
     {
       "key": "魔法影视",
@@ -1196,8 +1220,14 @@
       ]
     },
     {
+      "key": "4gtv直播",
+      "name": "🐬[直播]4gtv直播",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/4gtv直播.py"
+    },
+    {
       "key": "广东荔枝电视台",
-      "name": "🐬[直播]广东荔枝电视台.py",
+      "name": "🐬[直播]广东荔枝电视台",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/广东荔枝电视台.py"
     },
@@ -1494,6 +1524,12 @@
       "name": "🐬[音乐]DJ呦呦.py",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/DJ呦呦.py"
+    },
+    {
+      "key": "皮狗DJ站",
+      "name": "🐬[音乐]皮狗DJ站.py",
+      "type": 3,
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/皮狗DJ站.py"
     }
   ],
   "parses": [
