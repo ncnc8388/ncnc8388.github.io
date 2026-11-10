@@ -106,19 +106,19 @@ http://118.248.156.76:8889/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.248.156.76:8889/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.251.17.49:8188/udp/239.76.253.134:9000
+http://118.251.19.58:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.251.17.49:8188/udp/239.76.246.134:1234
+http://118.251.19.58:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.31.175:8188/udp/239.76.253.134:9000
+http://58.46.31.192:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.31.175:8188/udp/239.76.246.134:1234
+http://58.46.31.192:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.178:8188/udp/239.1.1.126:8126
+http://110.178.145.80:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.206:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -126,7 +126,7 @@ http://106.116.241.206:9999/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://106.116.241.206:9999/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.178:8188/udp/239.1.1.127:8127
+http://110.178.145.80:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -134,13 +134,13 @@ http://118.248.156.76:8889/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.248.156.76:8889/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.251.17.49:8188/udp/239.76.253.135:9000
+http://118.251.19.58:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.251.17.49:8188/udp/239.76.246.135:1234
+http://118.251.19.58:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.31.175:8188/udp/239.76.253.135:9000
+http://58.46.31.192:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.31.175:8188/udp/239.76.246.135:1234
+http://58.46.31.192:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -159,54 +159,56 @@ http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普：三航母待命 是否對伊朗動手視協議分量｜中方：美所謂中國間諜論調純屬捕風捉影｜美俄烏會談或觸及歐洲安全｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普：三航母待命 是否對伊朗動手視協議分量｜中方：美所謂中國間諜論調純屬捕風捉影｜美俄烏會談或觸及歐洲安全｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】特朗普：三航母待命 是否對伊朗動手視協議分量｜中方：美所謂中國間諜論調純屬捕風捉影｜美俄烏會談或觸及歐洲安全｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=Ry--eMIjYLQ&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【🔴LIVE直播中】#郭正亮#帥化民#孫大千!蔣萬安氣勢抬頭 郭正亮驚爆!納坦幾倒台了 高市憂遭冷遇!黃仁勳色戒 掀中美晶片較勁! | 張雅婷辣晚報20261110完整版 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【🔴LIVE直播中】#郭正亮#帥化民#孫大千!蔣萬安氣勢抬頭 郭正亮驚爆!納坦幾倒台了 高市憂遭冷遇!黃仁勳色戒 掀中美晶片較勁! | 張雅婷辣晚報20261110完整版 @中天新聞CtiNews.png" group-title="youtube",youtube [LIVE] 【🔴LIVE直播中】#郭正亮#帥化民#孫大千!蔣萬安氣勢抬頭 郭正亮驚爆!納坦幾倒台了 高市憂遭冷遇!黃仁勳色戒 掀中美晶片較勁! | 張雅婷辣晚報20261110完整版 @中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=iCzcVLZ6VT8&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 🔴【LIVE】#TVBS政經說　政論24小時互動直播／黃仁勳坦承婚外情！對妻子不忠「深感抱歉」　輝達展開調查！內部信認不忠全文曝光：我承擔全部責任　#新聞大白話 #少康戰情室 #國民大會 #國民開小會" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴【LIVE】#TVBS政經說　政論24小時互動直播／黃仁勳坦承婚外情！對妻子不忠「深感抱歉」　輝達展開調查！內部信認不忠全文曝光：我承擔全部責任　#新聞大白話 #少康戰情室 #國民大會 #國民開小會.png" group-title="youtube",youtube [LIVE] 🔴【LIVE】#TVBS政經說　政論24小時互動直播／黃仁勳坦承婚外情！對妻子不忠「深感抱歉」　輝達展開調查！內部信認不忠全文曝光：我承擔全部責任　#新聞大白話 #少康戰情室 #國民大會 #國民開小會
 http://ncncha.cloudns.ch:9977/play?id=Cb5MRzy0aiQ&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] 《全程字幕》少了他!美國科技地動山搖 董事長:黃仁勳的重要性超乎你我想像 他影響的是下個世代的AI科技產業" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 《全程字幕》少了他!美國科技地動山搖 董事長:黃仁勳的重要性超乎你我想像 他影響的是下個世代的AI科技產業.png" group-title="youtube",youtube [VOD] 《全程字幕》少了他!美國科技地動山搖 董事長:黃仁勳的重要性超乎你我想像 他影響的是下個世代的AI科技產業
-http://ncncha.cloudns.ch:9977/play?id=Oue1pb74ImM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】川普訪中前國務卿盧比歐曾示警　黃仁勳認了婚外情早有情資？#少康戰情室 20261109" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】川普訪中前國務卿盧比歐曾示警　黃仁勳認了婚外情早有情資？#少康戰情室 20261109.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】川普訪中前國務卿盧比歐曾示警　黃仁勳認了婚外情早有情資？#少康戰情室 20261109
-http://ncncha.cloudns.ch:9977/play?id=Z_jiyBgPqOE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#精選】黃仁勳認了「對妻子不忠」！美女間諜疑雲「輝達董事會急查國安」栗正傑驚呼：比007電影還精彩？！【#新聞大白話】#栗正傑 #黃仁勳 #黃樂" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#精選】黃仁勳認了「對妻子不忠」！美女間諜疑雲「輝達董事會急查國安」栗正傑驚呼：比007電影還精彩？！【#新聞大白話】#栗正傑 #黃仁勳 #黃樂.png" group-title="youtube",youtube [VOD] 【#精選】黃仁勳認了「對妻子不忠」！美女間諜疑雲「輝達董事會急查國安」栗正傑驚呼：比007電影還精彩？！【#新聞大白話】#栗正傑 #黃仁勳 #黃樂
-http://ncncha.cloudns.ch:9977/play?id=eXRsvuJl9SA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】美防長主動訪中國？中俄美日戰爭邊緣？【#新聞大白話】20261109 #美防長 #中國 #中俄美日 #戰爭邊緣" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】美防長主動訪中國？中俄美日戰爭邊緣？【#新聞大白話】20261109 #美防長 #中國 #中俄美日 #戰爭邊緣.png" group-title="youtube",youtube [VOD] 【SUB】美防長主動訪中國？中俄美日戰爭邊緣？【#新聞大白話】20261109 #美防長 #中國 #中俄美日 #戰爭邊緣
-http://ncncha.cloudns.ch:9977/play?id=u8kKqDusJZk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】高市這臉面掛不住？黃仁勳出軌扯中國【#新聞大白話】20261109 #字幕版 #高市 #黃仁勳 #出軌" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】高市這臉面掛不住？黃仁勳出軌扯中國【#新聞大白話】20261109 #字幕版 #高市 #黃仁勳 #出軌.png" group-title="youtube",youtube [VOD] 【SUB】高市這臉面掛不住？黃仁勳出軌扯中國【#新聞大白話】20261109 #字幕版 #高市 #黃仁勳 #出軌
-http://ncncha.cloudns.ch:9977/play?id=-9INVa5i1KQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】黃仁勳婚外情疑涉陸間諜 川普仍力挺他應繼續掌舵輝達？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】黃仁勳婚外情疑涉陸間諜 川普仍力挺他應繼續掌舵輝達？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君.png" group-title="youtube",youtube [VOD] 【完整版上集】黃仁勳婚外情疑涉陸間諜 川普仍力挺他應繼續掌舵輝達？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君
-http://ncncha.cloudns.ch:9977/play?id=1eFdwCfEmUU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】曹興誠：蔣萬安依附中共的邪靈 火力全開助攻撕破洋流假面？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】曹興誠：蔣萬安依附中共的邪靈 火力全開助攻撕破洋流假面？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君.png" group-title="youtube",youtube [VOD] 【完整版下集】曹興誠：蔣萬安依附中共的邪靈 火力全開助攻撕破洋流假面？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君
-http://ncncha.cloudns.ch:9977/play?id=C9ps6IHYui8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】網把黃仁勳婚外情算蔣萬安的帳 羅智強酸難怪洋流那麼多翻車？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】網把黃仁勳婚外情算蔣萬安的帳 羅智強酸難怪洋流那麼多翻車？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君.png" group-title="youtube",youtube [VOD] 【完整版中集】網把黃仁勳婚外情算蔣萬安的帳 羅智強酸難怪洋流那麼多翻車？  #少康戰情室 20261109 #高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君
-http://ncncha.cloudns.ch:9977/play?id=jRhZ7brLIkQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】北市長最後決戰 蔣萬安如何不敗?｜洋流發酵太早 驚傳開始退潮了?｜20261109｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】北市長最後決戰 蔣萬安如何不敗?｜洋流發酵太早 驚傳開始退潮了?｜20261109｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】北市長最後決戰 蔣萬安如何不敗?｜洋流發酵太早 驚傳開始退潮了?｜20261109｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=-m8n0wFRaDE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】川普鐵門封伊朗 以軍下令毀滅令｜川普面臨死局 驚傳求助北京｜20261109｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】川普鐵門封伊朗 以軍下令毀滅令｜川普面臨死局 驚傳求助北京｜20261109｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】川普鐵門封伊朗 以軍下令毀滅令｜川普面臨死局 驚傳求助北京｜20261109｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=O0LFckaVLfU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】民主黨秋後算帳 追殺赫格塞斯3人｜高市誠信破產 抓包4次改口｜20261109｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】民主黨秋後算帳 追殺赫格塞斯3人｜高市誠信破產 抓包4次改口｜20261109｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】民主黨秋後算帳 追殺赫格塞斯3人｜高市誠信破產 抓包4次改口｜20261109｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=HK3dM3qXL6E&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】美軍噩夢成真 福建艦震撼一幕｜納坦下台定了! 終極逆襲也沒用｜20261109｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】美軍噩夢成真 福建艦震撼一幕｜納坦下台定了! 終極逆襲也沒用｜20261109｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】美軍噩夢成真 福建艦震撼一幕｜納坦下台定了! 終極逆襲也沒用｜20261109｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=jUQGaioHmKU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 中方回應黃仁勳婚外情事件 馬斯克稱他對美國無可取代【#新聞大白話】20261109-11│#郭正亮 #苑舉正 #張延廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 中方回應黃仁勳婚外情事件 馬斯克稱他對美國無可取代【#新聞大白話】20261109-11│#郭正亮 #苑舉正 #張延廷.png" group-title="youtube",youtube [VOD] 中方回應黃仁勳婚外情事件 馬斯克稱他對美國無可取代【#新聞大白話】20261109-11│#郭正亮 #苑舉正 #張延廷
-http://ncncha.cloudns.ch:9977/play?id=HTpUz283WD8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 丹麥焦點球賽看台變“煙霧戰場”❓“火藥味”十足❗️極端球迷大量燃放煙火逼停比賽🤯 #鳳凰衛視 #丹麥 #足球 #球迷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 丹麥焦點球賽看台變“煙霧戰場”❓“火藥味”十足❗️極端球迷大量燃放煙火逼停比賽🤯 #鳳凰衛視 #丹麥 #足球 #球迷.png" group-title="youtube",youtube [VOD] 丹麥焦點球賽看台變“煙霧戰場”❓“火藥味”十足❗️極端球迷大量燃放煙火逼停比賽🤯 #鳳凰衛視 #丹麥 #足球 #球迷
-http://ncncha.cloudns.ch:9977/play?id=VAp-OW_Lza4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】曹興誠扯邪靈、廖玉蕙造謠　抹黑、用猜的映照洋流真面目？#少康戰情室 20261110" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】曹興誠扯邪靈、廖玉蕙造謠　抹黑、用猜的映照洋流真面目？#少康戰情室 20261110.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】曹興誠扯邪靈、廖玉蕙造謠　抹黑、用猜的映照洋流真面目？#少康戰情室 20261110
+http://ncncha.cloudns.ch:9977/play?id=kfyq5GzWxMU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【戰情日報】唇槍舌戰！賴士葆舉中天關台為例　批3家電視台「播沈伯洋比例大過蔣萬安」 @tvbssituationroom" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【戰情日報】唇槍舌戰！賴士葆舉中天關台為例　批3家電視台「播沈伯洋比例大過蔣萬安」 @tvbssituationroom.png" group-title="youtube",youtube [VOD] 【戰情日報】唇槍舌戰！賴士葆舉中天關台為例　批3家電視台「播沈伯洋比例大過蔣萬安」 @tvbssituationroom
+http://ncncha.cloudns.ch:9977/play?id=UvHHcfCXiKQ&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】黃仁勳外遇女間諜掀國安風暴 最重恐坐牢40年｜大咖牽線黃樂? 與黃仁勳20年交情供應商? 20261110" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】黃仁勳外遇女間諜掀國安風暴 最重恐坐牢40年｜大咖牽線黃樂? 與黃仁勳20年交情供應商? 20261110.png" group-title="youtube",youtube [VOD] 【每日必看】黃仁勳外遇女間諜掀國安風暴 最重恐坐牢40年｜大咖牽線黃樂? 與黃仁勳20年交情供應商? 20261110
+http://ncncha.cloudns.ch:9977/play?id=rkBpMrDr84M&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【🔴LIVE直播中】#郭正亮#帥化民#孫大千!蔣萬安氣勢抬頭 郭正亮驚爆!納坦幾倒台了 高市憂遭冷遇!黃仁勳色戒 掀中美晶片較勁! | 張雅婷辣晚報20261110完整版 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【🔴LIVE直播中】#郭正亮#帥化民#孫大千!蔣萬安氣勢抬頭 郭正亮驚爆!納坦幾倒台了 高市憂遭冷遇!黃仁勳色戒 掀中美晶片較勁! | 張雅婷辣晚報20261110完整版 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【🔴LIVE直播中】#郭正亮#帥化民#孫大千!蔣萬安氣勢抬頭 郭正亮驚爆!納坦幾倒台了 高市憂遭冷遇!黃仁勳色戒 掀中美晶片較勁! | 張雅婷辣晚報20261110完整版 @中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=iCzcVLZ6VT8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 中國用實力跟美説話立規矩？高市去深圳APEC心裏直發毛【#新聞大白話】20261110-6│#張延廷 #賴岳謙 #苑舉正" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 中國用實力跟美説話立規矩？高市去深圳APEC心裏直發毛【#新聞大白話】20261110-6│#張延廷 #賴岳謙 #苑舉正.png" group-title="youtube",youtube [VOD] 中國用實力跟美説話立規矩？高市去深圳APEC心裏直發毛【#新聞大白話】20261110-6│#張延廷 #賴岳謙 #苑舉正
+http://ncncha.cloudns.ch:9977/play?id=8ma9hjcTCac&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 傳統文化也能很潮！LIVERSE音宇宙CEO彭博倫談南沙音樂新願景：讓本土音樂人走向世界！現場演出不只是表演 更是一種生活方式 #鳳凰衛視 #費加羅風尚盛典 #LIVERSE費加羅風格主角 #廣州南沙" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 傳統文化也能很潮！LIVERSE音宇宙CEO彭博倫談南沙音樂新願景：讓本土音樂人走向世界！現場演出不只是表演 更是一種生活方式 #鳳凰衛視 #費加羅風尚盛典 #LIVERSE費加羅風格主角 #廣州南沙.png" group-title="youtube",youtube [VOD] 傳統文化也能很潮！LIVERSE音宇宙CEO彭博倫談南沙音樂新願景：讓本土音樂人走向世界！現場演出不只是表演 更是一種生活方式 #鳳凰衛視 #費加羅風尚盛典 #LIVERSE費加羅風格主角 #廣州南沙
 http://ncncha.cloudns.ch:9977/play?id=wSVKwV6GEuU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 內塔尼亞胡面臨下台❓以總統正式授權埃森科特組建新政府 特朗普：埃森科特超喜歡我🤩❗️ #鳳凰衛視  #以色列 #埃森科特 #內塔尼亞胡" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 內塔尼亞胡面臨下台❓以總統正式授權埃森科特組建新政府 特朗普：埃森科特超喜歡我🤩❗️ #鳳凰衛視  #以色列 #埃森科特 #內塔尼亞胡.png" group-title="youtube",youtube [VOD] 內塔尼亞胡面臨下台❓以總統正式授權埃森科特組建新政府 特朗普：埃森科特超喜歡我🤩❗️ #鳳凰衛視  #以色列 #埃森科特 #內塔尼亞胡
-http://ncncha.cloudns.ch:9977/play?id=yiaetkFokVs&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 專題短片｜《碳基的幸福生活》“老去篇”！醫學專家畫下“人生老去曲線”：老去不可怕 心態年輕是最好的抗老 #鳳凰衛視 #碳基的幸福生活" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 專題短片｜《碳基的幸福生活》“老去篇”！醫學專家畫下“人生老去曲線”：老去不可怕 心態年輕是最好的抗老 #鳳凰衛視 #碳基的幸福生活.png" group-title="youtube",youtube [VOD] 專題短片｜《碳基的幸福生活》“老去篇”！醫學專家畫下“人生老去曲線”：老去不可怕 心態年輕是最好的抗老 #鳳凰衛視 #碳基的幸福生活
-http://ncncha.cloudns.ch:9977/play?id=bPdtD3iC3_c&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜以色列變天倒數！埃森科特獲67席支持受命組閣 內塔尼亞胡下台警報響！換人對伊朗照樣強硬？特朗普突喊砍40億美元援助 萬斯將中選慘敗歸咎美以關係：鐵盟友要翻臉？｜20261109 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜以色列變天倒數！埃森科特獲67席支持受命組閣 內塔尼亞胡下台警報響！換人對伊朗照樣強硬？特朗普突喊砍40億美元援助 萬斯將中選慘敗歸咎美以關係：鐵盟友要翻臉？｜20261109 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜以色列變天倒數！埃森科特獲67席支持受命組閣 內塔尼亞胡下台警報響！換人對伊朗照樣強硬？特朗普突喊砍40億美元援助 萬斯將中選慘敗歸咎美以關係：鐵盟友要翻臉？｜20261109 #鳳凰衛視
-http://ncncha.cloudns.ch:9977/play?id=DZtp8q9b3wA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 菲防長把中國當成大號越南？日本尋求中國保證善待高市？【#新聞大白話】20261109-12│#郭正亮 #苑舉正 #張延廷" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 菲防長把中國當成大號越南？日本尋求中國保證善待高市？【#新聞大白話】20261109-12│#郭正亮 #苑舉正 #張延廷.png" group-title="youtube",youtube [VOD] 菲防長把中國當成大號越南？日本尋求中國保證善待高市？【#新聞大白話】20261109-12│#郭正亮 #苑舉正 #張延廷
-http://ncncha.cloudns.ch:9977/play?id=j8YSVSAgfOU&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 陳見賢公開挺邱臣遠、徐欣瑩與柯媽同台 竹北藍白合作露曙光？ #今日精華搶先看】少康戰情室 20261109｜#高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 陳見賢公開挺邱臣遠、徐欣瑩與柯媽同台 竹北藍白合作露曙光？ #今日精華搶先看】少康戰情室 20261109｜#高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君.png" group-title="youtube",youtube [VOD] 陳見賢公開挺邱臣遠、徐欣瑩與柯媽同台 竹北藍白合作露曙光？ #今日精華搶先看】少康戰情室 20261109｜#高嘉瑜 #陳世軒 #尹乃菁 #賴士葆 #李永萍 #鍾沛君
-http://ncncha.cloudns.ch:9977/play?id=49ykLDwitJI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 黃仁勳婚外情共諜疑雲甩給蔣萬安?! 冰哥嗆小水滴不敢:有膽叫輝達不要來台北 三流網紅也能查小三背景?!謝寒冰:當FBI死了?!" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 黃仁勳婚外情共諜疑雲甩給蔣萬安?! 冰哥嗆小水滴不敢:有膽叫輝達不要來台北 三流網紅也能查小三背景?!謝寒冰:當FBI死了?!.png" group-title="youtube",youtube [VOD] 黃仁勳婚外情共諜疑雲甩給蔣萬安?! 冰哥嗆小水滴不敢:有膽叫輝達不要來台北 三流網紅也能查小三背景?!謝寒冰:當FBI死了?!
-http://ncncha.cloudns.ch:9977/play?id=4h76_rX7Dik&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 黃仁勳陷風波「與黃樂有浪漫關係」？！外媒憂「恐落入共諜美人計」2025高調曬用餐、進輝達合照！【#黃仁勳婚外情】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 黃仁勳陷風波「與黃樂有浪漫關係」？！外媒憂「恐落入共諜美人計」2025高調曬用餐、進輝達合照！【#黃仁勳婚外情】.png" group-title="youtube",youtube [VOD] 黃仁勳陷風波「與黃樂有浪漫關係」？！外媒憂「恐落入共諜美人計」2025高調曬用餐、進輝達合照！【#黃仁勳婚外情】
-http://ncncha.cloudns.ch:9977/play?id=-_grZCftzIE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 黃仁勳陷風波「與黃樂有浪漫關係」？！外媒憂「恐落入共諜美人計」2025高調曬用餐、進輝達合照！【#黃仁勳婚外情】" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 黃仁勳陷風波「與黃樂有浪漫關係」？！外媒憂「恐落入共諜美人計」2025高調曬用餐、進輝達合照！【#黃仁勳婚外情】.png" group-title="youtube",youtube [VOD] 黃仁勳陷風波「與黃樂有浪漫關係」？！外媒憂「恐落入共諜美人計」2025高調曬用餐、進輝達合照！【#黃仁勳婚外情】
-http://ncncha.cloudns.ch:9977/play?id=el2tF7wLWbE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 基隆市長辯論 謝國樑突放空沉默6秒漏提問! 童子瑋被Cue回答「滿臉問號」提醒｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 基隆市長辯論 謝國樑突放空沉默6秒漏提問! 童子瑋被Cue回答「滿臉問號」提醒｜TVBS新聞.png" group-title="youtube",youtube [VOD] 基隆市長辯論 謝國樑突放空沉默6秒漏提問! 童子瑋被Cue回答「滿臉問號」提醒｜TVBS新聞
+http://ncncha.cloudns.ch:9977/play?id=b0hfZvMrF3M&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 基隆市長辯論 謝國樑突放空沉默6秒漏提問! 童子瑋被Cue回答「滿臉問號」提醒｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 基隆市長辯論 謝國樑突放空沉默6秒漏提問! 童子瑋被Cue回答「滿臉問號」提醒｜TVBS新聞.png" group-title="youtube",youtube [VOD] 基隆市長辯論 謝國樑突放空沉默6秒漏提問! 童子瑋被Cue回答「滿臉問號」提醒｜TVBS新聞
+http://ncncha.cloudns.ch:9977/play?id=9S_CWp8aYIo&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 基隆市長辯論落幕!童子瑋批"塑造政敵”謝國樑反嗆:是他在摧毀政敵!“是我被罷免 不是他被罷免"#shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 基隆市長辯論落幕!童子瑋批"塑造政敵”謝國樑反嗆:是他在摧毀政敵!“是我被罷免 不是他被罷免"#shorts.png" group-title="youtube",youtube [VOD] 基隆市長辯論落幕!童子瑋批"塑造政敵”謝國樑反嗆:是他在摧毀政敵!“是我被罷免 不是他被罷免"#shorts
+http://ncncha.cloudns.ch:9977/play?id=gT4kfiM1f9E&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜高市早苗押上國運備戰？美日印澳反潛軍演 劍指中國！日擬砸80萬億備長期戰 美核武恐重返沖繩？擴軍又減稅 石破茂提前離席、自民黨爆內鬨：高市“貧國強兵”撐得住？｜20261110 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜高市早苗押上國運備戰？美日印澳反潛軍演 劍指中國！日擬砸80萬億備長期戰 美核武恐重返沖繩？擴軍又減稅 石破茂提前離席、自民黨爆內鬨：高市“貧國強兵”撐得住？｜20261110 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜高市早苗押上國運備戰？美日印澳反潛軍演 劍指中國！日擬砸80萬億備長期戰 美核武恐重返沖繩？擴軍又減稅 石破茂提前離席、自民黨爆內鬨：高市“貧國強兵”撐得住？｜20261110 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=KfHr4Rmm8xY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 昨天light今天我cow沈伯洋受訪疑翻白眼 不耐煩?網友辣評:暖男快演不下去#shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 昨天light今天我cow沈伯洋受訪疑翻白眼 不耐煩?網友辣評:暖男快演不下去#shorts.png" group-title="youtube",youtube [VOD] 昨天light今天我cow沈伯洋受訪疑翻白眼 不耐煩?網友辣評:暖男快演不下去#shorts
+http://ncncha.cloudns.ch:9977/play?id=XWEJCELCr_Y&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 時事三對論｜特朗普輸掉國會、美國AI也要“陪葬”？能源消耗引爆民怨、科技巨頭淪政治靶子、民主黨醞釀更嚴監管！陳景祥：不限制失民心 限制AI又恐輸給中國！｜20261110 #鳳凰衛視 #粵語" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事三對論｜特朗普輸掉國會、美國AI也要“陪葬”？能源消耗引爆民怨、科技巨頭淪政治靶子、民主黨醞釀更嚴監管！陳景祥：不限制失民心 限制AI又恐輸給中國！｜20261110 #鳳凰衛視 #粵語.png" group-title="youtube",youtube [VOD] 時事三對論｜特朗普輸掉國會、美國AI也要“陪葬”？能源消耗引爆民怨、科技巨頭淪政治靶子、民主黨醞釀更嚴監管！陳景祥：不限制失民心 限制AI又恐輸給中國！｜20261110 #鳳凰衛視 #粵語
+http://ncncha.cloudns.ch:9977/play?id=LQsfV0I_U9Y&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜特朗普突喊伊朗戰爭已結束！許楨揭驚人內幕：美國中選非關鍵 以色列變天才是轉折！埃森科特組閣在即、內塔尼亞胡恐出局 白宮更沒理由再轟德黑蘭：特朗普終於找到下台階？｜20261110#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜特朗普突喊伊朗戰爭已結束！許楨揭驚人內幕：美國中選非關鍵 以色列變天才是轉折！埃森科特組閣在即、內塔尼亞胡恐出局 白宮更沒理由再轟德黑蘭：特朗普終於找到下台階？｜20261110#鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜特朗普突喊伊朗戰爭已結束！許楨揭驚人內幕：美國中選非關鍵 以色列變天才是轉折！埃森科特組閣在即、內塔尼亞胡恐出局 白宮更沒理由再轟德黑蘭：特朗普終於找到下台階？｜20261110#鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=9tyDTljhEZ8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 有報天天讀｜美防長赫格塞斯遭提8項彈劾！特朗普怒轟清算 力挺“勝仗功臣”｜美俄烏重啟談判 特朗普稱烏克蘭版圖或有變｜APEC前夕菲外交部罕見敲打鷹派防長 警告勿損對華政策｜20261110 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 有報天天讀｜美防長赫格塞斯遭提8項彈劾！特朗普怒轟清算 力挺“勝仗功臣”｜美俄烏重啟談判 特朗普稱烏克蘭版圖或有變｜APEC前夕菲外交部罕見敲打鷹派防長 警告勿損對華政策｜20261110 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 有報天天讀｜美防長赫格塞斯遭提8項彈劾！特朗普怒轟清算 力挺“勝仗功臣”｜美俄烏重啟談判 特朗普稱烏克蘭版圖或有變｜APEC前夕菲外交部罕見敲打鷹派防長 警告勿損對華政策｜20261110 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=96_a4zIYwQs&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 東風100試射給美軍看？黃仁勳讓輝達蒸發6兆！中國斥美方捕風捉影！高市赴APEC如坐針氈？陸特使抵中東美停戰？【#全球大白話】20261110 完整版 #東風100 #中國 #黃仁勳 #高市" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 東風100試射給美軍看？黃仁勳讓輝達蒸發6兆！中國斥美方捕風捉影！高市赴APEC如坐針氈？陸特使抵中東美停戰？【#全球大白話】20261110 完整版 #東風100 #中國 #黃仁勳 #高市.png" group-title="youtube",youtube [VOD] 東風100試射給美軍看？黃仁勳讓輝達蒸發6兆！中國斥美方捕風捉影！高市赴APEC如坐針氈？陸特使抵中東美停戰？【#全球大白話】20261110 完整版 #東風100 #中國 #黃仁勳 #高市
+http://ncncha.cloudns.ch:9977/play?id=fSJJ1mshoo0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 民視謝金河造謠史詩級翻車？沈伯洋流兩天四次民怨爆發？【#新聞大白話】20261109 #郭正亮 #黃揚明 #陳揮文" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 民視謝金河造謠史詩級翻車？沈伯洋流兩天四次民怨爆發？【#新聞大白話】20261109 #郭正亮 #黃揚明 #陳揮文.png" group-title="youtube",youtube [VOD] 民視謝金河造謠史詩級翻車？沈伯洋流兩天四次民怨爆發？【#新聞大白話】20261109 #郭正亮 #黃揚明 #陳揮文
+http://ncncha.cloudns.ch:9977/play?id=VehlIDe4Fnw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋對記者不耐煩罵我靠？民視謝金河廖玉蕙放送事故【#新聞大白話】20261110-7│#王鴻薇 #謝寒冰 #何景榮" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋對記者不耐煩罵我靠？民視謝金河廖玉蕙放送事故【#新聞大白話】20261110-7│#王鴻薇 #謝寒冰 #何景榮.png" group-title="youtube",youtube [VOD] 沈伯洋對記者不耐煩罵我靠？民視謝金河廖玉蕙放送事故【#新聞大白話】20261110-7│#王鴻薇 #謝寒冰 #何景榮
+http://ncncha.cloudns.ch:9977/play?id=B5bFbP0TbWw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 爆國軍莒光日看沈伯洋影片？！　陳世軒批「認知作戰」全場驚呼 #少康戰情室" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 爆國軍莒光日看沈伯洋影片？！　陳世軒批「認知作戰」全場驚呼 #少康戰情室.png" group-title="youtube",youtube [VOD] 爆國軍莒光日看沈伯洋影片？！　陳世軒批「認知作戰」全場驚呼 #少康戰情室
+http://ncncha.cloudns.ch:9977/play?id=J0YRQnyeNm8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 羅大佑嘆賴清德用X眼講話 斥民進黨是人民恐懼的來源【#新聞大白話】20261110-8│#王鴻薇 #謝寒冰 #何景榮" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 羅大佑嘆賴清德用X眼講話 斥民進黨是人民恐懼的來源【#新聞大白話】20261110-8│#王鴻薇 #謝寒冰 #何景榮.png" group-title="youtube",youtube [VOD] 羅大佑嘆賴清德用X眼講話 斥民進黨是人民恐懼的來源【#新聞大白話】20261110-8│#王鴻薇 #謝寒冰 #何景榮
+http://ncncha.cloudns.ch:9977/play?id=cHkZXNxyA1o&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 賴清德去宜蘭只為選舉罷免？青鳥要藏挺藍白爸媽身分證？【#新聞大白話】20261110-9│#王鴻薇 #謝寒冰 #何景榮" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 賴清德去宜蘭只為選舉罷免？青鳥要藏挺藍白爸媽身分證？【#新聞大白話】20261110-9│#王鴻薇 #謝寒冰 #何景榮.png" group-title="youtube",youtube [VOD] 賴清德去宜蘭只為選舉罷免？青鳥要藏挺藍白爸媽身分證？【#新聞大白話】20261110-9│#王鴻薇 #謝寒冰 #何景榮
+http://ncncha.cloudns.ch:9977/play?id=Z4cn6VXCzSU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 韓國瑜南投助講有感而發!嘆選舉充斥抹黑、造謠、攻擊#shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 韓國瑜南投助講有感而發!嘆選舉充斥抹黑、造謠、攻擊#shorts.png" group-title="youtube",youtube [VOD] 韓國瑜南投助講有感而發!嘆選舉充斥抹黑、造謠、攻擊#shorts
+http://ncncha.cloudns.ch:9977/play?id=LrwTuouFykI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 黃仁勳爆出軌醜聞  好友林百里如何看｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 黃仁勳爆出軌醜聞  好友林百里如何看｜LIVE.png" group-title="youtube",youtube [VOD] 黃仁勳爆出軌醜聞  好友林百里如何看｜LIVE
+http://ncncha.cloudns.ch:9977/play?id=fZiWBdERNCI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 點名"狂報導洋流"三家媒體比報蔣多43%!憑什麼報韓流關中天?#shorts" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 點名"狂報導洋流"三家媒體比報蔣多43%!憑什麼報韓流關中天?#shorts.png" group-title="youtube",youtube [VOD] 點名"狂報導洋流"三家媒體比報蔣多43%!憑什麼報韓流關中天?#shorts
+http://ncncha.cloudns.ch:9977/play?id=NJh58WwWGsY&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 🤩壓軸出場！費加羅盛典趙雅芝暗黑風造型亮相，網友：像黑天鵝公主！她真的美了一輩子！#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 🤩壓軸出場！費加羅盛典趙雅芝暗黑風造型亮相，網友：像黑天鵝公主！她真的美了一輩子！#鳳凰衛視.png" group-title="youtube",youtube [VOD] 🤩壓軸出場！費加羅盛典趙雅芝暗黑風造型亮相，網友：像黑天鵝公主！她真的美了一輩子！#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=ckoZE79j2kE&quality=360p
 #EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1
