@@ -102,23 +102,19 @@ http://219.150.217.47:6610/PLTV1/1060/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://42.92.117.151:8231/udp/239.255.30.50:8231
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.248.156.76:8889/udp/239.76.253.134:9000
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://118.248.156.76:8889/udp/239.76.246.134:1234
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.251.19.58:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://118.251.19.58:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.28.203:8188/udp/239.76.253.134:9000
+http://58.46.28.138:8188/udp/239.76.253.134:9000
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
-http://58.46.28.203:8188/udp/239.76.246.134:1234
+http://58.46.28.138:8188/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.51:5140
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="港澳频道",凤凰中文
 http://171.213.172.253:8123/udp/239.94.2.52:5140
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视.png" group-title="卫视频道",凤凰卫视
-http://110.178.145.98:8188/udp/239.1.1.126:8126
+http://110.178.145.243:8188/udp/239.1.1.126:8126
 #EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
 http://106.116.241.206:9999/rtp/239.254.201.2:5226
 #EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
@@ -126,21 +122,17 @@ http://106.116.241.206:9999/rtp/239.254.201.1:5214
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
 http://106.116.241.206:9999/rtp/239.254.201.3:5227
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://110.178.145.98:8188/udp/239.1.1.127:8127
+http://110.178.145.243:8188/udp/239.1.1.127:8127
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://42.92.117.151:8231/udp/239.255.30.70:8231
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.248.156.76:8889/udp/239.76.253.135:9000
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://118.248.156.76:8889/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.251.19.58:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://118.251.19.58:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.28.203:8188/udp/239.76.253.135:9000
+http://58.46.28.138:8188/udp/239.76.253.135:9000
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
-http://58.46.28.203:8188/udp/239.76.246.135:1234
+http://58.46.28.138:8188/udp/239.76.246.135:1234
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
 http://171.213.172.253:8123/udp/239.94.2.49:5140
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="港澳频道",凤凰资讯
@@ -159,58 +151,60 @@ http://ncncha.cloudns.ch:9977/play?id=798uBo4rvWA&quality=720p
 http://ncncha.cloudns.ch:9977/play?id=vr3XyVCR4T0&quality=720p
 #EXTINF:-1 tvg-name="youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平同巴基斯坦總統互致賀電｜特朗普稱對伊行動經費能撐到明年1月底｜駐日美軍開始常態部署新型F-15EX戰機｜24-hour live news｜24小时直播间#鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平同巴基斯坦總統互致賀電｜特朗普稱對伊行動經費能撐到明年1月底｜駐日美軍開始常態部署新型F-15EX戰機｜24-hour live news｜24小时直播间#鳳凰衛視.png" group-title="youtube",youtube [LIVE] 【鳳凰衛視#24小時直播間 】習近平同巴基斯坦總統互致賀電｜特朗普稱對伊行動經費能撐到明年1月底｜駐日美軍開始常態部署新型F-15EX戰機｜24-hour live news｜24小时直播间#鳳凰衛視
 http://ncncha.cloudns.ch:9977/play?id=Ry--eMIjYLQ&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 【🔴LIVE直播中】&quot;選前之夜&quot;陸空激戰明日投票&quot;藍綠決戰雙北&quot;｜&quot;選前直播可逾10點?&quot;中選會回應陸委會:&quot;小三通違政策原意&quot;不增班｜孫怡琳/林佩潔報新聞 20261127 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【🔴LIVE直播中】&quot;選前之夜&quot;陸空激戰明日投票&quot;藍綠決戰雙北&quot;｜&quot;選前直播可逾10點?&quot;中選會回應陸委會:&quot;小三通違政策原意&quot;不增班｜孫怡琳/林佩潔報新聞 20261127 @中天新聞CtiNews.png" group-title="youtube",youtube [LIVE] 【🔴LIVE直播中】&quot;選前之夜&quot;陸空激戰明日投票&quot;藍綠決戰雙北&quot;｜&quot;選前直播可逾10點?&quot;中選會回應陸委會:&quot;小三通違政策原意&quot;不增班｜孫怡琳/林佩潔報新聞 20261127 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=6B1OaF4ym44&quality=720p
-#EXTINF:-1 tvg-name="youtube [LIVE] 🔴【LIVE】#TVBS政經說　政論24小時互動直播／沈伯洋選前之夜不辦了！蔣萬安願讓27日市府路／不只索羅斯！翁曉玲再爆沈伯洋收1700萬「美援」#新聞大白話 #少康戰情室 #國民大會 #國民開小會" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 🔴【LIVE】#TVBS政經說　政論24小時互動直播／沈伯洋選前之夜不辦了！蔣萬安願讓27日市府路／不只索羅斯！翁曉玲再爆沈伯洋收1700萬「美援」#新聞大白話 #少康戰情室 #國民大會 #國民開小會.png" group-title="youtube",youtube [LIVE] 🔴【LIVE】#TVBS政經說　政論24小時互動直播／沈伯洋選前之夜不辦了！蔣萬安願讓27日市府路／不只索羅斯！翁曉玲再爆沈伯洋收1700萬「美援」#新聞大白話 #少康戰情室 #國民大會 #國民開小會
-http://ncncha.cloudns.ch:9977/play?id=Cb5MRzy0aiQ&quality=720p
-#EXTINF:-1 tvg-name="youtube [VOD] 「光榮台北 團結向前」蔣萬安港湖車掃安可場｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 「光榮台北 團結向前」蔣萬安港湖車掃安可場｜LIVE.png" group-title="youtube",youtube [VOD] 「光榮台北 團結向前」蔣萬安港湖車掃安可場｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=2AfAXgkJavo&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 「光榮台北 團結向前」蔣萬安港湖車掃安可場｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 「光榮台北 團結向前」蔣萬安港湖車掃安可場｜LIVE.png" group-title="youtube",youtube [VOD] 「光榮台北 團結向前」蔣萬安港湖車掃安可場｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=myYZDuUWGsw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【#完整版不間斷】沈伯洋宣布取消選前之夜　蔣萬安臉書被灌爆轟洗版大戰掀仇恨？ #少康戰情室 20261126" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【#完整版不間斷】沈伯洋宣布取消選前之夜　蔣萬安臉書被灌爆轟洗版大戰掀仇恨？ #少康戰情室 20261126.png" group-title="youtube",youtube [VOD] 【#完整版不間斷】沈伯洋宣布取消選前之夜　蔣萬安臉書被灌爆轟洗版大戰掀仇恨？ #少康戰情室 20261126
-http://ncncha.cloudns.ch:9977/play?id=v1Tz-gnLHp4&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【SUB】中美戰機正面衝突？整黃仁勳黑手現身？【#新聞大白話】20261126 #黃仁勳 #中美 #戰機" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【SUB】中美戰機正面衝突？整黃仁勳黑手現身？【#新聞大白話】20261126 #黃仁勳 #中美 #戰機.png" group-title="youtube",youtube [VOD] 【SUB】中美戰機正面衝突？整黃仁勳黑手現身？【#新聞大白話】20261126 #黃仁勳 #中美 #戰機
-http://ncncha.cloudns.ch:9977/play?id=OTmlvzFwXTI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】抓到了!秀鐵證:沈伯洋就是認知作戰專家  彭文正撂話:你們一個都跑不掉.. @truevoiceoftaiwan" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】抓到了!秀鐵證:沈伯洋就是認知作戰專家  彭文正撂話:你們一個都跑不掉.. @truevoiceoftaiwan.png" group-title="youtube",youtube [VOD] 【全程字幕】抓到了!秀鐵證:沈伯洋就是認知作戰專家  彭文正撂話:你們一個都跑不掉.. @truevoiceoftaiwan
-http://ncncha.cloudns.ch:9977/play?id=77BZYiBUPkI&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版上集】 AI教父下周赴國會被「拷問」　川普力保黃仁勳考慮特赦？#少康戰情室 20261126 #蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版上集】 AI教父下周赴國會被「拷問」　川普力保黃仁勳考慮特赦？#少康戰情室 20261126 #蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版上集】 AI教父下周赴國會被「拷問」　川普力保黃仁勳考慮特赦？#少康戰情室 20261126 #蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=G2-OaHWMUBQ&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版下集】 沈伯洋怨選前之夜場地被借走　忘記吳思瑤曾嗆對手搶輸下次請早？#少康戰情室 20261126 #蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版下集】 沈伯洋怨選前之夜場地被借走　忘記吳思瑤曾嗆對手搶輸下次請早？#少康戰情室 20261126 #蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版下集】 沈伯洋怨選前之夜場地被借走　忘記吳思瑤曾嗆對手搶輸下次請早？#少康戰情室 20261126 #蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=qfTuFW3Ce10&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【完整版中集】 選前3天境外介選引爆高雄戰火　柯志恩、賴瑞隆隔空互槓？ #少康戰情室 20261126#蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【完整版中集】 選前3天境外介選引爆高雄戰火　柯志恩、賴瑞隆隔空互槓？ #少康戰情室 20261126#蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之.png" group-title="youtube",youtube [VOD] 【完整版中集】 選前3天境外介選引爆高雄戰火　柯志恩、賴瑞隆隔空互槓？ #少康戰情室 20261126#蘭萱 #唐湘龍 #王鴻薇 #洪孟楷 #葉元之
-http://ncncha.cloudns.ch:9977/play?id=QRfWZ_Dzu78&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】外機90度 直衝領海線 殲16貼近逼退｜陳吉寧落馬上海跳板失靈21大布局震撼｜20261126｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】外機90度 直衝領海線 殲16貼近逼退｜陳吉寧落馬上海跳板失靈21大布局震撼｜20261126｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】外機90度 直衝領海線 殲16貼近逼退｜陳吉寧落馬上海跳板失靈21大布局震撼｜20261126｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=mU8wegD8uDg&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】戰火再升級?彈道飛彈炸基輔 普丁必報復｜義大利急了 烏戰火打到家門口｜20261126｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】戰火再升級?彈道飛彈炸基輔 普丁必報復｜義大利急了 烏戰火打到家門口｜20261126｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】戰火再升級?彈道飛彈炸基輔 普丁必報復｜義大利急了 烏戰火打到家門口｜20261126｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=-nAn9OXY7r8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】曹興誠讚沈「得到索羅斯贊助」是榮譽!網罵翻｜沈伯洋: 申請到多國研究經費是實力好｜20261126｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】曹興誠讚沈「得到索羅斯贊助」是榮譽!網罵翻｜沈伯洋: 申請到多國研究經費是實力好｜20261126｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】曹興誠讚沈「得到索羅斯贊助」是榮譽!網罵翻｜沈伯洋: 申請到多國研究經費是實力好｜20261126｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=jM_udsercsk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】毀滅黃仁動范斯挑明抓戰犯｜首位巴基斯坦航天員 登中國”天宮”意味什么?｜20261126｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】毀滅黃仁動范斯挑明抓戰犯｜首位巴基斯坦航天員 登中國”天宮”意味什么?｜20261126｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】毀滅黃仁動范斯挑明抓戰犯｜首位巴基斯坦航天員 登中國”天宮”意味什么?｜20261126｜辣晚報
-http://ncncha.cloudns.ch:9977/play?id=XA5fsm402Co&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 【🔴LIVE直播中】"選前之夜"陸空激戰明日投票"藍綠決戰雙北"｜"選前直播可逾10點?"中選會回應陸委會:"小三通違政策原意"不增班｜孫怡琳/林佩潔報新聞 20261127 @中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【🔴LIVE直播中】"選前之夜"陸空激戰明日投票"藍綠決戰雙北"｜"選前直播可逾10點?"中選會回應陸委會:"小三通違政策原意"不增班｜孫怡琳/林佩潔報新聞 20261127 @中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【🔴LIVE直播中】"選前之夜"陸空激戰明日投票"藍綠決戰雙北"｜"選前直播可逾10點?"中選會回應陸委會:"小三通違政策原意"不增班｜孫怡琳/林佩潔報新聞 20261127 @中天新聞CtiNews
-http://ncncha.cloudns.ch:9977/play?id=6B1OaF4ym44&quality=360p
+#EXTINF:-1 tvg-name="youtube [LIVE] 【🔴LIVE直播中】#郭正亮#陳鳳馨#介文汲!藍綠都喊拿5都 郭正亮大預言!韓國瑜來了 藍魂炸響蔣選前夜!高雄起風了!鄭喊2危急縣市! | 張雅婷辣晚報20261127完整版@中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 【🔴LIVE直播中】#郭正亮#陳鳳馨#介文汲!藍綠都喊拿5都 郭正亮大預言!韓國瑜來了 藍魂炸響蔣選前夜!高雄起風了!鄭喊2危急縣市! | 張雅婷辣晚報20261127完整版@中天新聞CtiNews.png" group-title="youtube",youtube [LIVE] 【🔴LIVE直播中】#郭正亮#陳鳳馨#介文汲!藍綠都喊拿5都 郭正亮大預言!韓國瑜來了 藍魂炸響蔣選前夜!高雄起風了!鄭喊2危急縣市! | 張雅婷辣晚報20261127完整版@中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=WrEYhAVJl84&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE.png" group-title="youtube",youtube [LIVE] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE
+http://ncncha.cloudns.ch:9977/play?id=RoFI76d8Ags&quality=720p
+#EXTINF:-1 tvg-name="youtube [LIVE] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [LIVE] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE.png" group-title="youtube",youtube [LIVE] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE
+http://ncncha.cloudns.ch:9977/play?id=Je_w7tcqlJw&quality=720p
+#EXTINF:-1 tvg-name="youtube [VOD] 19:00 【LIVE】1127 翻轉高雄・選好市長！柯志恩選前之夜 ｜高雄「輕軌夢時代站」旁空地" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 19:00 【LIVE】1127 翻轉高雄・選好市長！柯志恩選前之夜 ｜高雄「輕軌夢時代站」旁空地.png" group-title="youtube",youtube [VOD] 19:00 【LIVE】1127 翻轉高雄・選好市長！柯志恩選前之夜 ｜高雄「輕軌夢時代站」旁空地
+http://ncncha.cloudns.ch:9977/play?id=APaL0rIdCh8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 19:00【LIVE】1127 台北市長蔣萬安「光榮台北，團結向前」勝選之夜" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 19:00【LIVE】1127 台北市長蔣萬安「光榮台北，團結向前」勝選之夜.png" group-title="youtube",youtube [VOD] 19:00【LIVE】1127 台北市長蔣萬安「光榮台北，團結向前」勝選之夜
+http://ncncha.cloudns.ch:9977/play?id=gW7Rl7JlRP4&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【全程字幕】一人開戰全黨!女版館長網紅陳沂幹譙放話:我現在就是反民進黨!我就是要支持守護水庫的蔣萬安和謝龍介 @yi326326" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【全程字幕】一人開戰全黨!女版館長網紅陳沂幹譙放話:我現在就是反民進黨!我就是要支持守護水庫的蔣萬安和謝龍介 @yi326326.png" group-title="youtube",youtube [VOD] 【全程字幕】一人開戰全黨!女版館長網紅陳沂幹譙放話:我現在就是反民進黨!我就是要支持守護水庫的蔣萬安和謝龍介 @yi326326
+http://ncncha.cloudns.ch:9977/play?id=OkZJ7LQUYPY&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】北市府:早告知 交通衝擊 跟白晝之夜不能比｜沈伯洋選前之夜喊卡 郭正亮批苦肉計甩鍋蔣萬安｜20261127｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】北市府:早告知 交通衝擊 跟白晝之夜不能比｜沈伯洋選前之夜喊卡 郭正亮批苦肉計甩鍋蔣萬安｜20261127｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】北市府:早告知 交通衝擊 跟白晝之夜不能比｜沈伯洋選前之夜喊卡 郭正亮批苦肉計甩鍋蔣萬安｜20261127｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=ZvxSPokbXzI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】燕子.禿子 漢子將合體力挺! 蔣萬安選前之夜石舫亘壓軸｜謝龍介開戰 踢爆陳亭妃破口｜20261127｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】燕子.禿子 漢子將合體力挺! 蔣萬安選前之夜石舫亘壓軸｜謝龍介開戰 踢爆陳亭妃破口｜20261127｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】燕子.禿子 漢子將合體力挺! 蔣萬安選前之夜石舫亘壓軸｜謝龍介開戰 踢爆陳亭妃破口｜20261127｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=vb50yvCOd-s&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】蔡英文脱口 「沈伯洋應該是會當選啦」｜「統獨是假議題」沈玉琳大實話炸了｜20261127｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】蔡英文脱口 「沈伯洋應該是會當選啦」｜「統獨是假議題」沈玉琳大實話炸了｜20261127｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】蔡英文脱口 「沈伯洋應該是會當選啦」｜「統獨是假議題」沈玉琳大實話炸了｜20261127｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=pbCT7Oa7B2k&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【每日必看】藍綠都喊拿5都? 最終結局明天揭曉｜藍喊「5都+11縣」 目標竹縣宜蘭高雄有機會突破?｜20261127｜辣晚報" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【每日必看】藍綠都喊拿5都? 最終結局明天揭曉｜藍喊「5都+11縣」 目標竹縣宜蘭高雄有機會突破?｜20261127｜辣晚報.png" group-title="youtube",youtube [VOD] 【每日必看】藍綠都喊拿5都? 最終結局明天揭曉｜藍喊「5都+11縣」 目標竹縣宜蘭高雄有機會突破?｜20261127｜辣晚報
+http://ncncha.cloudns.ch:9977/play?id=j_czjbDRLPE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【選前之夜】韓國瑜選前之夜首站站台江啟臣 大讚立院三年表現.國際能力好 分享江貧苦人生能苦民所苦 #韓國瑜 #選前之夜 #國民黨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【選前之夜】韓國瑜選前之夜首站站台江啟臣 大讚立院三年表現.國際能力好 分享江貧苦人生能苦民所苦 #韓國瑜 #選前之夜 #國民黨.png" group-title="youtube",youtube [VOD] 【選前之夜】韓國瑜選前之夜首站站台江啟臣 大讚立院三年表現.國際能力好 分享江貧苦人生能苦民所苦 #韓國瑜 #選前之夜 #國民黨
+http://ncncha.cloudns.ch:9977/play?id=-gkclF2yaS0&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【選前之夜】韓國瑜選前之夜首站站台江啟臣 大讚立院三年表現.國際能力好 分享江貧苦人生能苦民所苦 #韓國瑜 #選前之夜 #國民黨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【選前之夜】韓國瑜選前之夜首站站台江啟臣 大讚立院三年表現.國際能力好 分享江貧苦人生能苦民所苦 #韓國瑜 #選前之夜 #國民黨.png" group-title="youtube",youtube [VOD] 【選前之夜】韓國瑜選前之夜首站站台江啟臣 大讚立院三年表現.國際能力好 分享江貧苦人生能苦民所苦 #韓國瑜 #選前之夜 #國民黨
+http://ncncha.cloudns.ch:9977/play?id=C0zhdXLBYhU&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 【🔴LIVE直播中】#郭正亮#陳鳳馨#介文汲!藍綠都喊拿5都 郭正亮大預言!韓國瑜來了 藍魂炸響蔣選前夜!高雄起風了!鄭喊2危急縣市! | 張雅婷辣晚報20261127完整版@中天新聞CtiNews" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 【🔴LIVE直播中】#郭正亮#陳鳳馨#介文汲!藍綠都喊拿5都 郭正亮大預言!韓國瑜來了 藍魂炸響蔣選前夜!高雄起風了!鄭喊2危急縣市! | 張雅婷辣晚報20261127完整版@中天新聞CtiNews.png" group-title="youtube",youtube [VOD] 【🔴LIVE直播中】#郭正亮#陳鳳馨#介文汲!藍綠都喊拿5都 郭正亮大預言!韓國瑜來了 藍魂炸響蔣選前夜!高雄起風了!鄭喊2危急縣市! | 張雅婷辣晚報20261127完整版@中天新聞CtiNews
+http://ncncha.cloudns.ch:9977/play?id=WrEYhAVJl84&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 央視首曝無偵-7巡航黃岩島！郭正亮點破美方「真正的看點是海空聯動」！【#全球大白話】分段精選｜#郭正亮 #解放軍 #黃岩島 #川普" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 央視首曝無偵-7巡航黃岩島！郭正亮點破美方「真正的看點是海空聯動」！【#全球大白話】分段精選｜#郭正亮 #解放軍 #黃岩島 #川普.png" group-title="youtube",youtube [VOD] 央視首曝無偵-7巡航黃岩島！郭正亮點破美方「真正的看點是海空聯動」！【#全球大白話】分段精選｜#郭正亮 #解放軍 #黃岩島 #川普
+http://ncncha.cloudns.ch:9977/play?id=m03kjbX0Gic&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 專題播客｜《碳基的幸福生活》“未來篇” 暢聊人類的下一種可能 #鳳凰衛視 #碳基的幸福生活" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 專題播客｜《碳基的幸福生活》“未來篇” 暢聊人類的下一種可能 #鳳凰衛視 #碳基的幸福生活.png" group-title="youtube",youtube [VOD] 專題播客｜《碳基的幸福生活》“未來篇” 暢聊人類的下一種可能 #鳳凰衛視 #碳基的幸福生活
 http://ncncha.cloudns.ch:9977/play?id=-VCrGdU5ga8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 巴駐華大使對齊尚阿里的中文水平很吃驚❓“好好學中文 萬一能上太空呢” 😁 #鳳凰衛視 #神舟24號 #巴基斯坦" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 巴駐華大使對齊尚阿里的中文水平很吃驚❓“好好學中文 萬一能上太空呢” 😁 #鳳凰衛視 #神舟24號 #巴基斯坦.png" group-title="youtube",youtube [VOD] 巴駐華大使對齊尚阿里的中文水平很吃驚❓“好好學中文 萬一能上太空呢” 😁 #鳳凰衛視 #神舟24號 #巴基斯坦
-http://ncncha.cloudns.ch:9977/play?id=qf30LMBtHWE&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜特朗普出手保帥恐引火燒身！黃仁勳閃電復職餘波未平 下周急赴國會迎兩場聽證！民主黨借題發揮 追查特朗普家族股票交易疑雲：科技巨頭慘淪兩黨角力籌碼？｜20261126 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜特朗普出手保帥恐引火燒身！黃仁勳閃電復職餘波未平 下周急赴國會迎兩場聽證！民主黨借題發揮 追查特朗普家族股票交易疑雲：科技巨頭慘淪兩黨角力籌碼？｜20261126 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜特朗普出手保帥恐引火燒身！黃仁勳閃電復職餘波未平 下周急赴國會迎兩場聽證！民主黨借題發揮 追查特朗普家族股票交易疑雲：科技巨頭慘淪兩黨角力籌碼？｜20261126 #鳳凰衛視
-http://ncncha.cloudns.ch:9977/play?id=PFCpW8v2q_8&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 格力一虎一席談｜黃仁勳回來了，AI股票就能止跌回升⁉️專家：泡沫是科技革命的必經之路❗#鳳凰衛視 #一虎一席談 #黃仁勳 #格力電器" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 格力一虎一席談｜黃仁勳回來了，AI股票就能止跌回升⁉️專家：泡沫是科技革命的必經之路❗#鳳凰衛視 #一虎一席談 #黃仁勳 #格力電器.png" group-title="youtube",youtube [VOD] 格力一虎一席談｜黃仁勳回來了，AI股票就能止跌回升⁉️專家：泡沫是科技革命的必經之路❗#鳳凰衛視 #一虎一席談 #黃仁勳 #格力電器
-http://ncncha.cloudns.ch:9977/play?id=Vtpc1mC7Y-M&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 民主黨轟川普「介入輝達案」重股價輕國安！馬斯克力挺黃仁勳嘆「逆境才是真朋友」！【#大白話說新聞】#馬斯克 #黃仁勳 #輝達 #民主黨" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 民主黨轟川普「介入輝達案」重股價輕國安！馬斯克力挺黃仁勳嘆「逆境才是真朋友」！【#大白話說新聞】#馬斯克 #黃仁勳 #輝達 #民主黨.png" group-title="youtube",youtube [VOD] 民主黨轟川普「介入輝達案」重股價輕國安！馬斯克力挺黃仁勳嘆「逆境才是真朋友」！【#大白話說新聞】#馬斯克 #黃仁勳 #輝達 #民主黨
-http://ncncha.cloudns.ch:9977/play?id=2KBMHOy2gMk&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋同框蔡英文直播  說明選前之夜安排｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋同框蔡英文直播  說明選前之夜安排｜LIVE.png" group-title="youtube",youtube [VOD] 沈伯洋同框蔡英文直播  說明選前之夜安排｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=x6huWeu0oEM&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋同框蔡英文直播  說明選前之夜安排｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋同框蔡英文直播  說明選前之夜安排｜LIVE.png" group-title="youtube",youtube [VOD] 沈伯洋同框蔡英文直播  說明選前之夜安排｜LIVE
-http://ncncha.cloudns.ch:9977/play?id=YrZR54pD7FA&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋稱「來不及搭舞台」急取消選前之夜！蔣萬安出招：禮讓開票夜路權【#大白話說新聞】#沈伯洋 #蔣萬安 #選前之夜 #路權" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋稱「來不及搭舞台」急取消選前之夜！蔣萬安出招：禮讓開票夜路權【#大白話說新聞】#沈伯洋 #蔣萬安 #選前之夜 #路權.png" group-title="youtube",youtube [VOD] 沈伯洋稱「來不及搭舞台」急取消選前之夜！蔣萬安出招：禮讓開票夜路權【#大白話說新聞】#沈伯洋 #蔣萬安 #選前之夜 #路權
-http://ncncha.cloudns.ch:9977/play?id=BmjJRooiQYc&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 現場火光沖天❗️埃及吉薩省一油罐車爆炸起火 造成27車被燒、31人死亡 #鳳凰衛視 #埃及 #火災" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場火光沖天❗️埃及吉薩省一油罐車爆炸起火 造成27車被燒、31人死亡 #鳳凰衛視 #埃及 #火災.png" group-title="youtube",youtube [VOD] 現場火光沖天❗️埃及吉薩省一油罐車爆炸起火 造成27車被燒、31人死亡 #鳳凰衛視 #埃及 #火災
-http://ncncha.cloudns.ch:9977/play?id=88qoiNq1i7w&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 新聞今日談｜內塔尼亞胡絕地翻盤？政敵埃森科特陣營爆內訌、組閣卡死：內塔三項罪名或全洗脫！突控伊朗研化武、反對派喊“先組閣”：看似對立實則暗搶開火權、明年1月伊朗在劫難逃？｜20261127 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 新聞今日談｜內塔尼亞胡絕地翻盤？政敵埃森科特陣營爆內訌、組閣卡死：內塔三項罪名或全洗脫！突控伊朗研化武、反對派喊“先組閣”：看似對立實則暗搶開火權、明年1月伊朗在劫難逃？｜20261127 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 新聞今日談｜內塔尼亞胡絕地翻盤？政敵埃森科特陣營爆內訌、組閣卡死：內塔三項罪名或全洗脫！突控伊朗研化武、反對派喊“先組閣”：看似對立實則暗搶開火權、明年1月伊朗在劫難逃？｜20261127 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=n-rU-PqmaA8&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 日本媒體曝高市完全自找的 為見川普搶著走40公分舷梯【#新聞大白話】20261127-12│#董智森 #賴岳謙 #方天賜" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 日本媒體曝高市完全自找的 為見川普搶著走40公分舷梯【#新聞大白話】20261127-12│#董智森 #賴岳謙 #方天賜.png" group-title="youtube",youtube [VOD] 日本媒體曝高市完全自找的 為見川普搶著走40公分舷梯【#新聞大白話】20261127-12│#董智森 #賴岳謙 #方天賜
+http://ncncha.cloudns.ch:9977/play?id=Id08RdUuMwI&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 時事大破解｜特朗普“關稅戰”捲土重來：對華最高40%！內政受壓著急立威、遏制中國科技再擴戰線：東南亞也成靶心？孔永樂揭關鍵稅差：美國想堵中企後路 反逼產能回流中國！｜20261127 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 時事大破解｜特朗普“關稅戰”捲土重來：對華最高40%！內政受壓著急立威、遏制中國科技再擴戰線：東南亞也成靶心？孔永樂揭關鍵稅差：美國想堵中企後路 反逼產能回流中國！｜20261127 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 時事大破解｜特朗普“關稅戰”捲土重來：對華最高40%！內政受壓著急立威、遏制中國科技再擴戰線：東南亞也成靶心？孔永樂揭關鍵稅差：美國想堵中企後路 反逼產能回流中國！｜20261127 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=vqBOAwq1Ruc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 普京赴美參加G20峰會❓ 特朗普回應：如果他想來 他當然可以來 #鳳凰衛視 #普京 #特朗普 #G20" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 普京赴美參加G20峰會❓ 特朗普回應：如果他想來 他當然可以來 #鳳凰衛視 #普京 #特朗普 #G20.png" group-title="youtube",youtube [VOD] 普京赴美參加G20峰會❓ 特朗普回應：如果他想來 他當然可以來 #鳳凰衛視 #普京 #特朗普 #G20
+http://ncncha.cloudns.ch:9977/play?id=ugg6YjRVttg&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 有報天天讀｜特朗普感恩節怒批政府！稱選前GDP失真 要求展開調查｜美批烏F-16維修軍售 4國出資6.22億美元｜馬斯克擬贈美兒童帳戶SpaceX股票 總值約180億美元｜20261127 #鳳凰衛視" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 有報天天讀｜特朗普感恩節怒批政府！稱選前GDP失真 要求展開調查｜美批烏F-16維修軍售 4國出資6.22億美元｜馬斯克擬贈美兒童帳戶SpaceX股票 總值約180億美元｜20261127 #鳳凰衛視.png" group-title="youtube",youtube [VOD] 有報天天讀｜特朗普感恩節怒批政府！稱選前GDP失真 要求展開調查｜美批烏F-16維修軍售 4國出資6.22億美元｜馬斯克擬贈美兒童帳戶SpaceX股票 總值約180億美元｜20261127 #鳳凰衛視
+http://ncncha.cloudns.ch:9977/play?id=O9uEYnVBRWc&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE.png" group-title="youtube",youtube [VOD] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE
+http://ncncha.cloudns.ch:9977/play?id=RoFI76d8Ags&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE.png" group-title="youtube",youtube [VOD] 沈伯洋選前之夜直播  點亮北市星星地圖｜LIVE
+http://ncncha.cloudns.ch:9977/play?id=Je_w7tcqlJw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 現場喊蔣萬安選前之夜破五萬人　盧秀燕：拒喝光電水！出來投就會贏！【#2026九合一大選】#蔣萬安 #選前之夜 #盧秀燕" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場喊蔣萬安選前之夜破五萬人　盧秀燕：拒喝光電水！出來投就會贏！【#2026九合一大選】#蔣萬安 #選前之夜 #盧秀燕.png" group-title="youtube",youtube [VOD] 現場喊蔣萬安選前之夜破五萬人　盧秀燕：拒喝光電水！出來投就會贏！【#2026九合一大選】#蔣萬安 #選前之夜 #盧秀燕
+http://ncncha.cloudns.ch:9977/play?id=VzqbRygo7nw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 現場喊蔣萬安選前之夜破五萬人　盧秀燕：拒喝光電水！出來投就會贏！【#2026九合一大選】#蔣萬安 #選前之夜 #盧秀燕" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 現場喊蔣萬安選前之夜破五萬人　盧秀燕：拒喝光電水！出來投就會贏！【#2026九合一大選】#蔣萬安 #選前之夜 #盧秀燕.png" group-title="youtube",youtube [VOD] 現場喊蔣萬安選前之夜破五萬人　盧秀燕：拒喝光電水！出來投就會贏！【#2026九合一大選】#蔣萬安 #選前之夜 #盧秀燕
+http://ncncha.cloudns.ch:9977/play?id=1zWoh0miLGA&quality=360p
 #EXTINF:-1 tvg-name="youtube [VOD] 肖耿：中國企業競爭力“天下第一”❗️但出海不能只賣產品 #鳳凰衛視 #鳳凰行天下" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 肖耿：中國企業競爭力“天下第一”❗️但出海不能只賣產品 #鳳凰衛視 #鳳凰行天下.png" group-title="youtube",youtube [VOD] 肖耿：中國企業競爭力“天下第一”❗️但出海不能只賣產品 #鳳凰衛視 #鳳凰行天下
 http://ncncha.cloudns.ch:9977/play?id=vkXlfYbINjw&quality=360p
-#EXTINF:-1 tvg-name="youtube [VOD] 週六投票日「全台降溫」北部下探16度！綿綿陰雨再一天「週五熱到快30度」！【#大白話說新聞】#天氣 #投票日 #降雨 #日夜溫差" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 週六投票日「全台降溫」北部下探16度！綿綿陰雨再一天「週五熱到快30度」！【#大白話說新聞】#天氣 #投票日 #降雨 #日夜溫差.png" group-title="youtube",youtube [VOD] 週六投票日「全台降溫」北部下探16度！綿綿陰雨再一天「週五熱到快30度」！【#大白話說新聞】#天氣 #投票日 #降雨 #日夜溫差
-http://ncncha.cloudns.ch:9977/play?id=ARajlX8ihOE&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 謝龍介赴南檢告發烏山頭光電案! 選前之夜再攻光電板題怒問:難道台南是二等公民嗎? 陳亭妃反攻老農津貼:已質詢7次但遭遇在野阻擋擱置｜【政治懶人包】｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 謝龍介赴南檢告發烏山頭光電案! 選前之夜再攻光電板題怒問:難道台南是二等公民嗎? 陳亭妃反攻老農津貼:已質詢7次但遭遇在野阻擋擱置｜【政治懶人包】｜TVBS新聞.png" group-title="youtube",youtube [VOD] 謝龍介赴南檢告發烏山頭光電案! 選前之夜再攻光電板題怒問:難道台南是二等公民嗎? 陳亭妃反攻老農津貼:已質詢7次但遭遇在野阻擋擱置｜【政治懶人包】｜TVBS新聞
+http://ncncha.cloudns.ch:9977/play?id=4GcDZcnJdOw&quality=360p
+#EXTINF:-1 tvg-name="youtube [VOD] 黃國昌喊話台南鄉親問綠1個問題! 直指台南市長關鍵:要有勇氣為台南利益與賴清德說不 趙少康再談光電板:不管什麼黨派「水最重要」｜【政治懶人包】｜TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/youtube [VOD] 黃國昌喊話台南鄉親問綠1個問題! 直指台南市長關鍵:要有勇氣為台南利益與賴清德說不 趙少康再談光電板:不管什麼黨派「水最重要」｜【政治懶人包】｜TVBS新聞.png" group-title="youtube",youtube [VOD] 黃國昌喊話台南鄉親問綠1個問題! 直指台南市長關鍵:要有勇氣為台南利益與賴清德說不 趙少康再談光電板:不管什麼黨派「水最重要」｜【政治懶人包】｜TVBS新聞
+http://ncncha.cloudns.ch:9977/play?id=35_pdn7rouA&quality=360p
 #EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-1
 http://192.168.10.193:8123/TVOD/3000000001000005308.m3u8?token=itv
 #EXTINF:-1 tvg-name="tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-10" tvg-logo="https://live.fanmingming.cn/tv/tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-10.png" group-title="河南频道",tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪咕视频-10
